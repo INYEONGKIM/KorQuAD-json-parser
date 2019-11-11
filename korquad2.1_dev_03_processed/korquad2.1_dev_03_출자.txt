@@ -1,0 +1,5 @@
+categories:
+- 출자
+conversations:
+- - 회사의 재무 구조 중 자산에서 부채를 뺀 항목을 뭐라고 해?
+  - 자본

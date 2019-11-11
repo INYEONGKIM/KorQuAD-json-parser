@@ -1,0 +1,11 @@
+categories:
+- 2008년_한국프로야구_포스트시즌
+conversations:
+- - 2008년 한국프로야구 포스트시즌의 준 플레이오프에서 삼성과 롯데는 어떤 경기 결과를 내었는가?
+  - <table>\n<tbody><tr>\n<td><b>팀</b>\n</td>\n<td><b>1</b>\n</td>\n<td><b>2</b>\n</td>\n<td><b>3</b>\n</td>\n<td><b>4</b>\n</td>\n<td><b>5</b>\n</td>\n<td><b>6</b>\n</td>\n<td><b>7</b>\n</td>\n<td><b>8</b>\n</td>\n<td><b>9</b>\n</td>\n<td><b>R</b>\n</td>\n<td><b>H</b>\n</td>\n<td><b>E</b>\n</td>\n<td><b>B</b>\n</td></tr>\n<tr>\n<td><a>삼성 라이온즈</a> ◄\n</td>\n<th>0</th>\n<th>0</th>\n<th>7\n</th>\n<th>0</th>\n<th>2</th>\n<th>0\n</th>\n<th>3</th>\n<th>0</th>\n<th>0\n</th>\n<td><b>12</b>\n</td>\n<td><b>19</b></td>\n<td><b>0</b>\n</td>\n<td><b>7</b>\n</td></tr>\n<tr>\n<td><a>롯데 자이언츠</a>\n</td>\n<th>0</th>\n<th>1</th>\n<th>0\n</th>\n<th>0</th>\n<th>2</th>\n<th>0\n</th>\n<th>0</th>\n<th>0</th>\n<th>0\n</th>\n<td><b>3</b>\n</td>\n<td><b>9</b></td>\n<td><b>1</b>\n</td>\n<td><b>1</b>\n</td></tr>\n<tr>\n<td colspan="25"><span><b>승리 투수</b></span> : <span><a>배영수</a></span>  <span><b>패전 투수</b></span> : <span><a>송승준</a>  <span><b>세이브</b></span> : <span>없음  <b>홀드</b> : 없음<br/>\n</span></span></td></tr></tbody></table>
+- - 2008년 한국프로야구 포스트시즌의 준 플레이오프 2차전에서 승리 투수는 누구일까?
+  - <span><a>정현욱</a></span> 
+- - 2008년 16일열린 한국 프로야구 포스트시즌 경기에서 두산베어스는 어느팀과 경기했을까?
+  - <a>삼성 라이온즈</a>
+- - 2008년 한국프로야구 포스트시즌 플레이오프 경기기록에 따르면 1차전이 열리는 날짜는 언제인가요?
+  - <td>10월 16일(목)</td>

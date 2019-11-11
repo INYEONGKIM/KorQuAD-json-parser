@@ -1,0 +1,5 @@
+categories:
+- 고유진
+conversations:
+- - 고유진이 데뷔한 해는 언제인가?
+  - 1997년

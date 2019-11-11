@@ -1,0 +1,5 @@
+categories:
+- 동부_콘퍼런스_(NBA)
+conversations:
+- - 과거 동부 콘퍼런스에 소속되던 팀은?
+  - <table>\n<tbody><tr>\n<th>구단명</th>\n<th>연고지</th>\n<th>참가년도</th>\n<th>경기장</th>\n<th>수용인원</th>\n<th>비고\n</th></tr>\n<tr>\n<td><span><a><img></a></span> <a>볼티모어 불리츠</a></td>\n<td><a>메릴랜드주</a> <a>볼티모어</a></td>\n<td>1948년~1955년</td>\n<td><a>볼티모어 콜리시엄</a></td>\n<td>4,500명</td>\n<td><span><a><img></a></span> <a>워싱턴 위저즈</a>의 전신이 아님\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>프로비던스 스팀롤러스</a></td>\n<td><a>로드아일랜드주</a> <a>프로비던스</a></td>\n<td>1946년~1949년</td>\n<td><a>로드아일랜드 오디토리움</a></td>\n<td>5,300명</td>\n<td><small>빈칸</small>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>토론토 허스키스</a></td>\n<td><a>온타리오주</a> <a>토론토</a></td>\n<td>1946년~1947년</td>\n<td><a>메이플 리프 가든</a></td>\n<td>2,796명</td>\n<td>최초의 캐나다 도시를 연고로한 팀\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>워싱턴 캐피털스</a></td>\n<td><a>워싱턴 D.C.</a></td>\n<td>1946년 <br/> 1948년~1951년</td>\n<td><a>울린 아레나</a></td>\n<td>7,000명</td>\n<td><small>빈칸</small>\n</td></tr></tbody></table>

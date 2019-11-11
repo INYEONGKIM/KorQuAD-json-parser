@@ -1,0 +1,5 @@
+categories:
+- 진달래꽃_필_때까지
+conversations:
+- - 드라마 <진달래꽃 필 때까지>가 방송된 채널의 이름은 무엇일까?
+  - <a>KBS 2TV</a>

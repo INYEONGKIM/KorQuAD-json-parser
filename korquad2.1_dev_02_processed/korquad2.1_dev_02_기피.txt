@@ -1,0 +1,5 @@
+categories:
+- 기피
+conversations:
+- - '기피'와 관련된 민사소송법은 몇 조인가?
+  - 제48조

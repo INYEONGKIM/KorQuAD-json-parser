@@ -1,0 +1,5 @@
+categories:
+- iSCSI
+conversations:
+- - 2005년 6월에 출시된 리눅스의 기능에는 어떤 것들이 있을까?
+  - Initiator, Target, Multipath, <a>iSER</a>

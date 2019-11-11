@@ -1,0 +1,5 @@
+categories:
+- 고준
+conversations:
+- - 고준이 연기한 드라마들의 정보와 극중 역할은 무엇일까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>방송사\n</th>\n<th>제목\n</th>\n<th>역할\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td rowspan="2">2010\n</td>\n<td rowspan="2"><a>SBS</a>\n</td>\n<td><a>대물</a>\n</td>\n<td>킬러\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>닥터 챔프</a>\n</td>\n<td>창수\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2016\n</td>\n<td><a>tvN</a>\n</td>\n<td><a>굿 와이프</a>\n</td>\n<td>조국현\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2017\n</td>\n<td><a>OCN</a>\n</td>\n<td><a>구해줘</a>\n</td>\n<td>차준구\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">2018\n</td>\n<td><a>JTBC</a>\n</td>\n<td><a>미스티</a>\n</td>\n<td>이재영\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>KBS2</a>\n</td>\n<td><a>KBS 드라마 스페셜</a> - <a>너무 한낮의 연애</a>\n</td>\n<td>이필용\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="1">2019\n</td>\n<td><a>SBS</a>\n</td>\n<td><a>열혈사제</a>\n</td>\n<td>황철범\n</td>\n<td>\n</td></tr>\n</tbody></table>

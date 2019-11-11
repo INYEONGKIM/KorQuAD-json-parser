@@ -1,0 +1,7 @@
+categories:
+- 국제안보지원군
+conversations:
+- - 국제안보지원군은 어떻게 구성되어 있나?
+  - <ul><li>본부 - <a>카불</a></li>\n<li>지역사령부\n<ul><li><a>수도지역사령부</a></li>\n<li><a>동부지역사령부</a></li>\n<li><a>서부지역사령부</a></li>\n<li><a>남부지역사령부</a></li>\n<li><a>북부지역사령부</a></li>\n<li><a>남서지역사령부</a>; 2010년 7월 3일 ~ 2014년</li></ul></li>\n<li>기능사령부\n<ul><li><a>아프가니스탄 연합안보전이사령부</a> (CSCT-A)</li>\n<li><a>NATO 아프가니스탄 훈련임무대</a> (NTM-A); 2009년 11월–2014년 9월</li>\n<li><a>NATO 아프가니스탄 항공훈련사령부</a> (NATC-A); 2010년 ~ 2015년</li></ul></li>\n<li>TF\n<ul><li><span><a><img></a></span> <a>CJTF 팔라딘</a> (CJTF-Paladin); 2005년 7월 ~ 2013년 12월</li>\n<li><span><a><img></a></span> TF 화이트 이글 (<span>Polski Kontyngent Wojskowy w Afganistanie</span>); 2002년 3월 16일 ~ 2014년 12월 4일</li></ul></li></ul>
+- - 존 맥콜은 언제 국제안보지원군 지휘관에 취임했을까?
+  - <td>2001년 12월</td>

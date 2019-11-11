@@ -1,0 +1,7 @@
+categories:
+- 제로의_사역마
+conversations:
+- - 2007년에 방영된 제로의 사역마 2기의 방영날짜별 제목은 어떻게 될까?
+  - <table>\n<tbody><tr>\n<th>화수</th>\n<th colspan="2">부제 (원제/풀이)</th>\n<th>방영일\n</th></tr>\n<tr>\n<td>1</td>\n<td><span>女王陛下のゼロ</span></td>\n<td>여왕 폐하의 제로</td>\n<td>2007년 7월 8일\n</td></tr>\n<tr>\n<td>2</td>\n<td><span>風と水の誓い</span></td>\n<td>바람과 물의 맹세</td>\n<td>2007년 7월 15일\n</td></tr>\n<tr>\n<td>3</td>\n<td><span>聖職者の剣</span></td>\n<td>성직자의 검</td>\n<td>2007년 7월 22일\n</td></tr>\n<tr>\n<td>4</td>\n<td><span>ヴァリエールの三姉妹</span></td>\n<td>발리에르 세자매</td>\n<td>2007년 7월 29일\n</td></tr>\n<tr>\n<td>5</td>\n<td><span>間諜の刻印</span></td>\n<td>간첩의 각인</td>\n<td>2007년 8월 5일\n</td></tr>\n<tr>\n<td>6</td>\n<td><span>女王の休日</span></td>\n<td>여왕의 휴일</td>\n<td>2007년 8월 12일\n</td></tr>\n<tr>\n<td>7</td>\n<td><span>地底の秘密文書</span></td>\n<td>지하의 비밀 문서</td>\n<td>2007년 8월 19일\n</td></tr>\n<tr>\n<td>8</td>\n<td><span>魔法学院の危機</span></td>\n<td>마법학원의 위기</td>\n<td>2007년 8월 26일\n</td></tr>\n<tr>\n<td>9</td>\n<td><span>炎の贖罪</span></td>\n<td>불꽃의 속죄</td>\n<td>2007년 9월 2일\n</td></tr>\n<tr>\n<td>10</td>\n<td><span>雪嶺の敵</span></td>\n<td>설영의 적</td>\n<td>2007년 9월 9일\n</td></tr>\n<tr>\n<td>11</td>\n<td><span>銀の降臨祭</span></td>\n<td>은빛 강림제</td>\n<td>2007년 9월 16일\n</td></tr>\n<tr>\n<td>12</td>\n<td><span>さよならの結婚式</span></td>\n<td>이별의 결혼식</td>\n<td>2007년 9월 23일\n</td></tr></tbody></table>
+- - 애니메이션 제로의 사역마의 1화는 언제 방영되었는가?
+  - 2008년 7월 7일

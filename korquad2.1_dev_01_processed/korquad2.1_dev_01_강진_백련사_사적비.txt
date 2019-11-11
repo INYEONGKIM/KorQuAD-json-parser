@@ -1,0 +1,5 @@
+categories:
+- 강진_백련사_사적비
+conversations:
+- - 강진 백련사 사적비의 높이는 몇cm인가?
+  - 447cm

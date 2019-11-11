@@ -1,0 +1,5 @@
+categories:
+- 엄현정
+conversations:
+- - 배우 엄현정은 어떤 작품에 출연했을까?
+  - <ul><li><b><a>임청하</a></b>\n<ul><li><a>동방불패</a> (<a>MBC</a>) - 동방불패\n<ul><li><a>동방불패 2</a> (<a>MBC</a>) - 동방불패</li></ul></li>\n<li><a>동사서독</a> (<a>MBC</a>) - 모용연</li>\n<li><a>신용문객잔</a> (<a>MBC</a>) - 구모언</li>\n<li><a>폴리스 스토리</a> (<a>MBC</a>) - 셀리나</li></ul></li></ul>\n<ul><li><b><a>로리 멧커프</a></b>\n<ul><li><a>스크림 2</a> (<a>MBC</a>) - 데비</li>\n<li><a>유혹은 밤 그림자처럼</a> (<a>MBC</a>) - 왈로스 형사</li></ul></li></ul>

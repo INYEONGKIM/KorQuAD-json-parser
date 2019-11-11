@@ -1,0 +1,5 @@
+categories:
+- 브로맨스_(음악_그룹)
+conversations:
+- - 그룹 브로맨스가 지금껏 발매한 앨범 정보는 어때?
+  - <table>\n<tbody><tr>\n<th rowspan="2">제목\n</th>\n<th rowspan="2">정보\n</th>\n<th colspan="3"><a>가온 앨범 차트</a>\n</th>\n<th rowspan="2">판매량\n</th></tr>\n<tr>\n<th>주간<br/><sup><a>[1]</a></sup>\n</th>\n<th>월간<br/><sup><a>[2]</a></sup>\n</th>\n<th>연간<br/><sup><a>[3]</a></sup>\n</th></tr>\n<tr>\n<th>《<a>THE ACTION</a>》\n</th>\n<td>\n<ul><li>발매일: <a>2016년</a> <a>7월 12일</a></li>\n<li>발매사: <a>로엔엔터테인먼트</a></li>\n<li>기획사: <a>RBW</a></li>\n<li>포맷: <a>CD</a>, <a>디지털 다운로드</a></li></ul>\n</td>\n<td>28</td>\n<td>79</td>\n<td>-\n</td>\n<td>\n<ul><li>KOR: 567+</li></ul>\n</td></tr>\n<tr>\n<th>《<a>ROMANCE</a>》\n</th>\n<td>\n<ul><li>발매일: <a>2016년</a> <a>7월 12일</a></li>\n<li>발매사: <a>로엔엔터테인먼트</a></li>\n<li>기획사: <a>RBW</a></li>\n<li>포맷: <a>CD</a>, <a>디지털 다운로드</a></li></ul>\n</td>\n<td>32</td>\n<td>94</td>\n<td>-\n</td>\n<td>\n<ul><li>KOR: 657+</li></ul>\n</td></tr></tbody></table>

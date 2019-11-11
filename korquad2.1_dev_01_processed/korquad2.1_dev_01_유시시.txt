@@ -1,0 +1,8 @@
+categories:
+- 유시시
+conversations:
+- - 유시시가 출연한 영화로는 어떤 작품들이 있을까?
+  - <table>\n<tbody><tr>\n<th>방영연도</th>\n<th>한국제목</th>\n<th>중국제목\n</th>\n<th colspan="2">역할\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td rowspan="2">2007년\n</td>\n<td>육소봉전기 - 대금붕왕\n</td>\n<td>陸小鳳傳奇之大金鵬王\n</td>\n<td>조연\n</td>\n<td>손수청 역\n</td>\n<td>\n</td></tr>\n<tr>\n<td>육소봉전기 - 결전전후\n</td>\n<td>陸小鳳傳奇之決戰前後\n</td>\n<td>조연\n</td>\n<td>손수청 역\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2011년\n</td>\n<td>몽회녹정기\n</td>\n<td>梦回鹿鼎记\n</td>\n<td>주연\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">2012년</td>\n<td>하일개기적 (넥스트 매직)</td>\n<td>下一个奇迹, The Next Magic\n</td>\n<td>주연</td>\n<td>이가이 역\n</td>\n<td>\n</td></tr>\n<tr>\n<td>상심동화</td>\n<td>傷心童話\n</td>\n<td>주연</td>\n<td>양가 역\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="3">2013년\n</td>\n<td>희몽\n</td>\n<td>戏梦\n</td>\n<td>주연\n</td>\n<td>류시시\n</td>\n<td>미니단편영화 (12분)\n</td></tr>\n<tr>\n<td>불이신탐</td>\n<td>不二神探\n</td>\n<td>조연</td>\n<td>유금수 역\n</td>\n<td>\n</td></tr>\n<tr>\n<td>회도애개시적지방</td>\n<td>回到愛開始的地方\n</td>\n<td>주연</td>\n<td>지야칭 역\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">2014년\n</td>\n<td>심야전적오분종(내일까지5분전)\n</td>\n<td>真夜中の五分前\n</td>\n<td>주연\n</td>\n<td>류오란/루메이 역\n</td>\n<td>\n</td></tr>\n<tr>\n<td>수춘도\n</td>\n<td>绣春刀\n</td>\n<td>특별출연\n</td>\n<td>주묘동 역\n</td>\n<td>\n</td></tr>\n<tr>\n<td>촬영중\n</td>\n<td>집흉자\n</td>\n<td>缉凶子\n</td>\n<td>주연\n</td>\n<td>\n</td>\n<td>2016년 9월 촬영시작\n</td></tr></tbody></table>
+- - 유시시가 처음 출연했던 드라마 작품연도는
+언제였을까? 
+  - 2006년

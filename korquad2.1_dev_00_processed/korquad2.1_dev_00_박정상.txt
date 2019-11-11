@@ -1,0 +1,5 @@
+categories:
+- 박정상
+conversations:
+- - 박정상은 KBS바둑에서 해설위원을 언제부터 맡게 되었을까?
+  - 2013년

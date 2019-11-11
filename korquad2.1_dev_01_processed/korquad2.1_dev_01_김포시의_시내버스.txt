@@ -1,0 +1,7 @@
+categories:
+- 김포시의_시내버스
+conversations:
+- - 김포시의 시내버스를 운영하는 운수업체에는 무엇이 있을까?
+  - <table>\n<tbody><tr>\n<th rowspan="2">운행업체\n</th>\n<th colspan="5">보유 노선수\n</th>\n<th colspan="5">등록 대수\n</th></tr>\n<tr>\n<td>노선 합계\n</td>\n<td>광역급행\n</td>\n<td>직행좌석\n</td>\n<td>일반좌석\n</td>\n<td>시내일반\n</td>\n<td>대수 합계\n</td>\n<td>광역급행\n</td>\n<td>직행좌석\n</td>\n<td>일반좌석\n</td>\n<td>시내일반\n</td></tr>\n<tr>\n<th><a>강화운수</a> (<a>선진</a>)\n</th>\n<td>11</td>\n<td>-</td>\n<td>3</td>\n<td>-</td>\n<td>8</td>\n<td>106</td>\n<td>-</td>\n<td>32</td>\n<td>-</td>\n<td>74\n</td></tr>\n<tr>\n<th><a>김포운수</a> (<a>선진</a>)\n</th>\n<td>21</td>\n<td>2</td>\n<td>9</td>\n<td>-</td>\n<td>10</td>\n<td>226</td>\n<td>32</td>\n<td>81</td>\n<td>-</td>\n<td>113\n</td></tr>\n<tr>\n<th><a>선진버스</a> (<a>선진</a>)\n</th>\n<td>23</td>\n<td>1</td>\n<td>4</td>\n<td>3</td>\n<td>15</td>\n<td>316</td>\n<td>22</td>\n<td>60</td>\n<td>35</td>\n<td>199\n</td></tr></tbody></table>
+- - 김포시의 버스 중 한강신도시와 서울역을 오가는 버스의 노선번호는?
+  - <b>M6117</b>

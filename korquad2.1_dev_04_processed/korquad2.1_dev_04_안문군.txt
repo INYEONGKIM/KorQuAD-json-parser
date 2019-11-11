@@ -1,0 +1,9 @@
+categories:
+- 안문군
+conversations:
+- - 안문군 전한의 행적 구역은 어떻게 구성되었을까?
+  - <table>\n<tbody><tr>\n<th>현명\n</th>\n<th>한자\n</th>\n<th>대략적 위치\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>선무현\n</td>\n<td>善無縣\n</td>\n<td><a>숴저우시</a> <a>유위 현</a> 서\n</td>\n<td>\n</td></tr>\n<tr>\n<td>옥양현\n</td>\n<td>沃陽縣\n</td>\n<td><a>울란차브시</a> <a>량청 현</a> 남서\n</td>\n<td>염택(鹽澤)이 북동쪽에 있어, 장승(長丞)이 있다. 서부도위의 치소가 있다.\n</td></tr>\n<tr>\n<td>번치현\n</td>\n<td>繁畤縣\n</td>\n<td><a>다퉁시</a> <a>훈위안 현</a> 남서\n</td>\n<td>\n</td></tr>\n<tr>\n<td>중릉현\n</td>\n<td>中陵縣\n</td>\n<td>숴저우시 북서\n</td>\n<td>\n</td></tr>\n<tr>\n<td>음관현\n</td>\n<td>陰館縣\n</td>\n<td>숴저우시 남동\n</td>\n<td>옛 누번향(樓煩鄕)을 경제 3년(기원전 153년)에 승격시켰다. 누두산(累頭山)에서 이수(治水)가 나와 동으로 천주(泉州)에 이르러 바다로 들어가니, 안문·대·<a>상곡</a>·<a>광양</a>·<a>어양</a> 5군을 지나 1,100리를 간다.\n</td></tr>\n<tr>\n<td>누번현\n</td>\n<td>樓煩縣\n</td>\n<td><a>신저우시</a> <a>닝우 현</a> 북\n</td>\n<td>염관이 있다.\n</td></tr>\n<tr>\n<td>무주현\n</td>\n<td>武州縣\n</td>\n<td>다퉁시 <a>쭤윈 현</a>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>왕도현\n</td>\n<td>𣷪陶縣\n</td>\n<td>숴저우시 <a>잉 현</a> 서\n</td>\n<td>\n</td></tr>\n<tr>\n<td>극양현\n</td>\n<td>劇陽縣\n</td>\n<td>숴저우시 잉 현 북동\n</td>\n<td>\n</td></tr>\n<tr>\n<td>곽현\n</td>\n<td>崞縣\n</td>\n<td>다퉁시 훈위안 현 서\n</td>\n<td>\n</td></tr>\n<tr>\n<td>평성현\n</td>\n<td>平城縣\n</td>\n<td>다퉁시 북동\n</td>\n<td>동부도위의 치소가 있다.\n</td></tr>\n<tr>\n<td>날현\n</td>\n<td>埒縣\n</td>\n<td>신저우시 닝우 현 북\n</td>\n<td>\n</td></tr>\n<tr>\n<td>마읍현\n</td>\n<td>馬邑縣\n</td>\n<td>숴저우시\n</td>\n<td>한(韓)나라의 <a>한왕 신</a>이 진양에서 이곳으로 천도했다.\n</td></tr>\n<tr>\n<td>강음현\n</td>\n<td>彊陰縣\n</td>\n<td>울란차브시 <a>펑전 시</a> 서\n</td>\n<td>제문택(諸聞澤)이 북동쪽에 있다.\n</td></tr></tbody></table>
+- - 중국의 군대인 안문군중 강음은 어떤이름으로 바뀌었을까?
+  - 복음
+- - 대군으로 이관된 사람은 누구인가?
+  - 평성현

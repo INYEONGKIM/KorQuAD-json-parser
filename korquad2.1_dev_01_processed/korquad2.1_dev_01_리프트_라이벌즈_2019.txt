@@ -1,0 +1,5 @@
+categories:
+- 리프트_라이벌즈_2019
+conversations:
+- - 2019 LCK 스프링에서 우승한 팀은 어디인가?
+  - SK 텔레콤 T1

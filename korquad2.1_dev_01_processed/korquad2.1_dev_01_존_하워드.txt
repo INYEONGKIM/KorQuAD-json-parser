@@ -1,0 +1,5 @@
+categories:
+- 존_하워드
+conversations:
+- - 존 하워드가 총리가 된 시기는?
+  - <a>1996년</a> <a>3월 11일</a>

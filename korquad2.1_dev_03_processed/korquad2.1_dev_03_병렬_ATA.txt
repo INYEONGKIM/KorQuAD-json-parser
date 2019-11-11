@@ -1,0 +1,9 @@
+categories:
+- 병렬_ATA
+conversations:
+- - 직렬 ATA가 도입되기 전까지 40핀의 단자를 리본 케이블로 드라이브를 연결한 방식을 무엇이라고 할까?
+  - PATA(병렬 ATA) 인터페이스
+- - 병렬 ATA는 전송 방식별로 어떻게 속도가 다를까?
+  - <table>\n<caption>전송 방식\n</caption>\n<tbody><tr>\n<th>방식</th>\n<th>#</th>\n<th>최대 전송 속도<br/>(MB/초)</th>\n<th>순환 시간\n</th></tr>\n<tr>\n<td rowspan="5"><a>PIO</a>\n</td>\n<td>0</td>\n<td>3.3</td>\n<td>600 ns\n</td></tr>\n<tr>\n<td>1</td>\n<td>5.2</td>\n<td>383 ns\n</td></tr>\n<tr>\n<td>2</td>\n<td>8.3</td>\n<td>240 ns\n</td></tr>\n<tr>\n<td>3</td>\n<td>11.1</td>\n<td>180 ns\n</td></tr>\n<tr>\n<td>4</td>\n<td>16.7</td>\n<td>120 ns\n</td></tr>\n<tr>\n<td rowspan="3"><a>싱글 워드 DMA</a>\n</td>\n<td>0</td>\n<td>2.1</td>\n<td>960 ns\n</td></tr>\n<tr>\n<td>1</td>\n<td>4.2</td>\n<td>480 ns\n</td></tr>\n<tr>\n<td>2</td>\n<td>8.3</td>\n<td>240 ns\n</td></tr>\n<tr>\n<td rowspan="5"><a>멀티 워드 DMA</a>\n</td>\n<td>0</td>\n<td>4.2</td>\n<td>480 ns\n</td></tr>\n<tr>\n<td>1</td>\n<td>13.3</td>\n<td>150 ns\n</td></tr>\n<tr>\n<td>2</td>\n<td>16.7</td>\n<td>120 ns\n</td></tr>\n<tr>\n<td>3<sup><a>[5]</a></sup></td>\n<td>20</td>\n<td>100 ns\n</td></tr>\n<tr>\n<td>4<sup><a>[5]</a></sup></td>\n<td>25</td>\n<td>80 ns\n</td></tr>\n<tr>\n<td rowspan="8">울트라 DMA\n</td>\n<td>0</td>\n<td>16.7</td>\n<td>240 ns ÷ 2\n</td></tr>\n<tr>\n<td>1</td>\n<td>25.0</td>\n<td>160 ns ÷ 2\n</td></tr>\n<tr>\n<td>2 (울트라 ATA/33)</td>\n<td>33.3</td>\n<td>120 ns ÷ 2\n</td></tr>\n<tr>\n<td>3</td>\n<td>44.4</td>\n<td>90 ns ÷ 2\n</td></tr>\n<tr>\n<td>4 (울트라 ATA/66)</td>\n<td>66.7</td>\n<td>60 ns ÷ 2\n</td></tr>\n<tr>\n<td>5 (울트라 ATA/100)</td>\n<td>100</td>\n<td>40 ns ÷ 2\n</td></tr>\n<tr>\n<td>6 (울트라 ATA/133)</td>\n<td>133</td>\n<td>30 ns ÷ 2\n</td></tr>\n<tr>\n<td>7 (울트라 ATA/167)<sup><a>[6]</a></sup></td>\n<td>167</td>\n<td>24 ns ÷ 2\n</td></tr></tbody></table>
+- - IDE의 최대 디스크 크기는 무엇일까?
+  - <td>2.1 <a>GB</a></td>

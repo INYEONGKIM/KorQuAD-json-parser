@@ -1,0 +1,5 @@
+categories:
+- 중흥고등학교
+conversations:
+- - 중흥고등학교의 초대 교장의 이름은?
+  - 김원규

@@ -1,0 +1,5 @@
+categories:
+- 알힐랄_FC
+conversations:
+- - 알힐랄 FC가 현재 구단명으로 변경된 년도는 언제야?
+  - 1958

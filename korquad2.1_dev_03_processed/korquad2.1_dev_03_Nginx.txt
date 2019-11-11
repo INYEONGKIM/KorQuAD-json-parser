@@ -1,0 +1,5 @@
+categories:
+- Nginx
+conversations:
+- - Nginx는 몇 개의 동시 접속을 컨트롤할 수 있는가?
+  - 10000개

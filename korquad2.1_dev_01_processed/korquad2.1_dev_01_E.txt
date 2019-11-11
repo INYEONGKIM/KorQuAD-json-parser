@@ -1,0 +1,5 @@
+categories:
+- E
+conversations:
+- - 컴퓨터 부호 E의 유니코드 이름은?
+  - <td colspan="2"><span><span><span>LATIN CAPITAL LETTER E</span></span></span></td>

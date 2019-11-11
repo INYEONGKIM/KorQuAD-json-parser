@@ -1,0 +1,5 @@
+categories:
+- 선천도
+conversations:
+- - 전설에 따르면 누가 괘를 만들었어?
+  - <a>복희</a>

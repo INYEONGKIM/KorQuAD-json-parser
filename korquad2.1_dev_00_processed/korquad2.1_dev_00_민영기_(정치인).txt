@@ -1,0 +1,5 @@
+categories:
+- 민영기_(정치인)
+conversations:
+- - 정치인 민영기의 아버지는?
+  - <a>민준호</a>(閔峻鎬)

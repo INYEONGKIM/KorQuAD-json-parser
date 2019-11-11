@@ -1,0 +1,11 @@
+categories:
+- 올림픽_아르헨티나_선수단
+conversations:
+- - 아르헨티나는 동계 올림픽의 종목별 선수구성을 어떻게 할까?
+  - <table>\n<tbody><tr>\n<th>종목</th>\n<th>남자</th>\n<th>여자</th>\n<th>합계\n</th>\n<th><img>\n</th>\n<th><img>\n</th>\n<th><img>\n</th>\n<th>합계\n</th></tr>\n<tr>\n<td><a><img></a> <a>루지</a>\n</td>\n<td>3</td>\n<td>1</td>\n<td>4\n</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0\n</td></tr>\n<tr>\n<td><a><img></a> <a>바이애슬론</a>\n</td>\n<td>15</td>\n<td>3</td>\n<td>18\n</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0\n</td></tr>\n<tr>\n<td><a><img></a> <a>봅슬레이</a>\n</td>\n<td>19</td>\n<td>0</td>\n<td>19\n</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0\n</td></tr>\n<tr>\n<td><a><img></a> <a>스노보드</a>\n</td>\n<td>1</td>\n<td>0</td>\n<td>1\n</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0\n</td></tr>\n<tr>\n<td><a><img></a> <a>스켈레톤</a>\n</td>\n<td>1</td>\n<td>0</td>\n<td>1\n</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0\n</td></tr>\n<tr>\n<td><a><img></a> <a>알파인스키</a>\n</td>\n<td>49</td>\n<td>23</td>\n<td>72\n</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0\n</td></tr>\n<tr>\n<td><a><img></a> <a>크로스컨트리</a>\n</td>\n<td>15</td>\n<td>1</td>\n<td>16\n</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0\n</td></tr>\n<tr>\n<td><a><img></a> <a>프리스타일</a>\n</td>\n<td>15</td>\n<td>1</td>\n<td>16\n</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0\n</td></tr>\n<tr>\n<th>합계</th>\n<th>118</th>\n<th>29</th>\n<th>147</th>\n<th>0</th>\n<th>0</th>\n<th>0</th>\n<th>0\n</th></tr></tbody></table>
+- - 아르헨티나 선수단은 1928년부터 2010년까지 동계올림픽에서 몇 개의 메달을 획득하였을까?
+  - <th>0</th>
+- - 올림픽 요트종목에서 여성 선수들이 딴 메달은 몇개입니까?
+  - <td>11</td>
+- - 올림픽 아르헨티나 선수단의 역대 동계올림픽 참가 종목중 2002년에 단 한번 출전한 종목은?
+  - <a>스켈레톤</a>

@@ -1,0 +1,5 @@
+categories:
+- 스타쉽_엔터테인먼트의_음반
+conversations:
+- - 스타쉽 엔터테인먼트의 음반 «My Avatar»는 누가 불렀을까?
+  - 보이프렌드

@@ -1,0 +1,7 @@
+categories:
+- 달걀
+conversations:
+- - 달걀에서 발견된 살충제 성분의 이름은 무엇일까?
+  - 피프로닐
+- - 2007년 기준 주요 달걀 생산 국가와 해당 국가의 생산량은?
+  - <table>\n<tbody><tr>\n<th>국가명</th>\n<th>생산량(단위:<a>톤</a>)</th>\n<th>국가명</th>\n<th>생산량(단위:<a>톤</a>)\n</th></tr>\n<tr>\n<td><span><a><img></a></span> <a>중국</a>\n</td>\n<td>21,833,300\n</td>\n<td><span><a><img></a></span> <a>러시아</a>\n</td>\n<td>2,103,300\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>미국</a>\n</td>\n<td>5,308,000\n</td>\n<td><span><a><img></a></span> <a>브라질</a>\n</td>\n<td>1,779,190\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>인도</a>\n</td>\n<td>2,670,000\n</td>\n<td><span><a><img></a></span> <a>인도네시아</a>\n</td>\n<td>1,174,600\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>일본</a>\n</td>\n<td>2,525,000\n</td>\n<td><span><a><img></a></span> <a>프랑스</a>\n</td>\n<td>878,400\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>멕시코</a>\n</td>\n<td>2,290,833\n</td>\n<td><span><a><img></a></span> <a>터키</a>\n</td>\n<td>795,310\n</td></tr>\n</tbody></table>

@@ -1,0 +1,5 @@
+categories:
+- 진건초등학교
+conversations:
+- - 진건초등학교 제21대 교장의 이름은?
+  - 엄인석

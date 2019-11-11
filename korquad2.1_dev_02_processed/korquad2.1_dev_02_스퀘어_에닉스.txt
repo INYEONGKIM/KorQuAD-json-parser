@@ -1,0 +1,5 @@
+categories:
+- 스퀘어_에닉스
+conversations:
+- - 스퀘어 에닉스 제작 제임들의 제목은 뭘까?
+  - <ul><li>드래곤 퀘스트 시리즈</li>\n<li><a>파이널 판타지 시리즈</a></li>\n<li><a>강철의 연금술사</a> 외전</li>\n<li>패러사이트 이브 시리즈</li>\n<li>스타 오션 시리즈</li>\n<li>사가 시리즈\n<ul><li>로맨싱 사가</li>\n<li>사가 프론티어</li></ul></li>\n<li>성검 전설 시리즈</li>\n<li>킹덤하츠 시리즈</li>\n<li>반숙영웅 시리즈</li>\n<li>프론트 미션 시리즈</li>\n<li>크로노 시리즈\n<ul><li>크로노 트리거</li>\n<li>크로노 크로스</li></ul></li>\n<li>미스틱 아크 시리즈</li>\n<li>뎁스 판타지아 시리즈 (온라인 게임)</li>\n<li>정크 메탈 시리즈 (온라인 게임)</li>\n<li>크로스 게이트 (온라인 게임)</li>\n<li>Live A Live</li>\n<li>천지창조</li>\n<li>IDOL FANTASY</li>\n<li>월드 앤드 히어로즈</li></ul>

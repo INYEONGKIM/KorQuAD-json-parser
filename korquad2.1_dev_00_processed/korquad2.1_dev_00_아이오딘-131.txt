@@ -1,0 +1,5 @@
+categories:
+- 아이오딘-131
+conversations:
+- - 건조 다시마 40g에는 아이오딘이 몇 mg이 들어있을까?
+  - 100 mg

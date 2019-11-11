@@ -1,0 +1,7 @@
+categories:
+- 사르후_전투
+conversations:
+- - 사르후 전투는 무엇인가?
+  - <p><b>사르후 전투</b>(<span><a>만주어</a>: </span><span><style>.mw-parser-output .font-mong{font-family:"Menk Hawang Tig","Menk Qagan Tig","Menk Garqag Tig","Menk Har_a Tig","Menk Scnin Tig","Oyun Gurban Ulus Tig","Oyun Qagan Tig","Oyun Garqag Tig","Oyun Har_a Tig","Oyun Scnin Tig","Oyun Agula Tig","Mongolian BT","Mongolian Baiti","Mongolian Universal White","Noto Sans Mongolian","Mongol Usug","Mongolian White","MongolianScript","Code2000","Menksoft Qagan"}.mw-parser-output .font-mong-mnc,.mw-parser-output .font-mong:lang(mnc-Mong),.mw-parser-output .font-mong:lang(dta-Mong),.mw-parser-output .font-mong:lang(sjo-Mong){font-family:"Abkai Xanyan","Abkai Xanyan LA","Abkai Xanyan VT","Abkai Xanyan XX","Abkai Xanyan SC","Abkai Buleku","Daicing White","Mongolian BT","Mongolian Baiti","Mongolian Universal White","Noto Sans Mongolian"}</style><span>ᠰᠠᡵᡥᡡ</span></span> <small>sarhū</small>, <span><a>중국어</a>: </span><span>薩爾滸之戰</span>)는 <a>1619년</a> <a>명나라</a>에 쳐들어오는 <a>후금</a>에 대항하기 위해 명나라, <a>조선</a>, <a>여진족</a>까지 참전한 대전투다. 이 전투에서 명나라는 크게 패하여 쇠퇴하게 되고, 후금은 <a>만주</a> 지역을 차지하였다.\n</p>
+- - 사르후 전투에서 명나라가 누르하치를 포위하기 위해 진군한 지역은?
+  - <a>허투알라</a>

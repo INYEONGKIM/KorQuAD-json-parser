@@ -1,0 +1,5 @@
+categories:
+- 엑스박스
+conversations:
+- - MS가 게임 업계에 진출한다는 것은 발표한 날짜는?
+  - <a>2000년</a> <a>3월 4일</a>

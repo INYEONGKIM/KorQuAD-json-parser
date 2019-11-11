@@ -1,0 +1,5 @@
+categories:
+- 노원고등학교
+conversations:
+- - 노원고등학교의 옛 교명은?
+  - 온수고등학교

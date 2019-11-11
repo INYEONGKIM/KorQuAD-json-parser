@@ -1,0 +1,5 @@
+categories:
+- 팀_라이스
+conversations:
+- - 팀 라이스가 태어난 국가는?
+  - 잉글랜드

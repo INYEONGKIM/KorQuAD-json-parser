@@ -1,0 +1,5 @@
+categories:
+- 녕변군
+conversations:
+- - 고려의 강감찬은 언제 거란과 싸웠을까?
+  - 1012년

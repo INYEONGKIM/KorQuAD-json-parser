@@ -1,0 +1,5 @@
+categories:
+- 타이완의_행정_구역_목록
+conversations:
+- - 타이완의 시 별 관할 행정 구역은 무엇일까?
+  - <table>\n<caption><a>신주시</a> (新竹市: 신죽시)<br/>3구\n</caption>\n<tbody><tr>\n<th>이름</th>\n<th><a>한자</a>: <a>한자음</a>\n</th></tr>\n<tr>\n<td><a>둥구</a></td>\n<td>東區: 동구\n</td></tr>\n<tr>\n<td><a>베이구</a></td>\n<td>北區: 북구\n</td></tr>\n<tr>\n<td><a>샹산구</a></td>\n<td>香山區: 향산구\n</td></tr></tbody></table>\n</td>\n<td>\n<table>\n<caption><a>자이시</a> (嘉義市: 가의시)<br/>2구\n</caption>\n<tbody><tr>\n<th>이름</th>\n<th><a>한자</a>: <a>한자음</a>\n</th></tr>\n<tr>\n<td><a>둥구</a></td>\n<td>東區: 동구\n</td></tr>\n<tr>\n<td><a>시구</a></td>\n<td>西區: 서구\n</td></tr></tbody></table>\n</td>\n<td>\n<table>\n<caption><a>지룽시</a> (基隆市: 기륭시)<br/>7구\n</caption>\n<tbody><tr>\n<th>이름</th>\n<th><a>한자</a>: <a>한자음</a>\n</th></tr>\n<tr>\n<td><a>놘놘구</a></td>\n<td>暖暖區: 난난구\n</td></tr>\n<tr>\n<td><a>런아이구</a></td>\n<td>仁愛區: 인애구\n</td></tr>\n<tr>\n<td><a>신이구</a></td>\n<td>信義區: 신의구\n</td></tr>\n<tr>\n<td><a>안러구</a></td>\n<td>安樂區: 안락구\n</td></tr>\n<tr>\n<td><a>중산구</a></td>\n<td>中山區: 중산구\n</td></tr>\n<tr>\n<td><a>중정구</a></td>\n<td>中正區: 중정구\n</td></tr>\n<tr>\n<td><a>치두구</a></td>\n<td>七堵區: 칠도구\n</td></tr></tbody></table>

@@ -1,0 +1,5 @@
+categories:
+- 베지터
+conversations:
+- - 베지터는 누구의 우주선을 타?
+  - <a>부르마</a>

@@ -1,0 +1,5 @@
+categories:
+- 여천NCC
+conversations:
+- - 여천NCC 본사의 위치는?
+  - 서울특별시 종로구 우정국로 26 (센트로폴리스빌딩 B동 7층)

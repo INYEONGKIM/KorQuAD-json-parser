@@ -1,0 +1,5 @@
+categories:
+- 윤사랑
+conversations:
+- - 윤사랑의 WK리그 총 출장수는?
+  - 70

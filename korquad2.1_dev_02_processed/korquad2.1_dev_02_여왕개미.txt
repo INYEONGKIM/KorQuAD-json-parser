@@ -1,0 +1,5 @@
+categories:
+- 여왕개미
+conversations:
+- - 여왕과 개미의 수컷을 뭐라고 불러?
+  - 날개개미

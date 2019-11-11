@@ -1,0 +1,9 @@
+categories:
+- 2011년_FIFA_여자_월드컵
+conversations:
+- - 2011년에 개최된 FIFA 월드컵이 열린 경기장의 위치와 그 수용인원은?
+  - <table>\n<tbody><tr>\n<th><a>아우크스부르크</a>\n</th>\n<th><a>베를린</a>\n</th>\n<th><a>보훔</a>\n</th>\n<th><a>드레스덴</a>\n</th>\n<th><a>프랑크푸르트암마인</a>\n</th></tr>\n<tr>\n<td><a>임풀스 아레나</a>\n</td>\n<td><a>베를린 올림픽 스타디움</a>\n</td>\n<td><a>루르슈타디온</a>\n</td>\n<td><a>루돌프 하르비히 슈타디온</a>\n</td>\n<td><a>코메르즈방크 아레나</a>\n</td></tr>\n<tr>\n<td>수용 인원: <b>25,579명</b>\n</td>\n<td>수용 인원: <b>74,244명</b>\n</td>\n<td>수용 인원: <b>23,000명</b>\n</td>\n<td>수용 인원: <b>32,085명</b>\n</td>\n<td>수용 인원: <b>49,240명</b>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td></tr>\n<tr>\n<th><a>레버쿠젠</a>\n</th>\n<th><a>묀헨글라트바흐</a>\n</th>\n<th><a>진스하임</a>\n</th>\n<th><a>볼프스부르크</a>\n</th></tr>\n<tr>\n<td><a>바이아레나</a>\n</td>\n<td><a>보루시아 파크</a>\n</td>\n<td><a>라인 네카어 아레나</a>\n</td>\n<td><a>폴크스바겐 아레나</a>\n</td></tr>\n<tr>\n<td>수용 인원: <b>30,200명</b>\n</td>\n<td>수용 인원: <b>46,297명</b>\n</td>\n<td>수용 인원: <b>25,641명</b>\n</td>\n<td>수용 인원: <b>25,361명</b>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td></tr></tbody></table>
+- - 2011년 FIFA 여자 월드컵 올스타 팀의 마르타는 포지션이 무엇일까?
+  - 공격수
+- - 2011년 FIFA 여자 월드컵에서 일본은 최종 몇 점의 승점을 따냈나요?
+  - <b>13</b>

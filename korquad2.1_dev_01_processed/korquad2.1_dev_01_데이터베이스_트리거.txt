@@ -1,0 +1,5 @@
+categories:
+- 데이터베이스_트리거
+conversations:
+- - 트리거의 종류는?
+  - <p><a>Microsoft SQL Server</a>에서는 표준 트리거 외에 뷰 에 INSTEAD OF 트리거를 정의 할 수있다. 또한 Microsoft SQL Server 2005에서 <a>데이터 정의 언어</a>(DDL) 트리거가 추가되었다.\n</p>\n<ul><li>INSERT</li>\n<li>UPDATE</li>\n<li>DELETE</li>\n<li>DROP TABLE</li>\n<li>CREATE TABLE</li>\n<li>ALTER TABLE</li>\n<li>로그인</li></ul>

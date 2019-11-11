@@ -1,0 +1,7 @@
+categories:
+- 유즈
+conversations:
+- - 유즈가 발매한 정규앨범에는 어떤것들이 있을까?
+  - <table>\n<tbody><tr>\n<th>순서</th>\n<th>타이틀</th>\n<th>의미</th>\n<th>발매일\n</th></tr>\n<tr>\n<td>01.</td>\n<td><span>ゆず一家</span></td>\n<td>유즈 일가</td>\n<td><a>1998년</a> <a>7월 23일</a>\n</td></tr>\n<tr>\n<td>02.</td>\n<td><span>ゆずえん</span></td>\n<td>유자밭</td>\n<td><a>1999년</a> <a>10월 14일</a>\n</td></tr>\n<tr>\n<td>03.</td>\n<td><span>トビラ</span></td>\n<td>문</td>\n<td><a>2000년</a> <a>11월 1일</a>\n</td></tr>\n<tr>\n<td>04.</td>\n<td><span>ユズモア</span></td>\n<td>유즈 모어</td>\n<td><a>2002년</a> <a>3월 6일</a>\n</td></tr>\n<tr>\n<td>05.</td>\n<td><span>すみれ</span></td>\n<td>제비꽃</td>\n<td><a>2003년</a> <a>3월 19일</a>\n</td></tr>\n<tr>\n<td>06.</td>\n<td>1 ~ONE~</td>\n<td></td>\n<td><a>2004년</a> <a>9월 15일</a>\n</td></tr>\n<tr>\n<td>07.</td>\n<td><span>リボン</span></td>\n<td>리본</td>\n<td><a>2006년</a> <a>1월 18일</a>\n</td></tr>\n<tr>\n<td>08.</td>\n<td>WONDERFUL WORLD</td>\n<td></td>\n<td><a>2008년</a> <a>4월 16일</a>\n</td></tr>\n<tr>\n<td>09.</td>\n<td>FURUSATO</td>\n<td>고향 (<span>ふるさと</span>)</td>\n<td><a>2009년</a> <a>10월 7일</a>\n</td></tr>\n<tr>\n<td>10.</td>\n<td>2-NI-</td>\n<td></td>\n<td><a>2011년</a> <a>2월 16일</a>\n</td></tr>\n<tr>\n<td>11.</td>\n<td>LAND</td>\n<td></td>\n<td><a>2013년</a> <a>5월 1일</a>\n</td></tr>\n<tr>\n<td>12.</td>\n<td>新世界</td>\n<td>신세계 (<span>しんせかい</span>)</td>\n<td><a>2014년</a> <a>2월 19일</a>\n</td></tr></tbody></table>
+- - 유즈가 열 한 번째로 발표한 타이틀곡의 의미는 무엇일까?
+  - <td>3카운트</td>

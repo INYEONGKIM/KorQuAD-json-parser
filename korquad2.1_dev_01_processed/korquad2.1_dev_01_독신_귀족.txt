@@ -1,0 +1,5 @@
+categories:
+- 독신_귀족
+conversations:
+- - 독신 귀족 1화는 누가 연출했을까?
+  - <td rowspan="2">타케우치 히데키</td>

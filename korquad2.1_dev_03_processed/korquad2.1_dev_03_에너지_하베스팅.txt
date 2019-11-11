@@ -1,0 +1,5 @@
+categories:
+- 에너지_하베스팅
+conversations:
+- - 압전 소재로 종종 사용되는 무기화합물은 뭐야?
+  - PZT

@@ -1,0 +1,5 @@
+categories:
+- 뮌헨_작전
+conversations:
+- - 뮌헨 작전은 몇 월 몇 일에 개시되었는가?
+  - 7월 2일

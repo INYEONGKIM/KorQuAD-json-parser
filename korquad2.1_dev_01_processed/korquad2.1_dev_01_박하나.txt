@@ -1,0 +1,9 @@
+categories:
+- 박하나
+conversations:
+- - 대한민국의 가수 겸 배우인 박하나가 2017년 진행을 맡은 채널A 방송사의 프로그램 제목은?
+  - <a>풍문으로 들었쇼</a>
+- - 배우 박하나의 연도별 수상실적은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>시상식\n</th>\n<th>부문\n</th>\n<th>작품\n</th>\n<th>결과\n</th></tr>\n<tr>\n<td rowspan="2">2015\n</td>\n<td>제10회 아시아모델상시상식\n</td>\n<td>뉴스타상 연기자 부문\n</td>\n<td><small>빈칸</small>\n</td>\n<td>수상\n</td></tr>\n<tr>\n<td><a>MBC 연기대상</a>\n</td>\n<td>연속극부문 여자 신인상\n</td>\n<td><a>압구정 백야</a>\n</td>\n<td>수상\n</td></tr>\n<tr>\n<td>2016\n</td>\n<td><a>KBS 연기대상</a>\n</td>\n<td>일일극부문 여자 우수연기상\n</td>\n<td>《<a>천상의 약속</a>》\n</td>\n<td>후보\n</td></tr>\n<tr>\n<td>2018\n</td>\n<td><a>KBS 연기대상</a>\n</td>\n<td>일일극부문 여자 우수연기상\n</td>\n<td>《<a>인형의 집</a>》\n</td>\n<td>수상\n</td></tr>\n</tbody></table>
+- - 2012년 박하나는 tvN의 무슨 프로그램에 출연했을까?
+  - <td><a>일년에 열두남자</a></td>

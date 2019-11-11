@@ -1,0 +1,5 @@
+categories:
+- 중앙여자중학교
+conversations:
+- - 중앙여자중학교의 초대 교장이 누구야?
+  - 황신덕

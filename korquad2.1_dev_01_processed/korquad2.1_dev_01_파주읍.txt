@@ -1,0 +1,5 @@
+categories:
+- 파주읍
+conversations:
+- - 파주읍 백석리의 한자명은?
+  - <td>白石里</td>

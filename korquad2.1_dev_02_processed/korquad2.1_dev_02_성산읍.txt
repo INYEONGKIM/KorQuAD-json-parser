@@ -1,0 +1,5 @@
+categories:
+- 성산읍
+conversations:
+- - 성산읍의 1월 평균 상대습도는 몇프로일까?
+  - 67.5

@@ -1,0 +1,5 @@
+categories:
+- 소말리어
+conversations:
+- - 소말리어는 어떻게 표기해?
+  - <p>소말리어 알파벳:<br/>\n', B, T, J, X, KH, D, R, S, SH, DH, C, G, F, Q, K, L, M, N, W, H, Y, A, E, I, O, U.\n</p>\n<ul><li>' - /ʔ/</li>\n<li>J - /tʃ/</li>\n<li>X - /ħ/</li>\n<li>KH - /χ/</li>\n<li>SH - /ʃ/</li>\n<li>DH - /ɖ/</li>\n<li>C - /ʕ/</li>\n<li>Q - /G/</li>\n<li>W - /w/ or the second element in a diphthong</li>\n<li>Y - /j/ or the second element in a diphthong</li>\n<li>A - /æ/ or /ɑ/</li>\n<li>E - /e/ or /ɛ/</li>\n<li>I - /i/ or /ɪ/</li>\n<li>O - /ɞ/ or /ɔ/</li>\n<li>U - /ʉ/ or /u/</li></ul>

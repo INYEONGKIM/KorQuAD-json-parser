@@ -1,0 +1,5 @@
+categories:
+- 장음계
+conversations:
+- - 샵 키가 진행되는 방향은 어느 방향인가?
+  - 시계방향

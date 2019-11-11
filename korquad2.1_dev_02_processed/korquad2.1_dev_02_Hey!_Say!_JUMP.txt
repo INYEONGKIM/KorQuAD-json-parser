@@ -1,0 +1,7 @@
+categories:
+- Hey!_Say!_JUMP
+conversations:
+- - 해당 그룹이 2010년이후 출연하고 있는 후지TV의 버라이어티 프로그램의 이름은?
+  - 이타다키하이점프
+- - HEY! SAY! JUMP가 발매한 앨범의 타이틀별 최고 순위는 어떻게 됩니까?
+  - <table>\n<tbody><tr>\n<th>＃</th>\n<th>발매일</th>\n<th>타이틀</th>\n<th>최고 순위\n</th></tr>\n<tr>\n<th>1\n</th>\n<td>2010년 7월 7일</td>\n<td><b><a>JUMP NO.1</a></b></td>\n<td>1위\n</td></tr>\n<tr>\n<th>2\n</th>\n<td>2012년 6월 6일</td>\n<td><b>JUMP WORLD</b></td>\n<td>1위\n</td></tr>\n<tr>\n<th>3\n</th>\n<td>2014년 6월 18일</td>\n<td><b><a>smart</a></b></td>\n<td>1위\n</td></tr>\n<tr>\n<th>4\n</th>\n<td>2015년 6월 24일</td>\n<td><b>JUMPing CAR</b></td>\n<td>1위\n</td></tr>\n<tr>\n<th>5\n</th>\n<td>2016년 7월 27일</td>\n<td><b>DEAR.</b></td>\n<td>1위\n</td></tr></tbody></table>

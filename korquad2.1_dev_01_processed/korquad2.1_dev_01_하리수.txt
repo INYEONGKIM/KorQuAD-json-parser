@@ -1,0 +1,5 @@
+categories:
+- 하리수
+conversations:
+- - 하리수가 2010년에 출연한 영화의 제목은 무엇일까?
+  - 골(goal) 때리는 여자들

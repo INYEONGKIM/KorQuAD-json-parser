@@ -1,0 +1,5 @@
+categories:
+- 대원군
+conversations:
+- - 고종의 아버지는 누구인가요?
+  - <a>흥선대원군</a>

@@ -1,0 +1,9 @@
+categories:
+- 토마스_헤슬러
+conversations:
+- - 1997-98시즌 마지막 3개의 경기에서 토마스 헤슬러는 몇 개의 골을 기록하였는가?
+  - 4골
+- - 독일의 축구선수 토마스 헤슬러는 국가대표로서 어떤 활약을 했을까?
+  - <table>\n<tbody><tr>\n<th colspan="3"><a>독일 축구 국가대표팀</a>\n</th></tr>\n<tr>\n<th>연도</th>\n<th>출장</th>\n<th>골\n</th></tr>\n<tr>\n<td>1988</td>\n<td>2</td>\n<td>0\n</td></tr>\n<tr>\n<td>1989</td>\n<td>6</td>\n<td>1\n</td></tr>\n<tr>\n<td>1990</td>\n<td>12</td>\n<td>0\n</td></tr>\n<tr>\n<td>1991</td>\n<td>5</td>\n<td>1\n</td></tr>\n<tr>\n<td>1992</td>\n<td>13</td>\n<td>4\n</td></tr>\n<tr>\n<td>1993</td>\n<td>7</td>\n<td>0\n</td></tr>\n<tr>\n<td>1994</td>\n<td>14</td>\n<td>0\n</td></tr>\n<tr>\n<td>1995</td>\n<td>10</td>\n<td>2\n</td></tr>\n<tr>\n<td>1996</td>\n<td>14</td>\n<td>2\n</td></tr>\n<tr>\n<td>1997</td>\n<td>5</td>\n<td>1\n</td></tr>\n<tr>\n<td>1998</td>\n<td>9</td>\n<td>0\n</td></tr>\n<tr>\n<td>1999</td>\n<td>0</td>\n<td>0\n</td></tr>\n<tr>\n<td>2000</td>\n<td>4</td>\n<td>0\n</td></tr>\n<tr>\n<th>합계</th>\n<th>101</th>\n<th>11\n</th></tr></tbody></table>
+- - 토마스 헤슬러는 선수시절 리그에서 총 몇 경기에 출전했는가?
+  - 539

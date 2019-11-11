@@ -1,0 +1,9 @@
+categories:
+- 김지수_(가수)
+conversations:
+- - 가수 김지수가 장재인 쇼케이스에 객원가수로 참석한 날짜는 언제인가?
+  - 2011년 <a>5월 24일</a>
+- - 김지수 (가수)가 2015년에 발매한 음반에는 어떤 곡들이 수록되어 있는가?
+  - <table>\n<tbody><tr>\n<th>발매일\n</th>\n<th>앨범정보\n</th>\n<th>수록곡\n</th></tr>\n<tr>\n<td><a>2015년</a> <a>2월 17일</a>\n</td>\n<td>《<b><a>2nd Part.1 `청춘거지`</a> </b>》\n</td>\n<td>\n<p>Track 1. 청춘거지<br/>\nTrack 2. <b>자취 8년생의 노래</b><br/>\nTrack 3. 여자들이 좋아할만한 사랑노래<br/>\nTrack 4. 상남자의 고백(feat.<a>볼빨간 사춘기</a>)<br/>\nTrack 5. Starry Night With You (방구석 Live Ver.)<br/>\n</p>\n</td></tr></tbody></table>
+- - 가수 김지수가 드라마 드림하이2 o.s.t에서 참여한 곡명은 무엇인가?
+  - B급 인생

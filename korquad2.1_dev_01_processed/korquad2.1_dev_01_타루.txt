@@ -1,0 +1,9 @@
+categories:
+- 타루
+conversations:
+- - 타루의 2009년 앨범에는 어떤곡들이 수록되어 있을까?
+  - <table>\n<tbody><tr>\n<th>순서\n</th>\n<th>앨범 정보\n</th>\n<th>수록곡\n</th></tr>\n<tr>\n<td>1\n</td>\n<td>《<b>Taru</b>》\n<ul><li>발매일 : <a>2009년</a> <a>8월 25일</a></li></ul>\n</td>\n<td>\n<p><small>\n</small></p><small>\n<ol><li>Night Flying</li>\n<li>세탁기</li>\n<li>연애의 방식</li>\n<li>Sad Melody</li>\n<li>Talk &amp; Play (feat. <a>Naru</a>)</li>\n<li>Just Go</li>\n<li>쥐色 귀, 녹色 눈</li>\n<li>내일이 오면 (Duet with <a>노리플라이</a>의 권순관)</li>\n<li>Daydream</li>\n<li>Slow Star</li>\n<li>Don't Let Me Down</li>\n<li>Yesterday (new version)</li>\n<li>시간의 날개 (Sentimental Scenery) - Bonus Track</li></ol>\n</small><p><small></small>\n</p>\n</td></tr></tbody></table>
+- - 타루의 음반 R.A.I.N.B.O.W의 수록곡 중 오! 다시에서는 누가 피처링을 맡았는가?
+  - t. <a>U
+- - 타루가 2013년에 발매한 정규 3집 앨범의 이름이 무엇인가?
+  - <b>Puzzle</b>

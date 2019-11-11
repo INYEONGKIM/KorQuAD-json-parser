@@ -1,0 +1,5 @@
+categories:
+- 유리상자
+conversations:
+- - 유리상자의 11집 발매시기는 언제야?
+  - 2010년

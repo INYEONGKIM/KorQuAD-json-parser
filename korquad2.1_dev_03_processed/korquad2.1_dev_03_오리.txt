@@ -1,0 +1,5 @@
+categories:
+- 오리
+conversations:
+- - 어디서 단일종이랑 여러 종이 무리지어 지낸다는 거야?
+  - 월동지

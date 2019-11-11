@@ -1,0 +1,5 @@
+categories:
+- 전단변환행렬
+conversations:
+- - 전단변환행렬에서 M은 무엇을 나타내는 것일까?
+  - W 로의 선형 매핑

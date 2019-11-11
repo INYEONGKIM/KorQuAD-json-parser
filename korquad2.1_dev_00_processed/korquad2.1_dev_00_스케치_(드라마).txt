@@ -1,0 +1,5 @@
+categories:
+- 스케치_(드라마)
+conversations:
+- - 스케치의 TNmS 시청률이 가장 높았던 회차는 언제입니까?
+  - 제6회

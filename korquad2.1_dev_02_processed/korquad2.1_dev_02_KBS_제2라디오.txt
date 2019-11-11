@@ -1,0 +1,5 @@
+categories:
+- KBS_제2라디오
+conversations:
+- - KBS 제2라디오에 문자 메시지를 보낼 수 있는 번호는 몇 번입니까?
+  - #1061

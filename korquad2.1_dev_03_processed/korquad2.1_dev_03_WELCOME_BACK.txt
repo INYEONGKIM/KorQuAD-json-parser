@@ -1,0 +1,7 @@
+categories:
+- WELCOME_BACK
+conversations:
+- - 대한민국의 보이그룹 아이콘의 첫번째 정규앨범의 국가별 발매정보는 어떻게 되나요?
+  - <table>\n<tbody><tr>\n<th>국가\n</th>\n<th>날짜\n</th>\n<th>음반\n</th>\n<th>레이블\n</th>\n<th>포맷\n</th></tr>\n<tr>\n<td><a>대한민국</a>\n</td>\n<td rowspan="2">2015년 10월 1일\n</td>\n<td rowspan="4">하프 앨범\n</td>\n<td rowspan="6"><a>YG 엔터테인먼트</a>\n</td>\n<td rowspan="2"><a>CD</a>, <a>디지털 다운로드</a>\n</td></tr>\n<tr>\n<td>세계\n</td></tr>\n<tr>\n<td rowspan="1">대한민국\n</td>\n<td rowspan="1">2015년 10월 5일\n</td>\n<td><a>CD</a>, <a>디지털 다운로드</a>\n</td></tr>\n<tr>\n<td rowspan="1">일본<sup><a>[12]</a></sup>\n</td>\n<td rowspan="1">2015년 10월 28일\n</td>\n<td><a>디지털 다운로드</a>\n</td></tr>\n<tr>\n<td rowspan="1">대한민국\n</td>\n<td rowspan="2">2015년 12월 24일\n</td>\n<td rowspan="2">풀 앨범\n</td>\n<td><a>CD</a>, <a>디지털 다운로드</a>\n</td></tr>\n<tr>\n<td>세계\n</td>\n<td><a>디지털 다운로드</a>\n</td></tr></tbody></table>
+- - WELCOME BACK이 일본 오리콘 앨범 차트에서 도달한 최고 순위는 몇위일까?
+  - 26

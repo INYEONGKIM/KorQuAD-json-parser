@@ -1,0 +1,5 @@
+categories:
+- 한자
+conversations:
+- - 현대 한자전에 표기된 한자 중 획수가 제일 많은 한자는 무엇일까?
+  - <span><span>齉</span></span>(코 막힐,코를 킁킁거릴 낭)

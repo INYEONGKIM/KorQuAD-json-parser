@@ -1,0 +1,5 @@
+categories:
+- 정수민
+conversations:
+- - 정수민의 통산3시즌의 평균자책점은 몇점인가?
+  - <td>6.33</td>

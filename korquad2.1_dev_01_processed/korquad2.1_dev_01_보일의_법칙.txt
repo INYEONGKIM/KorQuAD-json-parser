@@ -1,0 +1,5 @@
+categories:
+- 보일의_법칙
+conversations:
+- - 마리오트가 태어난 연도는 언제인가?
+  - 1620

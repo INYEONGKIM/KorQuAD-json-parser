@@ -1,0 +1,5 @@
+categories:
+- 감포고등학교
+conversations:
+- - 감포고등학교 제22대 교장의 이름은?
+  - 심영란

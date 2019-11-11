@@ -1,0 +1,5 @@
+categories:
+- 파일_이름
+conversations:
+- - MS-DOS FAT 시스템이 허용하는 파일 이름의 최대 길이는 몇 자일까요?
+  - 11

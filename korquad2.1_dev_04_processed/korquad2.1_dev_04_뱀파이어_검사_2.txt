@@ -1,0 +1,9 @@
+categories:
+- 뱀파이어_검사_2
+conversations:
+- - 뱀파이어 검사 2의 조명 감독을 맡은사람은 누구인가?
+  - 옥성준
+- - 한국 드라마 '뱀파이어 검사 2'의 사운드 트랙 앨범에는 뭐가 있을까?
+  - <table>\n<tbody><tr>\n<th>발매일\n</th>\n<th>앨범명\n</th>\n<th>수록곡\n</th></tr>\n<tr>\n<td>2012년 9월 7일\n</td>\n<td>뱀파이어 검사 2 OST\n</td>\n<td>\n<ol><li><b>Danger</b> (Feat. 리누, 김서현) - <a>MC 스나이퍼</a><br/>(작사 : MC 스나이퍼 / 작곡 : 곽태훈, 하근영 / 편곡 : 곽태훈, Zee, 하근영)</li></ol>\n</td></tr>\n</tbody></table>
+- - 2012년 뱀파이어검사 '함정' 편의 방송날짜는 언제일까?
+  - 10월 7일

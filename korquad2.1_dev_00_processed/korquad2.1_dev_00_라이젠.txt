@@ -1,0 +1,15 @@
+categories:
+- 라이젠
+conversations:
+- - 라이젠 3가 출시된 년도는 언제인가?
+  - <a>2017년</a>
+- - 라이젠 5는 언제 출시되었을까?
+  - <a>2017년</a> <a>4월 11일</a>
+- - 라이젠7은 언제 발매되었을까?
+  - <a>2017년</a> <a>3월 2일</a>
+- - 라이젠 AMD의 AM4 플랫폼에 포함되는 칩셋에 대한 정보는 무엇일까?
+  - <table>\n<tbody><tr>\n<th>칩셋\n</th>\n<th>대상 시장\n</th>\n<th>대상 폼 팩터\n</th>\n<th>오버클럭\n</th>\n<th>SATA RAID 지원\n</th>\n<th>메모리 지원\n</th>\n<th>듀얼 8레인 PCIe 슬롯\n</th></tr>\n<tr>\n<td>X370\n</td>\n<td>하이엔드\n</td>\n<td rowspan="3">ATX\n</td>\n<td>예\n</td>\n<td rowspan="3">0, 1, 10\n</td>\n<td rowspan="6">DDR4\n</td>\n<td>예\n</td></tr>\n<tr>\n<td>B350\n</td>\n<td>메인스트림\n</td>\n<td>예\n</td>\n<td>아니오\n</td></tr>\n<tr>\n<td>A320\n</td>\n<td>메인스트림\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td></tr>\n<tr>\n<td>X300\n</td>\n<td>하이엔드\n</td>\n<td rowspan="3">ITX\n</td>\n<td>예\n</td>\n<td rowspan="3">0, 1\n</td>\n<td>예\n</td></tr>\n<tr>\n<td>A300\n</td>\n<td>메인스트림\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td></tr>\n<tr>\n<td>B300\n</td>\n<td>메인스트림\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td></tr></tbody></table>
+- - 레이스 맥스의 출시가는 몇 달러인가?
+  - $59
+- - 브랜드 Ryzen Pro 7의 폼펙터는 무엇인가?
+  - 기업/OEM용\n<p>데스크탑

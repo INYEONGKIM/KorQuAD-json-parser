@@ -1,0 +1,7 @@
+categories:
+- Wild_Life_(윙스의_음반)
+conversations:
+- - <I Am Your Singer>라는 곡의 기초 믹싱을 한 사람은 누구일까?
+  - 앨런 파슨스
+- - 윙스의 음반인 Wild Life의 스페인 음반 차트 순위는?
+  - 2

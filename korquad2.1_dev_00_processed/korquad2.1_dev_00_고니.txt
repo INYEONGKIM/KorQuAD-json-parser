@@ -1,0 +1,5 @@
+categories:
+- 고니
+conversations:
+- - 고니의 몸 길이는 보통 몇 cm입니까?
+  - 120㎝

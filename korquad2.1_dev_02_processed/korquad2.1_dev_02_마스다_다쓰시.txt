@@ -1,0 +1,7 @@
+categories:
+- 마스다_다쓰시
+conversations:
+- - 마스다 다쓰시는 어느 고등학교에 다녔어?
+  - 야나기가쿠엔 고등학교
+- - 마스다 다쓰시의 4년간 투수 성적은 어떻게 될까?
+  - <table>\n<tbody><tr>\n<th rowspan="2">연도</th>\n<th rowspan="2">소속</th>\n<th colspan="6">투수\n</th></tr>\n<tr>\n<th>경<br/><br/>기</th>\n<th>척<br/><br/>살</th>\n<th>보<br/><br/>살</th>\n<th>실<br/><br/>책</th>\n<th>병<br/><br/>살</th>\n<th>수<br/>비<br/>율\n</th></tr>\n<tr>\n<td>2013\n</td>\n<td rowspan="4">세이부\n</td>\n<td>42</td>\n<td>1</td>\n<td>9</td>\n<td>1</td>\n<td>1</td>\n<td>.909\n</td></tr>\n<tr>\n<td>2014\n</td>\n<td>44</td>\n<td>2</td>\n<td>10</td>\n<td>0</td>\n<td>0</td>\n<td>1.000\n</td></tr>\n<tr>\n<td>2015\n</td>\n<td>72</td>\n<td>3</td>\n<td>12</td>\n<td>1</td>\n<td>0</td>\n<td>.938\n</td></tr>\n<tr>\n<td>2016\n</td>\n<td>53</td>\n<td>1</td>\n<td>5</td>\n<td>3</td>\n<td>1</td>\n<td>.667\n</td></tr>\n<tr>\n<th colspan="2">통산 : 4년\n</th>\n<td>211</td>\n<td>7</td>\n<td>36</td>\n<td>5</td>\n<td>2</td>\n<td>.896\n</td></tr></tbody></table>

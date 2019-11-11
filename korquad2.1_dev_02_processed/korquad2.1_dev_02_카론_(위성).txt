@@ -1,0 +1,5 @@
+categories:
+- 카론_(위성)
+conversations:
+- - 카론 위성을 발견한 사람은 누구야?
+  - <a>제임스 크리스티</a>

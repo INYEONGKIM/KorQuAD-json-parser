@@ -1,0 +1,7 @@
+categories:
+- 손예진의_수상_및_후보_목록
+conversations:
+- - 백상예술대상에서 손예진의 작품별 입후보 결과는 어떻게 나왔습니까? 
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>작품\n</th>\n<th>부문\n</th>\n<th>결과\n</th>\n<th>출처\n</th></tr>\n<tr>\n<td>2003\n</td>\n<td><i><a>클래식</a></i>\n</td>\n<td>영화부문 여자 신인 연기상\n</td>\n<td>수상\n</td>\n<td><sup><a>[10]</a></sup>\n</td></tr>\n<tr>\n<td>2009\n</td>\n<td><i><a>아내가 결혼했다</a></i>\n</td>\n<td>영화부문 여자최우수연기상\n</td>\n<td>수상\n</td>\n<td><sup><a>[11]</a></sup>\n</td></tr>\n<tr>\n<td>2010\n</td>\n<td><small>빈칸</small>\n</td>\n<td>인스타일 패셔니스타상\n</td>\n<td>수상\n</td>\n<td><sup><a>[12]</a></sup>\n</td></tr>\n<tr>\n<td>2012\n</td>\n<td><i><a>오싹한 연애</a></i>\n</td>\n<td rowspan="4">영화부문 여자최우수연기상\n</td>\n<td>후보\n</td>\n<td><sup><a>[13]</a></sup>\n</td></tr>\n<tr>\n<td>2015\n</td>\n<td><i><a>해적: 바다로 간 산적</a></i>\n</td>\n<td>후보\n</td>\n<td><sup><a>[14]</a></sup>\n</td></tr>\n<tr>\n<td>2017\n</td>\n<td><i><a>덕혜옹주</a></i>\n</td>\n<td>수상\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2018\n</td>\n<td><i><a>지금 만나러 갑니다</a></i>\n</td>\n<td>후보\n</td>\n<td>\n</td></tr>\n</tbody></table>
+- - 손예진이 덕혜옹주로 받은 상은?
+  - 인기스타상

@@ -1,0 +1,9 @@
+categories:
+- 에번_라이서첵
+conversations:
+- - 에번 라이서첵이 처음 피겨 스케이팅을 시작한 것은 몇 살때인가?
+  - 8살
+- - 에번 라이서첵이 태어난 도시는 어디인가?
+  - <a>시카고</a>
+- - 에번 라이서첵은 2004년 이전에 어떤 경기 결과를 거두었을까?
+  - <table>\n<tbody><tr>\n<th>Event\n</th>\n<th>1998–1999\n</th>\n<th>1999–2000\n</th>\n<th>2000–2001\n</th>\n<th>2001–2002\n</th>\n<th>2002–2003\n</th>\n<th>2003–2004\n</th></tr>\n<tr>\n<td><a>세계 주니어 선수권</a></td>\n<td></td>\n<td></td>\n<td>2위</td>\n<td></td>\n<td>2위</td>\n<td>2위\n</td></tr>\n<tr>\n<td>4대륙 선수권</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>10위</td>\n<td>3위\n</td></tr>\n<tr>\n<td>미국 선수권</td>\n<td>1위 N.</td>\n<td>1위 J.</td>\n<td>12위</td>\n<td>12위</td>\n<td>7위</td>\n<td>5위\n</td></tr>\n<tr>\n<td>주니어 그랑프리 파이널</td>\n<td></td>\n<td></td>\n<td>8위</td>\n<td></td>\n<td>5위</td>\n<td>1위\n</td></tr>\n<tr>\n<td>주니어 그랑프리, 크로아티아</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>1위\n</td></tr>\n<tr>\n<td>주니어 그랑프리, 일본</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>1위\n</td></tr>\n<tr>\n<td>주니어 그랑프리, 캐나다</td>\n<td></td>\n<td>7위</td>\n<td></td>\n<td></td>\n<td>2위</td>\n<td>\n</td></tr>\n<tr>\n<td>주니어 그랑프리, 프랑스</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>2위</td>\n<td>\n</td></tr>\n<tr>\n<td>주니어 그랑프리, 노르웨이</td>\n<td></td>\n<td></td>\n<td>2위</td>\n<td></td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<td>주니어 그랑프리, 독일</td>\n<td></td>\n<td></td>\n<td>2위</td>\n<td></td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<td>주니어 그랑프리, 스웨덴</td>\n<td></td>\n<td>1위</td>\n<td></td>\n<td></td>\n<td></td>\n<td>\n</td></tr></tbody></table>

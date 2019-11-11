@@ -1,0 +1,5 @@
+categories:
+- 김민성_(배우)
+conversations:
+- - 김민성이 1999년 SBS에 출연한 드라마의 이름은 무엇인가?
+  - 카이

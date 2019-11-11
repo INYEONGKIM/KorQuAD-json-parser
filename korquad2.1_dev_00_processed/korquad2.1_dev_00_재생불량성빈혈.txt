@@ -1,0 +1,5 @@
+categories:
+- 재생불량성빈혈
+conversations:
+- - 적혈구는 수명이 며칠일까?
+  - 120일

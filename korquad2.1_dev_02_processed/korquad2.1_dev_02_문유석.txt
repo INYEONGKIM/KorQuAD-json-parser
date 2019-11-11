@@ -1,0 +1,5 @@
+categories:
+- 문유석
+conversations:
+- - 문유석이 사법시험에 합격한 것은 언제인가?
+  - 1994년

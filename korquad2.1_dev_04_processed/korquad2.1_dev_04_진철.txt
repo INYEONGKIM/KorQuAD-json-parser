@@ -1,0 +1,5 @@
+categories:
+- 진철
+conversations:
+- - 진철의 출신 시티는 어디인가?
+  - 장막 시티

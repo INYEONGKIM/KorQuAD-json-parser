@@ -1,0 +1,5 @@
+categories:
+- 여현수
+conversations:
+- - 여현수가 출연한 채널cgv의 드라마는 무엇인가?
+  - <td>TV 방자전</td>

@@ -1,0 +1,5 @@
+categories:
+- 고릴라즈
+conversations:
+- - 2001년에 발매한 고릴라즈의 첫번째 앨범은 무엇인가?
+  - Gorillaz

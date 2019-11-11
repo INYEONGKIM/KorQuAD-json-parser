@@ -1,0 +1,5 @@
+categories:
+- 서영암_나들목
+conversations:
+- - 2012년 폐쇄식 서영암의 통행량은?
+  - 3,580

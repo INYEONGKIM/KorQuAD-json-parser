@@ -1,0 +1,5 @@
+categories:
+- 마리에_디그비
+conversations:
+- - 가수 마리에 디그비가 낸 싱글음반의 연도별 차트 인기 순위와 앨범 현황은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th rowspan="2">연도\n</th>\n<th rowspan="2">제목\n</th>\n<th colspan="4">차트 순위\n</th>\n<th rowspan="2">앨범\n</th></tr>\n<tr>\n<th><small><a>U.S. Hot 100</a></small>\n</th>\n<th><small>U.S. Hot Adult</small>\n</th>\n<th><small>JAP</small>\n</th>\n<th><small>ROM</small>\n</th></tr>\n<tr>\n<td rowspan="1">2007\n</td>\n<td>"Umbrella"\n</td>\n<td>110\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td rowspan="1"><i>Start Here EP</i>\n</td></tr>\n<tr>\n<td rowspan="2">2008\n</td>\n<td>"Say It Again"\n</td>\n<td>114\n</td>\n<td>21\n</td>\n<td>7\n</td>\n<td>99\n</td>\n<td rowspan="2"><i>Unfold</i>\n</td></tr>\n<tr>\n<td>"Stupid For You"\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td></tr>\n<tr>\n<td rowspan="2">2009\n</td>\n<td>"Avalanche"\n</td>\n<td>146\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td rowspan="2"><i>Breathing Underwater</i>\n</td></tr>\n<tr>\n<td>"Symphony"\n</td>\n<td>125\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td></tr></tbody></table>

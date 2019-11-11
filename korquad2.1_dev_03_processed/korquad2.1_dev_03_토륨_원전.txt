@@ -1,0 +1,5 @@
+categories:
+- 토륨_원전
+conversations:
+- - 베네수엘라에 매장된 토륨은 몇t일까?
+  - 30만t

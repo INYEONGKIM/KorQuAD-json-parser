@@ -1,0 +1,5 @@
+categories:
+- 2002년_FIFA_월드컵_D조
+conversations:
+- - 대한민국이 2002년 FIFA 월드컵 D조에서 몇 점의 승점을 얻었나요?
+  - <b>7</b>

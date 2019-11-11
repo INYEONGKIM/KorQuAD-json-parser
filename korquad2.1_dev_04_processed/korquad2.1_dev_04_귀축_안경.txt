@@ -1,0 +1,5 @@
+categories:
+- 귀축_안경
+conversations:
+- - 귀축 안경에 나오는 주인공의 이름은 뭐야?
+  - 사에키 카츠야

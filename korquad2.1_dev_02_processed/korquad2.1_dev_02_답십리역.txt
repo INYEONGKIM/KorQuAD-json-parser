@@ -1,0 +1,5 @@
+categories:
+- 답십리역
+conversations:
+- - 답십리역 주변에 있는 도서관의 이름은 무엇일까?
+  - 용답도서

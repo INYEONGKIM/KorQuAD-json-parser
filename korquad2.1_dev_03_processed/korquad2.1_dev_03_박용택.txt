@@ -1,0 +1,5 @@
+categories:
+- 박용택
+conversations:
+- - 박용택은 LG트윈스에 몇 년에 입단 하였을까?
+  - <a>2002년</a>

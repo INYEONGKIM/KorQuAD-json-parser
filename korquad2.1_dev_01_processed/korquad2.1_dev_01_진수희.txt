@@ -1,0 +1,5 @@
+categories:
+- 진수희
+conversations:
+- - 진수희의 출생지는?
+  - <a>충청남도</a> <a>대덕군</a>

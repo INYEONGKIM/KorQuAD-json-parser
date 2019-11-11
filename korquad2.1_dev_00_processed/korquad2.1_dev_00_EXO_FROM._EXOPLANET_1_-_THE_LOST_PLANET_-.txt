@@ -1,0 +1,5 @@
+categories:
+- EXO_FROM._EXOPLANET_1_-_THE_LOST_PLANET_-
+conversations:
+- - EXO의  7개월동안 공연을 본 관객의 총 수는?
+  - 375,910명

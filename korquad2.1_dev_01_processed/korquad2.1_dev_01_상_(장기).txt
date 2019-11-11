@@ -1,0 +1,5 @@
+categories:
+- 상_(장기)
+conversations:
+- - 장기를 점수제 방식으로 둘때 각 기물의 점수는 어떻게 될까?
+  - <table>\n<caption>\n</caption>\n<tbody><tr>\n<td>　</td>\n<td>궁(장)</td>\n<td>차</td>\n<td>포</td>\n<td>마</td>\n<td><b>상</b></td>\n<td>사</td>\n<td>졸·병\n</td></tr>\n<tr>\n<td>기물의 점수\n</td>\n<td>∞</td>\n<td>13</td>\n<td>7</td>\n<td>5</td>\n<td><b>3</b></td>\n<td>3</td>\n<td>2\n</td></tr></tbody></table>

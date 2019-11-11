@@ -1,0 +1,5 @@
+categories:
+- 기타_연주자
+conversations:
+- - 스페인과 독일의 클래식 기타리스트는 누가 있는가?
+  - <ul><li><a>스페인</a>\n<ul><li><a>안드레스 세고비아</a></li>\n<li><a>페페 로메로</a></li>\n<li><a>앙헬 로메로</a></li>\n<li><a>셀린 로메로</a></li>\n<li><a>셀레도니오 로메로</a></li>\n<li><a>리토 로메로</a></li>\n<li><a>셀리노 로메로</a></li>\n<li><a>하비에르 소모사</a></li></ul></li></ul>\n<ul><li>독일\n<ul><li>크리스토퍼 브란트</li>\n<li>틸만 홉슈톡</li>\n<li>토마스 뮐러 페링</li>\n<li>페터 카토나</li></ul></li>\n<li><a>그리스</a>\n<ul><li><a>오스카 길리아</a></li>\n<li><a>엘레나 파판도르</a></li></ul></li>\n<li><a>영국</a>\n<ul><li><a>줄리안 브림</a></li>\n<li><a>데이비드 러셀</a></li></ul></li>\n<li><a>일본</a>\n<ul><li><a>후쿠다 신이치</a></li>\n<li><a>후지 신고</a></li></ul></li>\n<li><a>대한민국</a>\n<ul><li>고충진</li>\n<li><a>장대건</a></li>\n<li><a>박규희</a></li>\n<li><a>김성진</a></li>\n<li><a>배장흠</a></li>\n<li><a>한은</a></li>\n<li><a>이병우</a></li>\n<li>윤원준</li>\n<li>서윤일</li></ul></li></ul>

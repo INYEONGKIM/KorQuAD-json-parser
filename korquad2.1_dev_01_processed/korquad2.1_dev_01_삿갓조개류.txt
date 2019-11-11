@@ -1,0 +1,7 @@
+categories:
+- 삿갓조개류
+conversations:
+- - 2005년 기준으로 삿갓조개류에 포함된 과들은 무엇입니까? 
+  - <ul><li><a>삿갓조개상과</a> (Patelloidea)\n<ul><li><a>삿갓조개과</a> (Patellidae)</li></ul></li>\n<li><a>애기삿갓조개상과</a> (Nacelloidea)\n<ul><li><a>애기삿갓조개과</a> (Nacellidae)</li></ul></li>\n<li><a>두드럭배말상과</a> (Lottioidea)\n<ul><li><a>두드럭배말과</a> (Lottiidae)</li>\n<li><a>흰삿갓조개과</a> (Acmaeidae) Forbes, 1850\n<ul><li>흰삿갓조개아과 (Acmaeinae) Forbes, 1850</li>\n<li>흰그물삿갓조개 (Pectinodontinae) Pilsbry, 1891</li>\n<li>Rhodopetalinae Lindberg, 1981</li></ul></li>\n<li><a>무새흰삿갓조개과</a> (Lepetidae)</li></ul></li>\n<li><a>네올렙페톱시스상과</a> (Neolepetopsoidea)\n<ul><li><a>네올렙페톱시스과</a> (Neolepetopsidae)</li>\n<li><a>†</a> Daminilidae</li>\n<li><a>†</a> Lepetopsidae</li></ul></li></ul>
+- - 삿갓조개류에 속한 조개에는 어떠한 것들이 있나요?
+  - <ul><li><a>이오아크마이아상과</a> (Eoacmaeoidea)\n<ul><li><a>이오아크마이아과</a> (Eoacmaeidae)</li></ul></li>\n<li><a>삿갓조개상과</a> (Patelloidea)\n<ul><li><a>삿갓조개과</a> (Patellidae)</li></ul></li>\n<li><a>두드럭배말상과</a> (Lottioidea)\n<ul><li><a>애기삿갓조개과</a> (Nacellidae)</li>\n<li><a>무새흰삿갓조개과</a> (Lepetidae)</li>\n<li><a>흰그물삿갓조개과</a> (Pectinodontidae)</li>\n<li><a>두드럭배말과</a> (Lottiidae)</li>\n<li><a>네올롭페톱시스과</a> (Neolepetopsidae)</li>\n<li><a>†</a> Daminilidae</li>\n<li><a>†</a> Lepetopsidae</li></ul></li></ul>

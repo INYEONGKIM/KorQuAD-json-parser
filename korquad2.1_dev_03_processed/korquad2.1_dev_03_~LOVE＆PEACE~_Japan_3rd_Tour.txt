@@ -1,0 +1,5 @@
+categories:
+- ~LOVE＆PEACE~_Japan_3rd_Tour
+conversations:
+- - ~LOVE&PEACE~의 3번째 일본투어 중 히로시마에서 공연한 장소의 이름은 무엇입니까?
+  - <a>그린 아레나</a>

@@ -1,0 +1,5 @@
+categories:
+- 불가리아
+conversations:
+- - 불가리아의 북쪽에 있는 나라는 뭐야?
+  - <a>루마니아</a>

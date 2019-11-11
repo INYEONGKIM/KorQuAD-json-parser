@@ -1,0 +1,5 @@
+categories:
+- 맨디_무어
+conversations:
+- - 맨디 무어의 첫 주연 영화는 뭐야?
+  - 워크 투 리멤버

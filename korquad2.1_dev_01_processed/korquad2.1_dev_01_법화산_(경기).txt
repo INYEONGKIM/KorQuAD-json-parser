@@ -1,0 +1,5 @@
+categories:
+- 법화산_(경기)
+conversations:
+- - 법화산은 어디에 위치해있나요?
+  - 기흥구 구성동

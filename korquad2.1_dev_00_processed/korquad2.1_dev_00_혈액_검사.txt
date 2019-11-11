@@ -1,0 +1,5 @@
+categories:
+- 혈액_검사
+conversations:
+- - 혈액 검사에서 나트륨의 정상범위는 최소 136mmol/L에서 최대 몇 mmol/L까지 일까?
+  - <td>145</td>

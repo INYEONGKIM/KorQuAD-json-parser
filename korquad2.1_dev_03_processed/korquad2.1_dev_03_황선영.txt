@@ -1,0 +1,5 @@
+categories:
+- 황선영
+conversations:
+- - 황선영이 서울대학교를 졸업한 년도는?
+  - 2003

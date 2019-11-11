@@ -1,0 +1,15 @@
+categories:
+- WK리그
+conversations:
+- - WK리그 2014 결승전은 인천 현대제철과 누가 대결을 하였을까?
+  - 고양 대교
+- - WK리그 2015시즌에 현대제철은 무슨 기록을 세웠을까?
+  - WK리그 최초 3년 연속 통합 우승
+- - 2012년이후에 WK리그의 팀은 몇팀이 되었을까?
+  - 8팀
+- - 2018시즌 WK리그에는 어떤 팀들이 참가했습니까? 
+  - <table>\n<tbody><tr>\n<th>클럽명</th>\n<th>지난 시즌 순위</th>\n<th>팀 창단 년도</th>\n<th>리그 참가 횟수</th>\n<th>연고지</th>\n<th>홈 구장</th>\n<th>감독\n</th></tr>\n<tr>\n<td><a>인천 현대제철</a></td>\n<td>1위</td>\n<td>1993</td>\n<td>10</td>\n<td><a>인천</a></td>\n<td><a>인천남동경기장</a></td>\n<td><span><a><img></a></span> <a>최인철</a>\n</td></tr>\n<tr>\n<td><a>화천 KSPO</a></td>\n<td>2위</td>\n<td>2011</td>\n<td>8</td>\n<td><a>화천</a></td>\n<td><a>화천생활체육공원 주경기장</a></td>\n<td><span><a><img></a></span> <a>강재순</a>\n</td></tr>\n<tr>\n<td><a>서울시청</a></td>\n<td>4위</td>\n<td>2004</td>\n<td>10</td>\n<td><a>서울</a></td>\n<td><a>효창운동장</a></td>\n<td><span><a><img></a></span> <a>박기봉</a>\n</td></tr>\n<tr>\n<td><a>수원도시공사</a></td>\n<td>5위</td>\n<td>2008</td>\n<td>10</td>\n<td><a>수원</a></td>\n<td><a>수원종합운동장</a></td>\n<td><span><a><img></a></span> <a>박길영</a>\n</td></tr>\n<tr>\n<td><a>구미 스포츠토토</a></td>\n<td>6위</td>\n<td>2011</td>\n<td>8</td>\n<td><a>구미</a></td>\n<td><a>구미종합경기장 보조구장 (임시)</a></td>\n<td><span><a><img></a></span> <a>손종석</a>\n</td></tr>\n<tr>\n<td><a>경주 한수원</a></td>\n<td>7위</td>\n<td>2017</td>\n<td>2</td>\n<td><a>경주</a></td>\n<td><a>경주축구공원 제3구장</a></td>\n<td><span><a><img></a></span> <a>하금진</a>\n</td></tr>\n<tr>\n<td><a>보은 상무</a></td>\n<td>8위</td>\n<td>2007</td>\n<td>10</td>\n<td><a>보은</a></td>\n<td><a>보은종합경기장</a></td>\n<td><span><a><img></a></span> <a>이미연</a>\n</td></tr>\n<tr>\n<td><a>창녕 WFC</a></td>\n<td>신생팀</td>\n<td>2018</td>\n<td>1</td>\n<td><a>창녕</a></td>\n<td><a>창녕스포츠파크 양파구장 (임시)</a>\n</td>\n<td><span><a><img></a></span> <a>신상우</a>\n</td></tr>\n</tbody></table>
+- - 2018년 WK리그의 스폰서는 어디일까?
+  - <a>현대제철</a>
+- - 역대 WK리그 올스타전에서 가장 많은 경기를 치룬 경기장은 어디일까요?
+  - <a>보은공설운동장</a>

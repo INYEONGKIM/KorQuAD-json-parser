@@ -1,0 +1,5 @@
+categories:
+- 원_문종
+conversations:
+- - 원 문종은 언제 사망했을까?
+  - <a>1332년</a>

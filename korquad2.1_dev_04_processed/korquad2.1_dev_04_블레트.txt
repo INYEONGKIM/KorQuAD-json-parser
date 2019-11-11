@@ -1,0 +1,5 @@
+categories:
+- 블레트
+conversations:
+- - 블레트는 어느 나라의 대표 관광지야?
+  - 슬로베니아

@@ -1,0 +1,5 @@
+categories:
+- 홍재호
+conversations:
+- - 홍재호 선수는 2016년도에 어느 팀 소속이었나?
+  - <td rowspan="7"><a>KIA</a></td>

@@ -1,0 +1,5 @@
+categories:
+- 세마역
+conversations:
+- - 세마역 주변에 있는 고등학교의 이름은 무엇인가?
+  - <li><a>세마고등학교</a></li>

@@ -1,0 +1,5 @@
+categories:
+- 서울_천축사_마애사리탑
+conversations:
+- - 서울 천축사가 자리한 산은?
+  - 도봉산

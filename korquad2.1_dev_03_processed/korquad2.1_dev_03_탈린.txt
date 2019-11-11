@@ -1,0 +1,5 @@
+categories:
+- 탈린
+conversations:
+- - 탈린의 1월 최고기온은 섭씨 몇도인가?
+  - 9.2

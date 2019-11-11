@@ -1,0 +1,5 @@
+categories:
+- 지구전후도
+conversations:
+- - 지구전후도에서 오대주는 무슨 색일까?
+  - 흰색

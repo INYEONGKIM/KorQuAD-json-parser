@@ -1,0 +1,5 @@
+categories:
+- 조지_가모프
+conversations:
+- - 조지 가모프가 쓴 과학교과서 중 제목에 지구가 들어간 책의 이름은?
+  - <li>Matter, Earth and Sky</li>

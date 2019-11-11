@@ -1,0 +1,5 @@
+categories:
+- 해리_포터
+conversations:
+- - 부활의 돌은 어디에 숨겨져있었나요?
+  - 골든 스니치

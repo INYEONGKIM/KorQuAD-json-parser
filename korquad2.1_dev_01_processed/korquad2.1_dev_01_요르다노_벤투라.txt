@@ -1,0 +1,5 @@
+categories:
+- 요르다노_벤투라
+conversations:
+- - 요라다노 벤투라는 2013년에 어느 구단 소속이었어?
+  - <a>KC</a>

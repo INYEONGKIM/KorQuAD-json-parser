@@ -1,0 +1,5 @@
+categories:
+- 그녀의_신화
+conversations:
+- - 2013년도 방영된 그녀의 신화 1화의 AGB닐슨 전국 유료가구 기준 시청률은 몇 %일까요?
+  - <span><b>0.66%</b></span>

@@ -1,0 +1,5 @@
+categories:
+- 민왕_(소설)
+conversations:
+- - 2015년 1분기 이후에 TV 아사히의 금요 나이트 드라마 방영 일정은 어떠했습니까? 
+  - <table>\n<caption></caption>\n<tbody><tr>\n<th colspan="3"><span><a>TV 아사히</a></span> <span><a>금요 나이트 드라마</a></span></th>\n</tr>\n<tr>\n<th>이전 작품</th>\n<th>작품명</th>\n<th>다음 작품</th>\n</tr>\n<tr>\n<td><div><a>천사와 악마<br/>-미해결 사건 익명 교섭과-</a><br/>(2015.4.10 ~ 2015.6.5)</div>\n</td>\n<td><div><b>민왕</b><br/>(2015.7.24 ~ 2015.9.18)</div>\n</td>\n<td><div><a>사무라이 선생님</a><br/>(2015.10.23 ~ 2015.12.11)</div>\n</td>\n</tr>\n</tbody></table>

@@ -1,0 +1,5 @@
+categories:
+- 이화룡_(배우)
+conversations:
+- - 배우 이화룡이 부당거래에서 맡은 역할은?
+  - 검사

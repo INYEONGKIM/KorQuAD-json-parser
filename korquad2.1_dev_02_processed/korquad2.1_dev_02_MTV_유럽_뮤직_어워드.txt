@@ -1,0 +1,7 @@
+categories:
+- MTV_유럽_뮤직_어워드
+conversations:
+- - MTV유럽 뮤직어워드에서 Best Song상을 탄 크랜베리스는 어떤 곡으로 수상하였는가?
+  - Zombie
+- - 비욘세의 MTV 유럽 뮤직 어워드 수상 횟수는?
+  - 7

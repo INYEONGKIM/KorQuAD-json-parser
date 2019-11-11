@@ -1,0 +1,5 @@
+categories:
+- SK에너지
+conversations:
+- - SK에너지가 2010년에 변경한 사명은 무엇인가?
+  - <a>SK이노베이션</a>

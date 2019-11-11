@@ -1,0 +1,5 @@
+categories:
+- 캔터베리_대학교
+conversations:
+- - 캔터베리 대학교에서 the school of Humanities 학과는 어느 대학 소속일까?
+  - <b>예술대학</b>

@@ -1,0 +1,5 @@
+categories:
+- 한국방위산업진흥회
+conversations:
+- - 한국방위산업진흥회 조직 중 이름이 네글자인 조직은?
+  - <ul><li>교육센터</li></ul></li></ul>

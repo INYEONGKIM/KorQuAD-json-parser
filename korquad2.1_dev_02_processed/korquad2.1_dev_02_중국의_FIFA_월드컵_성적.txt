@@ -1,0 +1,7 @@
+categories:
+- 중국의_FIFA_월드컵_성적
+conversations:
+- - 2002년 한일 월드컵 예선 c조 결과는?
+  - <table>\n<caption>\n</caption>\n<tbody><tr>\n<th>팀\n</th>\n<th><abbr>경기</abbr><br/>\n</th>\n<th><abbr>승</abbr><br/>\n</th>\n<th><abbr>무</abbr><br/>\n</th>\n<th><abbr>패</abbr><br/>\n</th>\n<th><abbr>득</abbr><br/>\n</th>\n<th><abbr>실</abbr><br/>\n</th>\n<th><abbr>차</abbr><br/>\n</th>\n<th><abbr>승점</abbr><br/>\n</th></tr>\n<tr>\n<td><span><a><img></a></span> <a>브라질</a>\n</td>\n<td>3\n</td>\n<td>3\n</td>\n<td>0\n</td>\n<td>0\n</td>\n<td>11\n</td>\n<td>3\n</td>\n<td>+8\n</td>\n<td><b>9</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>터키</a>\n</td>\n<td>3\n</td>\n<td>1\n</td>\n<td>1\n</td>\n<td>1\n</td>\n<td>5\n</td>\n<td>3\n</td>\n<td>+2\n</td>\n<td><b>4</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>코스타리카</a>\n</td>\n<td>3\n</td>\n<td>1\n</td>\n<td>1\n</td>\n<td>1\n</td>\n<td>5\n</td>\n<td>6\n</td>\n<td>−1\n</td>\n<td><b>4</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>중국</a>\n</td>\n<td>3\n</td>\n<td>0\n</td>\n<td>0\n</td>\n<td>3\n</td>\n<td>0\n</td>\n<td>9\n</td>\n<td>−9\n</td>\n<td><b>0</b>\n</td></tr></tbody></table>
+- - 중국의 FIFA 월드컵 순위는 몇 위일까요?
+  - 76위

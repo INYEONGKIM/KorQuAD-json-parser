@@ -1,0 +1,9 @@
+categories:
+- 1984_코파_리베르타도레스
+conversations:
+- - 1984 코파 리베르타도레스에서 블루밍이 속한 조는 어떤 경기 결과를 내었는가?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>승점\n</th>\n<th>경기\n</th>\n<th>승\n</th>\n<th>무\n</th>\n<th>패\n</th>\n<th>득\n</th>\n<th>실\n</th>\n<th>차\n</th></tr>\n<tr>\n<td><span><a><img></a></span> <b><a>우니베르시다드 카톨리카</a></b>\n</td>\n<td><b>9</b></td>\n<td>6</td>\n<td>4</td>\n<td>1</td>\n<td>1</td>\n<td>11</td>\n<td>5</td>\n<td>+6\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>블루밍</a>\n</td>\n<td><b>8</b></td>\n<td>6</td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n<td>10</td>\n<td>6</td>\n<td>+4\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>볼리바르</a>\n</td>\n<td><b>6</b></td>\n<td>6</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>10</td>\n<td>8</td>\n<td>+2\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>오이긴스</a>\n</td>\n<td><b>1</b></td>\n<td>6</td>\n<td>0</td>\n<td>1</td>\n<td>5</td>\n<td>4</td>\n<td>16</td>\n<td>-12\n</td></tr></tbody></table>\n</td>\n<td>\n<table>\n<tbody><tr>\n<th> </th>\n<th><a>UCA</a></th>\n<th><a>BLO</a></th>\n<th><a>BOL</a></th>\n<th><a>HIG</a>\n</th></tr>\n<tr>\n<th><a>우니베르시다드 카톨리카</a>\n</th>\n<td>\n</td>\n<td>0–0\n</td>\n<td>3–1\n</td>\n<td>2–0\n</td></tr>\n<tr>\n<th><a>블루밍</a>\n</th>\n<td>1–2\n</td>\n<td>\n</td>\n<td>2–1\n</td>\n<td>3–0\n</td></tr>\n<tr>\n<th><a>볼리바르</a>\n</th>\n<td>3–2\n</td>\n<td>0–0\n</td>\n<td>\n</td>\n<td>5–1\n</td></tr>\n<tr>\n<th><a>오이긴스</a>\n</th>\n<td>0–2\n</td>\n<td>3–4\n</td>\n<td>0–0\n</td>\n<td>\n</td></tr></tbody></table>
+- - 조별 예선 1조의 경기 결과에서 인데펜디엔테의 승점은?
+  - <td><b>9</b></td>
+- - 1984 코파 리베르타도레스 준결승 B조에서 그레미우팀의 득점은 몇점인가?
+  - <td>14</td>

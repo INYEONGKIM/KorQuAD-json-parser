@@ -1,0 +1,7 @@
+categories:
+- LUNA_SEA
+conversations:
+- - 앨범 LUNA SEA가 나온 년도는?
+  - 1991년
+- - LUNA sea의 앨범 'Singles'가 발매된 년도는?
+  - 1997

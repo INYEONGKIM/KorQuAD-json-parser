@@ -1,0 +1,5 @@
+categories:
+- 라코타족
+conversations:
+- - 라코타족을 이르는 다른 말은 무엇일까?
+  - 테톤

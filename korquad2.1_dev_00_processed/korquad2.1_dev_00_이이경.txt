@@ -1,0 +1,5 @@
+categories:
+- 이이경
+conversations:
+- - 태양의 후예에서 이이경의 극중 이름은?
+  - 강민재

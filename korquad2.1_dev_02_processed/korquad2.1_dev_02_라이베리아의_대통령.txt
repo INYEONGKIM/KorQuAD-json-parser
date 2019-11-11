@@ -1,0 +1,7 @@
+categories:
+- 라이베리아의_대통령
+conversations:
+- - 라이베리아의 임시 국가 원수에는 누가 있을까?
+  - <table>\n<tbody><tr>\n<th colspan="2">이름</th>\n<th>지위</th>\n<th>취임</th>\n<th>임기 완료</th>\n<th>당\n</th></tr>\n<tr>\n<td><a>사무엘 도</a></td>\n<td><a><img></a></td>\n<td><a>민족 수복 위원회</a> 수장</td>\n<td>1980년 4월 12일</td>\n<td>1986년 1월 6일</td>\n<td><a>라이베리아 국가민주당</a>\n</td></tr>\n<tr>\n<td><a>아모스 소여 박사</a></td>\n<td></td>\n<td>국가 통일 과도 정부의 의장</td>\n<td>1990년 11월 22일</td>\n<td>1994년 3월 7일</td>\n<td><a>라이베리아 인민당</a>\n</td></tr>\n<tr>\n<td><a>데이비드 D. 크포르마크포르</a></td>\n<td></td>\n<td>국민 의회의 의장</td>\n<td>1994년 3월 7일</td>\n<td>1995년 9월 1일</td>\n<td>\n</td></tr>\n<tr>\n<td><a>윌턴 G. S. 산카울로</a></td>\n<td></td>\n<td>국민 의회의 의장</td>\n<td>1995년 9월 1일</td>\n<td>1996년 9월 3일</td>\n<td>\n</td></tr>\n<tr>\n<td><a>루스 페리</a></td>\n<td></td>\n<td>국민 의회의 의장</td>\n<td>1996년 9월 3일</td>\n<td>1997년 8월 2일</td>\n<td>\n</td></tr>\n<tr>\n<td><a>규드 브라이언트</a></td>\n<td><a><img></a></td>\n<td>과도 정부 의장</td>\n<td>2003년 10월 14일</td>\n<td>2006년 1월 16일</td>\n<td><a>라이베리아 행동당</a>\n</td></tr></tbody></table>
+- - 라이베리아의 초대 대통령은 누구였을까?
+  - <td><a>조지프 젠킨스 로버츠</a></td>

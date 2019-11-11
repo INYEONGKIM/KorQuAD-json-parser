@@ -1,0 +1,5 @@
+categories:
+- 렛츠고_시간탐험대
+conversations:
+- - 2014년에 방영된 '렛츠고 시간탐험대'라는 방송의 시청률은 얼마나 나왔을까?
+  - <table>\n<tbody><tr>\n<th rowspan="2">회차\n</th>\n<th rowspan="2">방송일자\n</th>\n<th colspan="2"><a>AGB</a> 집계 시청률\n</th></tr>\n<tr>\n<th>평균 시청률\n</th></tr>\n<tr>\n<th>3화\n</th>\n<td><a>2014년</a> <a>1월 4일</a>\n</td>\n<td>0.99%\n</td></tr>\n<tr>\n<th>4화\n</th>\n<td><a>2014년</a> <a>1월 11일</a>\n</td>\n<td>%\n</td></tr>\n<tr>\n<th>5화\n</th>\n<td><a>2014년</a> <a>1월 18일</a>\n</td>\n<td>0.64%\n</td></tr>\n<tr>\n<th>6화\n</th>\n<td><a>2014년</a> <a>1월 25일</a>\n</td>\n<td>0.88%\n</td></tr>\n<tr>\n<th>7화\n</th>\n<td><a>2014년</a> <a>2월 1일</a>\n</td>\n<td>0.85%\n</td></tr>\n<tr>\n<th>8화\n</th>\n<td><a>2014년</a> <a>2월 8일</a>\n</td>\n<td>0.71%\n</td></tr>\n<tr>\n<th>9화\n</th>\n<td><a>2014년</a> <a>2월 15일</a>\n</td>\n<td>0.89%\n</td></tr>\n</tbody></table>

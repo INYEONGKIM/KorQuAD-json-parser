@@ -1,0 +1,5 @@
+categories:
+- 타가메_겐고로
+conversations:
+- - 타가메 겐고로 작품 중 영어 제목으로 된 것은?
+  - <li><i><a>PRIDE</a></i></li>

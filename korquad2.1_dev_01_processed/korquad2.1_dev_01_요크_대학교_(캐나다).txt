@@ -1,0 +1,9 @@
+categories:
+- 요크_대학교_(캐나다)
+conversations:
+- - 요크 대학교의 학과 구성은 어떻게 되는가?
+  - <ul><li>미술,미디어,연기,음악,퍼포먼스 아트,디자인 대학/대학원 (Faculty of liberal arts and professional studies)</li>\n<li>환경대학/대학원 (Faculty of Environmental Studies)</li>\n<li>보건대학/대학원 (Faculty of Health)</li>\n<li>라쏜드 공과대학/대학원 (Lassonde School of Engineering)</li>\n<li>이과대학/대학원 (Faculty of Science)</li>\n<li>인문대학/대학원 (Liberal Arts &amp; Professional Studies)</li>\n<li>슐릭 경영대학/대학원 (Schulich School of Business)</li>\n<li>교육대학/대학원 (Faculty of Education)</li>\n<li>오스구드홀 법과대학원</li>\n<li>글랜던 컬리지 (Glendon College)</li></ul>
+- - 1961년 가을에 요크 대학교는 어디로 이전했을까?
+  - 글렌던대학 자리
+- - 2015년 캐나다 맥클린즈 잡지에서 발표한 내용에 따르면 요크 대학교는 캐다나 내에서 대학순위가 몇 위야?
+  - 8위

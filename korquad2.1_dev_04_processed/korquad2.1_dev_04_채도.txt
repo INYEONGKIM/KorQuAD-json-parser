@@ -1,0 +1,5 @@
+categories:
+- 채도
+conversations:
+- - 웹색상 #800000 일때 채도값S는 얼마일까?
+  - 100

@@ -1,0 +1,5 @@
+categories:
+- 맥베스_(희곡)
+conversations:
+- - 맥베스가 죽인 왕의 이름은 뭐야?
+  - 덩컨

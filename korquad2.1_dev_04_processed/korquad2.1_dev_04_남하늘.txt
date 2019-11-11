@@ -1,0 +1,5 @@
+categories:
+- 남하늘
+conversations:
+- - 남하늘 선수는 몇년도에 미야자키로 이적했을까?
+  - <a>2017년</a>

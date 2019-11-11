@@ -1,0 +1,5 @@
+categories:
+- 퉁화시
+conversations:
+- - 통화시가 통화 지구로 개칭된 년도는 언제일까?
+  - 1970년

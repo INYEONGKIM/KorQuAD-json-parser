@@ -1,0 +1,5 @@
+categories:
+- 기장군
+conversations:
+- - 기장군 기장읍의 인구는 얼마인가요?
+  - <td>55,735</td>

@@ -1,0 +1,7 @@
+categories:
+- 금정역
+conversations:
+- - 금정역에는 몇 개의 출구가 있어?
+  - 8개
+- - 금정역에 인접한 역으로 가는 노선에는 어떤것이 있을까?
+  - <table>\n<tbody><tr>\n<th colspan="3"><a>경부본선</a>\n</th></tr>\n<tr>\n<td>P148 <a>명학</a><br/><span><a>광운대</a> 방면</span>\n</td>\n<td><span>■</span> <a>수도권 전철 1호선</a><br/>경부선 완행\n</td>\n<td>P150 <a>군포</a><br/><span><a>서동탄</a> <span>·</span> <a>신창</a> 방면</span>\n</td></tr>\n<tr>\n<th colspan="3"><a>과천선</a> <span>·</span> <a>안산선</a>\n</th></tr>\n<tr>\n<td>442 <a>범계</a><br/><span><a>당고개</a> 방면</span>\n</td>\n<td><span>■</span> <a>수도권 전철 4호선</a><br/>급행 <span>·</span> 완행\n</td>\n<td>444 <a>산본</a><br/><span><a>안산</a> <span>·</span> <a>오이도</a> 방면</span>\n</td></tr>\n</tbody></table>

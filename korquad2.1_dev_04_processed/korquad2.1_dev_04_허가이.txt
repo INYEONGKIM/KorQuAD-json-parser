@@ -1,0 +1,5 @@
+categories:
+- 허가이
+conversations:
+- - 허가이는 몇년도 부터 노동자로 생활했는가?
+  - <a>1924년</a>

@@ -1,0 +1,5 @@
+categories:
+- 마니커
+conversations:
+- - 마니커의 프리미엄 친환경 닭고기 브랜드는 뭐야?
+  - 닭터의 자연

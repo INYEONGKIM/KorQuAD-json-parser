@@ -1,0 +1,5 @@
+categories:
+- V.O.S
+conversations:
+- - V.O.S 의 연도별 가요 프로그램 1위 수상내역은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>수상 내역 (총 3회)\n</th></tr>\n<tr>\n<th>2007년 (총 1회)\n</th>\n<td>\n<ul><li><b>매일매일 (총 1회)</b>\n<ul><li>11월 1일 <a>M.net</a> 《<a>엠카운트다운</a>》 1위</li></ul></li></ul>\n</td></tr>\n<tr>\n<th>2009년 (총 2회)\n</th>\n<td>\n<ul><li><b>큰일이다 (총 2회)</b>\n<ul><li>6월 18일 <a>M.net</a> 《<a>엠카운트다운</a>》 1위</li>\n<li>6월 25일 <a>M.net</a> 《<a>엠카운트다운</a>》 1위 (2주 연속)</li></ul></li></ul>\n</td></tr></tbody></table>

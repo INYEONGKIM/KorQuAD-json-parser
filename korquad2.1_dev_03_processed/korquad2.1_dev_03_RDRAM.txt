@@ -1,0 +1,5 @@
+categories:
+- RDRAM
+conversations:
+- - 32bit 모듈은 몇개의 메모리채널을 제공할까?
+  - 두 개

@@ -1,0 +1,5 @@
+categories:
+- 에어버스_A300
+conversations:
+- - 에어버스가 설립된 건 어느 해인가?
+  - <a>1970년</a>

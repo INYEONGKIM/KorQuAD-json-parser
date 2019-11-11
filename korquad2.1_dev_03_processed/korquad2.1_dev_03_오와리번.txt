@@ -1,0 +1,5 @@
+categories:
+- 오와리번
+conversations:
+- - 오와리번의 초대 번주는 누구인가?
+  - <a>도쿠가와 요시나오</a><br/><span>徳

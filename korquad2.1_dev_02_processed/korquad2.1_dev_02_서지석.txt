@@ -1,0 +1,5 @@
+categories:
+- 서지석
+conversations:
+- - 한국 배우 '서지석'의 수상 및 후보 목록은 어떨까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>시상식\n</th>\n<th>부문\n</th>\n<th>작품\n</th>\n<th>결과\n</th></tr>\n<tr>\n<td>2006\n</td>\n<td><a>KBS 연기대상</a>\n</td>\n<td>남자 신인연기상\n</td>\n<td><a>열아홉 순정</a>\n</td>\n<td>수상\n</td></tr>\n<tr>\n<td>2012\n</td>\n<td>제46회 <a>납세자의 날</a> 모범납세자상\n</td>\n<td>대통령 표창\n</td>\n<td><small>빈칸</small>\n</td>\n<td>수상\n</td></tr>\n<tr>\n<td>2016\n</td>\n<td><a>SBS 연기대상</a>\n</td>\n<td>장편드라마부문 남자 최우수연기상\n</td>\n<td><a>마녀의 성</a>\n</td>\n<td>후보\n</td></tr>\n</tbody></table>

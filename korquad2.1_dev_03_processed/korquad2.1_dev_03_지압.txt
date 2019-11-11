@@ -1,0 +1,5 @@
+categories:
+- 지압
+conversations:
+- - 지압 팔찌는 어떤 지압점을 자극할까?
+  - P6

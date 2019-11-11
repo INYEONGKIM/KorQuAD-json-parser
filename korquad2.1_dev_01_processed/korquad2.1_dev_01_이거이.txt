@@ -1,0 +1,5 @@
+categories:
+- 이거이
+conversations:
+- - 이거이는 언제 영의정부사가 됬을까?
+  - 1402년

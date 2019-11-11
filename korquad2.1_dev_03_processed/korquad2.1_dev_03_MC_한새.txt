@@ -1,0 +1,5 @@
+categories:
+- MC_한새
+conversations:
+- - MC 한새가 처음 공식 활동을 시작한 것은 몇 년도입니까?
+  - 1995년

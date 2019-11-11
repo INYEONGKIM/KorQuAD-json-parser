@@ -1,0 +1,7 @@
+categories:
+- 도입종
+conversations:
+- - 한국에 도입된 동물 중 척추동물은 무엇이 있을까?
+  - <ul><li><a>뉴트리아</a> Myocastor coypus</li>\n<li><a>떡붕어</a> Carassius cuvieri.</li>\n<li><a>향어</a> Cyprinus carpio</li>\n<li><a>블루길</a> Lepomis macrochirus</li>\n<li><a>큰입배스</a> Micropterus salmoides</li>\n<li><a>황소개구리</a> Rana catesbeiana</li>\n<li><a>붉은귀거북</a> Trachemys scripta</li></ul>
+- - 한반도 도입종 중 미국가재의 학명은 무엇인가?
+  - Procambarus clarkii

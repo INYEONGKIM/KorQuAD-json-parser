@@ -1,0 +1,5 @@
+categories:
+- 최무선
+conversations:
+- - 최무선의 고향은 어디일까?
+  - <a>경상북도</a> <a>영천시</a>

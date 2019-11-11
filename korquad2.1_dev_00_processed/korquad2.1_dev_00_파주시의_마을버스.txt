@@ -1,0 +1,5 @@
+categories:
+- 파주시의_마을버스
+conversations:
+- - 파주시의 마을버스들은 어떤 운행업체들로 구성되어 있을까?
+  - <table>\n<tbody><tr>\n<th>운행업체\n</th>\n<th>노선 번호\n</th>\n<th>등록 대수\n</th></tr>\n<tr>\n<th><a>대중교통</a>\n</th>\n<td>060, 065, 065-1, 066\n</td>\n<td>10\n</td></tr>\n<tr>\n<th><a>동원교통</a>\n</th>\n<td>061, 062\n</td>\n<td>3\n</td></tr>\n<tr>\n<th><a>명진교통</a>\n</th>\n<td>092\n</td>\n<td>3\n</td></tr>\n<tr>\n<th><a>문산여객</a>\n</th>\n<td>050, 051, 052, 058\n</td>\n<td>10\n</td></tr>\n<tr>\n<th><a>대운여객</a>\n</th>\n<td>011, 022, 068, 069\n</td>\n<td>12\n</td></tr>\n<tr>\n<th><a>신일운수</a>\n</th>\n<td>021, 067\n</td>\n<td>3\n</td></tr>\n<tr>\n<th><a>우리교통</a>\n</th>\n<td>030, 032, 033, 037, 080A, 080B, 081\n</td>\n<td>20\n</td></tr>\n<tr>\n<th><a>으뜸교통</a>\n</th>\n<td>091\n</td>\n<td>1\n</td></tr>\n<tr>\n<th><a>한일운수</a>\n</th>\n<td>025, 034, 036, 038, 063, 064, 073, 078, 082, 083, 087, 088\n</td>\n<td>26\n</td></tr>\n<tr>\n<th><a>한전운수</a>\n</th>\n<td>053, 054, 055\n</td>\n<td>4\n</td></tr></tbody></table>

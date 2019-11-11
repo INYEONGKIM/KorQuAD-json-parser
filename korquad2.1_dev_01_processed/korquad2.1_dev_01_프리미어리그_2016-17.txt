@@ -1,0 +1,9 @@
+categories:
+- 프리미어리그_2016-17
+conversations:
+- - 2016-2017 프리미어리그에서 감독이 변화한 팀들은 어떤 팀들이 있나요?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>전임 감독\n</th>\n<th>사유\n</th>\n<th>사임 일자\n</th>\n<th>당시 순위\n</th>\n<th>신임 감독\n</th>\n<th>임명 일자\n</th></tr>\n<tr>\n<td><a>맨체스터 유나이티드</a>\n</td>\n<td><a>루이스 판 할</a>\n</td>\n<td>경질\n</td>\n<td>2016년 5월 24일\n</td>\n<td rowspan="2"><i>시즌 개막 이전</i>\n</td>\n<td><a>조세 무리뉴</a>\n</td>\n<td>2016년 5월 27일\n</td></tr>\n<tr>\n<td><a>첼시</a>\n</td>\n<td><a>거스 히딩크</a> (감독대행)\n</td>\n<td>임시 감독 대행 계약만료\n</td>\n<td>2016년 5월 19일\n</td>\n<td><a>안토니오 콘테</a>\n</td>\n<td>2016년 7월 13일\n</td></tr>\n<tr>\n<td><a>사우스햄튼</a>\n</td>\n<td><a>로날드 쿠만</a>\n</td>\n<td>타 팀 이적\n</td>\n<td>2016년 6월 10일\n</td>\n<td rowspan="2"><i>시즌 개막 이전</i>\n</td>\n<td><a>클로드 퓌엘</a>\n</td>\n<td>2016년 6월 14일\n</td></tr>\n<tr>\n<td><a>헐 시티</a>\n</td>\n<td><a>스티브 브루스</a>\n</td>\n<td>사임\n</td>\n<td>2016년 7월 31일\n</td>\n<td>아셈 알람 (감독대행)\n</td>\n<td>2016년 8월 1일\n</td></tr>\n<tr>\n<td><a>맨체스터 시티</a>\n</td>\n<td><a>마누엘 페예그리니</a>\n</td>\n<td>사임\n</td>\n<td>2016년 5월 20일\n</td>\n<td rowspan="1"><i>시즌 개막 이전</i>\n</td>\n<td><a>펩 과르디올라</a>\n</td>\n<td>2016년 7월 8일\n</td></tr>\n<tr>\n<td><a>스완지 시티</a>\n</td>\n<td><a>프란체스코 귀돌린</a>\n</td>\n<td>경질\n</td>\n<td>2016년 10월 3일\n</td>\n<td>17위\n</td>\n<td><a>밥 브래들리</a>\n</td>\n<td>2016년 10월 3일\n</td></tr>\n<tr>\n<td><a>레스터 시티</a>\n</td>\n<td><a>클라우디오 라니에리</a>\n</td>\n<td>경질\n</td>\n<td>2017년 2월 24일\n</td>\n<td>15위\n</td>\n<td><a>크레이그 셰익스피어</a>\n</td>\n<td>2017년 2월 26일\n</td></tr></tbody></table>
+- - 12월에 이달의 감독상을 받은 감독이 속한 팀은 무엇인가?
+  - <a>첼시</a>
+- - 프리미어리그 2016-17시즌에 에버턴 소속인 선수의 이름은?
+  - <a>로멜루 루카쿠</a>

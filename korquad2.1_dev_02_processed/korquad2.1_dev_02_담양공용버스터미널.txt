@@ -1,0 +1,7 @@
+categories:
+- 담양공용버스터미널
+conversations:
+- - 담양공용버스터미널을 지나는 농어촌버스에는 어떤 것들이 있나요?
+  - <table>\n<tbody><tr>\n<th>운행<br/>노선\n</th>\n<th>운행업체\n</th>\n<th colspan="3">운행구간\n</th>\n<th>경유지\n</th>\n<th>배차<br/>간격\n</th>\n<th>시간표\n</th></tr>\n<tr>\n<th>303\n</th>\n<td><a>담양운수</a>\n</td>\n<td>담양\n</td>\n<th><span>↔ </span>\n</th>\n<td><a>롯데백화점</a>\n</td>\n<td>무정, 창평, 고서, 농산물공판장, 서방시장\n</td>\n<td>시간표 참조\n</td>\n<td><a>303번 시간표</a>\n</td></tr>\n<tr>\n<th>322<sup><a>[2]</a></sup>\n</th>\n<td><a>동광고속</a>\n</td>\n<td>담양\n</td>\n<th><span>↔ </span>\n</th>\n<td>대인광장\n</td>\n<td>백동사거리, 담양공고, 봉산지서, 송강정, 장등입구, 도선사, 농산물공판장, 무등도서관\n</td>\n<td>10분\n</td>\n<td>첫차:06:10(담양 기준)<br/>막차:21:10(담양 기준)\n</td></tr>\n</tbody></table>
+- - 담양공용버스터미널 시외버스들중에 하루에 딱 한번만 배차되어있는 버스는 종점이 어디인 버스일까
+  - <a>인천</a>

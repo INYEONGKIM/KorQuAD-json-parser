@@ -1,0 +1,5 @@
+categories:
+- 1998년_FIFA_월드컵_예선
+conversations:
+- - 1998년 FIFA 월드컵 예선 당시 노르웨이와 헝가리는 몇 조에 편성되었는가?
+  - 3조

@@ -1,0 +1,7 @@
+categories:
+- 간지
+conversations:
+- - 십이간지의 동물들이 각자 상징하는 속성은 무엇입니까? 
+  - <table>\n<tbody><tr>\n<th>십이지\n</th>\n<td><a>자</a>(子)</td>\n<td><a>축</a>(丑)</td>\n<td><a>인</a>(寅)</td>\n<td><a>묘</a>(卯)</td>\n<td><a>진</a>(辰)</td>\n<td><a>사</a>(巳)</td>\n<td><a>오</a>(午)</td>\n<td><a>미</a>(未)</td>\n<td><a>신</a>(申)</td>\n<td><a>유</a>(酉)</td>\n<td><a>술</a>(戌)</td>\n<td><a>해</a>(亥)\n</td></tr>\n<tr>\n<th>음양\n</th>\n<td>양(陽)</td>\n<td>음(陰)</td>\n<td>양(陽)</td>\n<td>음(陰)</td>\n<td>양(陽)</td>\n<td>음(陰)</td>\n<td>양(陽)</td>\n<td>음(陰)</td>\n<td>양(陽)</td>\n<td>음(陰)</td>\n<td>양(陽)</td>\n<td>음(陰)\n</td></tr>\n<tr>\n<th>오행\n</th>\n<td>수(水)</td>\n<td>토(土)</td>\n<td>목(木)</td>\n<td>목(木)</td>\n<td>토(土)</td>\n<td>화(火)</td>\n<td>화(火)</td>\n<td>토(土)</td>\n<td>금(金)</td>\n<td>금(金)</td>\n<td>토(土)</td>\n<td>수(水)\n</td></tr>\n<tr>\n<th>동물\n</th>\n<td><a>쥐</a></td>\n<td><a>소</a></td>\n<td><a>호랑이</a></td>\n<td><a>토끼</a></td>\n<td><a>용</a></td>\n<td><a>뱀</a></td>\n<td><a>말</a></td>\n<td><a>양</a></td>\n<td><a>원숭이</a></td>\n<td><a>닭</a></td>\n<td><a>개</a></td>\n<td><a>돼지</a>\n</td></tr></tbody></table>
+- - 십간 중 양이 상징하는 숫자는 무엇인가?
+  - <td>8</td>

@@ -1,0 +1,5 @@
+categories:
+- 진저우시_(랴오닝성)
+conversations:
+- - 랴오닝성의 3월 평균강수일수는?
+  - 2.6

@@ -1,0 +1,5 @@
+categories:
+- MusicXML
+conversations:
+- - MusicXML 2.0은 언제 발표되었을까?
+  - 2007 년 6 월

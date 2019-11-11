@@ -1,0 +1,5 @@
+categories:
+- 지방도_제597호선
+conversations:
+- - 미선로는 어떤 군에 속해있는가?
+  - <a>괴산군</a>

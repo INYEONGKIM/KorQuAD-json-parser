@@ -1,0 +1,5 @@
+categories:
+- 이제훈
+conversations:
+- - 이제훈이 출연한 드라마 작품은?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>방송사\n</th>\n<th>제목\n</th>\n<th>역할\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>2010\n</td>\n<td rowspan="3"><a>SBS</a>\n</td>\n<td>《<a>세 자매</a>》\n</td>\n<td>김은국\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2012\n</td>\n<td>《<a>패션왕</a>》\n</td>\n<td>정재혁\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2014\n</td>\n<td>《<a>비밀의 문: 의궤 살인 사건</a>》\n</td>\n<td><a>사도세자</a>(이선)\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2016\n</td>\n<td rowspan="2"><a>tvN</a>\n</td>\n<td>《<a>시그널</a>》\n</td>\n<td>박해영\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2017\n</td>\n<td>《<a>내일 그대와</a>》\n</td>\n<td>유소준\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2018\n</td>\n<td><a>SBS</a>\n</td>\n<td>《<a>여우각시별</a>》\n</td>\n<td>이수연\n</td>\n<td>\n</td></tr>\n</tbody></table>

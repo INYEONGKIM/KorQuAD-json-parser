@@ -1,0 +1,5 @@
+categories:
+- 최진영_(배우)
+conversations:
+- - 영화 러브러브가 상영되었던 년도는?
+  - <a>1998년</a>

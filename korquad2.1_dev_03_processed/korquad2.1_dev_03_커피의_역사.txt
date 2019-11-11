@@ -1,0 +1,5 @@
+categories:
+- 커피의_역사
+conversations:
+- - 터키가 예멘을 지배한 것은 몇 년도인가?
+  - 1536년

@@ -1,0 +1,5 @@
+categories:
+- 데이비드_오
+conversations:
+- - 데이비드 오의 앨범 SKINSHIPS의 발매년도는?
+  - 2016년 4

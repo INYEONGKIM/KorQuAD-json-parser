@@ -1,0 +1,5 @@
+categories:
+- 해외부패방지법
+conversations:
+- - 2010년 FCPA위반의 처벌액수는 얼마야?
+  - 18억

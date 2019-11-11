@@ -1,0 +1,5 @@
+categories:
+- 제트블루_항공
+conversations:
+- - 제트블루 항공이 설립된 년도는 언제야?
+  - 1999

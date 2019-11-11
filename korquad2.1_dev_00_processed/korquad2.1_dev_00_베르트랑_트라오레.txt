@@ -1,0 +1,7 @@
+categories:
+- 베르트랑_트라오레
+conversations:
+- - 베르트랑 트라오레가 첫 골을 넣은 해는 언제야?
+  - 2013년
+- - 베르트랑 트라오레 클럽 경기 통계는 어때?
+  - <table>\n<tbody><tr>\n<th rowspan="2">클럽\n</th>\n<th rowspan="2">시즌\n</th>\n<th colspan="2">리그\n</th>\n<th colspan="2">FA컵\n</th>\n<th colspan="2"><a>UEFA</a>(대륙간 대회)\n</th>\n<th colspan="2">기타<sup><a>[34]</a></sup>\n</th>\n<th colspan="2">합계\n</th></tr>\n<tr>\n<th>출장\n</th>\n<th>득점\n</th>\n<th>출장\n</th>\n<th>득점\n</th>\n<th>출장\n</th>\n<th>득점\n</th>\n<th>출장\n</th>\n<th>득점\n</th>\n<th>출장\n</th>\n<th>득점\n</th></tr>\n<tr>\n<td rowspan="3"><a>피테서</a> (임대)\n</td>\n<td>2013-2014\n</td>\n<td>15</td>\n<td>3</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>15</td>\n<td>3\n</td></tr>\n<tr>\n<td>2014-2015\n</td>\n<td>33</td>\n<td>14</td>\n<td>3</td>\n<td>3</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>36</td>\n<td>17\n</td></tr>\n<tr>\n<td><b>합계</b>\n</td>\n<th>48</th>\n<th>17</th>\n<th>3</th>\n<th>3</th>\n<th>0</th>\n<th>0</th>\n<th>0</th>\n<th>0</th>\n<th>51</th>\n<th>20\n</th></tr>\n<tr>\n<td rowspan="1"><a>첼시</a>\n</td>\n<td>2015-2016\n</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0\n</td></tr>\n<tr>\n<td colspan="2"><b>총합</b>\n</td>\n<th>48</th>\n<th>17</th>\n<th>3</th>\n<th>3</th>\n<th>1</th>\n<th>0</th>\n<th>0</th>\n<th>0</th>\n<th>52</th>\n<th>21\n</th></tr>\n</tbody></table>

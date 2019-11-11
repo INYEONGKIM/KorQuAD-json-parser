@@ -1,0 +1,7 @@
+categories:
+- 클로이_베넷
+conversations:
+- - 2010년부터 2015년까지 클로이 베넷은 어떤 작품들에 출연했을까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>제목\n</th>\n<th>원제\n</th>\n<th>배역\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>2010\n</td>\n<td>나이트라이프\n</td>\n<td><i>The Nightlife</i>\n</td>\n<td>본인\n</td>\n<td>클로이 왕 명의\n</td></tr>\n<tr>\n<td>2012\n</td>\n<td>인터셉트\n</td>\n<td><i>Intercept</i>\n</td>\n<td>테스\n</td>\n<td>미방영 작품\n</td></tr>\n<tr>\n<td>2012-13\n</td>\n<td><a>내슈빌</a>\n</td>\n<td><i>Nashville</i>\n</td>\n<td>헤일리\n</td>\n<td>4회분 출연\n</td></tr>\n<tr>\n<td>2013-현재\n</td>\n<td><a>에이전트 오브 쉴드</a>\n</td>\n<td><i>Marvel's Agents of S.H.I.E.L.D.</i>\n</td>\n<td><a>데이지 존슨 / 스카이 / 퀘이크</a>\n</td>\n<td>주인공\n</td></tr>\n<tr>\n<td>2015\n</td>\n<td><a>제이크와 네버랜드 해적들</a>\n</td>\n<td><i>Jake and the Never Land Pirates</i>\n</td>\n<td>스위프티(목소리 출연)\n</td>\n<td>"Flight of the Feathers/Captain Hookity Hook" 에피소드 출연\n</td></tr>\n</tbody></table>
+- - 클로이 베넷의 영화 중 2014년 출연작 제목은?
+  - 노스트라다무스

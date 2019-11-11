@@ -1,0 +1,7 @@
+categories:
+- 유러피언컵_1955-56
+conversations:
+- - 유러피언컵 1955-56의 8강전의 결과는 어떨까?
+  - <table>\n<tbody><tr>\n<th>팀 1\n</th>\n<th>결과\n</th>\n<th>팀 2\n</th>\n<th>1차전\n</th>\n<th>2차전\n</th></tr>\n<tr>\n<td><a>유르고르덴</a> <span><a><img></a></span>\n</td>\n<td>1–4\n</td>\n<td><span><a><img></a></span> <b><a>하이버니언</a></b>\n</td>\n<td>1–3\n</td>\n<td>0–1\n</td></tr>\n<tr>\n<td><b><a>스타드 랭스</a></b> <span><a><img></a></span>\n</td>\n<td>8–6\n</td>\n<td><span><a><img></a></span> <a>뵈뢰슈 로보고</a>\n</td>\n<td>4–2\n</td>\n<td>4–4\n</td></tr>\n<tr>\n<td><b><a>레알 마드리드</a></b> <span><a><img></a></span>\n</td>\n<td>4–3\n</td>\n<td><span><a><img></a></span> <a>파르티잔</a>\n</td>\n<td>4–0\n</td>\n<td>0–3\n</td></tr>\n<tr>\n<td><a>라피트 빈</a> <span><a><img></a></span>\n</td>\n<td>3–8\n</td>\n<td><span><a><img></a></span> <b><a>밀란</a></b>\n</td>\n<td>1–1\n</td>\n<td>2–7\n</td></tr></tbody></table>
+- - 밀란과 자르브뤼켄의 1차전 경기 결과는?
+  - 3–4

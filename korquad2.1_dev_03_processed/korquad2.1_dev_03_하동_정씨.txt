@@ -1,0 +1,5 @@
+categories:
+- 하동_정씨
+conversations:
+- - 하동 정씨의 26세 항렬자는 무엇일까?
+  - <td>순(淳)口</td>

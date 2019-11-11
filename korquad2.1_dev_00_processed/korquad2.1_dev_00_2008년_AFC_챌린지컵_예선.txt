@@ -1,0 +1,5 @@
+categories:
+- 2008년_AFC_챌린지컵_예선
+conversations:
+- - 2008년 AFC 챌린지컵 예선 조별리그 당시 B조에 속한 팀들은 어떤 성적을 거뒀을까?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>승점\n</th>\n<th>경기\n</th>\n<th>승\n</th>\n<th>무\n</th>\n<th>패\n</th>\n<th>득\n</th>\n<th>실\n</th>\n<th>차\n</th></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>타지키스탄</a></b>\n</td>\n<td><b>7</b></td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n<td>0</td>\n<td>7</td>\n<td>1</td>\n<td>+6\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>필리핀</a>\n</td>\n<td><b>7</b></td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n<td>0</td>\n<td>4</td>\n<td>0</td>\n<td>+4\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>부탄</a>\n</td>\n<td><b>1</b></td>\n<td>3</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>2</td>\n<td>7</td>\n<td>−5\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>브루나이</a>\n</td>\n<td><b>1</b></td>\n<td>3</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>1</td>\n<td>6</td>\n<td>−5\n</td></tr></tbody></table>

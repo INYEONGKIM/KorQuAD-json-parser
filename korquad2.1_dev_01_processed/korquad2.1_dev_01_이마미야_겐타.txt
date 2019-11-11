@@ -1,0 +1,7 @@
+categories:
+- 이마미야_겐타
+conversations:
+- - 이마미야 겐타의 2011년부터 2014년까지 연도별 수비 성적은 어떻게 되는가?
+  - <table>\n<tbody><tr>\n<th rowspan="2">연도</th>\n<th colspan="6">1루</th>\n<th colspan="6">유격\n</th></tr>\n<tr>\n<th>경기</th>\n<th>척살</th>\n<th>보살</th>\n<th>실책</th>\n<th>병살</th>\n<th>수비율</th>\n<th>경기</th>\n<th>척살</th>\n<th>보살</th>\n<th>실책</th>\n<th>병살</th>\n<th>수비율\n</th></tr>\n<tr>\n<td>2011</td>\n<td>11</td>\n<td>25</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>1.000</td>\n<td colspan="6">-\n</td></tr>\n<tr>\n<td>2012</td>\n<td colspan="6">-</td>\n<td>122</td>\n<td>143</td>\n<td>257</td>\n<td>12</td>\n<td>35</td>\n<td>.971\n</td></tr>\n<tr>\n<td>2013</td>\n<td colspan="6">-</td>\n<td><b>143</b></td>\n<td><b>263</b></td>\n<td><b>440</b></td>\n<td><b>13</b></td>\n<td><b>89</b></td>\n<td>.982\n</td></tr>\n<tr>\n<td>2014</td>\n<td colspan="6">-</td>\n<td><b>144</b></td>\n<td><b>248</b></td>\n<td>433</td>\n<td><b>15</b></td>\n<td>79</td>\n<td>.978\n</td></tr>\n<tr>\n<th>통산\n</th>\n<td>11</td>\n<td>25</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>1.000</td>\n<td>409</td>\n<td>654</td>\n<td>1130</td>\n<td>40</td>\n<td>203</td>\n<td>.978\n</td></tr></tbody></table>
+- - 야구선수 이마미야 겐타가 약 5년 동안 소속했던 팀은 어디인가?
+  - <a>소프트뱅크</a>

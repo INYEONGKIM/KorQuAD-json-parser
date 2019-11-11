@@ -1,0 +1,5 @@
+categories:
+- 노화읍
+conversations:
+- - 법정리인 내리에는 어떤 행정리가 있나요?
+  - 내리, 어룡리

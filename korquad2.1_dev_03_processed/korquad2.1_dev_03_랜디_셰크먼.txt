@@ -1,0 +1,5 @@
+categories:
+- 랜디_셰크먼
+conversations:
+- - 랜디 셰크먼은 언제 SEC 유전자를 발견했을까?
+  - Saccharomyces cerevisiae의 <a>온도감수성 돌연변이</a>체

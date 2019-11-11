@@ -1,0 +1,23 @@
+categories:
+- 창빈_(가수)
+conversations:
+- - 가수 창빈은 2018년에 어느 팀으로 데뷔했어?
+  - <a>스트레이 키즈</a>
+- - 2018년부터 2019년까지 창빈이 속한 스트레이 키즈는 어떤 음반들을 발표했을까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>Artist\n</th>\n<th>제목\n</th>\n<th>앨범\n</th>\n<th>공급사\n</th></tr>\n<tr>\n<th rowspan="1">2018\n</th>\n<td rowspan="1"><a>스트레이 키즈</a>\n</td>\n<td>\n<ul><li><a>Stray Kids &lt; I am NOT &gt;</a><sup><a>[9]</a></sup></li></ul>\n</td>\n<td rowspan="1">《<a>I am NOT</a>》\n</td>\n<td rowspan="1"><a>JYP 엔터테인먼트</a>\n</td></tr>\n<tr>\n<th rowspan="1">2019\n</th>\n<td rowspan="1"><a>스트레이 키즈</a>\n</td>\n<td>\n<ul><li><a>Stray Kids &lt;Clé 2 : Yellow Wood&gt;</a><sup><a>[10]</a></sup></li></ul>\n</td>\n<td rowspan="1">《Clé 2 : Yellow Wood》\n</td>\n<td rowspan="1"><a>JYP 엔터테인먼트</a>\n</td></tr>\n</tbody></table>
+- - 스트레이 키즈의 창빈이 2019년 3월 26일 출연했던 아이돌룸의 방송사는 어디일까요?
+  - <a>JTBC</a>
+- - 2019년 4월 18일 엠카운트다운에서 창빈이 부른 노래는 뭘까?
+  - 3RACHA (방찬 X 창빈 X 한) &lt;ZONE&
+- - 가수 창빈이 2017년에 발매한 첫 번째 앨범의 제목은?
+  - J:/2017
+- - 스트레이 키즈의 창빈이 출연한 첫 번째 뮤비명은?
+  - Stray Kids &lt;Hellevator&
+- - 앨범 I am NOT는 언제 발매했을까?
+  - 2018
+- - 창빈이 2018년 출연한 딩고뮤직 미래일기 ep06화는 어느방송사에서 방송되었을까?
+  - 웹 방송
+- - 창빈이 2017년에 참여한 곡 전사의 후예는 원래 어느 가수의 곡인가? 
+  -  : <a>H.O
+- - 창빈이 참여한 윤지성의 노래는 무엇일까?
+  - &lt;바람 같은 너 (<a>Feat</a>. 창빈 of <a>Stray Kids</a>)&gt;<sup><a>

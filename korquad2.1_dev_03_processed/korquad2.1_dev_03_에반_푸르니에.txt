@@ -1,0 +1,7 @@
+categories:
+- 에반_푸르니에
+conversations:
+- - 에반 푸르니에의 NBA 플레이오프에서의 경력 통계는 어떨까?
+  - <table>\n<tbody><tr>\n<th>시즌\n</th>\n<th>팀\n</th>\n<th>경기\n</th>\n<th>선발\n</th>\n<th>출장시간\n</th>\n<th>야투%\n</th>\n<th>3점슛%\n</th>\n<th>자유투%\n</th>\n<th>리바운드\n</th>\n<th>어시스트\n</th>\n<th>스틸\n</th>\n<th>블록\n</th>\n<th>득점\n</th></tr>\n<tr>\n<td><a>2013</a>\n</td>\n<td>덴버\n</td>\n<td>4</td>\n<td>4</td>\n<td>13.3</td>\n<td>.353</td>\n<td>.000</td>\n<td>.875</td>\n<td>.0</td>\n<td>1.0</td>\n<td>.5</td>\n<td>.0</td>\n<td>4.8\n</td></tr>\n<tr>\n<td>경력\n</td>\n<td>\n</td>\n<td>4</td>\n<td>4</td>\n<td>13.3</td>\n<td>.353</td>\n<td>.000</td>\n<td>.875</td>\n<td>.0</td>\n<td>1.0</td>\n<td>.5</td>\n<td>.0</td>\n<td>4.8\n</td></tr></tbody></table>
+- - 2012-13시즌에서 출장시간은?
+  - <td>11.3</td>

@@ -1,0 +1,5 @@
+categories:
+- 도둑의_딸
+conversations:
+- - '도둑의 딸' 극 중 광수의 첫째로 나오는 배우는?
+  - <a>이경영</a>

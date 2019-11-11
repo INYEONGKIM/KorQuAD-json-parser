@@ -1,0 +1,5 @@
+categories:
+- 브렛_필
+conversations:
+- - 브렛 필이 KIA 타이거즈에 영입된 것은 몇 년도입니까?
+  - <a>2014년</a>

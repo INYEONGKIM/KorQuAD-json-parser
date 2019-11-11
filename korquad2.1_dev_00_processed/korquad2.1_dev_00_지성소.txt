@@ -1,0 +1,5 @@
+categories:
+- 지성소
+conversations:
+- - 지성소에 출입할 수 있는 사람은 누구인가?
+  - 대제사장

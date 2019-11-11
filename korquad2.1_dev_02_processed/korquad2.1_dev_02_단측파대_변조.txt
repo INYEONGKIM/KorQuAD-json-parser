@@ -1,0 +1,5 @@
+categories:
+- 단측파대_변조
+conversations:
+- - 단측파대 변조에 대해 미국에서 처음으로 특허를 낸 사람은 누구일까?
+  - 존 랜셔 카슨(John Renshaw Carson)

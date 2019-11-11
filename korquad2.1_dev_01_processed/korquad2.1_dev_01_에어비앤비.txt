@@ -1,0 +1,5 @@
+categories:
+- 에어비앤비
+conversations:
+- - 에어비앤비의 처음 이름은 무엇이었나?
+  - Airbedandbreakfast.com

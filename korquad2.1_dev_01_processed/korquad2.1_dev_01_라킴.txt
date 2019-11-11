@@ -1,0 +1,7 @@
+categories:
+- 라킴
+conversations:
+- - 고스트 페이스킬라가 라킴을 무엇이라고 칭하였는가?
+  - The Older God
+- - 가수 라킴의 1989년 발매한 앨범의 이름은 무엇입니까?
+  - Friends

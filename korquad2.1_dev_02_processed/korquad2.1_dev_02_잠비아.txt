@@ -1,0 +1,5 @@
+categories:
+- 잠비아
+conversations:
+- - 잠비아는 약 몇 개의 부족이 있나요?
+  - 35개

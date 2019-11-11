@@ -1,0 +1,5 @@
+categories:
+- 슈타이어_AUG
+conversations:
+- - 아일랜드에서 AUG를 제식 소총으로 등록한 년도는 언제인가?
+  - 1988년

@@ -1,0 +1,7 @@
+categories:
+- UEFA_유로_2004_결승전
+conversations:
+- - UEFA 유로 2004 결승전의 통계는 어떨까?
+  - <table>\n<caption>전체<sup><a>[8]</a></sup>\n</caption>\n<tbody><tr>\n<th>통계\n</th>\n<th>포르투갈\n</th>\n<th>그리스\n</th></tr>\n<tr>\n<td>득점</td>\n<td>0</td>\n<td>1\n</td></tr>\n<tr>\n<td>슈팅</td>\n<td>17</td>\n<td>4\n</td></tr>\n<tr>\n<td>유효 슈팅</td>\n<td>5</td>\n<td>1\n</td></tr>\n<tr>\n<td>점유율</td>\n<td>58%</td>\n<td>42%\n</td></tr>\n<tr>\n<td>코너킥</td>\n<td>10</td>\n<td>1\n</td></tr>\n<tr>\n<td>반칙</td>\n<td>18</td>\n<td>19\n</td></tr>\n<tr>\n<td>오프사이드</td>\n<td>4</td>\n<td>3\n</td></tr>\n<tr>\n<td>경고</td>\n<td>2</td>\n<td>4\n</td></tr>\n<tr>\n<td>퇴장</td>\n<td>0</td>\n<td>0\n</td></tr></tbody></table>
+- - 포르투칼은 UEFA 유로 2004 결승전에서 몇 승을 했을까?
+  - <td>2</td>

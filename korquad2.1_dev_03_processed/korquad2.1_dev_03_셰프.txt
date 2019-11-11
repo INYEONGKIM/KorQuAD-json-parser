@@ -1,0 +1,5 @@
+categories:
+- 셰프
+conversations:
+- - 프랑스 대혁명은 언제 일어났는가?
+  - 18세기 말

@@ -1,0 +1,7 @@
+categories:
+- 왕걸
+conversations:
+- - 왕걸의 광동어 앨범에는 어떤것들이 있을까?
+  - <table>\n<tbody><tr>\n<th>발행일\n</th>\n<th>앨범명\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>1989.02.28\n</td>\n<td>《故事的角色》\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1989.08.31\n</td>\n<td>《誰明浪子心》\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1989.12.22\n</td>\n<td>《人在風雨中》\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1990.10.28\n</td>\n<td>《流浪的心》\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1991.11.30\n</td>\n<td>《一生心碎》\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1992.06\n</td>\n<td>《封鎖我一生》\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1993.05.31\n</td>\n<td>《她》\n</td>\n<td>\n</td></tr>\n<tr>\n<td>1996.05.31\n</td>\n<td>《啞巴的傑作》\n</td>\n<td>1994년에 완성한 앨범이지만, 사정상 1996년에 발매되었다.\n</td></tr>\n<tr>\n<td>2000.01.18\n</td>\n<td>《Giving》\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2000.12.19\n</td>\n<td>《HELLO!》\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2002.7.12\n</td>\n<td>《愛與夢》\n</td>\n<td>\n</td></tr>\n</tbody></table>
+- - 왕걸의 음반 중 만세를 비롯한 신곡이 포함된 정선집인 음반의 발매일은 언제인가?
+  - <a>2001년</a> 4월3일

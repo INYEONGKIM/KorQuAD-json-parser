@@ -1,0 +1,7 @@
+categories:
+- 볼프하르트_판넨베르크
+conversations:
+- - 판넨베르크는 어느 지역에서 태어났어?
+  - <a>슈체친</a>
+- - 볼프하르트 판넨베르크의 1968년 저서는?
+  - <i>Jesus: God and Man</i>

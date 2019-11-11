@@ -1,0 +1,5 @@
+categories:
+- 그린피스
+conversations:
+- - 그린피스의 국제본부는 어디에 있습니까?
+  - 암스테르담

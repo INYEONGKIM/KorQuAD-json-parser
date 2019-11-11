@@ -1,0 +1,5 @@
+categories:
+- 창원_구씨
+conversations:
+- - 창원 구씨 21세손은 어떤 항렬자를 사용할까요?
+  - 영

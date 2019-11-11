@@ -1,0 +1,5 @@
+categories:
+- 최우석_(배우)
+conversations:
+- - 최우석이 '명가'에서 맡은 배역의 이름은?
+  - 상백

@@ -1,0 +1,5 @@
+categories:
+- 고려_희종
+conversations:
+- - 희종이 즉위한 해는 언제야
+  - <a>1204년</a>

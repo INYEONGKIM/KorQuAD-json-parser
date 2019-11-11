@@ -1,0 +1,5 @@
+categories:
+- 대구_중구의_행정_구역
+conversations:
+- - 대구시 태평로 3가는 구 행정구역과 신 행정구역을 어떻게 표시하고 있는가?
+  - <table>\n<tbody><tr>\n<td colspan="2">법률 제1641호 대구시의구의관할구역변경에관한법률\n</td></tr>\n<tr>\n<th>구 행정구역 (법정동)</th>\n<th>신 행정구역\n</th></tr>\n<tr>\n<td>대구시 북구 태평로3가</td>\n<td>대구시 <b>중구</b> 태평로3가\n</td></tr></tbody></table>

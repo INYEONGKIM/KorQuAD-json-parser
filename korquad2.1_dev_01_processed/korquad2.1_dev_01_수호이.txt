@@ -1,0 +1,5 @@
+categories:
+- 수호이
+conversations:
+- - 농업용 항공기의 명칭은?
+  - <a>Su-38</a>

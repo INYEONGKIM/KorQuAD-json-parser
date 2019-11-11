@@ -1,0 +1,5 @@
+categories:
+- 거문도
+conversations:
+- - 거문도의 면적은 어느 정도일까?
+  - 12 km²

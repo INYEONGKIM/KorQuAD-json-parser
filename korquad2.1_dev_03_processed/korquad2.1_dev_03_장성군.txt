@@ -1,0 +1,13 @@
+categories:
+- 장성군
+conversations:
+- - 임권택 시네마테크는 몇 층으로 건설되었나요?
+  - 3층
+- - 행정구역 장성군의 인구는 몇명인가?
+  - <table>\n<tbody><tr>\n<th>읍면동</th>\n<th>한자</th>\n<th>세대</th>\n<th>인구</th>\n<th>면적\n</th></tr>\n<tr>\n<td><b><a>장성읍</a></b></td>\n<td>長城邑</td>\n<td>5,848</td>\n<td>13,556</td>\n<td>69.5\n</td></tr>\n<tr>\n<td><b><a>진원면</a></b></td>\n<td>珍原面</td>\n<td>1,441</td>\n<td>3,335</td>\n<td>28.3\n</td></tr>\n<tr>\n<td><b><a>남면</a></b></td>\n<td>南面</td>\n<td>1,767</td>\n<td>3,819</td>\n<td>28.4\n</td></tr>\n<tr>\n<td><b><a>동화면</a></b></td>\n<td>東化面</td>\n<td>1,509</td>\n<td>3,096</td>\n<td>28.8\n</td></tr>\n<tr>\n<td><b><a>삼서면</a></b></td>\n<td>森西面</td>\n<td>1,509</td>\n<td>3,096</td>\n<td>47.5\n</td></tr>\n<tr>\n<td><b><a>삼계면</a></b></td>\n<td>森溪面</td>\n<td>2,810</td>\n<td>7,192</td>\n<td>66\n</td></tr>\n<tr>\n<td><b><a>황룡면</a></b></td>\n<td>黃龍面</td>\n<td>2,015</td>\n<td>4,687</td>\n<td>44.7\n</td></tr>\n<tr>\n<td><b><a>서삼면</a></b></td>\n<td>西三面</td>\n<td>780</td>\n<td>1,728</td>\n<td>34.1\n</td></tr>\n<tr>\n<td><b><a>북일면</a></b></td>\n<td>北一面</td>\n<td>776</td>\n<td>1,655</td>\n<td>30.6\n</td></tr>\n<tr>\n<td><b><a>북이면</a></b></td>\n<td>北二面</td>\n<td>1,536</td>\n<td>3,282</td>\n<td>56.4\n</td></tr>\n<tr>\n<td><b><a>북하면</a></b></td>\n<td>北下面</td>\n<td>1,370</td>\n<td>2,527</td>\n<td>84.2\n</td></tr>\n<tr>\n<th>장성군</th>\n<th>長城郡</th>\n<th>20,840</th>\n<th>47,239</th>\n<th>518.5\n</th></tr></tbody></table>
+- - 장성군의 2대 군수는 누구일까?
+  - <td>김기창</td>
+- - 장성군 삼서면은 과거에 어떤 행정구역을 통합한 것일까?
+  - <td>영광군 삼남면(森南面), 외서면(外西面)</td>
+- - 장성군의 1960년도 총인구는 몇 명일까?
+  - <td>118,558명</td>

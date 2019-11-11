@@ -1,0 +1,5 @@
+categories:
+- 고려_의종
+conversations:
+- - 인종이 사망한 해는 언제야
+  - <a>1146년</a>

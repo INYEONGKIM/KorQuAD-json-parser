@@ -1,0 +1,5 @@
+categories:
+- 안우진
+conversations:
+- - 18시즌 안우진은 넥센에서 평균자책점을 몇 점 기록했는가?
+  - <td>7.19</td>

@@ -1,0 +1,5 @@
+categories:
+- 주목
+conversations:
+- - 서양에서 주목의 줄기는 어떤 것의 재료로 사용되었을까?
+  - <a>활</a>

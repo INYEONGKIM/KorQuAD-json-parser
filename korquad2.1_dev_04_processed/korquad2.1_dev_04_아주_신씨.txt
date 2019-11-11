@@ -1,0 +1,5 @@
+categories:
+- 아주_신씨
+conversations:
+- - 아주 신씨 시조의 이름은 무엇인가?
+  - <b>신익휴</b>

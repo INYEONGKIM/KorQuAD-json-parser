@@ -1,0 +1,5 @@
+categories:
+- 마리옐_공화국
+conversations:
+- - 마리옐 공화국의 대표적 강 이름은 뭘까?
+  - <ul><li><a>볼샤야콕샤가 강</a></li>\n<li><a>부이 강</a></li>\n<li><a>일레트 강</a></li>\n<li><a>이랍카 강</a></li>\n<li><a>쿤디시 강</a></li>\n<li><a>라시 강</a></li>\n<li><a>말라야콕샤가 강</a></li>\n<li><a>말리쿤디시 강</a></li>\n<li><a>넴다 강</a></li>\n<li><a>루트카 강</a></li>\n<li><a>우르줌카 강</a></li>\n<li><a>유시트 강</a></li></ul>

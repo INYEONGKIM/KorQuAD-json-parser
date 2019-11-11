@@ -1,0 +1,9 @@
+categories:
+- 후지_TV_화요일_밤_9시_드라마
+conversations:
+- - 춤추는 대수사선의 주연은 누구일까?
+  - <a>오다 유지</a>
+- - 후지 TV 화요일 밤 9시 드라마 최고 시청률 순위는 어떠할까?
+  - <table>\n<tbody><tr>\n<th>순위\n</th>\n<th>작품명\n</th>\n<th>방송년도\n</th>\n<th>시청률\n</th></tr>\n<tr>\n<th>1\n</th>\n<td><a>신이시여, 조금만 더</a></td>\n<td>1998년</td>\n<td>28.3%(최종회)\n</td></tr>\n<tr>\n<th>1\n</th>\n<td><a>후루하타 닌자부로</a> 시즌3</td>\n<td>1999년</td>\n<td>28.3%(최종회)\n</td></tr>\n<tr>\n<th>3\n</th>\n<td><a>구명 병동 24시</a> 시즌2</td>\n<td>2001년</td>\n<td>25.4%(최종회)\n</td></tr>\n<tr>\n<th>4\n</th>\n<td><a>구명 병동 24시</a></td>\n<td>1999년</td>\n<td>24.0%(첫회)\n</td></tr>\n<tr>\n<th>5\n</th>\n<td><a>WITH LOVE</a></td>\n<td>1998년</td>\n<td>23.6%(최종회)\n</td></tr>\n<tr>\n<th>6\n</th>\n<td><a>춤추는 대수사선</a></td>\n<td>1997년</td>\n<td>23.1%(최종회)\n</td></tr>\n<tr>\n<th>7\n</th>\n<td><a>워터보이즈2</a></td>\n<td>2004년</td>\n<td>22.8%(최종회)\n</td></tr>\n<tr>\n<th>8\n</th>\n<td><a>간호사의 일</a> 시즌3</td>\n<td>2000년</td>\n<td>22.7%(첫회)\n</td></tr>\n<tr>\n<th>9\n</th>\n<td><a>총리라고 부르지마</a></td>\n<td>1996년</td>\n<td>22.6%(첫회)\n</td></tr>\n<tr>\n<th>10\n</th>\n<td><a>간호사의 일</a> 시즌2</td>\n<td>1997년</td>\n<td>22.1%(첫회)\n</td></tr></tbody></table>
+- - 후지 TV 화요일 밤 9시 드라마의 평균 시청률 순위 10 중 1998년 방영된 WITH LOVE의 시청률은 몇 %인가?
+  - 18.1%

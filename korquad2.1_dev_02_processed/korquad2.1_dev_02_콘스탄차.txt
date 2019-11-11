@@ -1,0 +1,5 @@
+categories:
+- 콘스탄차
+conversations:
+- - 콘스탄차의 1월 일평균 기온은 섭씨 몇 도인가?
+  - 1.3

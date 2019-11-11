@@ -1,0 +1,5 @@
+categories:
+- 이정기_(732년)
+conversations:
+- - 이정기가 사망한 연도는 언제인가?
+  - <a>781년</a>

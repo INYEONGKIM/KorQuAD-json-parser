@@ -1,0 +1,9 @@
+categories:
+- 센가_고다이
+conversations:
+- - 센가 고다이 투수선수의 연도별 리그 내 순위는 어떠했나요?
+  - <table>\n<tbody><tr>\n<th>연<br/><br/>도</th>\n<th>연<br/><br/>령</th>\n<th>리<br/><br/>그</th>\n<th>평<br/>자<br/>책</th>\n<th>투구<br/>이닝</th>\n<th>완<br/><br/>투</th>\n<th>완<br/><br/>봉</th>\n<th>승<br/><br/>리</th>\n<th>승<br/><br/>률</th>\n<th>탈<br/>삼<br/>진\n</th></tr>\n<tr>\n<td>2012</td>\n<td>20</td>\n<td rowspan="7"><a>퍼시픽 리그</a></td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td>2013</td>\n<td>21</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td>2014</td>\n<td>22</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td>2015</td>\n<td>23</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td>2016</td>\n<td>24</td>\n<td>3위</td>\n<td>5위</td>\n<td>3위</td>\n<td>-</td>\n<td>3위</td>\n<td>1위</td>\n<td>2위\n</td></tr>\n<tr>\n<td>2017</td>\n<td>25</td>\n<td>3위</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>3위</td>\n<td>1위</td>\n<td>5위\n</td></tr>\n<tr>\n<td>2018</td>\n<td>26</td>\n<td>-</td>\n<td>10위</td>\n<td>5위</td>\n<td>3위</td>\n<td>3위</td>\n<td>-</td>\n<td>2위\n</td></tr></tbody></table>
+- - 센가 고다이는 WBC에 어떤 팀 대표로 출전했을까?
+  - <a>일본</a>
+- - 센가 고다이가 2012년에 등판한 횟수는?
+  - <td>2</td>

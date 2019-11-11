@@ -1,0 +1,5 @@
+categories:
+- 마스트리흐트
+conversations:
+- - 마스트리흐트의 1월 평균 강수량은 몇 mm인가?
+  - 65.3

@@ -1,0 +1,5 @@
+categories:
+- 1994년_한국프로야구
+conversations:
+- - 1994년 한국프로야구 정규 리그에서 1위를 차지한 팀은 어디일까요?
+  - <b><a><span>LG 트윈스</span></a></b>

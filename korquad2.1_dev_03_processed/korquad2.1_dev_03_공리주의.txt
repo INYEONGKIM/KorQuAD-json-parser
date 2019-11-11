@@ -1,0 +1,5 @@
+categories:
+- 공리주의
+conversations:
+- - 공리주의를 주장한 사람은 누구야?
+  - 벤담

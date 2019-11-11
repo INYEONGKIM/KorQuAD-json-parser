@@ -1,0 +1,5 @@
+categories:
+- 은자_(타로)
+conversations:
+- - 타로에서 바보는 무엇을 상징해?
+  - 목표가 없는 방랑자

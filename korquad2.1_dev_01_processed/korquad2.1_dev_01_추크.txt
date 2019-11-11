@@ -1,0 +1,5 @@
+categories:
+- 추크
+conversations:
+- - 추크의 1월 평균최저기온은 몇 도씨인가?
+  - −2

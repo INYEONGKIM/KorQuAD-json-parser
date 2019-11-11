@@ -1,0 +1,5 @@
+categories:
+- 정휘옹주
+conversations:
+- - 정휘옹주가 사망한 해는 언제야
+  - <a>1667년</a>

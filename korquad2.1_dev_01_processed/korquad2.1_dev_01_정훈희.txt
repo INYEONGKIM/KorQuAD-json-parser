@@ -1,0 +1,5 @@
+categories:
+- 정훈희
+conversations:
+- - 정훈희의 아버지 정근수의 직업은 무엇인가?
+  - 피아니스트

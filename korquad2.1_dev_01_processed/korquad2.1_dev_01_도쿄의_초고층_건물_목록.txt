@@ -1,0 +1,11 @@
+categories:
+- 도쿄의_초고층_건물_목록
+conversations:
+- - 2012년에 완공된 도쿄 스카이트리의 높이는?
+  - 높이 634미터
+- - 일본에서 현재 공사중인 180m 이상 초고층 건물은 무엇이 있을까?
+  - <table>\n<tbody><tr>\n<th>명칭\n</th>\n<th>높이\n</th>\n<th>층수\n</th>\n<th>완공 예정\n</th>\n<th>도시\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td><a>도키와바시 재개발 프로젝트 빌딩</a> B\n</td>\n<td>390m\n</td>\n<td>61층\n</td>\n<td>2027년\n</td>\n<td>지요다 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>야니 초메 북지 구 제일 종 시가지 재개발 사업 A-1 지구\n</td>\n<td>245m\n</td>\n<td>45층\n</td>\n<td>2021년\n</td>\n<td>주오 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>도키와바시 재개발 프로젝트 빌딩</a> A\n</td>\n<td>230m\n</td>\n<td>37층\n</td>\n<td>2021년\n</td>\n<td>지요다 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>시부야 스크램블 광장 동쪽 본관\n</td>\n<td>228.3m\n</td>\n<td>47층\n</td>\n<td>2019년\n</td>\n<td><a>시부야 구</a>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>도라노몬 힐스 덴셜 타워\n</td>\n<td>221m\n</td>\n<td>54층\n</td>\n<td>2020년\n</td>\n<td><a>미나토 구</a>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>다케시바 지역 개발 계획 건축 계획 (업무동)\n</td>\n<td>210m\n</td>\n<td>39층\n</td>\n<td>2020년\n</td>\n<td>미나토 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>오오테마 치 잇 초메 2번가 구 일체 개발 사업 B동\n</td>\n<td>200m\n</td>\n<td>41층\n</td>\n<td>2020년\n</td>\n<td>지요다 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>세계 무역 센터 빌딩 남관\n</td>\n<td>197m\n</td>\n<td>39층\n</td>\n<td>2021년\n</td>\n<td>미나토 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>호텔 오쿠라 도쿄 본관 건체 계획\n</td>\n<td>195m\n</td>\n<td>38층\n</td>\n<td>2019년\n</td>\n<td>미나토 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>하마마츠 니 초메 C지구 시가지 재개발 사업\n</td>\n<td>190m\n</td>\n<td>47층\n</td>\n<td>2021년\n</td>\n<td>미나토 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>도라노몬 힐스 비즈니스 타워\n</td>\n<td>183.415m\n</td>\n<td>36층\n</td>\n<td>2019년\n</td>\n<td>미나토 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>니혼바시 다카시마야 미쓰이 빌딩</a>\n</td>\n<td>180m\n</td>\n<td>31층\n</td>\n<td>2018년\n</td>\n<td>시부야 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>도라노몬 트러스트 시티 월드 게이트\n</td>\n<td>180m\n</td>\n<td>36층\n</td>\n<td>2019년\n</td>\n<td>미나토 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>시부야 역 사쿠라가 오카 구 지구 재개발 계획 A 쿼드 A1 동\n</td>\n<td>180m\n</td>\n<td>36층\n</td>\n<td>2019년\n</td>\n<td>시부야 구\n</td>\n<td>\n</td></tr>\n<tr>\n<td>도요 지구 1-1 도시 지역 재개발\n</td>\n<td>180m\n</td>\n<td>50층\n</td>\n<td>2021년\n</td>\n<td>고토 구\n</td>\n<td>\n</td></tr>\n</tbody></table>
+- - 도쿄에 있는 건물중 77층인 건물의 이름은?
+  - <a>니시신주쿠 3초메 재개발</a> 동쪽 오피스 빌딩
+- - 도쿄의 미완공 건축물 스카이 마일 타워 높이는 얼마인가요?
+  - 1,700m

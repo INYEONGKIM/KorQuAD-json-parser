@@ -1,0 +1,5 @@
+categories:
+- S-500_(요격_체계)
+conversations:
+- - S 500의 최대 사거리는 몇 km야?
+  - 600km

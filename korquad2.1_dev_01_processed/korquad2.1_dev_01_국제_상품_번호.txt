@@ -1,0 +1,5 @@
+categories:
+- 국제_상품_번호
+conversations:
+- - 숫자 0을 이진으로 변환하면 R코드는 어떻게 될까요?
+  - <code>1110010</code>

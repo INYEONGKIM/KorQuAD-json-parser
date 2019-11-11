@@ -1,0 +1,5 @@
+categories:
+- 박해수
+conversations:
+- - 2018년 박해수가 출연한 tvN 드라마는 무엇인가?
+  - <a>알함브라 궁전의 추억</a>

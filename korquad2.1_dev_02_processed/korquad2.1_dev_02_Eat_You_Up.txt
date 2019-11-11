@@ -1,0 +1,7 @@
+categories:
+- Eat_You_Up
+conversations:
+- - 대한민국 가수 보아의 'Eat You Up'은 미국 빌보드 차트에서 어떤 기록을 달성 하였을까?
+  - <table>\n<tbody><tr>\n<th>차트\n</th>\n<th>순위\n</th></tr>\n<tr>\n<td>미국 빌보드차트 <a>Hot Dance Club Play</a>\n</td>\n<td>8<sup><a>[8]</a></sup>\n</td></tr>\n</tbody></table>
+- - Eat You Up의 대한민국 발매 날짜는 언제인가?
+  - 10월 22일

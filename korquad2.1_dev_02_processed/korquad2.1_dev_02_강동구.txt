@@ -1,0 +1,11 @@
+categories:
+- 강동구
+conversations:
+- - 강동구에 있는 장소들 중에서 문화적 관광 명소들은 어떤 것들이 있을까?
+  - <ul><li>천호동 로데오거리 및 먹자골목</li>\n<li><a>경희대학교</a> <a>경희대학교병원</a></li>\n<li><a>한림대학교</a> <a>강동성심병원</a></li>\n<li><a>온조대왕 문화체육관</a></li>\n<li><a>대한예수교장로회</a> <a>명성교회</a></li>\n<li><a>강동아트센터</a></li>\n<li>강동 <a>강풀만화거리</a></li>\n<li>서원마을</li></ul>
+- - 암사동 일대에 헌종 8년 당시 건립된 서원의 이름은 무엇인가?
+  - <b>구암서원</b>
+- - 강동구와 자매 도시를 맺은 도시들의 목록과 결연시기는 어떻게 되는가?
+  - <table>\n<tbody><tr>\n<th>도시\n</th>\n<th>국가\n</th>\n<th>주 (성)\n</th>\n<th>자매결연시기\n</th></tr>\n<tr>\n<td><a><img></a> <a>켄트</a>\n</td>\n<td><a>미국</a>\n</td>\n<td><a>워싱턴주</a> <a>킹 군</a>\n</td>\n<td><a>1996년</a> <a>11월 15일</a>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>윌로비</a>\n</td>\n<td><a>호주</a>\n</td>\n<td><a>뉴사우스웨일즈 주</a>\n</td>\n<td><a>2011년</a> <a>11월 10일</a>\n</td></tr>\n<tr>\n<td><a><img></a> <a>세고비아</a>\n</td>\n<td><a>스페인</a>\n</td>\n<td><a>세고비아 주</a>\n</td>\n<td><a>2000년</a> <a>8월 25일</a>\n</td></tr>\n<tr>\n<td><a><img></a> <a>무사시노 시</a>\n</td>\n<td><a>일본</a>\n</td>\n<td><a>도쿄도</a>\n</td>\n<td><a>1997년</a> <a>7월 14일</a>\n</td></tr>\n<tr>\n<td><a><img></a> <a>펑타이 구</a>\n</td>\n<td><a>중국</a>\n</td>\n<td><a>베이징</a>\n</td>\n<td><a>1995년</a> <a>8월 29일</a>\n</td></tr>\n<tr>\n<td><a><img></a> <a>친황다오 시</a>\n</td>\n<td><a>중국</a>\n</td>\n<td><a>산둥성</a>\n</td>\n<td><a>2000년</a> <a>11월 7일</a>\n</td></tr>\n<tr>\n<td><a><img></a> <a>탕산 시</a>\n</td>\n<td><a>중국</a>\n</td>\n<td><a>허베이성</a>\n</td>\n<td><a>2001년</a> <a>10월 16일</a>\n</td></tr>\n<tr>\n<td><a><img></a> <a>항저우 시</a>\n</td>\n<td><a>중국</a>\n</td>\n<td><a>저장성</a>\n</td>\n<td><a>2000년</a> <a>5월 6일</a>\n</td></tr>\n<tr>\n<td><a><img></a> <a>송기노하이르한 구</a>\n</td>\n<td><a>몽골</a>\n</td>\n<td><a>울란바타르 시</a>\n</td>\n<td><a>1999년</a> <a>10월 17일</a>\n</td></tr>\n<tr>\n<td><a><img></a> <a>로보 읍</a>\n</td>\n<td><a>필리핀</a>\n</td>\n<td><a>바탕가스 주</a>\n</td>\n<td><a>2000년</a> <a>10월 21일</a>\n</td></tr></tbody></table>
+- - 강동구의 행정구역중 인구가 가장 많은 곳은 어디일까?
+  - <td><b><a>길동</a></b></td>

@@ -1,0 +1,5 @@
+categories:
+- 탁석산
+conversations:
+- - 탁선산은 어디에서 태어났을까?
+  - 서울

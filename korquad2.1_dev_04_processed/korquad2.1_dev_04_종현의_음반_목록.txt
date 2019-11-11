@@ -1,0 +1,5 @@
+categories:
+- 종현의_음반_목록
+conversations:
+- - 종현이 발매했던 정규앨범은 무엇인가?
+  - <table>\n<tbody><tr>\n<th rowspan="2">제목\n</th>\n<th rowspan="2">음반 정보\n</th>\n<th colspan="3">최고 차트 순위\n</th>\n<th rowspan="2">판매량\n</th></tr>\n<tr>\n<th><small><a>대한민국</a></small><br/><sup><a>[2]</a></sup>\n</th>\n<th><small><a>일본</a></small><br/><sup><a>[3]</a></sup>\n</th>\n<th><small><a>미국 월드</a></small><br/><sup><a>[4]</a></sup>\n</th></tr>\n<tr>\n<td><i><b><a>좋아</a></b></i>\n</td>\n<td>\n<ul><li>발매일: 2016년 5월 24일</li>\n<li>레이블: <a>SM 엔터테인먼트</a>, <a>KT 뮤직</a></li>\n<li>포맷: <a>CD</a>, <a>디지털 다운로드</a></li></ul>\n</td>\n<td>1\n</td>\n<td>21\n</td>\n<td>4\n</td>\n<td>\n<ul><li>대한민국: 85,795+<sup><a>[5]</a></sup></li></ul>\n</td></tr>\n<tr>\n<td><i><b><a>Poet | Artist</a></b></i>\n</td>\n<td>\n<ul><li>발매일: 2018년 1월 23일</li>\n<li>레이블: <a>SM 엔터테인먼트</a>, <a>KT 뮤직</a></li>\n<li>포맷: <a>CD</a>, <a>디지털 다운로드</a></li></ul>\n</td>\n<td>1\n</td>\n<td>12\n</td>\n<td>1\n</td>\n<td>\n<ul><li>대한민국: 237,245+<sup><a>[6]</a></sup></li></ul>\n</td></tr>\n<tr>\n<td colspan="10">"—" 표시는 차트에 진입하지 못함을 의미함(2010년 이전 자료 없음).\n</td></tr></tbody></table>

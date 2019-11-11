@@ -1,0 +1,5 @@
+categories:
+- 뉴_슈퍼_마리오브라더스
+conversations:
+- - IGN사에서 평론한 뉴 슈퍼 마리오브라더스의 점수는?
+  - 9.5

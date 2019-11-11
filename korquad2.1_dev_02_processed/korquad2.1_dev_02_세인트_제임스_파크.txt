@@ -1,0 +1,5 @@
+categories:
+- 세인트_제임스_파크
+conversations:
+- - 1901년 3월 18일 잉글랜드 VS 웨일스 경기의 결과는?
+  - <td>6-0</td>

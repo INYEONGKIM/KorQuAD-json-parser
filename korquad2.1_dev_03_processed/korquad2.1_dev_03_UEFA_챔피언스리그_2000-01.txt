@@ -1,0 +1,19 @@
+categories:
+- UEFA_챔피언스리그_2000-01
+conversations:
+- - UEFA 챔피언스리그 2000-01 예선전 경기 결과는 어때?
+  - <table>\n<tbody><tr>\n<th>팀 1\n</th>\n<th>결과\n</th>\n<th>팀 2\n</th>\n<th>1차전\n</th>\n<th>2차전\n</th></tr>\n<tr>\n<td><b><a>안데를레흐트</a></b> <span><a><img></a></span>\n</td>\n<td>4-2\n</td>\n<td><span><a><img></a></span> <a>아노르토시스 파마구스타</a>\n</td>\n<td>4-2\n</td>\n<td>0-0\n</td></tr>\n<tr>\n<td><b><a>베식타시</a></b> <span><a><img></a></span>\n</td>\n<td>2-1\n</td>\n<td><span><a><img></a></span> <a>레프스키 소피아</a>\n</td>\n<td>1-0\n</td>\n<td>1-1\n</td></tr>\n<tr>\n<td><b><a>브뢴뷔</a></b> <span><a><img></a></span>\n</td>\n<td>3-1\n</td>\n<td><span><a><img></a></span> <a>KR 레이캬비크</a>\n</td>\n<td>3-1\n</td>\n<td>0-0\n</td></tr>\n<tr>\n<td><a>디나모 부쿠레슈티</a> <span><a><img></a></span>\n</td>\n<td>4-7\n</td>\n<td><span><a><img></a></span> <b><a>폴로니아 바르샤바</a></b>\n</td>\n<td>3-4\n</td>\n<td>1-3\n</td></tr>\n<tr>\n<td><b><a>레인저스</a></b> <span><a><img></a></span>\n</td>\n<td>4-1\n</td>\n<td><span><a><img></a></span> <a>FBK 카우나스</a>\n</td>\n<td>4-1\n</td>\n<td>0-0\n</td></tr>\n<tr>\n<td><a>하카</a> <span><a><img></a></span>\n</td>\n<td>0-1\n</td>\n<td><span><a><img></a></span> <b><a>인테르 브라티슬라바</a></b>\n</td>\n<td>0-0\n</td>\n<td>0-1 (<a>연장</a>)\n</td></tr>\n<tr>\n<td><b><a>헬싱보리</a></b> <span><a><img></a></span>\n</td>\n<td>3-0\n</td>\n<td><span><a><img></a></span> <a>바테 보리소프</a>\n</td>\n<td>0-0\n</td>\n<td>3-0\n</td></tr>\n<tr>\n<td><b><a>츠르베나 즈베즈다</a></b> <span><a><img></a></span>\n</td>\n<td>4-2\n</td>\n<td><span><a><img></a></span> <a>토르페도 쿠타이시</a>\n</td>\n<td>4-0\n</td>\n<td>0-2\n</td></tr>\n<tr>\n<td><b><a>샤흐타르 도네츠크</a></b> <span><a><img></a></span>\n</td>\n<td>9-2\n</td>\n<td><span><a><img></a></span> <a>레바디아 탈린</a>\n</td>\n<td>4-1\n</td>\n<td>5-1\n</td></tr>\n<tr>\n<td><b><a>슬라비아 프라하</a></b> <span><a><img></a></span>\n</td>\n<td>5-1\n</td>\n<td><span><a><img></a></span> <a>솀키르</a>\n</td>\n<td>1-0\n</td>\n<td>4-1\n</td></tr>\n<tr>\n<td><a>셸번</a> <span><a><img></a></span>\n</td>\n<td>2-4\n</td>\n<td><span><a><img></a></span> <b><a>로센보르그</a></b>\n</td>\n<td>1-3\n</td>\n<td>1-1\n</td></tr>\n<tr>\n<td><b><a>슈투름 그라츠</a></b> <span><a><img></a></span>\n</td>\n<td>5-1\n</td>\n<td><span><a><img></a></span> <a>하포엘 텔아비브</a>\n</td>\n<td>3-0\n</td>\n<td>2-1\n</td></tr>\n<tr>\n<td><b><a>짐브루 키시너우</a></b> <span><a><img></a></span>\n</td>\n<td>2-1\n</td>\n<td><span><a><img></a></span> <a>마리보르</a>\n</td>\n<td>2-0\n</td>\n<td>0-1\n</td></tr>\n<tr>\n<td><a>하이두크 스플리트</a> <span><a><img></a></span>\n</td>\n<td>2-4\n</td>\n<td><span><a><img></a></span> <b><a>두너페르</a></b>\n</td>\n<td>0-2\n</td>\n<td>2-2\n</td></tr></tbody></table>
+- - UEFA챔피언스리그 2000년 1차 조별리그 B조에서 스파르타 프라하의 승점은 몇 점일까?
+  - <b>3</b>
+- - UEFA 챔피언스리그 2000-01 1차 조별 리그에서 C조의 1등 팀은 어디일까?
+  - <b><a>발렌시아</a></b>
+- - UEFA 챔피언스리그 2000 01시즌 1차 조별리그 E조에서 1위를 한 팀은?
+  - <b><a>데포르티보 라코루냐</a></b>
+- - UEFA 챔피언스리그 2000-01의 1차 조별리그 G조에서 가장많은 승점을 획득한 팀의 이름은 무엇일까?
+  - <b><a>안데를레흐트</a></b>
+- - UEFA  챔피언스리그 2000-01의 2차 조별 리그 B조에서 AC 밀란은 몇 번 이겼나요?
+  - <td>1</td>
+- - UEFA 챔피언스리그 2000-01에서 2차 조별리그 C조에 해당하는 바이에른 뮌헨의 승점은 몇점일까?
+  - <b>13</b>
+- - UEFA 챔피언스리그 2000-01 3차 예선전에서 폴로니아 바르샤바를 상대로 4:3으로 승리를 거둔 팀은?
+  - <b><a>파나티나이코스</a></b>

@@ -1,0 +1,5 @@
+categories:
+- 2015년_EAFF_동아시안컵
+conversations:
+- - 2015년 EAFF 동아시안컵 1라운드 순위에서 2승 1무 0패를 기록한 국가는?
+  - <a>괌</a>

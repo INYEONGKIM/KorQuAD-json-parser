@@ -1,0 +1,5 @@
+categories:
+- 대구광역시체육회
+conversations:
+- - 대구광역시체육회의 조직은 어떻게 구성되어있는가?
+  - <ul><li>사무처\n<ul><li>기획총무부</li>\n<li>경기운영부</li>\n<li>생활체육부</li>\n<li>체육진흥부</li>\n<li>시설관리사업소</li>\n<li>대구스포</li></ul></li></ul>

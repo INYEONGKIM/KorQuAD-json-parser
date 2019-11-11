@@ -1,0 +1,11 @@
+categories:
+- 2010년_한국시리즈
+conversations:
+- - 2010년 한국 프로 야구 시리즈 1-4차전의 경기 기재 사항은?
+  - <table>\n<caption><a>2010 CJ 마구마구 프로야구 한국시리즈</a>\n</caption>\n<tbody><tr>\n<th>일시</th>\n<th>경기</th>\n<th>원정팀(선공)</th>\n<th>스코어</th>\n<th>홈팀(후공)</th>\n<th>개최 구장</th>\n<th>개시 시각</th>\n<th>관중수</th>\n<th>경기 MVP\n</th></tr>\n<tr>\n<td>10월 15일(금)</td>\n<td><a>1차전</a></td>\n<td>삼성 라이온즈</td>\n<td>5 - <b>9</b></td>\n<td><b>SK 와이번스</b></td>\n<td rowspan="2"><a>인천 문학 야구장</a></td>\n<td>18시 00분</td>\n<td>28,000명</td>\n<td><a>김재현</a>(SK 와이번스)\n</td></tr>\n<tr>\n<td>10월 16일(토)</td>\n<td><a>2차전</a></td>\n<td>삼성 라이온즈</td>\n<td>1 - <b>4</b></td>\n<td><b>SK 와이번스</b></td>\n<td>14시 00분</td>\n<td>28,000명</td>\n<td><a>최정</a>(SK 와이번스)\n</td></tr>\n<tr>\n<td>10월 17일(일)</td>\n<td colspan="8">이동일\n</td></tr>\n<tr>\n<td>10월 18일(월)</td>\n<td><a>3차전</a></td>\n<td><b>SK 와이번스</b></td>\n<td><b>4</b> - 2</td>\n<td>삼성 라이온즈</td>\n<td rowspan="2"><a>대구시민운동장 야구장</a></td>\n<td>18시 00분</td>\n<td>10,000명</td>\n<td><a>이승호</a>(SK 와이번스)\n</td></tr>\n<tr>\n<td>10월 19일(화)</td>\n<td><a>4차전</a></td>\n<td><b>SK 와이번스</b></td>\n<td><b>4</b> - 2</td>\n<td>삼성 라이온즈</td>\n<td>18시 00분</td>\n<td>10,000명</td>\n<td><a>게리 글로버</a>(SK 와이번스)\n</td></tr>\n<tr>\n<th colspan="9">우승: SK 와이번스(2년 만에 우승, 3번째), 한국시리즈 MVP: <a>박정권</a>(SK 와이번스)\n</th></tr></tbody></table>
+- - 2010년 한국 시리즈 1차전에서 삼성을 상대로 승리한 팀은 어디일까?
+  - <a>SK 와이번스</a>
+- - 2010년 한국 시리즈의 2차전에서 승리한 팀은 무엇인가?
+  - <a>SK 와이번스</a>
+- - 2010년 한국시리즈 4차전에서 SK 와이번스는 4회에 몇 점을 얻었는가?
+  - <th>3</th>

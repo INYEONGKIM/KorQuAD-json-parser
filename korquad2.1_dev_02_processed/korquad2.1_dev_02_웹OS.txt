@@ -1,0 +1,5 @@
+categories:
+- 웹OS
+conversations:
+- - LG전자가 webOS에 대한 모든 권리를 획득한건 언제일까?
+  - 2013년 2월

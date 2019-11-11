@@ -1,0 +1,5 @@
+categories:
+- 신이준
+conversations:
+- - 신이준은 드라마 시그널에서 누구로 분하였는가?
+  - 강혜승

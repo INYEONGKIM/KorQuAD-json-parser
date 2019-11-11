@@ -1,0 +1,5 @@
+categories:
+- 구마모토현
+conversations:
+- - 구마모토현에 있는 교통국의 이름은 무엇일까?
+  - <li><a>구마모토 시 교통국</a></li>

@@ -1,0 +1,7 @@
+categories:
+- ESP_기타
+conversations:
+- - ESP 기타의 Standard Series는 일본의 어느 도시에서 생산됩니까? 
+  - 사이타마
+- - 전기 기타 제조 및 수리 회사인 ESP는 누가 설립했을까?
+  - 시부야 히사타케

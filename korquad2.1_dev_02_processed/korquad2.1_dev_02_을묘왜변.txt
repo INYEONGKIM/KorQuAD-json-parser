@@ -1,0 +1,5 @@
+categories:
+- 을묘왜변
+conversations:
+- - 나주를 통해 오려는 왜구를 격퇴한 인물은?
+  - <a>이흠례</a>

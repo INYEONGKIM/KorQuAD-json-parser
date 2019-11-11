@@ -1,0 +1,5 @@
+categories:
+- 원주고등학교
+conversations:
+- - 원주고의 제1회 졸업식은 몇년도인가요?
+  - <a>1957년</a>

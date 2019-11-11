@@ -1,0 +1,5 @@
+categories:
+- f(x)의_수상_및_후보_목록
+conversations:
+- - 2012년 발매된 f(x)의 Electric Shock는 총 몇 회 1위를 차지했나?
+  - 총 9회

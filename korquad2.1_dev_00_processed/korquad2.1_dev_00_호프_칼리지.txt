@@ -1,0 +1,5 @@
+categories:
+- 호프_칼리지
+conversations:
+- - 호프 칼리지의 역대 총장은 누가 있는가?
+  - <ol><li>Philip Phelps Jr. (1866-1878)</li>\n<li>Charles Scott (1878-1893)</li>\n<li>Gerrit J. Kollen (1893-1911, Hope College Class of 1868)</li>\n<li>Ame Vennema (1911-1918, Hope College Class of 1879)</li>\n<li>Edward D. Dimnent (1918-1931, Hope College Class of 1896)</li>\n<li>Wynand Wichers (1931-1945)</li>\n<li>Irwin J. Lubbers (1945-1963, Hope College Class of 1917)</li>\n<li>Calvin A. VanderWerf (1963-1970, Hope College Class of 1937)</li>\n<li>Gordon VanWylen (1972-1987)</li>\n<li>John H. Jacobson (1987-1999)</li>\n<li>James E. Bultman (1999-2013, Hope College Class of 1963)</li>\n<li>John C. Knapp (2013-2017)</li>\n<li>Dennis N. Voskuil (2017, Interim)</li></ol>

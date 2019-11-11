@@ -1,0 +1,5 @@
+categories:
+- SNK
+conversations:
+- - SNK개발사의 게임중 제목이 가장 긴 게임은?
+  - <li>《<a>더 킹 오브 파이터즈</a>》</li>

@@ -1,0 +1,5 @@
+categories:
+- 신본기
+conversations:
+- - 신본기가 군대를 전역한 날은 언제야?
+  - <a>2016년</a> <a>9월 3일</a>

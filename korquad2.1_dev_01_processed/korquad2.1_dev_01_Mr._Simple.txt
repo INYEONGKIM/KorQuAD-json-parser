@@ -1,0 +1,5 @@
+categories:
+- Mr._Simple
+conversations:
+- - Mr.Simple 티저 영상은 어디를 통해 공개했어?
+  - <a>페이스북</a>과 <a>유튜브</a>

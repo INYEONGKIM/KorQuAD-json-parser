@@ -1,0 +1,7 @@
+categories:
+- All_You_Need_Is_Love
+conversations:
+- - 노래 All You Need Is Love가 1967년에 발표되고 나서, UK차트에서 얼마 동안 1위를 차지했을까?
+  - 3주간
+- - All You Need Is Love의 차트와 판매량과 관련하여 호주 켄트 뮤직리포트에서의 최고 순위는 몇 인가?
+  - 1

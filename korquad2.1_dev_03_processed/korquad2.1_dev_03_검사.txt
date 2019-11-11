@@ -1,0 +1,5 @@
+categories:
+- 검사
+conversations:
+- - 고등법원 판사는 몇 급으로 대우를 받나요?
+  - 2급

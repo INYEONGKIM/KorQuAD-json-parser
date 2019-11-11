@@ -1,0 +1,5 @@
+categories:
+- 한전KPS
+conversations:
+- - 주기적으로 설비를 분해하여 점검하는 정비를 무엇이라 하는가?
+  - 계획예방정비

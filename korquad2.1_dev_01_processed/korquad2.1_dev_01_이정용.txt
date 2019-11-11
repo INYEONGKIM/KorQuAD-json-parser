@@ -1,0 +1,5 @@
+categories:
+- 이정용
+conversations:
+- - 이정용이 2009년에 출연한 TV프로그램은 뭐야?
+  - <a>SBS</a> <a>스타주니어쇼 붕어빵</a>

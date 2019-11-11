@@ -1,0 +1,5 @@
+categories:
+- 미국_육군
+conversations:
+- - 이라크 전쟁은 몇년도에 일어났어?
+  - 2003년

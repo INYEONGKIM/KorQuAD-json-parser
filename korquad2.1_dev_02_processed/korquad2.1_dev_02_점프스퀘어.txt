@@ -1,0 +1,7 @@
+categories:
+- 점프스퀘어
+conversations:
+- - 점프스퀘어 CROWN에서 연재되고 있는 작품들은 무엇이 있는가?
+  - <table>\n<tbody><tr>\n<th>작품 타이틀</th>\n<th>작자 (작화)</th>\n<th>원작자등</th>\n<th>연재 시작호</th>\n<th>변동 사항\n</th></tr>\n<tr>\n<td><a>혈계전선 Back 2 Back</a><br/>(血界戦線 Back 2 Back)</td>\n<td><a>나이토우 야스히로</a></td>\n<td>－</td>\n<td>2015년창간호</td>\n<td>\n</td></tr>\n<tr>\n<td><a>D.Gray-man</a><br/>(ディー・グレイマン)</td>\n<td><a>호시노 카츠라</a></td>\n<td>－</td>\n<td>2015년창간호</td>\n<td>본지부터의 이동\n</td></tr>\n<tr>\n<td><a>샐러리맨 엑소시스트 오쿠무라 유키오의 애수</a><br/>(サラリーマン祓魔師 奥村雪男の哀愁)</td>\n<td><a>사사키 미노루</a> <span>(만화)</span></td>\n<td><a>카토우 카즈에</a> <span>(원안・감수)</span></td>\n<td>2015년창간호</td>\n<td>본지와 평행연재\n</td></tr>\n<tr>\n<td><a>모험왕 비트</a><br/>(冒険王ビィト)</td>\n<td><a>이나다 코우지</a> <span>(만화)</span><br/><a>나카츠루 카츠요시</a> <span>(디자인 협력)</span></td>\n<td><a>산죠우 리쿠</a> <span>(원작)</span></td>\n<td>2016년SPRING</td>\n<td>《<a>월간 소년 점프</a>》부터의 이동\n</td></tr></tbody></table>
+- - 점프스퀘어 연재작 목록 중 쌍성의 음양사 작품의 작자는 누구일까?
+  - <td><a>스케노 요시아키</a></td>

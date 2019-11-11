@@ -1,0 +1,5 @@
+categories:
+- 슈가_(음악_그룹)
+conversations:
+- - 슈가의 첫 정규 앨범명은?
+  - Tell Me Why

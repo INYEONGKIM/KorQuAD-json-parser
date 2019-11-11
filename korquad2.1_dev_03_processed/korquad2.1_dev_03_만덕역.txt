@@ -1,0 +1,5 @@
+categories:
+- 만덕역
+conversations:
+- - 만덕역 3호선의 2005년 승차인원은?
+  - 3412

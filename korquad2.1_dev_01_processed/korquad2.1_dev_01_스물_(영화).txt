@@ -1,0 +1,5 @@
+categories:
+- 스물_(영화)
+conversations:
+- - 영화 스물에서 선배 진주 역할을 한 인물은?
+  - <a>민효린</a>

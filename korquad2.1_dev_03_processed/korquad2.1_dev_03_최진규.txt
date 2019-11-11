@@ -1,0 +1,5 @@
+categories:
+- 최진규
+conversations:
+- - 최진규의 현재 직급은 무엇일까?
+  - 수도군단장

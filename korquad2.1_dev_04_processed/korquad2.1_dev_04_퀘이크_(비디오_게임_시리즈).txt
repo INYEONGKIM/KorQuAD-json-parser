@@ -1,0 +1,5 @@
+categories:
+- 퀘이크_(비디오_게임_시리즈)
+conversations:
+- - Quake 4는 몇 년도에 발매되었는가?
+  - <td>2005</td>

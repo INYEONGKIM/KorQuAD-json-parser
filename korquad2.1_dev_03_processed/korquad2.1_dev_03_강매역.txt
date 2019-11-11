@@ -1,0 +1,5 @@
+categories:
+- 강매역
+conversations:
+- - 강매역은 몇 년도에 개업했나요?
+  - <a>1971년</a>

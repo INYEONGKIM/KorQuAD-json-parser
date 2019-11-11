@@ -1,0 +1,5 @@
+categories:
+- 혜은이
+conversations:
+- - 혜은이는 몇년도에 김동현과 결혼하였는가?
+  - <a>1990년</a>

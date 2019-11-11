@@ -1,0 +1,5 @@
+categories:
+- configure
+conversations:
+- - ./ ㅇconfigure를 실행하면 어떤 명령이 내려져?
+  - 스크립트가 현재 디렉터리에 있음을 셸에게 지시할 수 있다.

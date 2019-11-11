@@ -1,0 +1,5 @@
+categories:
+- 오목
+conversations:
+- - 오목 판에 칸 수는 어떻게 돼?
+  - 15×15

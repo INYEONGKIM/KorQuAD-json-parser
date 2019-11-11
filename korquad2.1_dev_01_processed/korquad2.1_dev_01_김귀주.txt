@@ -1,0 +1,5 @@
+categories:
+- 김귀주
+conversations:
+- - 김귀주의 매제는 누구인가?
+  - <a>조선 영조</a>

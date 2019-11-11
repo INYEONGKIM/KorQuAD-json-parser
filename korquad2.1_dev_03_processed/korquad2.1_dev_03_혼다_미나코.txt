@@ -1,0 +1,9 @@
+categories:
+- 혼다_미나코
+conversations:
+- - 앨범 JUNCTION이 발매된 날짜는 언제인가?
+  - 1994년 9월 24일
+- - '풍류풍령초연표'가 수록된 혼다 미나코의 앨범은 무엇인가?
+  - JUNCTION
+- - 혼다 미나코가 참여한 라이브 앨범에는 어떤 것들이 있나요?
+  - <table>\n<tbody><tr>\n<th>제목</th>\n<th>로마자 표기</th>\n<th>한국어 번역</th>\n<th>발매일\n</th></tr>\n<tr>\n<td><div><span>ザ・ヴァージン・コンサート</span></div></td>\n<td><div>The virgin concert</div></td>\n<td><div>더 버진 콘서트</div></td>\n<td><div><a>1986년</a> <a>2월 20일</a></div>\n</td></tr>\n<tr>\n<td><div>DISPA 1987</div></td>\n<td><div></div></td>\n<td><div></div></td>\n<td><div><a>1988년</a> <a>1월 25일</a></div>\n</td></tr></tbody></table>

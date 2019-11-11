@@ -1,0 +1,5 @@
+categories:
+- 손숙
+conversations:
+- - 손숙이 mbc 라디오에서 DJ를 맡았던 프로그램은 무엇입니까?
+  - <a>여성시대</a>

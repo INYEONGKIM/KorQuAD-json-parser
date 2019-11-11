@@ -1,0 +1,5 @@
+categories:
+- 대한자강회
+conversations:
+- - 대한자강회는 몇년도까지 활동했어?
+  - 1907년

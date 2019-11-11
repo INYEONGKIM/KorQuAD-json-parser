@@ -1,0 +1,7 @@
+categories:
+- 남인천방송
+conversations:
+- - 남인천방송에서 방영하는 골프프로그램은 무엇인가?
+  - <li>STORY NIB GOLF ZONE</li>
+- - 남인천방송의 디지털 23-1번의 채널명은 무엇인가?
+  - <a>연합뉴스TV</a>

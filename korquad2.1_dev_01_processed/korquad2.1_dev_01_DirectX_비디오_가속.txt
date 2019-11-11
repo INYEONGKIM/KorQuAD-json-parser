@@ -1,0 +1,6 @@
+categories:
+- DirectX_비디오_가속
+conversations:
+- - DirectX 비디오 가속을 지원하는 소프트웨어중 다음 
+이 제공하는 소프트웨어의 이름은 무엇인가?
+  - <li><a>다음 팟플레이어</a></li>

@@ -1,0 +1,11 @@
+categories:
+- 블랙아이드필승
+conversations:
+- - 블랙아이드필승의 2011년 프로듀싱 작업 내역은 어떠한가?
+  - <table>\n<tbody><tr>\n<th>날짜\n</th>\n<th>가수\n</th>\n<th>수록 음반\n</th>\n<th>곡\n</th></tr>\n<tr>\n<td><a>1월 19일</a>\n</td>\n<td><a>NAVI</a>\n</td>\n<td>정규 1집 <a>Hello</a>\n</td>\n<td>Track 4 &lt;오늘도 난&gt;\n</td></tr>\n<tr>\n<td><a>2월 14일</a>\n</td>\n<td><a>DMTN</a>\n</td>\n<td>미니 1집 <a>Dalmatian</a>\n</td>\n<td>Track 2 &lt;<b>그 남자는 반대</b>&gt;\n</td></tr>\n<tr>\n<td><a>5월 17일</a>\n</td>\n<td><a>BEAST</a>\n</td>\n<td>정규 1집 <a>FICTION and FACT</a>\n</td>\n<td>Track 4 &lt;You&gt;\n</td></tr>\n<tr>\n<td rowspan="2"><a>9월 16일</a>\n</td>\n<td rowspan="2"><a>허각</a>\n</td>\n<td rowspan="2">미니 2집 First Story\n</td>\n<td>Track 1 &lt;In 忍&gt;\n</td></tr>\n<tr>\n<td>Track 2 &lt;<b>Hello</b>&gt;\n</td></tr></tbody></table>
+- - 블랙아이드필승이 2010년 환희의 앨범에 참여한 곡 제목은?
+  - &lt;<b>...하다가</b>&
+- - 2014년 11월 20일 발매된 지워라는 곡의 가수는 누구인가?
+  - <a>효린</a>, <a>주영</a>
+- - 블랙아이드필승의 곡중 내곁에 서 있어줘는 2016년 9월19일 발매된 비투비블루의 어떤앨범에 수록되었을까?
+  - 데뷔 싱글 내 곁에 서 있어줘

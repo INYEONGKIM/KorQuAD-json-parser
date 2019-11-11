@@ -1,0 +1,5 @@
+categories:
+- 권오석
+conversations:
+- - 노무현 전 대통령의 장인 이름은?
+  - 권오석

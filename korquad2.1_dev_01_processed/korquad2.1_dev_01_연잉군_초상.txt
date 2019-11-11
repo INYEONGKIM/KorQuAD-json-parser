@@ -1,0 +1,5 @@
+categories:
+- 연잉군_초상
+conversations:
+- - 연잉군 초상은 누가 그린거야?
+  - 진재해

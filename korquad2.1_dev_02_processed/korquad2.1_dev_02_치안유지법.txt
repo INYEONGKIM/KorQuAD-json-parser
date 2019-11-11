@@ -1,0 +1,5 @@
+categories:
+- 치안유지법
+conversations:
+- - 치안 유지법의 초기 적용 대상은 누구야?
+  - <a>일본 공산당</a>

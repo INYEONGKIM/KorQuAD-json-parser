@@ -1,0 +1,5 @@
+categories:
+- 015B
+conversations:
+- - 015B의 1번째 라이브 실황 앨범으로 초판 색깔이 노란색이였던 앨범은 무엇인가?
+  - <a>015B Live</a>

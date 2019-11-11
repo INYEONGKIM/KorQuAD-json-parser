@@ -1,0 +1,23 @@
+categories:
+- 2019년_AFC_아시안컵_예선
+conversations:
+- - 2019 AFC 아시안컵 예선 결과는 어떻게 될까?
+  - <table>\n<tbody><tr>\n<th>팀 1\n</th>\n<th>결과\n</th>\n<th>팀 2\n</th>\n<th>1차전\n</th>\n<th>2차전\n</th></tr>\n<tr>\n<td><b><a>인도</a> <span><a><img></a></span></b>\n</td>\n<td>2-0\n</td>\n<td><span><a><img></a></span> <a>네팔</a>\n</td>\n<td>2-0\n</td>\n<td>0-0\n</td></tr>\n<tr>\n<td><b><a>예멘</a> <span><a><img></a></span></b>\n</td>\n<td>3-1\n</td>\n<td><span><a><img></a></span> <a>파키스탄</a>\n</td>\n<td>3-1\n</td>\n<td>0-0\n</td></tr>\n<tr>\n<td><b><a>동티모르</a> <span><a><img></a></span></b>\n</td>\n<td>0-6\n</td>\n<td><span><a><img></a></span> <a>몽골</a>\n</td>\n<td>0-3<small><br/>(몰수)<sup>1</sup></small>\n</td>\n<td>0-3<small><br/>(몰수)<sup>1</sup></small>\n</td></tr>\n<tr>\n<td><b><a>캄보디아</a> <span><a><img></a></span></b>\n</td>\n<td>4-1\n</td>\n<td><span><a><img></a></span> <a>마카오</a>\n</td>\n<td>3-0\n</td>\n<td>1-1\n</td></tr>\n<tr>\n<td><b><a>중화 타이베이</a> <span><a><img></a></span></b>\n</td>\n<td>2-1\n</td>\n<td><span><a><img></a></span> <a>브루나이</a>\n</td>\n<td>0-1\n</td>\n<td>2-0\n</td></tr>\n<tr>\n<td><a>스리랑카</a> <span><a><img></a></span>\n</td>\n<td>1-3\n</td>\n<td><b><span><a><img></a></span> <a>부탄</a></b>\n</td>\n<td>0-1\n</td>\n<td>1-2\n</td></tr></tbody></table>
+- - 2019년 AFC 아시안컵 2차 예선 B조의 오스트레일리아의 승점은 몇점입니까?
+  - <b>21</b>
+- - 2019년 AFC 아시안컵 2차예선 D조에서 1위를한 이란팀은 승점 몇점을 기록했을까?
+  - <b>20</b>
+- - 2019년 AFC 아시안컵의 2차 예선에서 F조 중에 가장 승점이 높은 팀은 어디일까?
+  - <a>태국</a>
+- - 2019년 AFC아시안컵 2차예선 G조 레바논의 승점은 몇 점일까?
+  - <b>11</b>
+- - 2019년 AFC 아시안컵 2차 예선에서 H조 1위를 한 우즈베키스탄은 몇 경기를 이겼을까?
+  - <td>7</td>
+- - 2019년 AFC 아시안컵 2차 예선에서 4승을 거둔 E조의 팀은 어디인가?
+  - <a>시리아</a>
+- - 2019년 AFC 아시안컵 예선전 괌의 득실차는 몇점인가?
+  - <td>-13</td>
+- - 2019년 AFC아시안컵 E조의 3차 예선에서 승점 13점으로 본선에 진출한 국가의 이름은 무엇입니까?
+  - <a>바레인</a>
+- - 2019년 AFC 아시안컵 예선 1라운드에서 몰디브와 예멘의 최종 경기 결과는 몇 대 몇인가?
+  - 0-4

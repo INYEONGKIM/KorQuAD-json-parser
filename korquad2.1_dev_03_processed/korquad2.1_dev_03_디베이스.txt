@@ -1,0 +1,9 @@
+categories:
+- 디베이스
+conversations:
+- - 디베이스가 발매한 음반별 수록곡으로 무엇이 있는가? 
+  - <table>\n<tbody><tr>\n<th>번호\n</th>\n<th>앨범 정보\n</th>\n<th>트랙 리스트\n</th></tr>\n<tr>\n<td><b>1</b>\n</td>\n<td>《<b>D.Bace Vol.1</b>》\n<ul><li>발매일: 2001년 5월 3일</li></ul>\n</td>\n<td>\n<ol><li>D.Bace - Intro By DJ Wreckx</li>\n<li><b>모든것을 너에게</b></li>\n<li>원</li>\n<li>사랑한다는 것</li>\n<li>Good Life (Feat.D.O)</li>\n<li>후회</li>\n<li>I'll Tell U</li>\n<li>상처 (Feat. DEUX)</li>\n<li>그대로</li>\n<li>샤인</li>\n<li>Cowboy</li></ol>\n</td></tr>\n<tr>\n<td><b>2</b>\n</td>\n<td>《<b>The Return</b>》\n<ul><li>발매일: 2003년 8월 14일</li></ul>\n</td>\n<td>\n<ol><li>Intro</li>\n<li><b>Go</b></li>\n<li>연인</li>\n<li>What</li>\n<li>Real Love</li>\n<li>희망</li>\n<li>친구일 테니까</li>\n<li>Yeh!</li>\n<li>Outsider</li>\n<li>Rush</li>\n<li>처음</li>\n<li>Crazy</li>\n<li>헤아릴 수 없을 만큼</li>\n<li>왜</li></ol>\n</td></tr></tbody></table>
+- - 디베이스의 <Season 2> 앨범의 발매일은 언제인가?
+  - 2008년 2월 4일
+- - 디베이스의 전 멤버인 지훈의 출생지는 어디일까?
+  - (39세)</li>\n<li>출생지 :

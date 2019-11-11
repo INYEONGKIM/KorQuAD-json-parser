@@ -1,0 +1,5 @@
+categories:
+- 감전역
+conversations:
+- - 감전역 주변에 있는 초등학교 이름은 무엇일까?
+  - <li>감전초등학교</li>

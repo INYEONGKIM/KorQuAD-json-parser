@@ -1,0 +1,5 @@
+categories:
+- 윤경희
+conversations:
+- - 윤경희는 제 몇대 청송 군수인가?
+  - 제48대

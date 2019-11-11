@@ -1,0 +1,5 @@
+categories:
+- 생방송_지금_충북은
+conversations:
+- - 생방송 지금 충북은의 역대 진행자는 누구일까?
+  - <table>\n<tbody><tr>\n<th>기수</th>\n<th>진행자</th>\n<th>진행 기간\n</th></tr>\n<tr>\n<th>1기\n</th>\n<td><a>이지연</a></td>\n<td><a>2011년</a> <a>2월 14일</a> ~ <a>2012년</a> <a>2월 14일</a>\n</td></tr>\n<tr>\n<th>2기\n</th>\n<td><a>정지원</a></td>\n<td><a>2012년</a> <a>3월 1일</a> ~ <a>2012년</a> <a>11월 28일</a>\n</td></tr>\n<tr>\n<th>3기\n</th>\n<td><a>이승현</a></td>\n<td><a>2012년</a> <a>12월 1일</a> ~ <a>2014년</a> <a>5월 14일</a>\n</td></tr>\n<tr>\n<th>4기\n</th>\n<td><a>백선일</a></td>\n<td><a>2014년</a> <a>5월 26일</a> ~ <a>2014년</a> <a>12월 31일</a>\n</td></tr>\n<tr>\n<th>5기\n</th>\n<td><a>백선일</a></td>\n<td><a>2015년</a> <a>1월 5일</a> ~ <a>2018년</a> <a>8월 31일</a>\n</td></tr>\n<tr>\n<th>6기\n</th>\n<td><a>이승휘</a></td>\n<td><a>2018년</a> <a>9월 3일</a> ~ <a>2019년</a> <a>2월 22일</a>\n</td></tr>\n<tr>\n<th>7기\n</th>\n<td><a>박종화</a></td>\n<td><a>2019년</a> <a>3월 18일</a> ~ <b>현재</b>\n</td></tr></tbody></table>

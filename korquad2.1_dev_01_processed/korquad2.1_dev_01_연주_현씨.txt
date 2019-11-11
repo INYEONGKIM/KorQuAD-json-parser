@@ -1,0 +1,5 @@
+categories:
+- 연주_현씨
+conversations:
+- - 연주 현씨의 시조는 누구인가?
+  - <b>현담윤</b>

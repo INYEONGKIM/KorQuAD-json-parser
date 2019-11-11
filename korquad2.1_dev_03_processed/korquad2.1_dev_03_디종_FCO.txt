@@ -1,0 +1,5 @@
+categories:
+- 디종_FCO
+conversations:
+- - 디종 FCO는 몇 년도에 창단했을까?
+  - <a>1903년</a>

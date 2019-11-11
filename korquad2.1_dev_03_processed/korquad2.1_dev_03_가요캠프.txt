@@ -1,0 +1,5 @@
+categories:
+- 가요캠프
+conversations:
+- - 유미희의 가요교차로는 무슨 요일에 송출될까?
+  - 토~일

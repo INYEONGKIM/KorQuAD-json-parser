@@ -1,0 +1,5 @@
+categories:
+- 신상호_(프로게이머)
+conversations:
+- - 신상호의 현피토스란 별명은 어디서 유래되었어?
+  - 곰TV MSL 시즌 4 조지명식

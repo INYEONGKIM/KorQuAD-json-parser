@@ -1,0 +1,11 @@
+categories:
+- 2019년_대한민국_재보궐선거
+conversations:
+- - 2019년 대한민국 재보궐 선거 당시 통영시와 고성군의 여론조사는 어떻게 진행되었을까?
+  - <table>\n<tbody><tr>\n<th rowspan="2">조사 의뢰\n</th>\n<th rowspan="2">조사 기관\n</th>\n<th rowspan="2">조사 기간\n</th>\n<th rowspan="2">응답 인원\n</th>\n<td>\n</td>\n<th><a>더불어민주당</a>\n</th>\n<td>\n</td>\n<th><a>자유한국당</a>\n</th>\n<th rowspan="2">기타 · 무응답\n</th>\n<th rowspan="2">참고\n</th></tr>\n<tr>\n<th colspan="2"><a>양문석</a>\n</th>\n<th colspan="2"><a>정점식</a>\n</th></tr>\n<tr>\n<td><a>창원 KBS</a>\n</td>\n<td>한국리서치\n</td>\n<td>2월 15일 ~ 2월 17일\n</td>\n<td>700명\n</td>\n<td colspan="2"><img><img><img> 8.9%\n</td>\n<td colspan="2"><img><img> 7.6%\n</td>\n<td><img><img><img><img> 83.5%\n</td>\n<td><sup><a>[12]</a></sup>\n</td></tr>\n<tr>\n<td><a>MBC경남</a>\n</td>\n<td><a>리얼미터</a>\n</td>\n<td>3월 16일 ~ 3월 17일\n</td>\n<td>502명\n</td>\n<td colspan="2"><img><img><img><img> 36.6%\n</td>\n<td colspan="2"><img><img> 51.0%\n</td>\n<td><img><img><img> 12.4%\n</td>\n<td><sup><a>[13]</a></sup>\n</td></tr>\n<tr>\n<td>경상도신문\n</td>\n<td>피플네트웍스\n</td>\n<td>3월 17일\n</td>\n<td>704명\n</td>\n<td colspan="2"><img><img><img><img> 25.9%\n</td>\n<td colspan="2"><img><img><img><img> 61.7%\n</td>\n<td><img><img><img> 12.4%\n</td>\n<td><sup><a>[14]</a></sup>\n</td></tr>\n<tr>\n<td colspan="2"><a>중앙일보</a>\n</td>\n<td>3월 24일 ~ 3월 25일\n</td>\n<td>700명\n</td>\n<td colspan="2"><img><img> 31.2%\n</td>\n<td colspan="2"><img><img><img> 38.2%\n</td>\n<td><img><img> 30.6%\n</td>\n<td><sup><a>[15]</a></sup>\n</td></tr>\n<tr>\n<td><a>MBC경남</a>\n</td>\n<td><a>리얼미터</a>\n</td>\n<td>3월 26일 ~ 3월 27일\n</td>\n<td>511명\n</td>\n<td colspan="2"><img> 29.7%\n</td>\n<td colspan="2"><img><img><img><img> 57.2%\n</td>\n<td><img><img> 13.1%\n</td>\n<td><sup><a>[16]</a></sup>\n</td></tr>\n<tr>\n<th colspan="4">2019년 대한민국 재보궐선거\n</th>\n<th colspan="2"><img><img><img> 36.0%\n</th>\n<th colspan="2"><img><img> 59.5%\n</th>\n<th><img> 4.5%\n</th>\n<th><a><img></a>\n</th></tr></tbody></table>
+- - 2019년 대한민국 재보궐선거 당시에 김영우는 무슨 정당 소속이었는가?
+  - <a>더불어민주당</a>
+- - 2019년 대한민국 재보궐선거시 통영시에서 국회의원으로 당첨된 정당은 어디일까?
+  - <a>자유한국당</a>
+- - 2019 대한민국 4월 3일 재보궐선거의 경상남도 창원시 성산구를 대상으로 한 여론조사 중 피플 네트웍스 조사기관의 조사 기간은 언제인가?
+  - 3월 17일

@@ -1,0 +1,11 @@
+categories:
+- 대한민국_제13대_국회의원_선거_서울특별시
+conversations:
+- - 대한민국 제 13대 국회의원 선거 당시 서울 특별시의 중구에서 출마한 후보들은 어떤 결과를 거두었을까?
+  - <table>\n<tbody><tr>\n<td colspan="8">대한민국 제13대 국회의원 선거 서울특별시 중구에서 <a>평화민주당</a> <a>정대철</a> 후보가 10,611표차로 당선됨.\n</td></tr>\n<tr>\n<td rowspan="8"><a><img></a><br/><br/><small><a>선거구 보기</a> | <a>당선자 보기</a> </small>\n</td>\n<th colspan="2">기호</th>\n<th>후보</th>\n<th>정당</th>\n<th>득표</th>\n<th>득표율</th>\n<th>비고\n</th></tr>\n<tr>\n<td>\n</td>\n<td>1</td>\n<td>장기홍</td>\n<td><a>민주정의당</a>\n</td>\n<td>27,617표</td>\n<td>\n<table>\n<tbody><tr>\n<td><div></div>\n</td>\n<td><small><i>28.6%</i></small>\n</td></tr></tbody></table>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>\n</td>\n<td>2</td>\n<td>김중태</td>\n<td><a>통일민주당</a>\n</td>\n<td>20,721표</td>\n<td>\n<table>\n<tbody><tr>\n<td><div></div>\n</td>\n<td><small><i>21.46%</i></small>\n</td></tr></tbody></table>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>\n</td>\n<td>3</td>\n<td><a>정대철</a></td>\n<td><a>평화민주당</a>\n</td>\n<td>38,228표</td>\n<td>\n<table>\n<tbody><tr>\n<td><div></div>\n</td>\n<td><small><i>39.58%</i></small>\n</td></tr></tbody></table>\n</td>\n<td><a><img></a>\n</td></tr>\n<tr>\n<td>\n</td>\n<td>4</td>\n<td>문창탁</td>\n<td><a>신민주공화당</a>\n</td>\n<td>8,935표</td>\n<td>\n<table>\n<tbody><tr>\n<td><div></div>\n</td>\n<td><small><i>9.25%</i></small>\n</td></tr></tbody></table>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>\n</td>\n<td>5</td>\n<td>김명주</td>\n<td><a>한국국민당</a>\n</td>\n<td>240표</td>\n<td>\n<table>\n<tbody><tr>\n<td><div></div>\n</td>\n<td><small><i>0.25%</i></small>\n</td></tr></tbody></table>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>\n</td>\n<td>6</td>\n<td>이세춘</td>\n<td><a>민중당</a>\n</td>\n<td>837표</td>\n<td>\n<table>\n<tbody><tr>\n<td><div></div>\n</td>\n<td><small><i>0.87%</i></small>\n</td></tr></tbody></table>\n</td>\n<td>\n</td></tr>\n<tr>\n<th colspan="4">계\n</th>\n<td>96,578표\n</td>\n<td colspan="2"><b>투표율</b>_72.13%\n</td></tr>\n<tr>\n<td colspan="8"><small>선거구_중구    |    선거인수_134,968명    |    기권수_37,622명    |    투표수_97,346표    |    무효투표수_768표</small>\n</td></tr></tbody></table>
+- - 대한민국 제 13대 국회의원 선거에 출마한 안성혁 후보의 소속 정당은 어디인가?
+  - <a>민주정의당</a>
+- - 우리나라의 제 13대 국회의원 선거에서 강성재 후보는 총 몇 표를 얻었나요?
+  - <td>30,771표</td>
+- - 제13대 국회의원 서울특별시 송파구 을에서, 기호 1번으로 출마한 후보의 이름은?
+  - <td>박완남</td>

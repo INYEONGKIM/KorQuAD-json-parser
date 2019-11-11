@@ -1,0 +1,5 @@
+categories:
+- ㄱ
+conversations:
+- - ㄱ은 어떤 모양을 본따 만들어졌는가?
+  - <tr><th>자원</th>\n<td>\n혀뿌리가 목구멍을 막는 모양 (상형)</td></tr>

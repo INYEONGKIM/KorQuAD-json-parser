@@ -1,0 +1,5 @@
+categories:
+- 대연역
+conversations:
+- - 대연역 주변에 있는 박물관의 이름은 무엇인가요?
+  - <li>부산박물관</li>

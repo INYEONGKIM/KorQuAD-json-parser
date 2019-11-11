@@ -1,0 +1,5 @@
+categories:
+- 화각_(사진술)
+conversations:
+- - 환산 초점거리를 구하려면 실제 초점거리에 무엇을 곱해야 돼?
+  - 해당제품의 크롭 팩터(Crop Factor)

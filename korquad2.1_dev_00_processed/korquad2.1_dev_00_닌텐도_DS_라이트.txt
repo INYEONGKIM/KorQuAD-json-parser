@@ -1,0 +1,7 @@
+categories:
+- 닌텐도_DS_라이트
+conversations:
+- - 닌텐도 DS 라이트와 터치펜 DS 모델의 길이 차이는 몇 cm 입니까? 
+  - 1cm
+- - USG-005의 역할은 무엇인가요?
+  - 비어있는 GBA 카트리지 삽입구용 커버.

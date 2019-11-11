@@ -1,0 +1,5 @@
+categories:
+- 곰솔
+conversations:
+- - 주심 속에서 장란기가 만들어지는 개수는 몇개인가?
+  - 3-5개

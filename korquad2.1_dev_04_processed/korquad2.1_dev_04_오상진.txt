@@ -1,0 +1,5 @@
+categories:
+- 오상진
+conversations:
+- - 오상진이 찍은 생수 CF의 제품명은 무엇인가?
+  - 백산수

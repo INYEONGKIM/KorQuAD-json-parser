@@ -1,0 +1,5 @@
+categories:
+- 류승룡
+conversations:
+- - 류승룡이 런닝맨에 출연한 년도는?
+  - 2019

@@ -1,0 +1,5 @@
+categories:
+- 엄지인
+conversations:
+- - 엄지인이 2010년 KBS2 방송사에서 진행한 방송 프로그램의 제목은?
+  - <td><a>미녀들의 수다</a></td>

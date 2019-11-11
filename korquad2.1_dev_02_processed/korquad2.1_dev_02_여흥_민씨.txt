@@ -1,0 +1,9 @@
+categories:
+- 여흥_민씨
+conversations:
+- - 조선 초기에 나온 민씨 왕비는 총 몇 명이야?
+  - 4명
+- - 여흥 민씨는 누구를 시조로 할까?
+  - <b>민칭도</b>
+- - 여흥 민씨 공목공파 24세손부터 40세손까지의 항렬 돌림자는 어찌되는가?
+  - <table>\n<tbody><tr>\n<th>세(世)</th>\n<th>24세</th>\n<th>25세</th>\n<th>26세</th>\n<th>27세</th>\n<th>28세</th>\n<th>29세</th>\n<th>30세</th>\n<th>31세</th>\n<th>32세</th>\n<th>33세</th>\n<th>34세</th>\n<th>35세</th>\n<th>36세</th>\n<th>37세</th>\n<th>38세</th>\n<th>39세</th>\n<th>40세\n</th></tr>\n<tr>\n<th>위치\n</th>\n<td>끝</td>\n<td>가운데</td>\n<td>끝</td>\n<td>가운데</td>\n<td>끝</td>\n<td>가운데</td>\n<td>끝</td>\n<td>가운데</td>\n<td>끝</td>\n<td>가운데</td>\n<td>끝</td>\n<td>가운데</td>\n<td>끝</td>\n<td>가운데</td>\n<td>끝</td>\n<td>가운데</td>\n<td>끝\n</td></tr>\n<tr>\n<th>항렬자\n</th>\n<td>세(世)</td>\n<td>종(種)</td>\n<td>훈(勳)</td>\n<td>재(載)</td>\n<td>현(鉉)</td>\n<td>태(泰)</td>\n<td>근(根)<br/>동(東)</td>\n<td>경(慶)<br/>병(炳)<br/>형(炯)</td>\n<td>준(準)</td>\n<td>사(思)</td>\n<td>구(九)</td>\n<td>회(會)</td>\n<td>은(殷)</td>\n<td>성(成)</td>\n<td>범(範)</td>\n<td>강(康)</td>\n<td>재(宰)\n</td></tr>\n</tbody></table>

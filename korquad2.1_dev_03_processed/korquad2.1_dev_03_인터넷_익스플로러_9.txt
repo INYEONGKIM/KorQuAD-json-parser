@@ -1,0 +1,7 @@
+categories:
+- 인터넷_익스플로러_9
+conversations:
+- - 인터넷 익스플로러 9는 운영체제마다 어떤 차이를 보일까?
+  - <table>\n<tbody><tr>\n<th>운영 체제\n</th>\n<th>IE7 호환성 보기 지원\n</th>\n<th>사용자 에이전트 문자열\n</th>\n<th>문자열 확장 지원\n</th></tr>\n<tr>\n<td>윈도우 7/윈도우 서버 2008 R2</td>\n<td>예</td>\n<td><code>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0)</code></td>\n<td>예\n</td></tr>\n<tr>\n<td>윈도우 7/윈도우 서버 2008 R2</td>\n<td>아니오</td>\n<td><code>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)</code></td>\n<td>아니오\n</td></tr>\n<tr>\n<td>윈도우 비스타/윈도우 서버 2008</td>\n<td>예</td>\n<td><code>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0)</code></td>\n<td>예\n</td></tr>\n<tr>\n<td>윈도우 비스타/윈도우 서버 2008</td>\n<td>아니오</td>\n<td><code>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)</code></td>\n<td>아니오\n</td></tr></tbody></table>
+- - 인터넷 익스플로러9의 출시일은 언제일까?
+  - 2011-03-14<sup><a>

@@ -1,0 +1,5 @@
+categories:
+- JR_(가수)
+conversations:
+- - 가수 JR이 2018년 1월 28일 스페셜 MC를 맡았던 이 프로그램의 제목은?
+  - <a>인기가요</a>

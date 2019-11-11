@@ -1,0 +1,5 @@
+categories:
+- 천년여왕
+conversations:
+- - 천년여왕의 원작자는 누구인가?
+  - <a>마쓰모토 레이지</a>

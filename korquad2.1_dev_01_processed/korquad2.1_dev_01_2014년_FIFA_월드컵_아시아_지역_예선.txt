@@ -1,0 +1,13 @@
+categories:
+- 2014년_FIFA_월드컵_아시아_지역_예선
+conversations:
+- - 2014년 FIFA 월드컵에서 아시아 지역의 1차 예선 경기의 결과는 어땠을까?
+  - <table>\n<tbody><tr>\n<th>팀 1\n</th>\n<th>결과\n</th>\n<th>팀 2\n</th>\n<th>1차전\n</th>\n<th>2차전\n</th></tr>\n<tr>\n<td><b><a>말레이시아</a> <span><a><img></a></span></b>\n</td>\n<td>4-4 (<a>a</a>)\n</td>\n<td><span><a><img></a></span> <a>중화 타이베이</a>\n</td>\n<td>2-1\n</td>\n<td>2-3\n</td></tr>\n<tr>\n<td><b><a>방글라데시</a> <span><a><img></a></span></b>\n</td>\n<td>3-0\n</td>\n<td><span><a><img></a></span> <a>파키스탄</a>\n</td>\n<td>3-0\n</td>\n<td>0-0\n</td></tr>\n<tr>\n<td><a>캄보디아</a> <span><a><img></a></span>\n</td>\n<td>6-8\n</td>\n<td><b><span><a><img></a></span> <a>라오스</a></b>\n</td>\n<td>4-2\n</td>\n<td>2-6<br/><small>(<a>연장전</a>)</small>\n</td></tr>\n<tr>\n<td><a>스리랑카</a> <span><a><img></a></span>\n</td>\n<td>1-5\n</td>\n<td><b><span><a><img></a></span> <a>필리핀</a></b>\n</td>\n<td>1-1\n</td>\n<td>0-4\n</td></tr>\n<tr>\n<td><a>아프가니스탄</a> <span><a><img></a></span>\n</td>\n<td>1-3\n</td>\n<td><b><span><a><img></a></span> <a>팔레스타인</a></b>\n</td>\n<td>0-2\n</td>\n<td>1-1\n</td></tr>\n<tr>\n<td><b><a>베트남</a> <span><a><img></a></span></b>\n</td>\n<td>13-1\n</td>\n<td><span><a><img></a></span> <a>마카오</a>\n</td>\n<td>6-0\n</td>\n<td>7-1\n</td></tr>\n<tr>\n<td><b><a>네팔</a> <span><a><img></a></span></b>\n</td>\n<td>7-1\n</td>\n<td><span><a><img></a></span> <a>동티모르</a>\n</td>\n<td>2-1\n</td>\n<td>5-0\n</td></tr>\n<tr>\n<td><a>몽골</a> <span><a><img></a></span>\n</td>\n<td>1-2\n</td>\n<td><b><span><a><img></a></span> <a>미얀마</a></b>\n</td>\n<td>1-0\n</td>\n<td>0-2\n</td></tr></tbody></table>
+- - 2014년 FIFA 월드컵 아시아 지역  1차 예선 참가대상은 누구인가?
+  - 최하위 시드 16개 팀<br/>
+- - 2014년 FIFA 월드컵 아시아 지역 예선 플레이오프에서 요르단이 상대한 나라는?
+  - <a>우즈베키스탄</a>
+- - 2014년 FIFA 월드컵 아시아 지역 예선의 최종 예선 A조에서 가장 높은 승점을 얻은 팀은 어디일까?
+  - <a>이란</a>
+- - 2014년 FIFA 월드컵 아시아 지역 예선의 최종 예선 B조에서 가장 승점이 낮은 팀은 어디일까?
+  - <a>이라크</a>

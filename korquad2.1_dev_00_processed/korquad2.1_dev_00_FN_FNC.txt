@@ -1,0 +1,5 @@
+categories:
+- FN_FNC
+conversations:
+- - FNC의 발사 모드는 몇가지가 있어?
+  - 3가지

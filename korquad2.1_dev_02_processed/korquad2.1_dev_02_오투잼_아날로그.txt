@@ -1,0 +1,7 @@
+categories:
+- 오투잼_아날로그
+conversations:
+- - 오투잼 아날로그의 5키 하드 모드에서 최고 난이도 곡은 어떤게 있을까?
+  - <ul><li>2011년 6월 23일: Invitation (Lv. 10)</li>\n<li>2011년 6월 24일: 아시나요 (Lv.11)</li>\n<li>2011년 6월 25일: 신세계 Black (Lv. 17)</li>\n<li>2011년 6월 26일 ~ 7월 30일: Invitation II (Lv. 19)</li>\n<li>2011년 7월 31일 ~ 9월 6일: Black Swan (Lv. 24)</li>\n<li>2011년 9월 7일 ~ 2012년 2월 15일: Identity Part 4 (Lv. 27)</li>\n<li>2012년 2월 16일 ~ 7월 18일: BSPower Explosion (Lv. 29)</li>\n<li>2012년 7월 19일 ~ 2013년 3월 6일: Xeroize (Lv. 30)</li>\n<li>2013년 3월 7일 ~: Plasma gun (Lv. 31)</li></ul>
+- - 오투잼 아날로그의 트랙 종류에는 어떤 것이 있나요?
+  - 무료 트랙, 프리미엄 트랙

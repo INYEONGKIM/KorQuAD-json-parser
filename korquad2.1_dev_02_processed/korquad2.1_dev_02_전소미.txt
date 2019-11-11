@@ -1,0 +1,11 @@
+categories:
+- 전소미
+conversations:
+- - 전소미가 2018년 8월 20일 전까지 전속 계약을 맺고있었던 회사는 어디인가?
+  - <a>JYP 엔터테인먼트</a>
+- - 전소미가 콜라보레이션 한 음반은 어떤 게 있을까?
+  - <table>\n<tbody><tr>\n<th>Artist\n</th>\n<th>발매일\n</th>\n<th>앨범 타입\n</th>\n<th>앨범\n</th>\n<th>타이틀 곡\n</th>\n<th>발매사\n</th>\n<th>기획사\n</th></tr>\n<tr>\n<td>소미, <a>희현</a>, <a>최유정</a>, <a>청하</a>\n</td>\n<td>2016.08.29\n</td>\n<td><a>싱글 앨범</a>\n</td>\n<td>《꽃, 바람 그리고 너》\n</td>\n<td>&lt;꽃, 바람 그리고 너&gt;\n</td>\n<td><a>인터파크</a>\n</td>\n<td>MBK엔터테인먼트\n</td></tr>\n<tr>\n<td>소미, <a>에릭 남</a>\n</td>\n<td>2016.08.29\n</td>\n<td><a>싱글 앨범</a>\n</td>\n<td>《유후 (You, Who?)》\n</td>\n<td>&lt;유후 (You, Who?)&gt;\n</td>\n<td>CJ E&amp;M MUSIC\n</td>\n<td>B2M엔터테인먼트, CJ E&amp;M\n</td></tr>\n</tbody></table>
+- - 전소미가 김병철과 출연한 광고는 무엇일까?
+  - 알바천국
+- - 전소미가 2014년 출연한 갓세븐의 뮤직비디오 제목은 무엇일까요?
+  - 하지하지마&

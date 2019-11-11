@@ -1,0 +1,5 @@
+categories:
+- 박중훈
+conversations:
+- - 박중훈이 주연으로 데뷔하게된 영화의 이름이 뭐야?
+  - 《<a>깜보</a>》

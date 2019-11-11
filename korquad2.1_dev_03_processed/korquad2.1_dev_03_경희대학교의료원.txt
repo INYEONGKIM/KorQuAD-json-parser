@@ -1,0 +1,5 @@
+categories:
+- 경희대학교의료원
+conversations:
+- - 경희대학교의료원에 있는 연구원명은?
+  - <li>의과학연구원</li>

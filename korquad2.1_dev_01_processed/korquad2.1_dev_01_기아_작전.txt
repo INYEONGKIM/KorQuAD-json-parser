@@ -1,0 +1,5 @@
+categories:
+- 기아_작전
+conversations:
+- - 기아 작전으로 일본은 배 몇 척의 피해를 봤어?
+  - 670척

@@ -1,0 +1,7 @@
+categories:
+- 헬로_카봇_쿵
+conversations:
+- - 만화 헬로 카봇 쿵의 스페셜 편은 어떤 에피소드가 방송되었었나?
+  - <table>\n<tbody><tr>\n<th>회차</th>\n<th>방송 일자</th>\n<th>제목\n</th></tr>\n<tr>\n<td>01회</td>\n<td>2019년 2월 24일</td>\n<td>점쟁이 문어 파울\n</td></tr>\n<tr>\n<td>02회</td>\n<td>2019년 3월 3일</td>\n<td>레옹! 버섯을 찾아줘\n</td></tr>\n<tr>\n<td>03회</td>\n<td>2019년 3월 10일</td>\n<td>포경선을 막아라\n</td></tr>\n<tr>\n<td>04회</td>\n<td>2019년 3월 17일</td>\n<td>달려라! 터보\n</td></tr>\n<tr>\n<td>05회</td>\n<td>2019년 3월 24일</td>\n<td>짝짓기를 도와줘\n</td></tr>\n<tr>\n<td>06회</td>\n<td>2019년 3월 31일</td>\n<td>산호를 지켜줘\n</td></tr>\n</tbody></table>
+- - 헬로 카봇 쿵 7회의 제목은 무엇인가?
+  - 멋지게 날고 싶어

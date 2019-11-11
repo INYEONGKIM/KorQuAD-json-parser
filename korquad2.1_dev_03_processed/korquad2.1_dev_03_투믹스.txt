@@ -1,0 +1,5 @@
+categories:
+- 투믹스
+conversations:
+- - 2017년 6월 투믹스와 MOU를 체결한 회사는 어디인가?
+  - 위메프

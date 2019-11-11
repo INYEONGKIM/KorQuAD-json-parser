@@ -1,0 +1,5 @@
+categories:
+- 신은_위대하다네
+conversations:
+- - 신은 위대하다네에 나오는 신은 누구야?
+  - Allāhu

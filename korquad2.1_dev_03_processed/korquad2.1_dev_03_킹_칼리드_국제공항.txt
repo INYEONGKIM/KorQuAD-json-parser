@@ -1,0 +1,7 @@
+categories:
+- 킹_칼리드_국제공항
+conversations:
+- - 2009년 5월 8일 킹 칼리드 국제공항에서 일어난 사고에서 항공 SV-9061편 안에는 승무원 몇 명이 타있었나?
+  - 8명
+- - 킹 칼리드 국제공항의 구조와 시설은 어떻게 지어졌을까?
+  - <table>\n<caption><b>킹 할리드 국제공항의<sup><a>[3]</a></sup></b>\n</caption>\n<caption><b>세부 조감도 현황</b>\n</caption>\n<tbody><tr>\n<th>양상</th>\n<th>세부\n</th></tr>\n<tr>\n<th>활주로\n</th>\n<td>2\n</td></tr>\n<tr>\n<th>활주로 길이\n</th>\n<td>4,205m (1만3천7백96피트)\n</td></tr>\n<tr>\n<th>활주로 폭\n</th>\n<td>60m (1백97피트)\n</td></tr>\n<tr>\n<th>활주로의 어깨\n</th>\n<td>7.5 m (25 피트) X 2\n</td></tr>\n<tr>\n<th>활주로 포장 폭발 패드\n</th>\n<td>120m (3백94피트) × 2\n</td></tr>\n<tr>\n<th>유도로 폭\n</th>\n<td>23m (75 피트)\n</td></tr>\n<tr>\n<th>유도로 어깨\n</th>\n<td>13m (43 피트) X 2\n</td></tr>\n<tr>\n<th>크로스 유도로 폭\n</th>\n<td>28m (92 피트)\n</td></tr>\n<tr>\n<th>크로스 유도로의 어깨\n</th>\n<td>14.5 m (48 피트) X 2\n</td></tr>\n<tr>\n<th>대형 항공기 스탠드\n</th>\n<td>20 + 12 (로얄 터미널)\n</td></tr>\n<tr>\n<th>소형 항공기 스탠드\n</th>\n<td>22\n</td></tr>\n<tr>\n<th>화물 항공기 스탠드\n</th>\n<td>4 (대형)\n</td></tr>\n<tr>\n<th>일반 항공\n</th>\n<td>36\n</td></tr>\n<tr>\n<th>헬리콥터 발착장\n</th>\n<td>1  (로얄 터미널)\n</td></tr></tbody></table>

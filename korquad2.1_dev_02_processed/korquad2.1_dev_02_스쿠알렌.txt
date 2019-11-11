@@ -1,0 +1,5 @@
+categories:
+- 스쿠알렌
+conversations:
+- - 스쿠알렌의 항산화 기능을 최초로 언급한 사람은 누구인가?
+  - Rao MK

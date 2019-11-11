@@ -1,0 +1,5 @@
+categories:
+- 남궁진
+conversations:
+- - 15대 총선에서의 득표수는?
+  - <td>25,852표</td>

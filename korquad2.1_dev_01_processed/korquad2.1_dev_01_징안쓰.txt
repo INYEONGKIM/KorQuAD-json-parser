@@ -1,0 +1,5 @@
+categories:
+- 징안쓰
+conversations:
+- - 정안사의 중국 불교 총회가 창립한 해는 언제일까?
+  - 1912년

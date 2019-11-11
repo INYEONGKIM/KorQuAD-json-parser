@@ -1,0 +1,7 @@
+categories:
+- 애나_패퀸
+conversations:
+- - 애나 패퀸의 텔레비전 드라마 출연작은 어떤 것들이 있는가?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>제목\n</th>\n<th>원제\n</th>\n<th>배역\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>1997\n</td>\n<td>결혼 멤버\n</td>\n<td><i>The Member of the Wedding</i>\n</td>\n<td>프랭키 애덤스\n</td>\n<td>TV 영화\n</td></tr>\n<tr>\n<td>2007\n</td>\n<td><a>나를 운디드니에 묻어주오</a>\n</td>\n<td><i>Bury My Heart at Wounded Knee</i>\n</td>\n<td>일레인 구데일\n</td>\n<td>TV 영화\n</td></tr>\n<tr>\n<td>2008-14\n</td>\n<td><a>트루 블러드</a>\n</td>\n<td><i>True Blood</i>\n</td>\n<td><a>수키 스택하우스</a>\n</td>\n<td>주인공\n</td></tr>\n<tr>\n<td>2009\n</td>\n<td>이레나 센들러의 용기\n</td>\n<td><i>The Courageous Heart of Irena Sendler</i>\n</td>\n<td><a>이레나 센들러</a>\n</td>\n<td>TV 영화\n</td></tr>\n<tr>\n<td>2011\n</td>\n<td><a>피니와 퍼브</a>\n</td>\n<td><i>Phineas and Ferb</i>\n</td>\n<td>크리스틴 (목소리 출연)\n</td>\n<td>"The Curse of Candace" 에피소드 출연\n</td></tr></tbody></table>
+- - 애나 패퀸의 출연작 중 1993년 개봉영화의 제목은 무엇인가?
+  - <a>피아노</a>

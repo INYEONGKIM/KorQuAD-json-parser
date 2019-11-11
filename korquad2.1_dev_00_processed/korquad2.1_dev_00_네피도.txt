@@ -1,0 +1,5 @@
+categories:
+- 네피도
+conversations:
+- - 네피도의 1월 평균최고기온은?
+  - 30<br/> (86)

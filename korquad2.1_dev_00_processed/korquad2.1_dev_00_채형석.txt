@@ -1,0 +1,5 @@
+categories:
+- 채형석
+conversations:
+- - 채형석이 태어난 년도는?
+  - 1960

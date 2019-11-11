@@ -1,0 +1,5 @@
+categories:
+- 장밥티스트_피롱
+conversations:
+- - 장밥티스트가 중장으로 진급한 년도는?
+  - 1947

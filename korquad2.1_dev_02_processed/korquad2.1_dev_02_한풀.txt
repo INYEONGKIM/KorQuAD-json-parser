@@ -1,0 +1,5 @@
+categories:
+- 한풀
+conversations:
+- - 김정윤은 최용술에게 몇년간 유술을 배웠을까?
+  - 6년

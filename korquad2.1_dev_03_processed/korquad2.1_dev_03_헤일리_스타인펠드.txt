@@ -1,0 +1,7 @@
+categories:
+- 헤일리_스타인펠드
+conversations:
+- - 헤일리 스타인펠드가 연기한 tv프로그램은 어떤 게 있을까?
+  - <table>\n<tbody><tr>\n<th>년도\n</th>\n<th>제목\n</th>\n<th>역할\n</th>\n<th>참고\n</th></tr>\n<tr>\n<td>2007\n</td>\n<th>백 투 유 <br/> <i>Back to you</i>\n</th>\n<td>어린 소녀\n</td>\n<td>에피소드: "Gracie's Bully"\n</td></tr>\n<tr>\n<td rowspan="2">2010\n</td>\n<th>여름 캠프 <br/> <i>Summer Camp</i>\n</th>\n<td>샤이야 맷슨\n</td>\n<td>텔레비전 영화\n</td></tr>\n<tr>\n<th>썬즈 오브 투싼 <br/> <i>Sons of Tucson</i>\n</th>\n<td>베다니\n</td>\n<td>에피소드: "Chicken Pox"\n</td></tr>\n<tr>\n<td>발표 예정\n</td>\n<th>딕킨슨 <br/> <i>Dickinson</i>\n</th>\n<td>에밀리 딕킨슨\n</td>\n<td>주연<sup><a>[58]</a></sup>\n</td></tr></tbody></table>
+- - 헤일리 스타인필드가 등장한 뮤직비디오의 노래들 중 하나인 Bad Blood는 누가 부른 노래인가?
+  - <a>테일러 스위프트</a>

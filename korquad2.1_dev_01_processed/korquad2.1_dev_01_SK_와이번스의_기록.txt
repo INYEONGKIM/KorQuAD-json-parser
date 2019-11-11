@@ -1,0 +1,5 @@
+categories:
+- SK_와이번스의_기록
+conversations:
+- - SK 와이번스의 2001년 순위는?
+  - <td>종합 7위</td>

@@ -1,0 +1,5 @@
+categories:
+- 슈나이더_일렉트릭
+conversations:
+- - 슈나이더 일렉트릭이 2001년에 인수합병한 회사는 어디일까?
+  - <td>PDL</td>

@@ -1,0 +1,5 @@
+categories:
+- 이퀼리브리엄
+conversations:
+- - 영화 '이퀄리브리엄' 의 배경 리브리아의 지배자는 어떻게 불리는가?
+  - 신부님(Father)

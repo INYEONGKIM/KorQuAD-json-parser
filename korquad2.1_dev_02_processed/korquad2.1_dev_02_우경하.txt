@@ -1,0 +1,5 @@
+categories:
+- 우경하
+conversations:
+- - 우경하가 1984년 쳐낸 2루타는 몇 개인가?
+  - <td>8</td>

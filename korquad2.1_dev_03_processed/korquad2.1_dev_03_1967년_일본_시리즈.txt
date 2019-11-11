@@ -1,0 +1,11 @@
+categories:
+- 1967년_일본_시리즈
+conversations:
+- - 1967년 10월 21일에 진행된 일본시리즈 1차전 결과는 어땠어?
+  - <table>\n<tbody><tr>\n<td><b>팀</b>\n</td>\n<td><b>1</b>\n</td>\n<td><b>2</b>\n</td>\n<td><b>3</b>\n</td>\n<td><b>4</b>\n</td>\n<td><b>5</b>\n</td>\n<td><b>6</b>\n</td>\n<td><b>7</b>\n</td>\n<td><b>8</b>\n</td>\n<td><b>9</b>\n</td>\n<td><b>R</b>\n</td>\n<td><b>H</b>\n</td>\n<td><b>E</b>\n</td>\n<td><b>B</b>\n</td></tr>\n<tr>\n<td><b>요미우리</b>\n</td>\n<th>0</th>\n<th>0</th>\n<th>2\n</th>\n<th>0</th>\n<th>0</th>\n<th>2\n</th>\n<th>0</th>\n<th>3</th>\n<th>0\n</th>\n<td><b>7</b>\n</td>\n<td><b>10</b></td>\n<td><b>0</b>\n</td>\n<td><b>{{{원정팀볼넷}}}</b>\n</td></tr>\n<tr>\n<td>한큐\n</td>\n<th>0</th>\n<th>0</th>\n<th>0\n</th>\n<th>0</th>\n<th>1</th>\n<th>0\n</th>\n<th>1</th>\n<th>0</th>\n<th>1\n</th>\n<td><b>3</b>\n</td>\n<td><b>6</b></td>\n<td><b>2</b>\n</td>\n<td><b>{{{홈팀볼넷}}}</b>\n</td></tr>\n<tr>\n<td colspan="25"><span><b>승리 투수</b></span> : <span><a>가네다 마사이치</a>(1-0)</span>  <span><b>패전 투수</b></span> : <span><a>요네다 데쓰야</a>(0-1)  <span><b>세이브</b></span> : <span>  <b>홀드</b> : {{{홀드투수}}}<br/><b>홈런</b> :<br/>  <b>한큐</b> – <a>다릴 스펜서</a>(9회 1점)\n</span></span></td></tr></tbody></table>
+- - 1967 일본시리즈 1차전에 동원된 관중 수는 몇 명인가?
+  - 35,455명
+- - 1967년 일본 시리즈 2차전의 승리 투수는 누구일까?
+  - <a>호리우치 쓰네오</a>
+- - 1967년 일본 시리즈 3차전 1회말에 요미우리는 몇점을 획득하였나?
+  - <th>2</th>

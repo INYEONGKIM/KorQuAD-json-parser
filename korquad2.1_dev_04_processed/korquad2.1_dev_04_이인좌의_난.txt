@@ -1,0 +1,5 @@
+categories:
+- 이인좌의_난
+conversations:
+- - 이인좌의 난은 몇 일간 지속되었습니까?
+  - 6일

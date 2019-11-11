@@ -1,0 +1,5 @@
+categories:
+- SNL_코리아
+conversations:
+- - 여의도 텔레토비는 몇년도의 대선을 풍자한것인가요? 
+  - 2012년

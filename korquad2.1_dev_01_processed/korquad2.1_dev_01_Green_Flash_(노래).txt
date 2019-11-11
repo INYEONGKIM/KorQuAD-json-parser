@@ -1,0 +1,5 @@
+categories:
+- Green_Flash_(노래)
+conversations:
+- - 노래 신발과 우산 이야기의 가사는 누가 만들었는가?
+  - 아키모토 야스시

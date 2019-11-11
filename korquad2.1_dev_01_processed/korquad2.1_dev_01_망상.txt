@@ -1,0 +1,5 @@
+categories:
+- 망상
+conversations:
+- - 정신분열병을 다른 말로 뭐라고 하나요?
+  - <a>조현증</a>

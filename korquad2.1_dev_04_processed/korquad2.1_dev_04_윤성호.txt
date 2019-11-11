@@ -1,0 +1,5 @@
+categories:
+- 윤성호
+conversations:
+- - 윤성호가 OBS에서 출연한 프로그램들은 무엇인가?
+  - 《코미디多》, 《웃자GO》

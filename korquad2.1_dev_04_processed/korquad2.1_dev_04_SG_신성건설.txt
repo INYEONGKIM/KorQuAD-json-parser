@@ -1,0 +1,5 @@
+categories:
+- SG_신성건설
+conversations:
+- - 신성 건설의 시초가 되는 기업명은?
+  - 신성전기기업사

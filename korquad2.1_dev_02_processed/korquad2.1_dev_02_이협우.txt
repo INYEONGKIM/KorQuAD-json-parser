@@ -1,0 +1,5 @@
+categories:
+- 이협우
+conversations:
+- - 이협우가 사망한 것은 언제입니까?
+  - <a>1987년</a> <a>8월 11일</a>

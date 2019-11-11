@@ -1,0 +1,7 @@
+categories:
+- 필리핀의_지방
+conversations:
+- - 비사야 제도 지방별 행정구역 현황은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>지도\n</th>\n<th>지방<br/>\n</th>\n<th>행정 중심 도시\n</th>\n<th>행정 구역\n</th></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><b><a>서비사야 지방</a></b><br/><small>(Region VI)</small>\n</td>\n<td><a>일로일로</a>\n</td>\n<td>\n<ul><li><a>아클란 주</a></li>\n<li><a>안티케 주</a></li>\n<li><a>카피스 주</a></li>\n<li><a>기마라스 주</a></li>\n<li><a>일로일로 주</a></li>\n<li><a>일로일로</a><sup><a>[1]</a></sup></li></ul>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><b><a>중앙비사야 지방</a></b><br/><small>(Region VII)</small>\n</td>\n<td><a>세부</a>\n</td>\n<td>\n<ul><li><a>보홀 주</a></li>\n<li><a>세부 주</a></li>\n<li><a>세부</a><sup><a>[1]</a></sup></li>\n<li><a>라푸라푸</a><sup><a>[1]</a></sup></li>\n<li><a>만다우에</a><sup><a>[1]</a></sup></li>\n<li><a>시키호르 주</a></li></ul>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><b><a>동비사야 지방</a></b><br/><small>(Region VIII)</small>\n</td>\n<td><a>타클로반</a>\n</td>\n<td>\n<ul><li><a>빌리란 주</a></li>\n<li><a>동사마르 주</a></li>\n<li><a>레이테 주</a></li>\n<li><a>북사마르 주</a></li>\n<li><a>오르모크</a><sup><a>[3]</a></sup></li>\n<li><a>사마르 주</a></li>\n<li><a>남레이테 주</a></li>\n<li><a>타클로반</a><sup><a>[1]</a></sup></li></ul>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><b><a>네그로스 섬 지방</a></b><br/><small>(Region XVIII)</small>\n</td>\n<td><a>바콜로드</a>, <a>두마게테</a> (임시)\n</td>\n<td>\n<ul><li><a>서네그로스 주</a></li>\n<li><a>동네그로스 주</a></li>\n<li><a>바콜로드</a><sup><a>[1]</a></sup></li></ul>\n</td></tr></tbody></table>
+- - 카라가 지방의 행정 중심 도시는 어디인가?
+  - <a>부투안</a>

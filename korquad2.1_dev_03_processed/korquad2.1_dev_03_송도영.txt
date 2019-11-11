@@ -1,0 +1,5 @@
+categories:
+- 송도영
+conversations:
+- - 송도영은 말괄량이 뱁스에서 어떤 역할을 했는가?
+  - <b>뱁스</b>

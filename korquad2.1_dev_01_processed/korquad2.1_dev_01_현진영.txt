@@ -1,0 +1,5 @@
+categories:
+- 현진영
+conversations:
+- - 현진영이 데뷔한 해는 언제야?
+  - 1990

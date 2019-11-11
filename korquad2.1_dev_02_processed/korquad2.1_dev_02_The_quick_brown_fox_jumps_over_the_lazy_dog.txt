@@ -1,0 +1,5 @@
+categories:
+- The_quick_brown_fox_jumps_over_the_lazy_dog
+conversations:
+- - 대중 문화에서 "The quick brown fox jumps over the lazy dog"라는 팬그램은 어떻게 등장합니까? 
+  - <ul><li><a>마크 던</a>의 소설 《엘라 미노 피》(Ella Minnow Pea)에서는 이 문구의 창안자가 남 캘리포니아 해안의 상상의 섬 놀로프(Nollop)에 사는 것으로 나온다. 이 문구는 소설의 줄거리에 주요 수단이 된다.</li>\n<li><a>스티븐 킹</a>의 소설《<a>다크 하프</a>》(<i>The Dark Half</i>)에서 사이코 작가 조지 스타크는, 공공 도서관의 타이핑 실에서 자신이 팬그램만 입력하게 되는 작가 슬럼프 증상(writer's block)에 빠진 것을 알고 도서관을 거의 미친듯이 날뛰며 돌아다닌다. 그는 어떤 걸 타이핑하려고 해도 그의 손가락은 이 문구만 계속 반복해서 치게 된 것이다.</li>\n<li>카드 게임 <a>매직 더 게더링</a>에서는 "The quick onyx goblin jumps over the lazy dwarf"(이 또한 팬그램)라고 적힌 카드가 있다. 이 카드는 "Now I know my ABC's"라고도 부르는데 이것 자체가 매직스 언힌지드(Magic's Unhinged) 시리즈의 조크 카드이다. 매직스 언힌지드 시리즈는 이 카드처럼 게임 진행에 별 상관없이 재미를 부여하기 위해 만든 의미없는 카드들을 모은 것이다.</li>\n<li><a>뮤지컬</a> 《정말로 노력하지 않고도 사업에서 성공하기》(How to Succeed in Business Without Really Trying)의 한 노래에서 이 문구가 등장한다.</li>\n<li><a>찰스 M. 슐츠</a>의 <a>피너츠</a> 만화에서 <a>스누피</a>가 유명 작가 행세를 할 때 이 문구를 자주 타이핑한다. 게으른 <a>스누피</a>와 정신 사나운 <a>찰리 브라운</a>의 캐릭터 성격과 일치하는 중의적 표현이기도 하다.</li>\n<li><a>아서 C. 클라크</a>의 《<a>2001 스페이스 오디세이</a>》에서 인공 지능 컴퓨터 <a>HAL9000</a>이 종료될 때 이 문구를 말한다.</li></ul>

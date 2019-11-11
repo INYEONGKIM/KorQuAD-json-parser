@@ -1,0 +1,5 @@
+categories:
+- 배틀그라운드_총기_목록
+conversations:
+- - 배틀그라운드 권총에는 무슨 종류가 있는가?
+  - <ul><li><a>-자동권총-</a></li>\n<li><a>P92</a></li>\n<li><a>P1911</a></li>\n<li><a>P18C</a></li></ul>\n<ul><li><a>-리볼버-</a></li>\n<li><a>R1895</a></li>\n<li>R45</li>\n<li>Scorpion</li></ul>

@@ -1,0 +1,5 @@
+categories:
+- 상동읍
+conversations:
+- - 상동면이 읍으로 승격된 것은 몇 년도의 일인가?
+  - <a>1973년</a>

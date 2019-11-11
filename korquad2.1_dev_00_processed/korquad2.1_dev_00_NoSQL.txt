@@ -1,0 +1,5 @@
+categories:
+- NoSQL
+conversations:
+- - 여러 유형의 NoSQL의 성능과 그 특징들은 어떠할까?
+  - <table>\n<tbody><tr>\n<th>데이터 모델</th>\n<th>성능</th>\n<th>확장성</th>\n<th>유연성</th>\n<th>복잡성</th>\n<th>기능\n</th></tr>\n<tr>\n<td>키-값 스토어</td>\n<td>높음</td>\n<td>높음</td>\n<td>높음</td>\n<td>없음</td>\n<td>가변적 (없음)\n</td></tr>\n<tr>\n<td>컬럼 지향 스토어</td>\n<td>높음</td>\n<td>높음</td>\n<td>준수</td>\n<td>낮음</td>\n<td>최소\n</td></tr>\n<tr>\n<td>도큐먼트 지향 스토어</td>\n<td>높음</td>\n<td>가변적 (높음)</td>\n<td>높음</td>\n<td>낮음</td>\n<td>가변적 (낮음)\n</td></tr>\n<tr>\n<td>그래프 데이터베이스</td>\n<td>가변적</td>\n<td>가변적</td>\n<td>높음</td>\n<td>높음</td>\n<td><a>그래프 이론</a>\n</td></tr>\n<tr>\n<td>관계형 데이터베이스</td>\n<td>가변적</td>\n<td>가변적</td>\n<td>낮음</td>\n<td>준수</td>\n<td><a>관계대수</a>\n</td></tr></tbody></table>

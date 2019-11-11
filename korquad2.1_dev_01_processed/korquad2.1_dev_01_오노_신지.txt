@@ -1,0 +1,5 @@
+categories:
+- 오노_신지
+conversations:
+- - 오노 신지는 무슨 고등학교 출신이니?
+  - 시미즈상업고교

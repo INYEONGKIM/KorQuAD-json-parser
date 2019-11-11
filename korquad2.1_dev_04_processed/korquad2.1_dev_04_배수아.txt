@@ -1,0 +1,5 @@
+categories:
+- 배수아
+conversations:
+- - 배수아가 소설가로 등단한 것은 몇 년도입니까?
+  - 1993년

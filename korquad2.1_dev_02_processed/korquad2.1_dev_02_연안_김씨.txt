@@ -1,0 +1,5 @@
+categories:
+- 연안_김씨
+conversations:
+- - 연안 김씨를 가진 경찰관 이름은?
+  - <a>김수형</a>

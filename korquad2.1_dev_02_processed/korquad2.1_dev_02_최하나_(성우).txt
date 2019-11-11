@@ -1,0 +1,5 @@
+categories:
+- 최하나_(성우)
+conversations:
+- - KBS의 그레이시 스토리 영화에서 맡은 역할의 이름은 무엇인가?
+  - 마이크

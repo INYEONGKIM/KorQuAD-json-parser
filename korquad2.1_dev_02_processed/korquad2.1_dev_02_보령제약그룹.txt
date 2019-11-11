@@ -1,0 +1,5 @@
+categories:
+- 보령제약그룹
+conversations:
+- - 보령제약의 연고 제품 중 판매가 중단된 것은?
+  - <li>델마크닌 연고</li>

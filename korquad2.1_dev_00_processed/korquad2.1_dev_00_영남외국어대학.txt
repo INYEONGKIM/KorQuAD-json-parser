@@ -1,0 +1,5 @@
+categories:
+- 영남외국어대학
+conversations:
+- - 영남외국어대학교의 유아와 관련된 학과는?
+  - <li>유아교육과</li>

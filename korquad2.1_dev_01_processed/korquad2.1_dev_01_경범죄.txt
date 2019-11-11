@@ -1,0 +1,5 @@
+categories:
+- 경범죄
+conversations:
+- - 한국에서 담배관련된 경범죄가 있어?
+  - 금연장소에서의 흡연

@@ -1,0 +1,5 @@
+categories:
+- 손_the_guest
+conversations:
+- - 손 the guest에서 가장 높은 AGB 시청률을 기록한 회차는 어떻게 될까?
+  - 16화

@@ -1,0 +1,5 @@
+categories:
+- 임채정
+conversations:
+- - 임채정이 가장 먼저 가진 직업은 무엇일까?
+  - <a>동아일보</a> 기자

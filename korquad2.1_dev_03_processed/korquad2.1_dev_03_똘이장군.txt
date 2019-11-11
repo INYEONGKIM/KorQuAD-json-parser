@@ -1,0 +1,5 @@
+categories:
+- 똘이장군
+conversations:
+- - 똘이장군 마지막장면에 나오는 대사는?
+  - 자유대한 만세

@@ -1,0 +1,7 @@
+categories:
+- 구룡포읍
+conversations:
+- - 과메기의 주 재료가 되는 생선은 무엇인가? 
+  - 청어나 꽁치
+- - 구룡포읍에는 어떤 금융 관련 기관들이 있을까?
+  - <table>\n<tbody><tr>\n<th>기관명</th>\n<th>소재지</th>\n<th>비고\n</th></tr>\n<tr>\n<td>구룡포 농업협동조합</td>\n<td>남구 구룡포읍 구룡포길 76-5</td>\n<td>\n</td></tr>\n<tr>\n<td>구룡포 새마을금고</td>\n<td>남구 구룡포읍 구룡포길 99</td>\n<td>\n</td></tr>\n<tr>\n<td>구룡포 수산업협동조합</td>\n<td>남구 구룡포읍 호미로 247</td>\n<td>\n</td></tr>\n<tr>\n<td>구룡포 신용협동조합</td>\n<td>남구 구룡포읍 구룡포길 74</td>\n<td>\n</td></tr>\n<tr>\n<td>구룡포 우체국</td>\n<td>남구 구룡포읍 호미로 267</td>\n<td>\n</td></tr></tbody></table>

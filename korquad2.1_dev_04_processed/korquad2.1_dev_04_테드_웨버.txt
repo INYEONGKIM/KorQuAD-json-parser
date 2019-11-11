@@ -1,0 +1,5 @@
+categories:
+- 테드_웨버
+conversations:
+- - 테드 웨버는 NC에서 1시즌 평균자책점은 몇 점이었는가
+  - <td>4.58</td>

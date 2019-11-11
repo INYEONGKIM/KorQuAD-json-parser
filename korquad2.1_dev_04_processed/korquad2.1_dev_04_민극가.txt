@@ -1,0 +1,5 @@
+categories:
+- 민극가
+conversations:
+- - 민극가의 아내가 세상을 떠났을때 민극가의 나이는?
+  - 20세

@@ -1,0 +1,5 @@
+categories:
+- 마이크로소프트_아웃룩
+conversations:
+- - 아웃룩의 대부분은 무엇으로 쓰여져 있을까?
+  - <a>C</a>

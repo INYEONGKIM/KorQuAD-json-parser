@@ -1,0 +1,5 @@
+categories:
+- 노스럽_F-5_프리덤_파이터
+conversations:
+- - 남아메리카 유일의 OECD 국가는 어디인가?
+  - <a>칠레</a>

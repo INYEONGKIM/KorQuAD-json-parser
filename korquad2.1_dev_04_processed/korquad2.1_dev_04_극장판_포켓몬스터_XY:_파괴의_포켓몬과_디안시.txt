@@ -1,0 +1,5 @@
+categories:
+- 극장판_포켓몬스터_XY:_파괴의_포켓몬과_디안시
+conversations:
+- - 포켓몬스터 XY에서 등장하는 포켓몬은 무엇인가?
+  - <ul><li><a>제르네아스</a></li>\n<li><a>이벨타르</a></li>\n<li><a>디안시</a></li></ul>

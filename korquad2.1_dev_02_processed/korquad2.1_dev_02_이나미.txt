@@ -1,0 +1,5 @@
+categories:
+- 이나미
+conversations:
+- - 이나미 작가의 1992년 작품은?
+  - 때론 나도 미치고 싶다

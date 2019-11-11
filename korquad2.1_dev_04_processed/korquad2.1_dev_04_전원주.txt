@@ -1,0 +1,5 @@
+categories:
+- 전원주
+conversations:
+- - 1975년 전원주가 출연한 영화 이름은?
+  - <a>가수왕</a>

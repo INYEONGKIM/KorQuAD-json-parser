@@ -1,0 +1,5 @@
+categories:
+- 엘리아_카잔
+conversations:
+- - 엘리아 카잔의 출생지는 어디일까?
+  - <a>터키</a> <a>이스탄불</a>

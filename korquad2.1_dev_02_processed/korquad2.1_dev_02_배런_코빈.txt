@@ -1,0 +1,5 @@
+categories:
+- 배런_코빈
+conversations:
+- - 배런 코빈의 NXT 데뷔전 상대는 누구였는가?
+  - 데미안 샌도우

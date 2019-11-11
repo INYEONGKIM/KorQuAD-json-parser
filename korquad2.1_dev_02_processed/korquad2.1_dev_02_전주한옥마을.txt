@@ -1,0 +1,5 @@
+categories:
+- 전주한옥마을
+conversations:
+- - 만화루는 몇층으로 지어졌는가?
+  - 2층

@@ -1,0 +1,9 @@
+categories:
+- 노래싸움_-_승부
+conversations:
+- - 노래싸움-승부의 2016년 회차별 전국 시청률은 어떻게 되는가?
+  - <table>\n<tbody><tr>\n<th>회차</th>\n<th>방송 일자</th>\n<th>전국 시청률(증감치)\n</th></tr>\n<tr>\n<td>1회</td>\n<td>2016년 10월 21일</td>\n<td><span><b>5.7%</b></span>\n</td></tr>\n<tr>\n<td>2회</td>\n<td>2016년 10월 28일</td>\n<td><span><b>3.9%</b></span> (-1.8)\n</td></tr>\n<tr>\n<td>3회</td>\n<td>2016년 11월 4일</td>\n<td>4.1% (+0.2)\n</td></tr>\n<tr>\n<td>4회</td>\n<td>2016년 11월 18일</td>\n<td>5.3% (+1.2)\n</td></tr>\n<tr>\n<td>5회</td>\n<td>2016년 11월 25일</td>\n<td>5.3%(0)\n</td></tr>\n<tr>\n<td>6회</td>\n<td>2016년 12월 2일</td>\n<td>5.5% (+0.2)\n</td></tr>\n<tr>\n<td>7회</td>\n<td>2016년 12월 9일</td>\n<td>5.6% (+0.1)\n</td></tr>\n<tr>\n<td>8회</td>\n<td>2016년 12월 16일</td>\n<td>5.0% (-0.6)\n</td></tr>\n<tr>\n<td>9회</td>\n<td>2016년 12월 23일</td>\n<td>4.1% (-0.9)\n</td></tr>\n<tr>\n<td>10회</td>\n<td>2016년 12월 30일</td>\n<td>4.8% (+0.7)\n<p>\n</p>\n</td></tr></tbody></table>
+- - 정규 편성된 노래싸움 - 승부는 첫 방송이 언제일까?
+  - <a>2016년</a> <a>10월 21일</a>
+- - 노래싸움 - 승부 14회의 시청률은 얼마나 될까?
+  - 5.3%

@@ -1,0 +1,5 @@
+categories:
+- 야드파운드법
+conversations:
+- - 야드파운드법에 의한 무게와 질량의 단위는 어떨까?
+  - <table>\n<tbody><tr>\n<th>단위\n</th>\n<th><a>파운드</a>에<br/>비례\n</th>\n<th><a>SI 단위계</a>\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td><a>그레인</a>\n</td>\n<td>1/7000\n</td>\n<td>0.06479891 g\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>드램</a>\n</td>\n<td>1/256\n</td>\n<td>1.7718451953125 g\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>온스</a> (oz)\n</td>\n<td>1/16\n</td>\n<td>28.349523125 g\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>파운드</a>(lb)\n</td>\n<td>1\n</td>\n<td>453.59237 g\n</td>\n<td>정의에 따라 정확히 453.592 37 <a>그램</a>.\n</td></tr>\n<tr>\n<td><a>스톤</a> (st)\n</td>\n<td>14\n</td>\n<td>6.35029318 kg\n</td>\n<td>\n</td></tr>\n<tr>\n<td>쿼터\n</td>\n<td>28\n</td>\n<td>12.70058636 kg\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>헌드레드웨이트</a> (cwt)\n</td>\n<td>112\n</td>\n<td>50.80234544 kg\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>톤</a> (T)\n</td>\n<td>2,240\n</td>\n<td>1,016.0469088 kg\n</td>\n<td>\n</td></tr></tbody></table>

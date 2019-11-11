@@ -1,0 +1,9 @@
+categories:
+- 서해선
+conversations:
+- - 서해선의 철도노선번호가 321로 바뀐날짜는 언제일까?
+  - 2019년 4월 17일
+- - 서해선의 지선 철도 중, 안산연결선에 대한 정보는 무엇일까?
+  - <table>\n<tbody><tr>\n<th>역명\n</th>\n<th>역간거리<br/>(km)\n</th>\n<th>영업거리<br/>(km)\n</th>\n<th>접속 노선\n</th>\n<th colspan="2">소재지\n</th></tr>\n<tr>\n<td>(<a>원곡</a>)\n</td>\n<td>0.0\n</td>\n<td>0.0\n</td>\n<td>서해선\n</td>\n<td rowspan="2"><a>경기도</a>\n</td>\n<td rowspan="2"><a>안산시</a> <a>단원구</a>\n</td></tr>\n<tr>\n<td>(<a>안산</a>)\n</td>\n<td>2.6\n</td>\n<td>2.6\n</td>\n<td><a>안산선</a>\n</td></tr></tbody></table>
+- - 부천 종합 운동장역에 접속할 노선은?
+  - <a>서울 지하철 7호선</a>

@@ -1,0 +1,7 @@
+categories:
+- 유영_(피겨_스케이팅_선수)
+conversations:
+- - 유영이 스케이팅을 시작한 동기는 무엇일까?
+  - <a>김연아</a>가 쇼트, 프리, 총점에 모두 세계 신기록을 세우며 우승 했던 2010년 <a>밴쿠버 동계 올림픽</a>을 계기
+- - 피겨 스케이팅 선수 유영의 역대 대회 기록은 어떻게 되는가?
+  - <table>\n<tbody><tr>\n<th colspan="5">국제: 주니어, 노비스\n</th></tr>\n<tr>\n<th>경기\n</th>\n<th>2014–15\n</th>\n<th>2015–16\n</th>\n<th>2016–17\n</th>\n<th>2017–18\n</th>\n<th>2018-19\n</th></tr>\n<tr>\n<td>주니어 피겨 세계선수권</td>\n<td></td>\n<td></td>\n<td></td>\n<td>9th\n</td></tr>\n<tr>\n<td>주니어 그랑프리 이탈리아</td>\n<td></td>\n<td></td>\n<td></td>\n<td>5th\n</td></tr>\n<tr>\n<td>주니어 그랑프리 크로아티아</td>\n<td></td>\n<td></td>\n<td></td>\n<td>4th\n</td></tr>\n<tr>\n<td>아시안 트로피</td>\n<td></td>\n<td>2nd N.</td>\n<td>1st N.</td>\n<td>\n</td></tr>\n<tr>\n<td>컵 오브 티롤(티롤 컵)</td>\n<td></td>\n<td>1st N.</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<td>탈린 트로피</td>\n<td></td>\n<td></td>\n<td>2nd N.</td>\n<td>\n</td></tr>\n<tr>\n<th colspan="5">국내\n</th></tr>\n<tr>\n<td>한국 종합선수권</td>\n<td>6th</td>\n<td>1st</td>\n<td>5th</td>\n<td>1st\n</td></tr>\n<tr>\n<td>회장배 랭킹대회</td>\n<td></td>\n<td></td>\n<td>1st</td>\n<td>1st\n</td></tr>\n<tr>\n<td colspan="5"><small> Levels: N. = Advanced novice </small>\n</td></tr></tbody></table>

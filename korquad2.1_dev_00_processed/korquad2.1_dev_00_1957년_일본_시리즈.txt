@@ -1,0 +1,11 @@
+categories:
+- 1957년_일본_시리즈
+conversations:
+- - 1957년 일본 시리즈에서 요미우리와 니시테쓰의 첫경기는 어떤 결과를 내었는가?
+  - <table>\n<tbody><tr>\n<td><b>팀</b>\n</td>\n<td><b>1</b>\n</td>\n<td><b>2</b>\n</td>\n<td><b>3</b>\n</td>\n<td><b>4</b>\n</td>\n<td><b>5</b>\n</td>\n<td><b>6</b>\n</td>\n<td><b>7</b>\n</td>\n<td><b>8</b>\n</td>\n<td><b>9</b>\n</td>\n<td><b>R</b>\n</td>\n<td><b>H</b>\n</td>\n<td><b>E</b>\n</td>\n<td><b>B</b>\n</td></tr>\n<tr>\n<td>요미우리\n</td>\n<th>1</th>\n<th>0</th>\n<th>0\n</th>\n<th>0</th>\n<th>0</th>\n<th>0\n</th>\n<th>1</th>\n<th>0</th>\n<th>0\n</th>\n<td><b>2</b>\n</td>\n<td><b>9</b></td>\n<td><b>0</b>\n</td>\n<td><b>{{{원정팀볼넷}}}</b>\n</td></tr>\n<tr>\n<td><b>니시테쓰</b>\n</td>\n<th>0</th>\n<th>0</th>\n<th>0\n</th>\n<th>1</th>\n<th>0</th>\n<th>1\n</th>\n<th>1</th>\n<th>0</th>\n<th>X\n</th>\n<td><b>3</b>\n</td>\n<td><b>7</b></td>\n<td><b>0</b>\n</td>\n<td><b>{{{홈팀볼넷}}}</b>\n</td></tr>\n<tr>\n<td colspan="25"><span><b>승리 투수</b></span> : <span><a>이나오 가즈히사</a>(1-0)</span>  <span><b>패전 투수</b></span> : <span><a>오토모 다쿠미</a>(0-1)  <span><b>세이브</b></span> : <span>  <b>홀드</b> : {{{홀드투수}}}<br/><b>홈런</b> :<br/>  <b>니시테쓰</b> – <a>도요다 야스미쓰</a>(6회 1점)\n</span></span></td></tr></tbody></table>
+- - 1957년 일본 시리즈에서 10월 27일의 승리 투수는 누구일까?
+  - 가와무라
+- - 1957년 일본 시리즈 3차전 니시테쓰와 요미우리의 경기 결과 승리 투수로 선발된 사람은 누구일까요?
+  - 이나오 가즈히사
+- - 1957년 10월 31일 일본 시리즈 고라쿠엔 구장에서 니시테쓰의 상대팀은?
+  - 요미우리

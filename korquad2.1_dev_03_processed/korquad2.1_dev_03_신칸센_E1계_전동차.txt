@@ -1,0 +1,7 @@
+categories:
+- 신칸센_E1계_전동차
+conversations:
+- - 신칸센은 통근과 통학을 시작하는 수요 증가에 대비하여 속도를 뒤로 하고 다른 것에 중점을 두어 설계가 이루어졌다. 이 '다른 것'은 무엇일까?
+  - 대량 수송
+- - JR 동일본의 신칸센 전동차 현황은 어떠할까?
+  - <table>\n<tbody><tr>\n<th>차호</th>\n<th>도입 시기</th>\n<th>개조 시기</th>\n<th>도색 변경 시기</th>\n<th>DS-ATC<br/>개조 시기</th>\n<th>운행 중단 시기</th>\n<th>비고\n</th></tr>\n<tr>\n<td>M1호</td>\n<td rowspan="2"><a>1994년</a></td>\n<td><a>2004년</a></td>\n<td rowspan="2"><a>2004년</a></td>\n<td rowspan="3"><a>2005년</a></td>\n<td rowspan="6"><a>2012년</a><sup><a>[16]</a></sup>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>M2호</td>\n<td><a>2005년</a></td>\n<td>\n</td></tr>\n<tr>\n<td>M3호</td>\n<td rowspan="4"><a>1995년</a></td>\n<td><a>2004년</a></td>\n<td rowspan="2"><a>2003년</a></td>\n<td>1호차부터 8호차까지 <a>히타치 제작소</a>가 제작했고 9호차부터 12호차까지 <a>가와사키 중공업</a>이 제작했다.\n</td></tr>\n<tr>\n<td>M4호</td>\n<td><a>2003년</a></td>\n<td rowspan="2"><a>2006년</a></td>\n<td><a>2003년</a>에 최초로 내외장을 개조한 차량이다.<br/><a>2012년</a> 마지막 운행 당시 고마워요 Max 아사히호(<span><a>일본어</a>: </span><span>ありがとうＭａｘあさひ号</span>)와 안녕 Max E1 도키호(<span><a>일본어</a>: </span><span>さよなら E1 Maxとき号</span>)로 운행했다.\n</td></tr>\n<tr>\n<td>M5호</td>\n<td><a>2006년</a></td>\n<td><a>2006년</a></td>\n<td>\n</td></tr>\n<tr>\n<td>M6호</td>\n<td><a>2005년</a></td>\n<td><a>2005년</a></td>\n<td><a>2005년</a></td>\n<td>1호차부터 8호차까지 <a>가와사키 중공업</a>이 제작했고 9호차부터 12호차까지 <a>히타치 제작소</a>가 제작했다.\n</td></tr>\n</tbody></table>

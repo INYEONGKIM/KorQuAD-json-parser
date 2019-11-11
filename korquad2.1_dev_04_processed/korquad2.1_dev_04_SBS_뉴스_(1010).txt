@@ -1,0 +1,5 @@
+categories:
+- SBS_뉴스_(1010)
+conversations:
+- - SBS뉴스 앵커들 중 1대부터 4대까지 진행 기간은 어떻게 될까?
+  - <table>\n<tbody><tr>\n<th>대수</th>\n<th>진행자</th>\n<th>진행 기간</th>\n<th>비고\n</th></tr>\n<tr>\n<th>1대\n</th>\n<td><a>신용철</a> 아나운서팀장</td>\n<td>2008년 12월 1일 ~ 2009년 4월 24일</td>\n<td>\n</td></tr>\n<tr>\n<th>2대\n</th>\n<td><a>박광범</a> 아나운서</td>\n<td>2009년 4월 27일 ~ 2010년 3월 8일</td>\n<td>\n</td></tr>\n<tr>\n<th>3대\n</th>\n<td><a>신용철</a> 아나운서팀장</td>\n<td>2010년 3월 9일 ~ 2014년 11월 7일</td>\n<td><sup><a>[3]</a></sup><sup><a>[4]</a></sup>\n</td></tr>\n<tr>\n<th>4대\n</th>\n<td><a>손범규</a> 아나운서</td>\n<td>2014년 11월 10일 ~ <b>현재</b></td>\n<td><sup><a>[5]</a></sup>\n</td></tr></tbody></table>

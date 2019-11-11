@@ -1,0 +1,5 @@
+categories:
+- 이노베이터
+conversations:
+- - 이노베이터가 2007년에 발매한 앨범의 타이틀은 무엇인가?
+  - Time Travel

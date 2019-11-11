@@ -1,0 +1,5 @@
+categories:
+- 직렬_주변기기_인터페이스_버스
+conversations:
+- - SPI버스에서 직렬 클럭을 의미하는 논리 신호는 무엇인가?
+  - SCLK

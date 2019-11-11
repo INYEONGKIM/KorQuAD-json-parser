@@ -1,0 +1,5 @@
+categories:
+- 변형태
+conversations:
+- - 변형태의 박성준에 대한 상대전적은?
+  - 3:8

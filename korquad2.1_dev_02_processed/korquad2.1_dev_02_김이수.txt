@@ -1,0 +1,5 @@
+categories:
+- 김이수
+conversations:
+- - 군생활 동안 김이수는 몇 개의 상을 받았습니까?
+  - 3개

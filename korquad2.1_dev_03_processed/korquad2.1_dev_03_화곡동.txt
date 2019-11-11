@@ -1,0 +1,5 @@
+categories:
+- 화곡동
+conversations:
+- - 서울 화곡동에 있는 유일한 대학교인 이 곳은 어디인가?
+  - <li><a>케이씨대학교</a></li>

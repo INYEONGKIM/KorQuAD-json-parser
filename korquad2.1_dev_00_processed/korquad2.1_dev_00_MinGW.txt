@@ -1,0 +1,7 @@
+categories:
+- MinGW
+conversations:
+- - MinGW는 무엇과 분리된 버전인가?
+  - 시그윈
+- - MinGW가 처음 이 달의 프로젝트로 선정된 년도는 언제일까?
+  - 2005년

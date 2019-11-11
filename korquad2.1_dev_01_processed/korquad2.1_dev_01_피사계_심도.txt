@@ -1,0 +1,5 @@
+categories:
+- 피사계_심도
+conversations:
+- - 디지털 카메라의 광을 흡수하는 역할을 하는 센서는 무엇인가?
+  - <a>CCD</a>, <a>CMOS</a>

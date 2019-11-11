@@ -1,0 +1,5 @@
+categories:
+- 전격전
+conversations:
+- - 전격전은 어떠한 전술과 그 틀을 같이 하고 있을까?
+  - <a>후티어 전술</a>

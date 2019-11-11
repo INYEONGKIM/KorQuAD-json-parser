@@ -1,0 +1,5 @@
+categories:
+- 패티_스미스
+conversations:
+- - 패티 스미스의 1996년 작품의 제목은? 
+  - <i><a>The Coral Sea</a></i>

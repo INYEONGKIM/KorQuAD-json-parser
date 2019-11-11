@@ -1,0 +1,5 @@
+categories:
+- KBO_리그_FA
+conversations:
+- - 2011년 Fa로 풀려서 lg에서 한화로 이적한 선수는?
+  - <a>송신영</a>

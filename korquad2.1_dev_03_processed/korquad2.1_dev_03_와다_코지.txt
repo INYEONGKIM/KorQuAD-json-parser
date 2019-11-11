@@ -1,0 +1,5 @@
+categories:
+- 와다_코지
+conversations:
+- - 2014년 1월 와다 코지는 어디로 이적했을까?
+  - SOLID VOX

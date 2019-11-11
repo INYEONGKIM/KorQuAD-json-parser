@@ -1,0 +1,7 @@
+categories:
+- 아이돌_드라마_공작단
+conversations:
+- - 아이돌 드라마 공작단 꽃길만 걷자 에피소드 목록들은 어떤 것들이 있을까?
+  - <table>\n<tbody><tr>\n<th>에피소드 #\n</th>\n<th>방송 날짜\n</th>\n<th>제목\n</th>\n<th>런닝 타임\n</th></tr>\n<tr>\n<th>1\n</th>\n<td>2017년 <a>6월 26일</a>\n</td>\n<td>덤덤 (<a>레드벨벳</a>)\n</td>\n<td>11:52\n</td></tr>\n<tr>\n<th>2\n</th>\n<td>2017년 <a>6월 27일</a>\n</td>\n<td>몰래몰래 (<a>I.B.I</a>)\n</td>\n<td>13:30\n</td></tr>\n<tr>\n<th>3\n</th>\n<td>2017년 <a>6월 28일</a>\n</td>\n<td>WINDY DAY (<a>오마이걸</a>)\n</td>\n<td>12:32\n</td></tr>\n<tr>\n<th>4\n</th>\n<td>2017년 <a>6월 29일</a>\n</td>\n<td>PICK ME (<a>아이오아이</a>)\n</td>\n<td>11:38\n</td></tr>\n<tr>\n<th>5\n</th>\n<td>2017년 <a>6월 30일</a>\n</td>\n<td>1cm의 자존심 (<a>마마무</a>)\n</td>\n<td>13:33\n</td></tr>\n<tr>\n<th>6\n</th>\n<td>2017년 <a>7월 1일</a>\n</td>\n<td>데칼코마니 (<a>마마무</a>)\n</td>\n<td>13:34\n</td></tr>\n<tr>\n<th>7\n</th>\n<td>2017년 <a>7월 2일</a>\n</td>\n<td>지금, 우리 (<a>러블리즈</a>)\n</td>\n<td>11:36\n</td></tr>\n<tr>\n<th>8\n</th>\n<td>2017년 <a>7월 3일</a>\n</td>\n<td>Deep Blue Eyes (옆집소녀)\n</td>\n<td>8:19\n</td></tr>\n</tbody></table>
+- - 아이돌 드라마 공작단의 1회가 방송된 날짜는?
+  - <a>2017년</a> <a>5월 29일</a>

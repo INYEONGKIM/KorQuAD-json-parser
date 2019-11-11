@@ -1,0 +1,5 @@
+categories:
+- 로베르틀란디_시몬
+conversations:
+- - 시몬의 등번호로 영구결번된 번호는?
+  - 13번

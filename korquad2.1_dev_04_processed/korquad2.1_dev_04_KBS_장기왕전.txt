@@ -1,0 +1,5 @@
+categories:
+- KBS_장기왕전
+conversations:
+- - KBS 장기왕전 10회에서 우승한 사람은 누구일까?
+  - 김철

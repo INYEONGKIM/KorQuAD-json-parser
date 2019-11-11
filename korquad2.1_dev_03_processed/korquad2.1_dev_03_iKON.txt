@@ -1,0 +1,7 @@
+categories:
+- iKON
+conversations:
+- - 아이돌그룹 iKON의 이전 멤버 B.I는 어떤 사람일까?
+  - <table>\n<tbody><tr>\n<th>이름\n</th>\n<th>소개\n</th></tr>\n<tr>\n<td><b><a>B.I</a></b>\n</td>\n<td>\n<ul><li>본명 : 김한빈</li>\n<li>생년월일 : 1996년 10월 22일<span>(<span>1996-10-22</span>)</span> (22세)</li>\n<li>출생지 : <a>대한민국</a> <a>경기도</a> <a>고양시</a> <a>일산서구</a></li>\n<li>학력 : <a>고등학교 졸업 검정고시</a> (합격)</li>\n<li>포지션 : 리더, 리드래퍼, 메인댄서</li>\n<li>활동기간 : <a>2015년</a> <a>9월 15일</a> ~ <a>2019년</a> <a>6월 12일</a></li></ul>\n</td></tr></tbody></table>
+- - 2015년도에 상을 받은 횟수는?
+  - 5회

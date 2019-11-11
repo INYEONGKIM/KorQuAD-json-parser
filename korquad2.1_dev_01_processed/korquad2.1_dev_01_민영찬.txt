@@ -1,0 +1,5 @@
+categories:
+- 민영찬
+conversations:
+- - 민영찬은 아버지의 이름은 뭐야?
+  - <a>민겸호</a>

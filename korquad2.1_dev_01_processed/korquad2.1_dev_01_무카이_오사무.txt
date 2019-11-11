@@ -1,0 +1,9 @@
+categories:
+- 무카이_오사무
+conversations:
+- - 일본의 영화배우 무카이 오사무의 출연작과 내용은 무엇인가?
+  - <table>\n<tbody><tr>\n<th><b>년도</b>\n</th>\n<th><b>방송국</b>\n</th>\n<th><b>제목 및 출연화</b>\n</th>\n<th><b>방영일</b>\n</th>\n<th><b>역할</b>\n</th></tr>\n<tr>\n<td>2006\n</td>\n<td><a>TBS</a>\n</td>\n<td><a>백야행</a> 3화\n</td>\n<td>2006. 01. 26\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2007\n</td>\n<td><a>NTV</a>\n</td>\n<td><a>백귀야행</a> 7화「저주의 비녀(칸자시)」\n</td>\n<td>2007. 03. 17\n</td>\n<td>젊은 시절의 이이지마 료\n</td></tr>\n<tr>\n<td>2009\n</td>\n<td><a>후지 TV</a>\n</td>\n<td>임협헬퍼 1화\n</td>\n<td>2009. 07. 09\n</td>\n<td>시츠미 카즈키\n</td></tr>\n<tr>\n<td>2012\n</td>\n<td><a>NTV</a>\n</td>\n<td>속임~ 대행여배우 마키~ 4화\n</td>\n<td>2012. 04. 26\n</td>\n<td>시라타 다이스케\n</td></tr>\n<tr>\n<td>2017\n</td>\n<td><a>TV 아사히</a>\n</td>\n<td>평온한 고향\n</td>\n<td>2017. 04. 03 ~ 09. 29\n</td>\n<td>시노미야 미치히로\n</td></tr></tbody></table>
+- - 무카이 오사무가 코카콜라 광고에 출연한 년도는?
+  - 2006
+- - 무카이 오사무는 몇 년도에 <꿈의 문 +>에 출연하였는가?
+  - 2011

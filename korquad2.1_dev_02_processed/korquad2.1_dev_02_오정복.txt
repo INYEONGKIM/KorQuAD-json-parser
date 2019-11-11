@@ -1,0 +1,5 @@
+categories:
+- 오정복
+conversations:
+- - 준플레이오프에 진출한 NC다이노스의 오정복이 경기에 나온 횟수는?
+  - <td>1</td>

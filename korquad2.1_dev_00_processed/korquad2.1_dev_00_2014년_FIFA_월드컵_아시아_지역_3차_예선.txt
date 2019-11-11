@@ -1,0 +1,9 @@
+categories:
+- 2014년_FIFA_월드컵_아시아_지역_3차_예선
+conversations:
+- - 2014년 FIFA 월드컵의 아시아 지역 3차 예선 중 A조의 경기결과는 어떻게 되었나요?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>경기수\n</th>\n<th>승\n</th>\n<th>무\n</th>\n<th>패\n</th>\n<th>득점\n</th>\n<th>실점\n</th>\n<th>득실차\n</th>\n<th>승점\n</th></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>이라크</a></b>\n</td>\n<td>6</td>\n<td>5</td>\n<td>0</td>\n<td>1</td>\n<td>14</td>\n<td>4</td>\n<td>+10</td>\n<td><b>15</b>\n</td></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>요르단</a></b>\n</td>\n<td>6</td>\n<td>4</td>\n<td>0</td>\n<td>2</td>\n<td>11</td>\n<td>7</td>\n<td>+4</td>\n<td><b>12</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>중국</a>\n</td>\n<td>6</td>\n<td>3</td>\n<td>0</td>\n<td>3</td>\n<td>10</td>\n<td>6</td>\n<td>+4</td>\n<td><b>9</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>싱가포르</a>\n</td>\n<td>6</td>\n<td>0</td>\n<td>0</td>\n<td>6</td>\n<td>2</td>\n<td>20</td>\n<td>-18</td>\n<td><b>0</b>\n</td></tr></tbody></table>
+- - 2014년 FIFA 월드컵 아시아 3차 예선에서 이란의 승점은?
+  - <b>12</b>
+- - 2014년 월드컵 아시아 지역 예선을 위한 시드 배정 당시 대한민국의 FIFA랭킹은 몇 위였는가?
+  - 민국</a></b> 

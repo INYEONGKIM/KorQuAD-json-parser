@@ -1,0 +1,5 @@
+categories:
+- 쏘스뮤직
+conversations:
+- - 쏘스뮤직의 전 소속 연예인 중 혼성 그룹 8eight의 리더는 누구인가?
+  - <td><a>이현</a></td>

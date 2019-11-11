@@ -1,0 +1,13 @@
+categories:
+- 리그_오브_레전드_미드_시즌_인비테이셔널_2018
+conversations:
+- - 리그 오브 리전드 미드 시즌 인비테이셔널 2018에 참가한 팀들의 팀별 경기 성적은 어떠했나요?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>경기\n</th>\n<th>승\n</th>\n<th>패\n</th>\n<th>결과\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td><span><a><img></a></span> <b>갬빗 e스포츠</b>\n</td>\n<td>6</td>\n<td>5</td>\n<td>1</td>\n<td>녹아웃 토너먼트</td>\n<td>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> 레인보우7\n</td>\n<td>6</td>\n<td>3</td>\n<td>3</td>\n<td rowspan="3">탈락</td>\n<td>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> 카오스 라틴 게이머즈\n</td>\n<td>6</td>\n<td>2</td>\n<td>4</td>\n<td>vs ASC 1승 1패\n</td></tr>\n<tr>\n<td><span><a><img></a></span> 어센션 게이밍\n</td>\n<td>6</td>\n<td>2</td>\n<td>4</td>\n<td>vs KLG 1승 1패\n</td></tr></tbody></table>
+- - 리그 오브 레전드 미드 시즌 인비테이셔널 2018년 결승 일자는 언제인가?
+  - <a>2018년</a> <a>5월 20일</a>
+- - 2018 lol 미드시즌 인비테이셔널  그룹스테이지 2 의 경기중 22경기의 승팀은 어디일까?
+  - 로얄 네버 기브 업
+- - 리그 오브 레전드 미드 시즌 인비터이셔널 2018에 킹존 드레곤 X팀은 어떤 자격으로 출전 하였을까?
+  - <td>리그 오브 레전드 챔피언스 코리아 2018 스프링 우승</td>
+- - 리그 오브 레전드 미드 시즌 인비테이셔널 2018 그룹스테이지 B조 진행결과 녹아웃 토너먼트에 진출한 팀은 어디일까?
+  - <b>슈퍼매시브 e스포츠</b>

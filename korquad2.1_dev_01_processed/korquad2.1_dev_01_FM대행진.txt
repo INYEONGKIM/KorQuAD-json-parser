@@ -1,0 +1,5 @@
+categories:
+- FM대행진
+conversations:
+- - FM대행진의 금요일 코너 이름은 무엇일까요?
+  - <b>북스타그램</b>

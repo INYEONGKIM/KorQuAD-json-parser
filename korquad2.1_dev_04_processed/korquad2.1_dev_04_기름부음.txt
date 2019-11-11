@@ -1,0 +1,6 @@
+categories:
+- 기름부음
+conversations:
+- - 기독교에서 기름부음에 해당하는 내용 두가지를 말해보시오
+
+  - <li><a>정교회</a>\n<ul><li><a>부고기밀</a></li>

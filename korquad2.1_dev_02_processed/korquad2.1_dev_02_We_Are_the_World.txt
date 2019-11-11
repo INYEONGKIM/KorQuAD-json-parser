@@ -1,0 +1,7 @@
+categories:
+- We_Are_the_World
+conversations:
+- - We Are the world가 수록된 음반이 발매된 것은 몇 월 며칠일까?
+  - 3월 7일
+- - We Are the World의 1985년 주간 차트 순위 중 호주의 켄트 뮤직 리포트에서 차지한 최고 순위는 몇 위인가?
+  - 1

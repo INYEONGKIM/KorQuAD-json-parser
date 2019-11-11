@@ -1,0 +1,5 @@
+categories:
+- 2000년_하계_올림픽_오스트리아_선수단
+conversations:
+- - 2000년 하계 올림픽 당시 오스트리아 여자 육상 선수단은 트랙/도로 경기에서 어떤 성적을 거두었을까?
+  - <table>\n<tbody><tr>\n<td rowspan="2"><b>선수</b>\n</td>\n<td rowspan="2"><b>세부 종목</b>\n</td>\n<td colspan="2" rowspan="1"><b>1차 예선</b>\n</td>\n<td colspan="2" rowspan="1"><b>2차 예선</b>\n</td>\n<td colspan="2" rowspan="1"><b>준결선</b>\n</td>\n<td colspan="2" rowspan="1"><b>결선</b>\n</td></tr>\n<tr>\n<td>기록\n</td>\n<td>순위\n</td>\n<td>기록\n</td>\n<td>순위\n</td>\n<td>기록\n</td>\n<td>순위\n</td>\n<td colspan="1" rowspan="1">기록\n</td>\n<td colspan="1" rowspan="1">최종 순위\n</td></tr>\n</tbody></table>

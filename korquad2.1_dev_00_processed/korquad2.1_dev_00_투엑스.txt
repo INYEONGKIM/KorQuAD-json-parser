@@ -1,0 +1,7 @@
+categories:
+- 투엑스
+conversations:
+- - 걸그룹 '투엑스'의 싱글 앨범에는 무엇이 있을까?
+  - <table>\n<tbody><tr>\n<th>앨범 번호\n</th>\n<th>앨범 정보\n</th>\n<th>트랙 리스트\n</th></tr>\n<tr>\n<td><b>1</b>\n</td>\n<td>《<b><a>Double Up</a></b>》\n<ul><li>발매일 : 2012년 8월 20일</li></ul>\n</td>\n<td>\n<ol><li>Initium</li>\n<li><b>Double Up</b></li>\n<li>반지자국</li>\n<li>뿜 찍고 클랩</li>\n<li>Double Up (Inst.)</li></ol>\n</td></tr>\n<tr>\n<td><b>2</b>\n</td>\n<td>《<b><a>링마벨 (Ring Ma Bell)</a></b>》\n<ul><li>발매일 : 2013년 2월 12일</li></ul>\n</td>\n<td>\n<ol><li><b>링마벨 (Ring Ma Bell)</b></li>\n<li>Only U</li>\n<li>Hip Up</li>\n<li>링마벨 (Ring Ma Bell) (Inst.)</li></ol>\n</td></tr>\n<tr>\n<td><b>3</b>\n</td>\n<td>《<b><a>Reboot</a></b>》\n<ul><li>발매일 : 2016년 8월 23일</li></ul>\n</td>\n<td>\n<ol><li><b>꽂혀 (Over)</b></li>\n<li>훅 들어와 (Come In)</li>\n<li>흘러 (Flow Away)</li>\n<li>꽂혀 (Over) (Inst.)</li>\n<li>훅 들어와 (Come In) (Inst.)</li>\n<li>흘러 (Flow Away) (Inst.)</li></ol>\n</td></tr></tbody></table>
+- - 투엑스의 구성원 중 지유의 생년월일은 언제인가?
+  - 1989년 6월 15일

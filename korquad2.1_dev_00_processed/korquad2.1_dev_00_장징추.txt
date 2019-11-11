@@ -1,0 +1,5 @@
+categories:
+- 장징추
+conversations:
+- - 배우 장징추가 역대 출연했던 드라마에서 맡은 역할은 무엇일까?
+  - <table>\n<tbody><tr>\n<th>연도</th>\n<th>한국제목</th>\n<th>중국제목</th>\n<th>역할\n</th></tr>\n<tr>\n<td>2000년</td>\n<td>삼소야적검</td>\n<td>三少爺的劍</td>\n<td>주천천 역\n</td></tr>\n<tr>\n<td rowspan="4">2001년</td>\n<td>니적생명여차다정</td>\n<td>你的生命如此多情</td>\n<td>\n</td></tr>\n<tr>\n<td>불회가적남인</td>\n<td>不回家的男人</td>\n<td>\n</td></tr>\n<tr>\n<td>애정보전</td>\n<td>愛情寶典</td>\n<td>첨숙연 역\n</td></tr>\n<tr>\n<td>진시황</td>\n<td>秦始皇</td>\n<td>민대 역\n</td></tr>\n<tr>\n<td>2002년</td>\n<td>영웅</td>\n<td>英雄</td>\n<td>엽민 역\n</td></tr>\n<tr>\n<td>2005년</td>\n<td>자옥금사</td>\n<td>紫玉金砂</td>\n<td>반령옥 역\n</td></tr>\n<tr>\n<td>2006년</td>\n<td>남소림</td>\n<td>南少林</td>\n<td>이몽린 역\n</td></tr></tbody></table>

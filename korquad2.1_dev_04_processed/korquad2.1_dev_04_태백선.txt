@@ -1,0 +1,5 @@
+categories:
+- 태백선
+conversations:
+- - 태백선 철도의 구간별 교통량은 어떨까?
+  - <table>\n<tbody><tr>\n<th>선구\n</th>\n<th>선로용량\n</th>\n<th>일반여객\n</th>\n<th>전동차\n</th>\n<th>화물열차\n</th>\n<th>운행총계\n</th></tr>\n<tr>\n<td>제천~입석리\n</td>\n<td>148\n</td>\n<td>6\n</td>\n<td>0\n</td>\n<td>25\n</td>\n<td>31\n</td></tr>\n<tr>\n<td>입석리~예미\n</td>\n<td>53\n</td>\n<td>6\n</td>\n<td>0\n</td>\n<td>13\n</td>\n<td>19\n</td></tr>\n<tr>\n<td>예미~민둥산\n</td>\n<td>59\n</td>\n<td>6\n</td>\n<td>0\n</td>\n<td>9\n</td>\n<td>15\n</td></tr>\n<tr>\n<td>민둥산~백산\n</td>\n<td>68\n</td>\n<td>6\n</td>\n<td>0\n</td>\n<td>9\n</td>\n<td>15\n</td></tr></tbody></table>

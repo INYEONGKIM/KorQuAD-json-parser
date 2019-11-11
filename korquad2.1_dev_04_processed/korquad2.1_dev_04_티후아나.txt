@@ -1,0 +1,5 @@
+categories:
+- 티후아나
+conversations:
+- - 티후아나의 1월 평균 상대 습도는 몇 %일까요?
+  - 70

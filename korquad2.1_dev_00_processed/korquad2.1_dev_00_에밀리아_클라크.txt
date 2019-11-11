@@ -1,0 +1,5 @@
+categories:
+- 에밀리아_클라크
+conversations:
+- - 에밀리아 클라크가 출연한 TV 방송에는 어떤 것이 있을까?
+  - <table>\n<tbody><tr>\n<th>제목\n</th>\n<th>연도\n</th>\n<th>역할\n</th>\n<th>방송사\n</th>\n<th>기타\n</th>\n<th><abbr>참조</abbr>\n</th></tr>\n<tr>\n<th>닥터스\n</th>\n<td>2009\n</td>\n<td><span>Mayer ﻿</span><span>Saskia Mayer</span>\n</td>\n<td><a>BBC One</a>\n</td>\n<td>에피소드: "Empty Nest"\n</td>\n<td>\n</td></tr>\n<tr>\n<th><a>트라이애식 어택</a>\n</th>\n<td>2010\n</td>\n<td><span>Roundtree ﻿</span><span>Savannah Roundtree</span>\n</td>\n<td><a>Syfy</a>\n</td>\n<td>텔레비전 영화\n</td>\n<td>\n</td></tr>\n<tr>\n<th><a>왕좌의 게임</a>\n</th>\n<td>2011–2019\n</td>\n<td><span>Targaryen ﻿</span><span>Daenerys Targaryen</span>\n</td>\n<td><a>HBO</a>\n</td>\n<td>주연\n</td>\n<td><sup><a>[22]</a></sup>\n</td></tr>\n<tr>\n<th><a>퓨처라마</a>\n</th>\n<td>2013\n</td>\n<td>Marianne (목소리 출연)\n</td>\n<td><a>코미디 센트럴</a>\n</td>\n<td>에피소드: "Stench and Stenchibility"\n</td>\n<td><sup><a>[23]</a></sup>\n</td></tr>\n<tr>\n<th><a>로봇 치킨</a>\n</th>\n<td>2016\n</td>\n<td>Bridget (목소리 출연)\n</td>\n<td><a>어덜트 스윔</a>\n</td>\n<td>에피소드: "Joel Hurwitz Returns"\n</td>\n<td>\n</td></tr></tbody></table>

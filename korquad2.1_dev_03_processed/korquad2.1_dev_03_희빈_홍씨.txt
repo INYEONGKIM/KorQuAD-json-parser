@@ -1,0 +1,5 @@
+categories:
+- 희빈_홍씨
+conversations:
+- - 희빈 홍씨의 아버지는 누구인가?
+  - 홍경주

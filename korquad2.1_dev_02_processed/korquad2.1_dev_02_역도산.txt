@@ -1,0 +1,5 @@
+categories:
+- 역도산
+conversations:
+- - 역도산이 태어난 고향은 어디야?
+  - <a>함경남도</a> <a>홍원군</a>

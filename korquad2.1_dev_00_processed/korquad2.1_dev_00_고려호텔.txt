@@ -1,0 +1,7 @@
+categories:
+- 고려호텔
+conversations:
+- - 고려호텔의 층수별 내부시설 목록은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>층수</th>\n<th>시설\n</th></tr>\n<tr>\n<th>45층\n</th>\n<td>회전 레스토랑\n</td></tr>\n<tr>\n<th>44층\n</th>\n<td>영화관\n</td></tr>\n<tr>\n<th>4층\n</th>\n<td>도청 시설\n</td></tr>\n<tr>\n<th>2층~3층~5층~43층\n</th>\n<td>호텔, 카지노, 당구장, 식당 등\n</td></tr>\n<tr>\n<th>1층\n</th>\n<td>로비, 커피숍\n</td></tr>\n<tr>\n<th>지하 3층 ~ 지하 1층\n</th>\n<td>지하주차장, 카지노, 당구장\n</td></tr>\n</tbody></table>
+- - 고려호텔 객실TV에서 채널1번에서 하는 프로그램은 무엇인가?
+  - 고려호텔의 서비스 정보 및 비디오 프로그램

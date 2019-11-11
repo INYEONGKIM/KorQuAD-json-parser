@@ -1,0 +1,7 @@
+categories:
+- 동해안_더비
+conversations:
+- - FA컵 동해안 더비 경기날짜별 역대 전적 결과는 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>#</th>\n<th>날짜</th>\n<th>R.</th>\n<th>홈</th>\n<th>결과</th>\n<th>원정</th>\n<th>득점 (홈)</th>\n<th>득점 (원정)\n</th></tr>\n<tr>\n<td>1</td>\n<td><a>1996년</a> 12월 5일</td>\n<td>4강전</td>\n<td><b>포항</b></td>\n<td><b>1-0</b></td>\n<td>울산</td>\n<td><a>조진호</a> (80)</td>\n<td>\n</td></tr>\n<tr>\n<td>2</td>\n<td><a>1998년</a> 11월 23일</td>\n<td>4강전</td>\n<td><b>울산</b></td>\n<td><b>2-1</b> (연장)</td>\n<td>포항</td>\n<td><a>김종건</a> (82), <a>서동원</a> (99)</td>\n<td><a>김명곤</a> (74)\n</td></tr>\n<tr>\n<td>3</td>\n<td><a>2001년</a> 11월 18일</td>\n<td>4강전</td>\n<td><b>포항</b></td>\n<td><b>2-1</b> (연장)</td>\n<td>울산</td>\n<td><a>이동국</a> (8), <a>윤보영</a> (<a>PK</a> 99)</td>\n<td><a>이길용</a> (79)\n</td></tr></tbody></table>
+- - 동해안 더비는 1부 K리그에서 2019년 5월4일 기준으로 몇 번을 경기했을까
+  - 141

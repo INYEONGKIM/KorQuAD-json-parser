@@ -1,0 +1,9 @@
+categories:
+- 고속터미널역
+conversations:
+- - 고속터미널역은 몇 호선이 지나가?
+  - <a>3호선</a>, <a>7호선</a>, <a>9호선</a>
+- - 고속터미널 부근을 지나가는 지하철은 어디로 갈까요?
+  - <table>\n<tbody><tr>\n<th colspan="3"><a>서울 지하철 3호선</a>\n</th></tr>\n<tr>\n<td>338 <a>잠원</a><br/><span><a>대화</a> 방면</span>\n</td>\n<td><span>■</span> <a>수도권 전철 3호선</a>\n</td>\n<td>340 <a>교대</a><br/><span><a>오금</a> 방면</span>\n</td></tr>\n<tr>\n<th colspan="3"><a>서울 지하철 7호선</a>\n</th></tr>\n<tr>\n<td>733 <a>반포</a><br/><span><a>장암</a> 방면</span>\n</td>\n<td><span>■</span> <a>서울 지하철 7호선</a>\n</td>\n<td>735 <a>내방</a><br/><span><a>부평구청</a> 방면</span>\n</td></tr>\n<tr>\n<th colspan="3"><a>서울 지하철 9호선</a>\n</th></tr>\n<tr>\n<td>920 <a>동작</a><br/><span><a>김포공항</a> 방면</span>\n</td>\n<td><span>■</span> <a>서울 지하철 9호선</a><br/><span>급행</span>\n</td>\n<td>925 <a>신논현</a><br/><span><a>중앙보훈병원</a> 방면</span>\n</td></tr>\n<tr>\n<td>922 <a>신반포</a><br/><span><a>개화</a> 방면</span>\n</td>\n<td><span>■</span> <a>서울 지하철 9호선</a><br/>일반\n</td>\n<td>924 <a>사평</a><br/><span><a>중앙보훈병원</a> 방면</span>\n</td></tr>\n</tbody></table>
+- - 고속터미널역 3호선의 2011년 일평균 승차인원은 얼마인가?
+  - 54,271

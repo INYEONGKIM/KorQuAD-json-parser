@@ -1,0 +1,7 @@
+categories:
+- 오하라_사쿠라코
+conversations:
+- - 오하라 사쿠라코의 정규 앨범은 뭐가 있을까?
+  - <table>\n<tbody><tr>\n<th>#</th>\n<th>발매일</th>\n<th>타이틀</th>\n<th>최고 순위</th>\n<th>규격</th>\n<th>규격 품번\n</th></tr>\n<tr>\n<th rowspan="3">1\n</th>\n<td rowspan="3">2015년 3월 25일\n</td>\n<td rowspan="3"><b>HAPPY</b>\n</td>\n<td rowspan="3">2위\n</td>\n<td>CD+DVD\n</td>\n<td>VIZL-816 (초회 한정 SPECIAL HAPPY반)\n</td></tr>\n<tr>\n<td>CD+굿즈\n</td>\n<td>VIZL-817 (완전 생산 한정 SUPER HAPPY반)\n</td></tr>\n<tr>\n<td>CD\n</td>\n<td>VICL-64342 (통상 HAPPY반)\n</td></tr>\n<tr>\n<th rowspan="3">2\n</th>\n<td rowspan="3">2016년 6월 29일\n</td>\n<td rowspan="3"><b>V<span>（ビバ）</span></b><br/><small>V (비바)</small>\n</td>\n<td rowspan="3">3위\n</td>\n<td>CD+DVD+PHOTOBOOK\n</td>\n<td>VIZL-994 (초회 한정 “VIVA”반)\n</td></tr>\n<tr>\n<td>CD+DVD\n</td>\n<td>VIZL-995 (초회 한정 “미라클 미러”반)\n</td></tr>\n<tr>\n<td>CD\n</td>\n<td>VICL-64595 (통상 “VIVA”반)\n</td></tr></tbody></table>
+- - 오하라 사쿠라코의 두번째 작품의 발매일은?
+  - 2016년 12월 21일

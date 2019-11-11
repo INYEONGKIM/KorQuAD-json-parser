@@ -1,0 +1,5 @@
+categories:
+- 스위스_항공
+conversations:
+- - 스위스 항공이 국영 항공사가 된 연도는?
+  - 1945

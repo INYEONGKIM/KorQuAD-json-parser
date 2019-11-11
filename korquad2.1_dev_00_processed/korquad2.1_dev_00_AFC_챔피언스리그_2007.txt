@@ -1,0 +1,11 @@
+categories:
+- AFC_챔피언스리그_2007
+conversations:
+- - 'AFC 챔피언스리그 2007'에서 진행된 예선 경기 결과는 어떨까?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>승점\n</th>\n<th>경기\n</th>\n<th>승\n</th>\n<th>무\n</th>\n<th>패\n</th>\n<th>득점\n</th>\n<th>실점\n</th>\n<th>골득실\n</th></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>알힐랄</a></b>\n</td>\n<td><b>8</b></td>\n<td>4</td>\n<td>2</td>\n<td>2</td>\n<td>0</td>\n<td>5</td>\n<td>1</td>\n<td>+4\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>FC 파흐타코르</a>\n</td>\n<td><b>6</b></td>\n<td>4</td>\n<td>2</td>\n<td>0</td>\n<td>2</td>\n<td>3</td>\n<td>5</td>\n<td>-2\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>알쿠웨이트 카이판</a>\n</td>\n<td><b>2</b></td>\n<td>4</td>\n<td>0</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>4</td>\n<td>-2\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>에스테글랄</a>\n</td>\n<td colspan="8"><i>실격</i>\n</td></tr></tbody></table>
+- - 2007 AFC 챔피언스리그 예선 C조 1위 팀의 승점은 몇점인가?
+  - <td><b>11</b></td>
+- - AFC 챔피언스리그 2007의 예선 D조에서 가장 승점이 낮은 팀은 어디일까?
+  - <a>알이티하드</a>
+- - AFC 챔피언스리그 2007의 예선 E조에서 가장 승점이 높은 팀 은 어디일까?
+  - <a>우라와 레드 다이아몬즈</a>

@@ -1,0 +1,5 @@
+categories:
+- 목동역
+conversations:
+- - 목동역 주변에 있는 병원은 어디일까?
+  - <li><a>이대목동병원</a></li>

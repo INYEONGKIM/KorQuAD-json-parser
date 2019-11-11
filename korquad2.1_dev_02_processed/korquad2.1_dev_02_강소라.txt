@@ -1,0 +1,11 @@
+categories:
+- 강소라
+conversations:
+- - 강소라가 어떤 영화에 출연했습니까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>제목\n</th>\n<th>역할\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td rowspan="2">2009\n</td>\n<td><a>4교시 추리영역</a>\n</td>\n<td>이다정\n</td>\n<td>\n</td></tr>\n<tr>\n<td>광태의 기초\n</td>\n<td>지효\n</td>\n<td>단편 영화\n</td></tr>\n<tr>\n<td>2011\n</td>\n<td><a>써니</a>\n</td>\n<td>어린 하춘화\n</td>\n<td>코미디, 드라마\n</td></tr>\n<tr>\n<td>2012\n</td>\n<td><a>메리다와 마법의 숲</a>\n</td>\n<td>메리다 (한국어 더빙)\n</td>\n<td>애니메이션 영화\n</td></tr>\n<tr>\n<td rowspan="2">2013\n</td>\n<td><a>파파로티</a>\n</td>\n<td>숙희\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>힘내세요, 병헌씨</a>\n</td>\n<td>\n</td>\n<td>특별 출연\n</td></tr>\n<tr>\n<td rowspan="2">2019\n</td>\n<td><a>자전차왕 엄복동</a>\n</td>\n<td>김형신\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>해치지 않아</a>\n</td>\n<td>소원\n</td>\n<td>\n</td></tr>\n</tbody></table>
+- - 강소라가 2013년 출연한 SBS 파워FM의 라디오 방송은 무엇인가?
+  - <a>두시탈출 컬투쇼</a>
+- - 2012년 On Style에서 방영한 강소라가 나온 프로그램 제목은 무엇인가요?
+  - 고준희의 스타일 매거진
+- - 강소라는 2016년 KBS 연기대상에서 어떤 상의 후보였을까?
+  - 중편드라마부문 여자 우수연기상

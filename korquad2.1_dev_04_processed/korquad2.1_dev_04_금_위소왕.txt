@@ -1,0 +1,5 @@
+categories:
+- 금_위소왕
+conversations:
+- - 금 위소왕의 어머니는 누구인가?
+  - 이원비

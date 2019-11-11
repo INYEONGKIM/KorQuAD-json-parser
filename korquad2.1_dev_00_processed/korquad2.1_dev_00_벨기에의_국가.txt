@@ -1,0 +1,9 @@
+categories:
+- 벨기에의_국가
+conversations:
+- - 벨기에 국가의 제일 첫 소절은 뭐야?
+  - O dierbaar België
+- - 벨기에의 국가의 첫 소절은 무엇인가?
+  - O liebes Land
+- - 벨기에 국가의 첫 소절은 무엇인가요?
+  - Po nosse Beldjike

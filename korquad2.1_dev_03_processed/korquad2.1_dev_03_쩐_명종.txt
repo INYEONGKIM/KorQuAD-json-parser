@@ -1,0 +1,5 @@
+categories:
+- 쩐_명종
+conversations:
+- - 쩐 명종이 사망한 년도는?
+  - 1357

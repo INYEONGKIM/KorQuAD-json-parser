@@ -1,0 +1,5 @@
+categories:
+- 우성전
+conversations:
+- - 우성전이 1576년 역임한 관직은?
+  - 수원현감

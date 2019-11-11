@@ -1,0 +1,13 @@
+categories:
+- K리그_클래식_2013
+conversations:
+- - K리그 클래식 2013년도에서 각 클럽의 감독과 스폰해준 기업들은?
+  - <table>\n<tbody><tr>\n<th>클럽</th>\n<th>감독</th>\n<th>킷 스폰서</th>\n<th>메인 스폰서\n</th></tr>\n<tr>\n<td><a>강원 FC</a></td>\n<td><span><a><img></a></span> <a>김용갑</a></td>\n<td><a>아스토레</a></td>\n<td><a>하이원리조트</a>\n</td></tr>\n<tr>\n<td><a>경남 FC</a></td>\n<td><span><a><img></a></span> <a>일리야 페트코비치</a></td>\n<td><a>험멜</a></td>\n<td><a>대우조선해양</a>\n</td></tr>\n<tr>\n<td><a>대구 FC</a></td>\n<td><span><a><img></a></span> <a>백종철</a></td>\n<td><a>험멜</a></td>\n<td><a>대구광역시</a>, <a>대구은행</a>\n</td></tr>\n<tr>\n<td><a>대전 시티즌</a></td>\n<td><span><a><img></a></span> <a>김인완</a></td>\n<td><a>카파</a></td>\n<td><a>대전광역시</a>, <a>하나은행</a>\n</td></tr>\n<tr>\n<td><a>부산 아이파크</a></td>\n<td><span><a><img></a></span> <a>윤성효</a></td>\n<td><a>푸마</a></td>\n<td><a>부산은행</a>\n</td></tr>\n<tr>\n<td><a>FC 서울</a></td>\n<td><span><a><img></a></span> <a>최용수</a></td>\n<td><a>르꼬끄</a></td>\n<td><a>자이</a>\n</td></tr>\n<tr>\n<td><a>성남 일화 천마</a></td>\n<td><span><a><img></a></span> <a>안익수</a></td>\n<td><a>울스포츠</a></td>\n<td><a>맥콜</a>\n</td></tr>\n<tr>\n<td><a>수원 삼성 블루윙즈</a></td>\n<td><span><a><img></a></span> <a>서정원</a></td>\n<td><a>아디다스</a></td>\n<td><a>삼성</a> 스마트 TV\n</td></tr>\n<tr>\n<td><a>울산 현대</a></td>\n<td><span><a><img></a></span> <a>김호곤</a></td>\n<td><a>디아도라</a></td>\n<td><a>현대오일뱅크</a>\n</td></tr>\n<tr>\n<td><a>인천 유나이티드</a></td>\n<td><span><a><img></a></span> <a>김봉길</a></td>\n<td><a>르꼬끄</a></td>\n<td><a>인천광역시</a>, <a>신한은행</a>\n</td></tr>\n<tr>\n<td><a>전남 드래곤즈</a></td>\n<td><span><a><img></a></span> <a>하석주</a></td>\n<td><a>켈미</a></td>\n<td><a>포스코</a>\n</td></tr>\n<tr>\n<td><a>전북 현대 모터스</a></td>\n<td><span><a><img></a></span> <a>최강희</a></td>\n<td><a>험멜</a></td>\n<td><a>쏘나타</a>\n</td></tr>\n<tr>\n<td><a>제주 유나이티드</a></td>\n<td><span><a><img></a></span> <a>박경훈</a></td>\n<td><a>키카</a></td>\n<td><a>SK에너지</a>\n</td></tr>\n<tr>\n<td><a>포항 스틸러스</a></td>\n<td><span><a><img></a></span> <a>황선홍</a></td>\n<td><a>아테미</a></td>\n<td><a>포스코</a>\n</td></tr></tbody></table>
+- - K리그 클래식 우승 팀은?
+  - <td><a>FC 서울</a></td>
+- - K리그 클래식 2013에서 최하위로 강등되는 팀은 어디일까?
+  - <td><a>대전 시티즌</a></td>
+- - 2013 K리그 클래식에서 강원FC의 누적 관중수는?
+  - <td>56,588</td>
+- - K리그 2013 27라운드에서 포항 스틸러스의 순위는?
+  - <td>1</td>

@@ -1,0 +1,5 @@
+categories:
+- 정세현_(1945년)
+conversations:
+- - 정세현은 몇 년도에 태어났어?
+  - <a>1945년</a>

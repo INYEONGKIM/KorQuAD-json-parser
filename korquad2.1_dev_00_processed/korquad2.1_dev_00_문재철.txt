@@ -1,0 +1,5 @@
+categories:
+- 문재철
+conversations:
+- - 문재철의 가족들은 무엇으로 부를 축적했어?
+  - 선상무역

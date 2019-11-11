@@ -1,0 +1,7 @@
+categories:
+- 박윤재
+conversations:
+- - 박윤재 배우의 수상내역은 어떻게 되나요?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>시상식\n</th>\n<th>부문\n</th>\n<th>작품\n</th>\n<th>결과\n</th></tr>\n<tr>\n<td>2011\n</td>\n<td><a>MBC 드라마대상</a>\n</td>\n<td>연속극부문 남자 신인상\n</td>\n<td rowspan="3"><a>불굴의 며느리</a>\n</td>\n<td>수상\n</td></tr>\n<tr>\n<td rowspan="2">2012\n</td>\n<td rowspan="2">제48회 <a>백상예술대상</a>\n</td>\n<td>TV부문 남자 인기상\n</td>\n<td>후보\n</td></tr>\n<tr>\n<td>TV부문 남자 신인연기상\n</td>\n<td>후보\n</td></tr>\n<tr>\n<td>2013\n</td>\n<td><a>SBS 연기대상</a>\n</td>\n<td>장편드라마부문 남자 우수연기상\n</td>\n<td><a>당신의 여자</a>\n</td>\n<td>후보\n</td></tr>\n<tr>\n<td>2014\n</td>\n<td><a>MBC 연기대상</a>\n</td>\n<td>연속극부문 남자 최우수연기상\n</td>\n<td><a>빛나는 로맨스</a>\n</td>\n<td>후보\n</td></tr>\n<tr>\n<td>2018\n</td>\n<td><a>KBS 연기대상</a>\n</td>\n<td>일일극부문 남자 우수연기상\n</td>\n<td><a>비켜라 운명아</a>\n</td>\n<td>수상\n</td></tr>\n</tbody></table>
+- - 박윤재는 2012년 드라마 신의에서 어떤역할을 연기했을까?
+  - <a>덕흥군</a>

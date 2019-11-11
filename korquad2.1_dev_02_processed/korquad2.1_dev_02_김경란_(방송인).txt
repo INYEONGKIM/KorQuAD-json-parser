@@ -1,0 +1,5 @@
+categories:
+- 김경란_(방송인)
+conversations:
+- - 김경란이 2011년 진행한 생생정보통의 방송사는 어디일까?
+  - <td>KBS2</td>

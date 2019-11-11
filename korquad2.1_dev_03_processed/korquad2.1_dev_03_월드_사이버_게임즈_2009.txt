@@ -1,0 +1,5 @@
+categories:
+- 월드_사이버_게임즈_2009
+conversations:
+- - 2009년 월드 사이버 게임즈 대회의 캐롬 3D 분야에서 4위를 차지한 팀의 이름은 무엇인가?
+  - <span>Indigo_Ferret</span>

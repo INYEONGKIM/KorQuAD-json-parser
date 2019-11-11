@@ -1,0 +1,21 @@
+categories:
+- 2016년_하계_올림픽_배구
+conversations:
+- - 2016년 하계 올림픽 남자 비치발리볼 조별 예선에서 지는 팀은 몇 점의 승점을 얻었는가?
+  - 1점
+- - 2016년 하계 올림픽 배구 여자 예선 경기 결과 본선에 진출하게 된 국가는?
+  - <table>\n<tbody><tr>\n<th>본선 진출 자격</th>\n<th>날짜</th>\n<th>장소</th>\n<th>할당</th>\n<th>국가\n</th></tr>\n<tr>\n<td>주최국</td>\n<td>2009년 10월2일</td>\n<td><span><a><img></a></span> <a>덴마크</a> <a>코펜하겐</a></td>\n<td>1</td>\n<td><span><a><img></a></span> <a>브라질</a>\n</td></tr>\n<tr>\n<td rowspan="2">2015년 월드컵 1-2위</td>\n<td rowspan="2">2015년 8월22일~9월6일</td>\n<td rowspan="2"><span><a><img></a></span> <a>일본</a></td>\n<td rowspan="2">2</td>\n<td><span><a><img></a></span> <a>중국</a>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>세르비아</a>\n</td></tr>\n<tr>\n<td>유럽 대표</td>\n<td>2016년 1월4~9일</td>\n<td><span><a><img></a></span> <a>터키</a> <a>앙카라</a></td>\n<td>1</td>\n<td><span><a><img></a></span> <a>러시아</a>\n</td></tr>\n<tr>\n<td>북중미 대표</td>\n<td>2016년 1월7~9일</td>\n<td><span><a><img></a></span> <a>미국</a> <a>링컨</a></td>\n<td>1</td>\n<td><span><a><img></a></span> <a>미국</a>\n</td></tr>\n<tr>\n<td>남미 대표</td>\n<td>2016년 1월6~10일</td>\n<td><span><a><img></a></span> <a>아르헨티나</a> <a>바릴로체</a></td>\n<td>1</td>\n<td><span><a><img></a></span> <a>아르헨티나</a>\n</td></tr>\n<tr>\n<td>아프리카 대표</td>\n<td>2016년 2월12~16일</td>\n<td><span><a><img></a></span> <a>카메룬</a> <a>야운데</a></td>\n<td>1</td>\n<td><span><a><img></a></span> <a>카메룬</a>\n</td></tr>\n<tr>\n<td>아시아·오세아니아 대표</td>\n<td rowspan="4">2016년 5월14~22일</td>\n<td rowspan="4"><span><a><img></a></span> <a>일본</a> <a>도쿄</a></td>\n<td>1</td>\n<td><span><a><img></a></span> <a>일본</a>\n</td></tr>\n<tr>\n<td rowspan="3">세계 예선1 상위팀</td>\n<td rowspan="3">3</td>\n<td><span><a><img></a></span> <a>이탈리아</a>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>네덜란드</a>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>대한민국</a>\n</td></tr>\n<tr>\n<td>세계 예선2 1위</td>\n<td>2016년 5월20~22일</td>\n<td><span><a><img></a></span> <a>푸에르토리코</a> 산후앙</td>\n<td>1</td>\n<td><span><a><img></a></span> <a>푸에르토리코</a>\n</td></tr>\n<tr>\n<th colspan="3">합계</th>\n<th>12</th>\n<th>\n</th></tr></tbody></table>
+- - 2016년 하계 올림픽 배구 오스트리아 도플러의 승점은 몇점인가?
+  - 5
+- - 가장 많은 승점을 획득한 팀은 어디일까?
+  - <a>네덜란드</a> 브라우에르 / 메이우선
+- - 2016하계 올림픽 배구 이탈리아 멘네가티팀의 세트 득실은 어떻게되는가?
+  - 1.000
+- - 2016년 하계 올림픽 배구 여자 A조 경기에서 1위를 차지한 브라질 리리사와 탈리타의 점수득실은 몇점입니까?
+  - 1.500
+- - 2016년 하계 올림픽 배구 b조 예선 경기에서 스페인 릴리아나/엘사 팀은 몇경기를 치뤘을까?
+  - 3
+- - 2016년 하계 올림픽 배구 여자 비치발리볼 F조 경기에서 세트 득실 0.000을 기록한 팀은 누구인가?
+  - <a>코스타리카</a> 알파로 / 차를레스
+- - 2016년 하계 올림픽 배구 주최국은 어느 나라일까요?
+  - <a>브라질</a>

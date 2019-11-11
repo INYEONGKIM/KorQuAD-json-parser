@@ -1,0 +1,5 @@
+categories:
+- 메건_폭스
+conversations:
+- - 메건 폭스는 몇 년도에 태어났을까?
+  - 1986년

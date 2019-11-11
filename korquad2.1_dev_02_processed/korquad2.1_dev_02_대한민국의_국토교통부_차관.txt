@@ -1,0 +1,13 @@
+categories:
+- 대한민국의_국토교통부_차관
+conversations:
+- - 대한민국의 국토교통부 차관 중 역대 건설부 차관들은?
+  - <table>\n<tbody><tr>\n<th>정부\n</th>\n<th>대수\n</th>\n<th>이름\n</th>\n<th>임기\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td rowspan="2">제2공화국\n</td>\n<td>초대\n</td>\n<td><a>조성근</a>(趙性瑾)\n</td>\n<td>1962년 6월 18일 ~ 1963년 3월 11일\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">2대\n</td>\n<td rowspan="2"><a>안경모</a>(安京模)\n</td>\n<td rowspan="2">1963년 3월 19일 ~ 1964년 7월 9일\n</td>\n<td rowspan="2">\n</td></tr>\n<tr>\n<td rowspan="5">제3공화국\n</td></tr>\n<tr>\n<td>3대\n</td>\n<td><a>최종성</a>(崔鍾聲)\n</td>\n<td>1964년 7월 9일 ~ 1969년 3월 14일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>4대\n</td>\n<td><a>김원기</a>(金元基)\n</td>\n<td>1969년 3월 14일 ~ 1970년 10월 26일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>5대\n</td>\n<td><a>이재설</a>(李載卨)\n</td>\n<td>1970년 10월 26일 ~ 1972년 1월 4일\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">6대\n</td>\n<td rowspan="2"><a>정재석</a>(丁渽錫)\n</td>\n<td rowspan="2">1972년 1월 4일 ~ 1974년 10월 25일\n</td>\n<td rowspan="2">\n</td></tr>\n<tr>\n<td rowspan="4">제4공화국\n</td></tr>\n<tr>\n<td>7대\n</td>\n<td><a>김주남</a>(金周南)\n</td>\n<td>1974년 10월 25일 ~ 1980년 1월 17일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>8대\n</td>\n<td><a>최석원</a>(崔錫元)\n</td>\n<td>1980년 1월 17일 ~ 1980년 7월 9일\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">9대\n</td>\n<td rowspan="2"><a>이규효</a>(李圭孝)\n</td>\n<td rowspan="2">1980년 7월 15일 ~ 1982년 5월 24일\n</td>\n<td rowspan="2">\n</td></tr>\n<tr>\n<td rowspan="4">제5공화국\n</td></tr>\n<tr>\n<td>10대\n</td>\n<td><a>서상철</a>(徐相喆)\n</td>\n<td>1982년 5월 24일 ~ 1982년 6월 24일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>11대\n</td>\n<td><a>이관영</a>(李寬永)\n</td>\n<td>1982년 6월 26일 ~ 1986년 1월 13일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>12대\n</td>\n<td><a>이형구</a>(李炯九)\n</td>\n<td>1986년 1월 13일 ~ 1988년 3월 3일\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="4">노태우 정부\n</td>\n<td>13대\n</td>\n<td><a>김한종</a>(金漢鍾)\n</td>\n<td>1988년 3월 4일 ~ 1989년 7월 20일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>14대\n</td>\n<td><a>이진설</a>(李鎭卨)\n</td>\n<td>1989년 7월 20일 ~ 1990년 3월 19일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>15대\n</td>\n<td><a>김대영</a>(金大泳)\n</td>\n<td>1990년 3월 19일 ~ 1991년 2월 18일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>16대\n</td>\n<td><a>이상룡</a>(李相龍)\n</td>\n<td>1991년 2월 18일 ~ 1993년 3월 3일\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">김영삼 정부\n</td>\n<td>17대\n</td>\n<td><a>이건영</a>(李建榮)\n</td>\n<td>1993년 3월 4일 ~ 1993년 9월 7일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>18대\n</td>\n<td><a>유상열</a>(柳常悅)\n</td>\n<td>1993년 9월 7일 ~ 1994년 12월 23일\n</td>\n<td>\n</td></tr></tbody></table>
+- - 대한민국 초대 국토교통부 차관은 누구인가?
+  - <a>유상열</a>
+- - 국토교통부의 초대 차관은 누구인가?
+  - <a>박기풍</a>(朴麒豊)
+- - 대한민국의 9대 국토교통부 차관은 누구인가?
+  - <a>장인태</a>
+- - 대한민국 초대 국토교통부 차관은?
+  - <a>석영철</a>

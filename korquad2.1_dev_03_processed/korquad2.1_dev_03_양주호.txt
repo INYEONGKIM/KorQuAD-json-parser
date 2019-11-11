@@ -1,0 +1,5 @@
+categories:
+- 양주호
+conversations:
+- - 양주호가 영화 '배드 어스'에서 맡은 배역은?
+  - 이대리

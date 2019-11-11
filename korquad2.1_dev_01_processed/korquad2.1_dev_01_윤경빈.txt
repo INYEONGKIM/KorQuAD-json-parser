@@ -1,0 +1,5 @@
+categories:
+- 윤경빈
+conversations:
+- - 윤경빈의 고향은 어디인가?
+  - <a>평안남도</a> <a>중화</a>

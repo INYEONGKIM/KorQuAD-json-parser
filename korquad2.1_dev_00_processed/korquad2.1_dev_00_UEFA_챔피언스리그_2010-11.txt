@@ -1,0 +1,19 @@
+categories:
+- UEFA_챔피언스리그_2010-11
+conversations:
+- - 2010-11 UEFA 챔피언스리그 예선전의 결과는?
+  - <table>\n<tbody><tr>\n<th>팀 1\n</th>\n<th>결과\n</th>\n<th>팀 2\n</th>\n<th>1차전\n</th>\n<th>2차전\n</th></tr>\n<tr>\n<td><a>리에파야스 메탈루르크스</a> <span><a><img></a></span>\n</td>\n<td>0–5\n</td>\n<td><span><a><img></a></span> <b><a>스파르타 프라하</a></b>\n</td>\n<td>0–3\n</td>\n<td>0–2\n</td></tr>\n<tr>\n<td><b><a>악퇴베</a></b> <span><a><img></a></span>\n</td>\n<td>3–1\n</td>\n<td><span><a><img></a></span> <a>올림피 루스타비</a>\n</td>\n<td>2–0\n</td>\n<td>1–1\n</td></tr>\n<tr>\n<td><a>레바디아</a> <span><a><img></a></span>\n</td>\n<td>3–4\n</td>\n<td><span><a><img></a></span> <b><a>데브레첸</a></b>\n</td>\n<td>1–1\n</td>\n<td>2–3\n</td></tr>\n<tr>\n<td><b><a>파르티잔</a></b> <span><a><img></a></span>\n</td>\n<td>4–1\n</td>\n<td><span><a><img></a></span> <a>퓨니크</a>\n</td>\n<td>3–1\n</td>\n<td>1–0\n</td></tr>\n<tr>\n<td><a>인테르 바쿠</a> <span><a><img></a></span>\n</td>\n<td>1–1 (8–9 <a>p</a>)\n</td>\n<td><span><a><img></a></span> <b><a>레흐 포즈난</a></b>\n</td>\n<td>0–1\n</td>\n<td>1–0 <small>(<a>연장</a>)</small>\n</td></tr>\n<tr>\n<td><b><a>디나모 자그레브</a></b> <span><a><img></a></span>\n</td>\n<td>5–4\n</td>\n<td><span><a><img></a></span> <a>코페르</a>\n</td>\n<td>5–1\n</td>\n<td>0–3\n</td></tr>\n<tr>\n<td><b><a>리텍스 로베치</a></b> <span><a><img></a></span>\n</td>\n<td>5–0\n</td>\n<td><span><a><img></a></span> <a>루다르 플레블라</a>\n</td>\n<td>1–0\n</td>\n<td>4–0\n</td></tr>\n<tr>\n<td><a>비르키르카라</a> <span><a><img></a></span>\n</td>\n<td>1–3\n</td>\n<td><span><a><img></a></span> <b><a>질리나</a></b>\n</td>\n<td>1–0\n</td>\n<td>0–3\n</td></tr>\n<tr>\n<td><b><a>셰리프 티라스폴</a></b> <span><a><img></a></span>\n</td>\n<td>3–2\n</td>\n<td><span><a><img></a></span> <a>디나모 티라나</a>\n</td>\n<td>3–1\n</td>\n<td>0–1\n</td></tr>\n<tr>\n<td><b><a>하포엘 텔아비브</a></b> <span><a><img></a></span>\n</td>\n<td>6–0\n</td>\n<td><span><a><img></a></span> <a>젤레즈니차르</a>\n</td>\n<td>5–0\n</td>\n<td>1–0\n</td></tr>\n<tr>\n<td><b><a>오모니아</a></b> <span><a><img></a></span>\n</td>\n<td>5–0\n</td>\n<td><span><a><img></a></span> <a>레노바</a>\n</td>\n<td>3–0\n</td>\n<td>2–0\n</td></tr>\n<tr>\n<td><b><a>레드 불 잘츠부르크</a></b> <span><a><img></a></span>\n</td>\n<td>5–1\n</td>\n<td><span><a><img></a></span> <a>HB 토르스하운</a>\n</td>\n<td>5–0\n</td>\n<td>0–1\n</td></tr>\n<tr>\n<td><a>보헤미안</a> <span><a><img></a></span>\n</td>\n<td>1–4\n</td>\n<td><span><a><img></a></span> <b><a>더 뉴 세인츠</a></b>\n</td>\n<td>1–0\n</td>\n<td>0–4\n</td></tr>\n<tr>\n<td><b><a>BATE</a></b> <span><a><img></a></span>\n</td>\n<td>6–1\n</td>\n<td><span><a><img></a></span> <a>FH</a>\n</td>\n<td>5–1\n</td>\n<td>1–0\n</td></tr>\n<tr>\n<td><b><a>AIK</a></b> <span><a><img></a></span>\n</td>\n<td>1–0\n</td>\n<td><span><a><img></a></span> <a>죄네스 에슈</a>\n</td>\n<td>1–0\n</td>\n<td>0–0\n</td></tr>\n<tr>\n<td><a>린필드</a> <span><a><img></a></span>\n</td>\n<td>0–2\n</td>\n<td><span><a><img></a></span> <b><a>로센보르그</a></b>\n</td>\n<td>0–0\n</td>\n<td>0–2\n</td></tr>\n<tr>\n<td><a>에크라나스</a> <span><a><img></a></span>\n</td>\n<td>1–2\n</td>\n<td><span><a><img></a></span> <b><a>HJK 헬싱키</a></b>\n</td>\n<td>1–0\n</td>\n<td>0–2 <small>(<a>연장</a>)</small>\n</td></tr></tbody></table>
+- - UEFA 챔피언스리그 2010-11의 3차 예선전에서 BATE의 상대 팀은 어디일까?
+  - <b><a>쾨벤하운</a></b>
+- - UEFA 챔피언스리그 2010-11 조별리그 D조에서 승점 2점으로 최하위 탈락한 팀의 이름은?
+  - <a>파나티나이코스</a>
+- - UEFA 챔피언스리그 2010-11 시즌에 바이에른 뮌헨은 조별리그에서 몇승을 기록하였는가?
+  - <td>5</td>
+- - UEFA 챔피언스리그 2010-11의 조별 리그에서 로마의 순위는 무엇일까?
+  - <a>2위</a>
+- - 2010-11시즌 때 리오넬 메시의 소속팀은 어디일까?
+  - <a>바르셀로나</a>
+- - UEFA 챔피언스리그 2010 16강전에서 발렌시아는 샬케 04에게 몇 점으로 패배했을까?
+  - 2 
+- - UEFA 챔피언스리그 2010 8강전에서 맨체스터 유나이티드에게 첼시는 몇 점으로 패배했을까?
+  - 1 

@@ -1,0 +1,5 @@
+categories:
+- 현대_팰리세이드
+conversations:
+- - 팰리세이드 전폭은 몇mm인가?
+  - 1,975

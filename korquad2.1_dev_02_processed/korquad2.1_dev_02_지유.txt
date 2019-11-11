@@ -1,0 +1,5 @@
+categories:
+- 지유
+conversations:
+- - 지유가 킬러 오브 우먼에서 맡은 역할의 이름은?
+  - 이미소

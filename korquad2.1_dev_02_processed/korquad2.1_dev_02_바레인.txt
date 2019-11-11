@@ -1,0 +1,5 @@
+categories:
+- 바레인
+conversations:
+- - 바레인의 1월 평균최고기온은 어떻게 될까?
+  - 20.0<br/> (68)

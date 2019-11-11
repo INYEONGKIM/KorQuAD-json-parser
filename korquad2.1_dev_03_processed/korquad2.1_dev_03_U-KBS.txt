@@ -1,0 +1,7 @@
+categories:
+- U-KBS
+conversations:
+- - U-KBS에서 현재 방송 중인 프로그램은 무엇인가?
+  - <li><a>누군가 어딘가에</a></li>
+- - 송출 형식이 데이터 채널인 채널명은 무엇인가?
+  - <td>KBS CLOVER</td>

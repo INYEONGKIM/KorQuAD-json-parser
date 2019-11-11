@@ -1,0 +1,5 @@
+categories:
+- 쿨케이
+conversations:
+- - 쿨케이가 처음 맡은 뮤직비디오의 곡명은 뭐였어?
+  - YESTER DAY

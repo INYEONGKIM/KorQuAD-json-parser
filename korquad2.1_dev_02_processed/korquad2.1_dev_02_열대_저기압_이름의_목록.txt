@@ -1,0 +1,9 @@
+categories:
+- 열대_저기압_이름의_목록
+conversations:
+- - 2016년 가장 먼저 발생한 남서인도양의 열대저기압의 이름은?
+  - <td>ABELA</td>
+- - Hibaru라는 열대저기압의 이름은 어느 나라에서 제출한 명칭인가요?
+  - <td><b>Hibaru</b></td>
+- - Ele는 몇조에 속할까?
+  - <td><b>3조</b></td>

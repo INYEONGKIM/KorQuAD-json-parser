@@ -1,0 +1,5 @@
+categories:
+- 금호고속
+conversations:
+- - 금호고속의 등록된 대수의 합계는?
+  - <td>1,108</td>

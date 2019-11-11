@@ -1,0 +1,5 @@
+categories:
+- 지창훈
+conversations:
+- - 지창훈이 대한항공 대표이사가 된 년도가 언제야?
+  - 2010년

@@ -1,0 +1,5 @@
+categories:
+- 김동석_(1923년)
+conversations:
+- - 김동석의 딸 중 가수인 딸은 누구야?
+  - <a>진미령</a>

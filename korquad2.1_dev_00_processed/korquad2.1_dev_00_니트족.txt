@@ -1,0 +1,5 @@
+categories:
+- 니트족
+conversations:
+- - 니트족이라는 용어가 유래된 해는 몇년이야?
+  - <a>1999년</a>

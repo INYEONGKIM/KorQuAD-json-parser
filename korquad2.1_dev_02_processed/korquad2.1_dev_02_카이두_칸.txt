@@ -1,0 +1,5 @@
+categories:
+- 카이두_칸
+conversations:
+- - 쿠빌라이가 사망한 것은 몇 년도인가?
+  - <a>1294년</a>

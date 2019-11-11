@@ -1,0 +1,5 @@
+categories:
+- 인목왕후
+conversations:
+- - 인목왕후는 어느 왕의 부인이었는가?
+  - <a>선조</a>

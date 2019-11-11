@@ -1,0 +1,5 @@
+categories:
+- 네티켓
+conversations:
+- - 네티켓의 종류는 무엇이 있는가?
+  - <ul><li>전자우편을 사용할 때의 네티켓</li>\n<li>온라인 대화를 할 때의 네티켓</li>\n<li>메일링리스트 사용 및 그룹토의를 할 때의 네티켓</li>\n<li>유스넷(usenet) 뉴스를 사용할 때의 네티켓</li>\n<li>웹(WWW)문서를 작성할 때의 네티켓</li>\n<li>원격접속(Telnet)이나 파일전송(FTP)을 할 때의 네티켓</li>\n<li>PC통신 예절</li>\n<li>운영자 네티켓</li>\n<li>이용자 네티켓</li></ul>

@@ -1,0 +1,5 @@
+categories:
+- 김형일_(축구_선수)
+conversations:
+- - 김형일은 2017 시즌에 어떤 클럽 소속이였을까?
+  - <td rowspan="1"><b><a>광저우 헝다 타오바오</a></b></td>

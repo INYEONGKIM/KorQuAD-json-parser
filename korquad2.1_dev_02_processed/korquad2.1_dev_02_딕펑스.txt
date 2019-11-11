@@ -1,0 +1,5 @@
+categories:
+- 딕펑스
+conversations:
+- - 딕펑스의 멤버중 가장 나이가 많은 멤버는 누구일까?
+  - <b>김태현</b>

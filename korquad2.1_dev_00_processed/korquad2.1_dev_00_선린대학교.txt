@@ -1,0 +1,5 @@
+categories:
+- 선린대학교
+conversations:
+- - 선린대학교의 간호/보건 계열에는 무슨 학과가 있을까?
+  - <li>간호학과<sup><a>[2]</a></sup></li>\n<li>보건행정과<sup><a>[3]</a></sup></li>\n<li>응급구조과<sup><a>[3]</a></sup></li>\n<li>뷰티디자인과</li>\n<li>물리치료과<sup><a>[3

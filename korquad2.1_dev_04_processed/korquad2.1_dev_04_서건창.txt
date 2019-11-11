@@ -1,0 +1,5 @@
+categories:
+- 서건창
+conversations:
+- - 서건창이 LG에 있을 당시 참가한 경기의 수는 얼마나 될까?
+  - <td>1</td>

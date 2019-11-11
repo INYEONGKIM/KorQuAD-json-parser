@@ -1,0 +1,5 @@
+categories:
+- 와이탕이_조약
+conversations:
+- - 뉴질랜드 원주민들을 이르는 말은?
+  - 마오리 족

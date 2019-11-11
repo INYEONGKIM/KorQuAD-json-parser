@@ -1,0 +1,5 @@
+categories:
+- 굿바이_레닌
+conversations:
+- - 굿바이 레닌의 촬영지는 어디인가?
+  - <ul><li>알렉산더 광장</li>\n<li><a>샤리테</a></li>\n<li>에이머 나이트클럽</li>\n<li>칼 마르크스 알레</li>\n<li>카이벨 거리</li>\n<li><a>클리니쿰 부흐</a></li>\n<li>운터 덴 린덴</li></ul>

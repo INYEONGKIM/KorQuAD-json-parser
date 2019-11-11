@@ -1,0 +1,7 @@
+categories:
+- TS_엔터테인먼트
+conversations:
+- - 대표 김태송이 사망한 날짜가 언제야?
+  - 2018년 4월 27일
+- - TS 엔터테인먼트에서 배출한 아티스트는 누가 있을까?
+  - <table>\n<tbody><tr>\n<th>연도</th>\n<th>아티스트</th>\n<th>형태</th>\n<th>구성원</th>\n<th>데뷔연도</th>\n<th>풍선색</th>\n<th>팬클럽</th>\n<th>리더</th>\n<th>이전 구성원</th>\n<th>해체\n</th></tr>\n<tr>\n<td>2008</td>\n<td><a>언터쳐블</a></td>\n<td>듀오</td>\n<td><a>슬리피</a>, <a>디액션</a></td>\n<td>2006</td>\n<td>없음</td>\n<td>The Untouchable</td>\n<td><a>슬리피</a></td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td>2009</td>\n<td><a>시크릿</a></td>\n<td rowspan="4">그룹</td>\n<td><a>정하나</a></td>\n<td>2009</td>\n<td><a>하양</a></td>\n<td>Secret Time</td>\n<td>없음</td>\n<td><a>한선화</a>, <a>송지은</a>, <a>전효성</a></td>\n<td>-<sup><a>[5]</a></sup>\n</td></tr>\n<tr>\n<td>2012</td>\n<td><a>B.A.P.</a></td>\n<td><a>힘찬</a>, <a>대현</a>, <a>영재</a>, <a>종업</a></td>\n<td>2012</td>\n<td><a>스프링 그린</a></td>\n<td>BABY</td>\n<td>없음</td>\n<td><a>방용국</a>, <a>젤로</a></td>\n<td>2019\n</td></tr>\n<tr>\n<td>2014</td>\n<td><a>소나무</a></td>\n<td><a>수민</a>, <a>민재</a>, <a>디애나</a>, <a>나현</a>, <a>의진</a>, <a>하이디</a>, <a>뉴썬</a></td>\n<td>2014</td>\n<td><a>펄 사파이어 그린</a></td>\n<td>솔방울</td>\n<td><a>수민</a></td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td>2017</td>\n<td><a>TRCNG</a></td>\n<td>태선, 하영, <a>지훈</a>, 학민, 우엽, 지성, 현우, 시우, 호현, 강민</td>\n<td>2017</td>\n<td>미정</td>\n<td>미정</td>\n<td>태선</td>\n<td>-</td>\n<td>-\n</td></tr>\n</tbody></table>

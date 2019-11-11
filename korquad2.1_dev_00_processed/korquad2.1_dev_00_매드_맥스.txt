@@ -1,0 +1,5 @@
+categories:
+- 매드_맥스
+conversations:
+- - 영화 매드맥스의 반장역할을 맡은 성우의 이름은?
+  - <a>설영범</a>

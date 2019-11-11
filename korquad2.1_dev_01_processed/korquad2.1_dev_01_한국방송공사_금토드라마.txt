@@ -1,0 +1,5 @@
+categories:
+- 한국방송공사_금토드라마
+conversations:
+- - 한국방송공사 금토드라마는 어느 채널에서 방영할까?
+  - <a>KBS 2TV</a>

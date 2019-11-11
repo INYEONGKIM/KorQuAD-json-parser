@@ -1,0 +1,5 @@
+categories:
+- 실크_스크린
+conversations:
+- - 실크 스크린이 대중성이 높은 이유는?
+  - 비용이 싸다.

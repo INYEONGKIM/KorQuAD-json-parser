@@ -1,0 +1,5 @@
+categories:
+- 심선택
+conversations:
+- - 심선택의 아버지 성함은 무엇인가?
+  - 심의성

@@ -1,0 +1,5 @@
+categories:
+- 백정원
+conversations:
+- - 백정원이 KBS1에서 2006~7년까지 진행한 방송의 제목은 무엇인가?
+  - <td rowspan="2"><a>TV비평 시청자데스크</a></td>

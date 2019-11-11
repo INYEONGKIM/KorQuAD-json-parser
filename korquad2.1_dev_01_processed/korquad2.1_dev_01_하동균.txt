@@ -1,0 +1,5 @@
+categories:
+- 하동균
+conversations:
+- - 하동균이 2004년에 o.s.t 음반에 참여한 드라마는?
+  - <a>구미호외전</a>

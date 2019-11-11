@@ -1,0 +1,5 @@
+categories:
+- 그리버스_장군
+conversations:
+- - 그리버스는 누구에 의해 사망하는가?
+  - <a>오비완 케노비</a>

@@ -1,0 +1,7 @@
+categories:
+- LG_옵티머스_UI
+conversations:
+- - LG 옵티머스에서 OS4.4.2를 기반으로 한 단말기는 무엇인가?
+  - <ul><li>적용된 단말기\n<ul><li><a>LG 옵티머스 G</a></li>\n<li><a>LG 옵티머스 G 프로</a></li>\n<li><a>LG G2</a></li>\n<li><a>LG G 프로 2</a></li>\n<li><a>LG G 플렉스</a></li>\n<li><a>LG F70</a></li>\n<li><a>LG GX</a></li>\n<li><a>LG 옵티머스 GK</a></li>\n<li><a>LG 뷰3</a></li>\n<li><a>LG 옵티머스 LTE3</a></li></ul></li></ul>
+- - LG 옵티머스 UI 5.0 버전이 적용된 단말기는 무엇이 있는가?
+  - <ul><li>적용 단말기\n<ul><li><a>LG G3</a></li>\n<li><a>LG G 플렉스 2</a></li>\n<li><a>LG G 프로 2</a></li>\n<li><a>LG G 패드 7.0</a></li>\n<li><a>LG G 패드 8.3</a></li>\n<li><a>LG G 패드 10.1</a></li></ul></li></ul>

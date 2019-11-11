@@ -1,0 +1,7 @@
+categories:
+- 우즈베크어
+conversations:
+- - 우즈베크어의 문법에서는 명사의 격에 따라 어떻게 다르게 표현할까?
+  - <table>\n<tbody><tr>\n<th>격\n</th>\n<th>우즈베크어\n</th>\n<th>한국어\n</th></tr>\n<tr>\n<td><b>주격</b></td>\n<td>uy</td>\n<td><i>집</i>\n</td></tr>\n<tr>\n<td><b>목적격</b></td>\n<td>uy<b>ni</b></td>\n<td><i>집을</i>\n</td></tr>\n<tr>\n<td><b>여격</b></td>\n<td>uy<b>ga</b></td>\n<td><i>집에</i>\n</td></tr>\n<tr>\n<td><b>처격/장소격</b></td>\n<td>uy<b>da</b></td>\n<td><i>집에서</i>\n</td></tr>\n<tr>\n<td><b>탈격/시발격</b></td>\n<td>uy<b>dan</b></td>\n<td><i>집에서부터</i>\n</td></tr>\n<tr>\n<td><b>소유격</b></td>\n<td>uy<b>ning</b></td>\n<td><i>집의</i>\n</td></tr></tbody></table>
+- - 아랍 문자는 언제까지 쓰였나?
+  - 1929

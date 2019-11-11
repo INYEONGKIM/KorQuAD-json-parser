@@ -1,0 +1,7 @@
+categories:
+- 2012년_하계_올림픽_양궁
+conversations:
+- - 2012년 하계 올림픽 양궁에서 각 나라들은 몇개의 메달을 획득했을까?
+  - <table>\n<caption>2012년 하계 올림픽 양궁 메달 집계 <img>\n</caption>\n<tbody><tr>\n<th>순위\n</th>\n<th>국가\n</th>\n<th>  <img>\n</th>\n<th>  <img>\n</th>\n<th>  <img>\n</th>\n<th>  합계\n</th></tr>\n<tr>\n<td>1</td>\n<td><a><img></a> <a>대한민국</a></td>\n<td>3</td>\n<td>0</td>\n<td>1</td>\n<td>4\n</td></tr>\n<tr>\n<td>2</td>\n<td><a><img></a> <a>이탈리아</a></td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1\n</td></tr>\n<tr>\n<td rowspan="3">3</td>\n<td><a><img></a> <a>멕시코</a></td>\n<td>0</td>\n<td>1</td>\n<td>1</td>\n<td>2\n</td></tr>\n<tr>\n<td><a><img></a> <a>중국</a></td>\n<td>0</td>\n<td>1</td>\n<td>1</td>\n<td>2\n</td></tr>\n<tr>\n<td><a><img></a> <a>일본</a></td>\n<td>0</td>\n<td>1</td>\n<td>1</td>\n<td>2\n</td></tr>\n<tr>\n<td>6</td>\n<td><a><img></a> <a>미국</a></td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>1\n</td></tr>\n<tr>\n<th colspan="2">합계</th>\n<th>4</th>\n<th>4</th>\n<th>4</th>\n<th>12\n</th></tr></tbody></table>
+- - 2012년 하계 올림픽에서 양궁종목에 참가했던 국가는 얼마나 되는가?
+  - <th>37</th>

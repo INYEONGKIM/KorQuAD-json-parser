@@ -1,0 +1,5 @@
+categories:
+- 애슬론
+conversations:
+- - AMD의 창업주는 누구일까?
+  - <a>제리 샌더스</a>

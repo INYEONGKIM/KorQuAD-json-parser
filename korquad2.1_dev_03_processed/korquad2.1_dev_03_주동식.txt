@@ -1,0 +1,9 @@
+categories:
+- 주동식
+conversations:
+- - 주동식이 해태 타이거즈로 이적한 해는 언제야?
+  - <a>1983년</a>
+- - 주동식의 1983년과 1984년 통산 기록은 어떻게 되는가?
+  - <table>\n<tbody><tr>\n<th>연도</th>\n<th>소속</th>\n<th>방어율</th>\n<th>등판</th>\n<th>선발</th>\n<th>완투</th>\n<th>완봉</th>\n<th>승</th>\n<th>패</th>\n<th>세</th>\n<th>이닝</th>\n<th>타자</th>\n<th>피안타</th>\n<th>피홈런</th>\n<th>4구</th>\n<th>고의사구</th>\n<th>사구</th>\n<th>탈삼진</th>\n<th>실점</th>\n<th>자책점</th>\n<th>승률</th>\n<th>WHIP</th>\n<th>비고\n</th></tr>\n<tr>\n<td>1983</td>\n<td rowspan="2"><a>해태</a></td>\n<td>3.35</td>\n<td>30</td>\n<td>21</td>\n<td>3</td>\n<td>2</td>\n<td>7</td>\n<td>7</td>\n<td>3</td>\n<td>134.1</td>\n<td>599</td>\n<td>133</td>\n<td>14</td>\n<td>38</td>\n<td>0</td>\n<td>9</td>\n<td>56</td>\n<td>60</td>\n<td>50</td>\n<td>0.500</td>\n<td>1.27</td>\n<td>\n</td></tr>\n<tr>\n<td>1984</td>\n<td>2.27</td>\n<td>18</td>\n<td>10</td>\n<td>4</td>\n<td>2</td>\n<td>6</td>\n<td>5</td>\n<td>0</td>\n<td>83.1</td>\n<td>333</td>\n<td>74</td>\n<td>4</td>\n<td>21</td>\n<td>4</td>\n<td>3</td>\n<td>27</td>\n<td>23</td>\n<td>21</td>\n<td>0.545</td>\n<td>2.27</td>\n<td>\n</td></tr>\n<tr>\n<td><b>통산</b></td>\n<td>2시즌</td>\n<td><b>2.94</b></td>\n<td>48</td>\n<td>31</td>\n<td>7</td>\n<td>4</td>\n<td>13</td>\n<td>12</td>\n<td>3</td>\n<td>217.2</td>\n<td>932</td>\n<td>207</td>\n<td>18</td>\n<td>59</td>\n<td>4</td>\n<td>12</td>\n<td>83</td>\n<td>83</td>\n<td>71</td>\n<td>0.520</td>\n<td>1.22</td>\n<td>\n</td></tr></tbody></table>
+- - 야구선수 주동식은 1982년에 어느 팀에서 뛰었는가?
+  - <td rowspan="1"><a>한신</a></td>

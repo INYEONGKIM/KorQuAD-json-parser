@@ -1,0 +1,7 @@
+categories:
+- 란저우시
+conversations:
+- - 과거에 란저우 시는 언제 진나라의 소유가 되었어?
+  - 기원전 6세기경
+- - 중국의 란저우시가 관할하는 행정구역에 대한 정보는 어떨까?
+  - <table>\n<tbody><tr>\n<th>란저우 시 현급구역\n</th>\n<th>#\n</th>\n<th>이름\n</th>\n<th>간자\n</th>\n<th>면적(km<sup>2</sup>)\n</th>\n<th>인구(명)\n</th></tr>\n<tr>\n<td rowspan="21"><a><img></a>\n</td></tr>\n<tr>\n<td colspan="5"><span> <b>시할구</b></span>\n</td></tr>\n<tr>\n<td>1\n</td>\n<td><a>안닝 구</a>\n</td>\n<td>安宁区\n</td>\n<td>86.79\n</td>\n<td>210,000\n</td></tr>\n<tr>\n<td>2\n</td>\n<td><a>청관 구</a>\n</td>\n<td>城关区\n</td>\n<td>220\n</td>\n<td>976,000\n</td></tr>\n<tr>\n<td>3\n</td>\n<td><a>치리허 구</a>\n</td>\n<td>七里河区\n</td>\n<td>394.92\n</td>\n<td>503,700\n</td></tr>\n<tr>\n<td>4\n</td>\n<td><a>시구 구</a>\n</td>\n<td>西固区\n</td>\n<td>385\n</td>\n<td>320,000\n</td></tr>\n<tr>\n<td>5\n</td>\n<td><a>훙구 구</a>\n</td>\n<td>红古区\n</td>\n<td>535.14\n</td>\n<td>143,000\n</td></tr>\n<tr>\n<td colspan="5"><span> <b>현</b></span>\n</td></tr>\n<tr>\n<td>6\n</td>\n<td><a>융덩 현</a>\n</td>\n<td>永登县\n</td>\n<td>6090\n</td>\n<td>500,000\n</td></tr>\n<tr>\n<td>7\n</td>\n<td><a>가오란 현</a>\n</td>\n<td>皋兰县\n</td>\n<td>2556\n</td>\n<td>180,000\n</td></tr>\n<tr>\n<td>8\n</td>\n<td><a>위중 현</a>\n</td>\n<td>榆中县\n</td>\n<td>3301\n</td>\n<td>424,000\n</td></tr></tbody></table>

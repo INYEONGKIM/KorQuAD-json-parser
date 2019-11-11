@@ -1,0 +1,7 @@
+categories:
+- 닛케이_225
+conversations:
+- - 닛케이 225가 운영하는 서비스업 종목은 어떤게 있어?
+  - <ul><li><a>DeNA</a></li>\n<li><a>덴츠</a></li>\n<li><a>도호</a></li>\n<li><a>도쿄 돔</a></li></ul>\n</div>\n<div>\n<ul><li><a>세콤</a></li>\n<li><a>야후! 재팬</a></li>\n<li><a>코나미</a></li>\n<li><a>트렌드마이크로</a></li></ul>
+- - 닛케이 225 자동차ᆞ자동차 부품 종목은 무엇이 있는가?
+  - <ul><li><a>닛산 자동차</a></li>\n<li><a>마쓰다</a></li>\n<li><a>미쓰비시 자동차</a></li>\n<li><a>스즈키</a></li>\n<li><a>이스즈 자동차</a></li></ul>\n</div>\n<div>\n<ul><li><a>토요타 자동차</a></li>\n<li><a>혼다</a></li>\n<li><a>후지 중공업</a></li>\n<li><a>히노 자동차</a></li></ul>

@@ -1,0 +1,5 @@
+categories:
+- 진선규
+conversations:
+- - 진선규가 2017년도에 수상한 상의 작품명은?
+  - <a>범죄도시</a>

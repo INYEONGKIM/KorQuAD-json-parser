@@ -1,0 +1,5 @@
+categories:
+- 카드_리더
+conversations:
+- - 스마트카드 리더중 비접촉 리더에 대한 설명은 어떤 것이 있나?
+  - 비접촉 인터페이스 <a>ISO/IEC 14443</a>를 통한 APDU 전송.

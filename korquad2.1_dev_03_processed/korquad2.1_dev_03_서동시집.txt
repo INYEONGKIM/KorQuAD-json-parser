@@ -1,0 +1,5 @@
+categories:
+- 서동시집
+conversations:
+- - 서동 시집이 개정되어 나온 것은 몇 년도인가?
+  - 1827년

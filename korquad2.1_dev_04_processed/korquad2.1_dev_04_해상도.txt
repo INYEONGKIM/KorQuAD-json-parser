@@ -1,0 +1,5 @@
+categories:
+- 해상도
+conversations:
+- - 해상도와 자주 혼동되는 개념은 무엇인가?
+  - 전체 픽셀 수

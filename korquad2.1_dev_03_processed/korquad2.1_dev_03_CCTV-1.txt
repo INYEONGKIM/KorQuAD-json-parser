@@ -1,0 +1,5 @@
+categories:
+- CCTV-1
+conversations:
+- - CCTV-1이 HD채널 방송을 시작한 연도와 월, 일은 어떻게 되는가?
+  - <a>2009년</a> <a>9월 28일</a>

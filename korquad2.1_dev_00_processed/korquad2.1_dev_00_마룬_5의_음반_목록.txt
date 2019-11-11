@@ -1,0 +1,7 @@
+categories:
+- 마룬_5의_음반_목록
+conversations:
+- - 마룬 5의 라이브 음반은 무엇이 있는가?
+  - <table>\n<tbody><tr>\n<th rowspan="2">연도\n</th>\n<th rowspan="2">음반명\n</th>\n<th colspan="6">차트 성적\n</th>\n<th rowspan="2">인증\n</th></tr>\n<tr>\n<th><a>미국</a><br/><sup><a>[33]</a></sup>\n</th>\n<th>오스트레일리아<br/><sup><a>[2]</a></sup>\n</th>\n<th>오스트리아<br/><sup><a>[34]</a></sup>\n</th>\n<th>아일랜드<br/><sup><a>[35]</a></sup>\n</th>\n<th>스위스<br/><sup><a>[9]</a></sup>\n</th>\n<th>영국<br/><sup><a>[36]</a></sup>\n</th></tr>\n<tr>\n<td>2004\n</td>\n<td><i><b><a>1.22.03.Acoustic</a></b></i>\n<ul><li>발매일: 2004년 6월 22일</li>\n<li>레이블: 옥톤</li></ul>\n</td>\n<td>42\n</td>\n<td>—\n</td>\n<td>55\n</td>\n<td>64\n</td>\n<td>66\n</td>\n<td>58\n</td>\n<td>\n<ul><li>미국: 골드<sup><a>[37]</a></sup></li>\n<li>영국: 실버<sup><a>[38]</a></sup></li></ul>\n</td></tr>\n<tr>\n<td>2005\n</td>\n<td><i><b><a>Live – Friday The 13th</a></b></i>\n<ul><li>발매일: 2005년 9월 20일</li>\n<li>레이블: J, 옥톤</li></ul>\n</td>\n<td>61\n</td>\n<td>37\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2008\n</td>\n<td><i><b><a>Live From Le Cabaret</a></b></i>\n<ul><li>발매일: 2008년 9월 20일</li>\n<li>레이블: 옥토스코프</li></ul>\n</td>\n<td>117\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>—\n</td>\n<td>\n</td></tr>\n<tr>\n<td colspan="10">"—" 표시는 차트 성적이 존재하지 않거나, 해당 지역에 미발매되었다는 뜻이다.\n</td></tr></tbody></table>
+- - Sad의 한국 차트 성적은 어떻게 되는가?
+  - <td>12</td>

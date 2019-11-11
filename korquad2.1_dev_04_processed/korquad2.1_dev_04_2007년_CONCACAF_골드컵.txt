@@ -1,0 +1,11 @@
+categories:
+- 2007년_CONCACAF_골드컵
+conversations:
+- - 2007년 CONCACAF 골드컵의 조별 리그에서 B조의 결과는 어떠나요?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>승점\n</th>\n<th>경기수\n</th>\n<th>승\n</th>\n<th>무\n</th>\n<th>패\n</th>\n<th>득점\n</th>\n<th>실점\n</th>\n<th>득실차\n</th></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>미국</a></b>\n</td>\n<td><b>9</b></td>\n<td>3</td>\n<td>3</td>\n<td>0</td>\n<td>0</td>\n<td>7</td>\n<td>0</td>\n<td>+7\n</td></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>과테말라</a></b>\n</td>\n<td><b>4</b></td>\n<td>3</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>2</td>\n<td>2</td>\n<td>0\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>엘살바도르</a>\n</td>\n<td><b>3</b></td>\n<td>3</td>\n<td>1</td>\n<td>0</td>\n<td>2</td>\n<td>2</td>\n<td>6</td>\n<td>-4\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>트리니다드 토바고</a>\n</td>\n<td><b>1</b></td>\n<td>3</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>2</td>\n<td>5</td>\n<td>-3\n</td></tr></tbody></table>
+- - 2007년 concacaf 골드컵에서 수상한 올스타팀의 골키퍼는 누구였을까?
+  - 프랑크 그란
+- - 가장 많은 승점을 획득한 팀은 어디일까?
+  - <a>캐나다</a>
+- - 2007년 CONCACAF 골드컵 각 조 3위 팀의 순위 결정전에서 C조 파나마의 승점은 몇 점일까요?
+  - <td><b>4</b></td>

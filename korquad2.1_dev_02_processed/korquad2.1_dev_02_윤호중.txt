@@ -1,0 +1,5 @@
+categories:
+- 윤호중
+conversations:
+- - 윤호중의 출신 고등학교는 어디인가?
+  - <a>춘천고등학교</a>

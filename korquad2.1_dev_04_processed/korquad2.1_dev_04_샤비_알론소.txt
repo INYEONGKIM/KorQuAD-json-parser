@@ -1,0 +1,11 @@
+categories:
+- 샤비_알론소
+conversations:
+- - UEFA 유로 2008 대회에서 샤비 알론소는 스페인의 6번 경기 중 총 몇 번의 경기에 출전해 우승에 힘을 보탰는가?
+  - 4번
+- - 샤비 알론소와 바이에른 뮌헨이 2년 계약을 체결한 것은 언제입니까?
+  - 2014년 8월 29일
+- - 샤비 알론소의 주 포지션은 어디였을까?
+  - <a>미드필더</a>
+- - 샤비 알론소가 스페인 국가대표팀에 있었을 때의  경력은 어떠한가?
+  - <table>\n<tbody><tr>\n<th>국가대표팀</th>\n<th>시즌</th>\n<th>출장</th>\n<th>골\n</th></tr>\n<tr>\n<td rowspan="13"><b><a>스페인</a></b>\n</td></tr>\n<tr>\n<td>2002–03</td>\n<td>1</td>\n<td>0\n</td></tr>\n<tr>\n<td>2003–04</td>\n<td>10</td>\n<td>0\n</td></tr>\n<tr>\n<td>2004–05</td>\n<td>6</td>\n<td>0\n</td></tr>\n<tr>\n<td>2005–06</td>\n<td>12</td>\n<td>1\n</td></tr>\n<tr>\n<td>2006–07</td>\n<td>8</td>\n<td>0\n</td></tr>\n<tr>\n<td>2007–08</td>\n<td>10</td>\n<td>2\n</td></tr>\n<tr>\n<td>2008–09</td>\n<td>14</td>\n<td>4\n</td></tr>\n<tr>\n<td>2009–10</td>\n<td>15</td>\n<td>4\n</td></tr>\n<tr>\n<td>2010–11</td>\n<td>10</td>\n<td>1\n</td></tr>\n<tr>\n<td>2011–12</td>\n<td>16</td>\n<td>3\n</td></tr>\n<tr>\n<td>2012–13</td>\n<td>5</td>\n<td>0\n</td></tr>\n<tr>\n<td>2013–14</td>\n<td>5</td>\n<td>1\n</td></tr>\n<tr>\n<th colspan="2">경력 합계\n</th>\n<th>112</th>\n<th>16\n</th></tr></tbody></table>

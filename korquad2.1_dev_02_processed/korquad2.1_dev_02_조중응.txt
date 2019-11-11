@@ -1,0 +1,5 @@
+categories:
+- 조중응
+conversations:
+- - 조중응의 자녀들이 운영하는 시설이 뭐야?
+  - 호텔

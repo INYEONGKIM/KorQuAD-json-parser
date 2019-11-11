@@ -1,0 +1,5 @@
+categories:
+- Seattle_Standard_Cafe'
+conversations:
+- - Seattle Standard Cafe'의 서포트 멤버에는 누가 있을까?
+  - <table>\n<tbody><tr>\n<th>이름\n</th>\n<th>소개\n</th></tr>\n<tr>\n<td><b>MOMO</b>\n</td>\n<td>\n<ul><li>본명 : 구정모</li>\n<li>생년월일 : 1983년 9월 18일<span>(<span>1983-09-18</span>)</span> (35세)</li>\n<li>혈액형 : AB형</li>\n<li>출생지 : 대한민국 대전광역시</li>\n<li>포지션 : 보컬</li>\n<li>활동기간 :</li></ul>\n</td></tr>\n</tbody></table>

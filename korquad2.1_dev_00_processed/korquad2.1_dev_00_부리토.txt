@@ -1,0 +1,9 @@
+categories:
+- 부리토
+conversations:
+- - 지역별로 부리토의 형태는 어떻게 다른가?
+  - <p>미션 부리토(Mission burrito)의 기원은 1960년대와 1970년대의 <a>미션 지구</a>(Mission District)의 <a>타코 상점</a>(taquería, 타케리아)으로 거슬러 올라갈 수 있다. 이 유형의 부리토는 스팀 테이블 조립 라인에서 생산되며, <a>카르네 아사다</a>(carne asada, 쇠고기), 멕시코식 쌀, 콩(비 정제), 사워 크림, 양파와 같은 충전물을 포함하며, 대형 토르티야로 감싸고 알루미늄 호일로 포장된 것이 특징이다.\n</p><p>페브로니오 온티베로스(Febronio Ontiveros)는 1961년 폴솜 가(Folsom Street)의 코너 식료품 가게인 엘 파로(El Faro)에서 샌프란시스코에서 첫 번째 소매 부리토를 제공했다고 주장한다. 온티베로스는 "샌프란시스코 스타일(San Francisco style)"의 초기 개발로 이어지는 "슈퍼 부리토(super burrito)"스타일을 발명한 것을 정석으로 보고있다. 이 유형은 일반 육류, 콩, 치즈 부리토에 쌀, 사워 크림, 구아카몰 등이 첨가되어있다.<sup><a>[5]</a></sup><sup><a>[15]</a></sup> 미션 부리토는 1970년대와 1980년대 지역 요리 운동과 함께 부상했다. 샌프란시스코식 부리토의 인기는 엘 파롤리토(El Farolito)와 같은 미션 스트리트 타케리아(Mission Street taquerias)와 New York's <a>Dos Toros</a>, <a>Chipotle Mexican Grill</a>,<sup><a>[16]</a></sup> <a>Illegal Pete's</a>, <a>Freebirds World Burrito</a>, <a>Qdoba</a>,  <a>Barberitos</a>와 같은 체인을 통해 전국적으로 성장했다. 1995년 World Wrapps는 샌프란시스코의 마리나 지구(Marina District)에 문을 열었으며 레스토랑 업계에 부리토 형태의 <a>랩 샌드위치</a>를 선보였다.<sup><a>[17]</a></sup>\n</p>
+- - 부리토는 원래 어느 나라 음식입니까?
+  - 멕시코
+- - 부리토는 어느 지역의 전통 음식인가요?
+  - 멕시코 북부 <a>치와와주</a> 도시인 <a>시우다드후아레스</a>

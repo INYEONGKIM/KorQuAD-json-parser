@@ -1,0 +1,9 @@
+categories:
+- 석계역
+conversations:
+- - 석계역이 영업 개시한 연도는?
+  - <a>1985년</a>
+- - 석계역과 인접해있는 역들은 어떤 역들일까?
+  - <table>\n<tbody><tr>\n<th colspan="3"><a>경원본선</a>\n</th></tr>\n<tr>\n<td>119 <a>광운대</a><br/><span><a>소요산</a> 방면<br/><a>광운대</a> 방면</span>\n</td>\n<td><span>■</span> <a>수도권 전철 1호선</a><br/>경원선 급행 <span>·</span> 경인선 완행<br/>경부선 완행\n</td>\n<td>121 <a>신이문</a><br/><span><a>인천</a> 방면<br/><a>서동탄</a> <span>·</span> <a>신창</a> 방면</span>\n</td></tr>\n<tr>\n<th colspan="3"><a>서울 지하철 6호선</a>\n</th></tr>\n<tr>\n<td>643 <a>돌곶이</a><br/><span><a>응암</a> 순환</span>\n</td>\n<td><span>■</span> <a>서울 지하철 6호선</a>\n</td>\n<td>645 <a>태릉입구</a><br/><span><a>봉화산</a> 방면</span>\n</td></tr>\n</tbody></table>
+- - 2018년도에 6호선 승하차 인원은 총 몇명일까요?
+  - 26,696

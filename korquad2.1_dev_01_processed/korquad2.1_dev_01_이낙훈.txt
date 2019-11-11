@@ -1,0 +1,5 @@
+categories:
+- 이낙훈
+conversations:
+- - 이낙훈이 탤런트 연기 활동을 시작한 곳이 어디야?
+  - <a>KBS</a>

@@ -1,0 +1,5 @@
+categories:
+- 순환_중복_검사
+conversations:
+- - CRC-5의 사용처는 무엇일까?
+  - <a>USB</a> 토큰 패킷

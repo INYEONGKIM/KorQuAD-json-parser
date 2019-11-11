@@ -1,0 +1,5 @@
+categories:
+- 디지털_영상
+conversations:
+- - 현재는 사용하지 않는 테이프 포맷은 무엇인가?
+  - <a>마이크로MV</a>

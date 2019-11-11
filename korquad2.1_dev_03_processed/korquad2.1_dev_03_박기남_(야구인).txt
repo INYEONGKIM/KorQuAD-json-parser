@@ -1,0 +1,5 @@
+categories:
+- 박기남_(야구인)
+conversations:
+- - 박기남의 2004년 통산 타율은?
+  - <td>0.235</td>

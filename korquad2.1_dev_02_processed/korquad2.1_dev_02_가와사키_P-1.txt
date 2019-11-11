@@ -1,0 +1,5 @@
+categories:
+- 가와사키_P-1
+conversations:
+- - P-3 오라이온의 길이는 대략 어느정도야?
+  - 35m

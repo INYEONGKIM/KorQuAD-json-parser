@@ -1,0 +1,23 @@
+categories:
+- 보아의_음반_목록
+conversations:
+- - 보아가 대한민국에서 발매한 음반에는 어떤 음반들이 있을까?
+  - <table>\n<tbody><tr>\n<th>순서\n</th>\n<th>앨범 정보\n</th>\n<th>활동곡\n</th>\n<th>판매량\n</th></tr>\n<tr>\n<td>1\n</td>\n<td>《<b><a>ID; Peace B</a></b>》\n<ul><li>발매일 : <a>2000년</a> <a>8월 25일</a></li>\n<li><a>보아</a>의 데뷔 앨범.</li></ul>\n</td>\n<td>\n<ul><li>〈<b>ID; Peace B</b>〉</li>\n<li>〈SARA〉</li></ul>\n</td>\n<td>\n<ul><li>177,612장</li>\n<li>월간 최고순위 16위</li>\n<li>한국음반산업협회 2000년 판매량 59위</li></ul>\n</td></tr>\n<tr>\n<td>2\n</td>\n<td>《<b><a>No.1</a></b>》\n<ul><li>발매일 : <a>2002년</a> <a>4월 13일</a></li></ul>\n</td>\n<td>\n<ul><li>〈<b>NO.1</b>〉</li>\n<li>〈My Sweetie〉</li>\n<li>〈늘..(Wating..)&gt;</li></ul>\n</td>\n<td>\n<ul><li>560,326장</li>\n<li>월간 최고순위 1위</li>\n<li>한국음반산업협회 2002년 음반판매량 4위</li></ul>\n</td></tr>\n<tr>\n<td>3\n</td>\n<td>《<b><a>Atlantis Princess</a></b>》\n<ul><li>발매일 : <a>2003년</a> <a>5월 30일</a></li></ul>\n</td>\n<td>\n<ul><li>〈<b>아틀란티스 소녀(Atlantis Princess)</b>〉</li>\n<li>〈Milky Way〉</li></ul>\n</td>\n<td>\n<ul><li>345,313장</li>\n<li>월간 최고순위 1위</li>\n<li>한국음반산업협회 2003년 판매량 5위</li></ul>\n</td></tr>\n<tr>\n<td>4\n</td>\n<td>《<b><a>My Name</a></b>》\n<ul><li>발매일 :  <a>2004년</a> <a>6월 11일</a></li></ul>\n</td>\n<td>\n<ul><li>〈<b>My Name</b>〉</li>\n<li>〈Spark〉</li>\n<li>〈My Prayer (기도)〉</li></ul>\n</td>\n<td>\n<ul><li>201,699장</li>\n<li>월간 최고순위 1위</li>\n<li>한국음반산업협회 2004년 판매량 11위</li></ul>\n</td></tr>\n<tr>\n<td>5\n</td>\n<td>《<b><a>Girls On Top</a></b>》\n<ul><li>발매일 : <a>2005년</a> <a>6월 24일</a></li></ul>\n<p>《<b><a>MOTO</a></b>》\n</p>\n<ul><li>발매일 : <a>2005년</a> <a>8월 17일</a></li>\n<li>《<a>Girls On Top</a>》의 리패키지 앨범.</li></ul>\n</td>\n<td>\n<ul><li>〈<b>Girls On Top</b>〉</li>\n<li>〈MOTO〉</li></ul>\n</td>\n<td>\n<ul><li>117,416장</li>\n<li>월간 최고순위 3위</li>\n<li>한국음반산업협회 2005년 판매량 14위</li>\n<li>한국음반산업협회 2006년 상반기 판매량 74위</li></ul>\n</td></tr>\n<tr>\n<td>6\n</td>\n<td>《<b><a>Hurricane Venus</a></b>》\n<ul><li>발매일 :  <a>2010년</a> <a>8월 5일</a></li></ul>\n<p>《<b><a>Copy &amp; Paste</a></b>》\n</p>\n<ul><li>발매일 :  <a>2010년</a> <a>9월 27일</a></li>\n<li>《<a>Hurricane Venus</a>》의 리패키지 앨범.</li></ul>\n</td>\n<td>\n<ul><li>〈<b>Hurricane Venus</b>〉</li>\n<li>〈<b>Copy &amp; Paste</b>〉</li></ul>\n</td>\n<td>\n<ul><li>68,000장</li>\n<li>월간 최고순위 1위</li>\n<li>한터차트 2010년 판매량 5위</li>\n<li>가온차트 2010년 판매량 22위</li></ul>\n</td></tr>\n<tr>\n<td>7\n</td>\n<td>《<b><a>Only One</a></b>》\n<ul><li>발매일 :  <a>2012년</a> <a>7월 25일</a></li></ul>\n</td>\n<td>\n<ul><li>〈<b>Only One</b>〉</li>\n<li>〈The Shadow〉</li></ul>\n</td>\n<td>\n<ul><li>34,255장</li>\n<li>월간 최고순위 6위</li>\n<li>가온차트 2012년 판매량 33위</li></ul>\n</td></tr>\n<tr>\n<td>8\n</td>\n<td>《<b><a>Kiss My Lips</a></b>》\n<ul><li>발매일 :  <a>2015년</a> <a>5월 13일</a></li></ul>\n</td>\n<td>\n<ul><li>〈<b>Kiss My Lips</b>〉</li>\n<li>〈Who Are you〉</li></ul>\n</td>\n<td>\n<ul><li>12,386장</li>\n<li>월간 최고순위 8위</li></ul>\n</td></tr>\n<tr>\n<td>9\n</td>\n<td>《<b><a>WOMAN</a></b>》\n<ul><li>발매일 :  <a>2018년</a> <a>10월 25일</a></li></ul>\n</td>\n<td>\n<ul><li>〈<b>Woman</b>〉</li></ul>\n</td>\n<td>\n<ul><li>장</li>\n<li>월간 최고순위 위</li></ul>\n</td></tr></tbody></table>
+- - 보아의 앨범<약속>은 몇 년도에 발매되었는가?
+  - 2001년
+- - 2013년 5월 29일 발매된 OST의 드라마 제목은 무엇일까요?
+  - <a>상어</a>
+- - 2000년 SMTown 앨범의 어떤 트랙에 보아가 참여했을까?
+  - <b>1.</b> "창밖을 봐요 (Waiting For White Christmas)" - <a>SM TOWN</a><br/>\n<b>6.</b> "Marry Christmas"<br/>\n<b>13.</b> "Christmas Time
+- - 2005년 8월 28일 아시아 지역에 발매한 보아의 DVD 판매량은 몇 장일까?
+  - 3,000장
+- - 보아의 싱글 앨범 <DOUBLE>의 월간 최고순위는 몇 위일까?
+  - 8위
+- - 보아의 Miracle 앨범은 얼마나 팔렸을까?
+  - <li>314,669장</li>
+- - Unchained는 몇 년도에 발매했을까?
+  - <a>2018년</a>
+- - 보아의 일본 발매 음반 중 일곱 번째인 IDENTITY의 발매 연월일은 언제인가?
+  - <td><a>2010년</a> <a>2월 10일</a></td>
+- - 가수 보아가 2005년 발매한 컴필레이션 앨범 BEST OF SOUL의 주간 최고순위는 몇위인가?
+  - <td>1</td>

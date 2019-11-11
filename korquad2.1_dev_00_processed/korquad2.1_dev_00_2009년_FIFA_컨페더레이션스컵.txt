@@ -1,0 +1,7 @@
+categories:
+- 2009년_FIFA_컨페더레이션스컵
+conversations:
+- - 2019년 FIFA 컨페더레이션스컵 경기를 치룬 경기장들의 수용인원은 몇 명인가?
+  - <table>\n<tbody><tr>\n<th><a>요하네스버그</a>\n</th>\n<th><a>프리토리아</a>\n</th>\n<th><a>블룸폰테인</a>\n</th>\n<th><a>루스텐버그</a>\n</th></tr>\n<tr>\n<td><a>엘리스 파크 경기장</a><sup><a>[2]</a></sup>\n</td>\n<td><a>로프터스 버스펠드 경기장</a>\n</td>\n<td><a>프리스테이트 경기장</a>\n</td>\n<td><a>로열 바포켕 경기장</a>\n</td></tr>\n<tr>\n<td>수용 인원: <b>62,567명</b>\n</td>\n<td>수용 인원: <b>50,000명</b>\n</td>\n<td>수용 인원: <b>48,000명</b>\n</td>\n<td>수용 인원: <b>42,000명</b>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td></tr></tbody></table>
+- - 2009년 FIFA 컨페더레이션스컵의 조별 리그 B조에서 이탈리아는 몇 번 이겼나요?
+  - <td>1</td>

@@ -1,0 +1,5 @@
+categories:
+- 현무_(유도탄)
+conversations:
+- - 이동식 발사가 가능한 현무 미사일은 무엇입니까? 
+  - <td>현무-2A</td>

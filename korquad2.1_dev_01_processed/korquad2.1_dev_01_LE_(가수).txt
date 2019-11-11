@@ -1,0 +1,7 @@
+categories:
+- LE_(가수)
+conversations:
+- - 여성 그룹 EXID의 멤버 LE가 피처링한 노래와 가수를 연도별로 정리한다면?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>노래\n</th>\n<th>음악가\n</th></tr>\n<tr>\n<td rowspan="3">2009\n</td>\n<td>Oh Yeah\n</td>\n<td><a>엠블랙</a>\n</td></tr>\n<tr>\n<td>벙개송\n</td>\n<td><a>베이식</a>\n</td></tr>\n<tr>\n<td>Rock With Us\n</td>\n<td><a>더블트러블</a>\n</td></tr>\n<tr>\n<td rowspan="2">2010\n</td>\n<td>Give Me A Sign\n</td>\n<td><a>조 브라운</a>\n</td></tr>\n<tr>\n<td>Random\n</td>\n<td><a>낯선</a>\n</td></tr>\n<tr>\n<td>2011\n</td>\n<td>그 노래를 틀때마다\n</td>\n<td><a>허각</a>\n</td></tr>\n<tr>\n<td rowspan="4">2012\n</td>\n<td>Once Again\n</td>\n<td><a>강지혜</a>\n</td></tr>\n<tr>\n<td>Don't Call Me\n</td>\n<td><a>가비엔제이</a>\n</td></tr>\n<tr>\n<td>Good Night\n</td>\n<td><a>피노다인</a>\n</td></tr>\n<tr>\n<td>Look At Me\n</td>\n<td><a>쥬얼리</a>\n</td></tr>\n<tr>\n<td rowspan="1">2013\n</td>\n<td>어이없네\n</td>\n<td><a>용준형</a>&amp;LE&amp;<a>필독</a>\n</td></tr>\n<tr>\n<td rowspan="6">2014\n</td>\n<td>Hurt\n</td>\n<td><a>지아</a>\n</td></tr>\n<tr>\n<td>Sweet Girl\n</td>\n<td><a>케이윌</a>\n</td></tr>\n<tr>\n<td>Blacklist\n</td>\n<td><a>현아</a>\n</td></tr>\n<tr>\n<td>Sugar Free\n</td>\n<td><a>티아라</a>\n</td></tr>\n<tr>\n<td>Shall We Dance\n</td>\n<td><a>임창정</a>\n</td></tr>\n<tr>\n<td>The Song of Love\n</td>\n<td><a>더 씨야</a>\n</td></tr>\n<tr>\n<td rowspan="2">2015\n</td>\n<td>Goodbye Mr. Kim\n</td>\n<td><a>알리</a>\n</td></tr>\n<tr>\n<td>귀 아래\n</td>\n<td><a>버벌 진트</a>\n</td></tr></tbody></table>
+- - LE가 2016년에 출연한 프로그램은 무엇인가?
+  - <a>힙합의 민족 시즌 2</a>

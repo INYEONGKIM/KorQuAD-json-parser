@@ -1,0 +1,5 @@
+categories:
+- 용곡중학교_(서울)
+conversations:
+- - 용곡중학교 13대 교장의 이름은?
+  - 임영선

@@ -1,0 +1,5 @@
+categories:
+- 키무라_카에라
+conversations:
+- - 키무라 카에라의 앨범에는 무엇이 있는가?
+  - <ol><li>KAELA (<a>2004년</a> <a>12월 8일</a>)</li>\n<li>Circle (<a>2006년</a> <a>3월 8일</a>)\n<dl><dd><span>リルラ リルハ</span> <small>리루라 리루하<sup>[<a>*</a>]</sup></small> / tea cup / I hug / BEAT (Album Ver.) / <span>トゥリル トゥリル リカー</span> <small>토우리루 토우리루 리카<sup>[<a>*</a>]</sup></small> / Twinkle (NANA Ver.) / You / PIONEER / Deep Blue Sky / Dancing now / Circle / <span>はちみつ</span> <small>하치미츠<sup>[<a>*</a>]</sup></small> / C-hildren</dd></dl>

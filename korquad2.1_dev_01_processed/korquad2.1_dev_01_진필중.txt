@@ -1,0 +1,5 @@
+categories:
+- 진필중
+conversations:
+- - 2003년 진필중의 소속 팀은 어디일까?
+  - <a>KIA</a>

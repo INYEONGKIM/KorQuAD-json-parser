@@ -1,0 +1,5 @@
+categories:
+- 별난_물질
+conversations:
+- - NASA가 2015년 개발에 성공한 드라이브는 뭐야?
+  - <a>EmDrive</a>

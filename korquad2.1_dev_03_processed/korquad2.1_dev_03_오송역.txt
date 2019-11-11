@@ -1,0 +1,5 @@
+categories:
+- 오송역
+conversations:
+- - 오송역에 KTX가 들어오기 시작한 것은 언제부터인가?
+  - <a>2010년</a> <a>11월 1일</a>

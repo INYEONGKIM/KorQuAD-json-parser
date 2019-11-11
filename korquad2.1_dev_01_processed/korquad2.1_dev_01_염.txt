@@ -1,0 +1,5 @@
+categories:
+- 염
+conversations:
+- - 액체에 녹지 않는 염을 다른 말로 뭐라고 불러?
+  - 앙금

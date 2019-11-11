@@ -1,0 +1,7 @@
+categories:
+- 갈라_(기업)
+conversations:
+- - 기업 갈라는 2011년에 스마트폰 시장에 진출하면서 어떤 게임 개발에 힘쓰고 있는가?
+  - 소셜 게임 플랫폼 및 게임
+- - 갈라가 만든 게임들의 종류는 무엇인가?
+  - <table>\n<tbody><tr>\n<th>타이틀명\n</th>\n<th>개발사\n</th>\n<th>장르\n</th>\n<th>출시일\n</th>\n<th>서비스 포탈\n</th></tr>\n<tr>\n<td><i><a>프리프</a></i>\n</td>\n<td>Gala Lab\n</td>\n<td>클라이언트 기반 MMO\n</td>\n<td>2002\n</td>\n<td>gPotato.com <br/> es.gPotato.com <br/> gPotato.eu <br/> gPotato.kr <br/> gPotato.com.br <br/> gPotato.jp\n</td></tr>\n<tr>\n<td><i>스트리트기어즈</i>\n</td>\n<td>Gala Lab\n</td>\n<td>클라이언트 기반 MMO\n</td>\n<td>2002\n</td>\n<td>gPotato.eu\n</td></tr>\n<tr>\n<td><i><a>라펠즈</a></i>\n</td>\n<td>Gala Lab\n</td>\n<td>클라이언트 기반 MMO\n</td>\n<td>2006\n</td>\n<td>gPotato.com <br/> es.gPotato.com <br/> gPotato.eu <br/> gPotato.kr <br/> gPotato.com.br <br/> gPotato.jp\n</td></tr>\n<tr>\n<td><i><a>블레이드</a></i>\n</td>\n<td>Gala Lab\n</td>\n<td>클라이언트 기반 MMO\n</td>\n<td>2010\n</td>\n<td>gPotato.jp <br/> gPotato.kr\n</td></tr>\n</tbody></table>

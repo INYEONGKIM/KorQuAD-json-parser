@@ -1,0 +1,5 @@
+categories:
+- 이재백
+conversations:
+- - 이재백이 이판사판에서 맡은 배역의 이름은?
+  - <td>정채성</td>

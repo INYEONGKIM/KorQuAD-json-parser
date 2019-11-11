@@ -1,0 +1,11 @@
+categories:
+- 풀하우스_(드라마)
+conversations:
+- - 풀하우스에서 신동욱역을 맡은 배우의 이름은 무엇인가요?
+  - <a>강도한</a>
+- - 풀하우스에 나오는 여주인공의 이름은 뭐야?
+  - 지은
+- - TV 도쿄에서 방송된 풀하우스의 일정은 어떻게 될까?
+  - <table>\n<tbody><tr>\n<th>회차</th>\n<th>연도</th>\n<th>방송일</th>\n<th>부제</th>\n<th>원제\n</th></tr>\n<tr>\n<th>1화\n</th>\n<td rowspan="12"><a>2010년</a>\n</td>\n<td>10월 7일\n</td>\n<td>충격! 운명의 만남\n</td>\n<td>衝撃！運命の出會い\n</td></tr>\n<tr>\n<th>2화\n</th>\n<td>10월 14일\n</td>\n<td>최악의 남자의 순정\n</td>\n<td>サイテー男の純愛\n</td></tr>\n<tr>\n<th>3화\n</th>\n<td>10월 21일\n</td>\n<td>이유있는 화려한 결혼식\n</td>\n<td>ワケありセレブ婚\n</td></tr>\n<tr>\n<th>4화\n</th>\n<td>10월 28일\n</td>\n<td>소설가 지은 탄생!?\n</td>\n<td>小說家ジウン誕生！？\n</td></tr>\n<tr>\n<th>5화\n</th>\n<td>11월 4일\n</td>\n<td>눈물의 SOS\n</td>\n<td>涙のSOS\n</td></tr>\n<tr>\n<th>6화\n</th>\n<td>11월 11일\n</td>\n<td>계약 결혼의 위기!\n</td>\n<td>契約結婚のピンチ！\n</td></tr>\n<tr>\n<th>7화\n</th>\n<td>11월 18일\n</td>\n<td>사랑과 질투의 장렬한 배틀\n</td>\n<td>愛と嫉妬の壮絶バトル\n</td></tr>\n<tr>\n<th>8화\n</th>\n<td>11월 25일\n</td>\n<td>사랑의 예감으로 패닉\n</td>\n<td>戀の予感に大パニック\n</td></tr>\n<tr>\n<th>9화\n</th>\n<td>12월 2일\n</td>\n<td>남자의 선전포고\n</td>\n<td>マジな男の宣戰布告\n</td></tr>\n<tr>\n<th>10화\n</th>\n<td>12월 9일\n</td>\n<td>발각! 말도 안되는 전개\n</td>\n<td>發覺！アリエナイ展開\n</td></tr>\n<tr>\n<th>11화\n</th>\n<td>12월 16일\n</td>\n<td>일발 역전의 X 데이\n</td>\n<td>一發逆轉のＸデー\n</td></tr>\n<tr>\n<th>12화\n</th>\n<td>12월 30일\n</td>\n<td>속죄의 빨간 장미\n</td>\n<td>つぐないの赤いバラ\n</td></tr>\n<tr>\n<th>13화\n</th>\n<td rowspan="4">2011년\n</td>\n<td>1월 6일\n</td>\n<td>상처투성이인 두 사람\n</td>\n<td>傷だらけのふたり\n</td></tr>\n<tr>\n<th>14화\n</th>\n<td>1월 13일\n</td>\n<td>이별의 카운트다운\n</td>\n<td>別れのカウントダウン\n</td></tr>\n<tr>\n<th>15화\n</th>\n<td>1월 20일\n</td>\n<td>재회는 갑작스럽게\n</td>\n<td>再會は突然に\n</td></tr>\n<tr>\n<th>16화\n</th>\n<td>1월 27일\n</td>\n<td>너만 있다면\n</td>\n<td>君さえいれば\n</td></tr>\n</tbody></table>
+- - 풀하우스의 평균 시청률은?
+  - <td><span><b>32.1%</b></span></td>

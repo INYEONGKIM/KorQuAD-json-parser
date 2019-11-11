@@ -1,0 +1,5 @@
+categories:
+- 콜트_AR-15
+conversations:
+- - 육군 포스타의 이름은?
+  - <a>윌리엄 G. 와이맨</a>

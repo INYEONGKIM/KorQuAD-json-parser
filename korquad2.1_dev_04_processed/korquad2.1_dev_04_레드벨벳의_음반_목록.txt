@@ -1,0 +1,7 @@
+categories:
+- 레드벨벳의_음반_목록
+conversations:
+- - 가수 레드벨벳의 미니앨범별 음반 차트 정보와 순위 및 판매량은 어떠했나요?
+  - <table>\n<tbody><tr>\n<th rowspan="2">제목\n</th>\n<th rowspan="2">정보\n</th>\n<th colspan="4">최고 차트 순위\n</th>\n<th rowspan="2">판매량\n</th></tr>\n<tr>\n<th><a>한국</a><br/><sup><a>[6]</a></sup>\n</th>\n<th><a>일본</a><br/><sup><a>[7]</a></sup>\n</th>\n<th><a>미국 월드</a><br/><sup><a>[8]</a></sup>\n</th>\n<th><a>미국 히트</a><br/><sup><a>[9]</a></sup>\n</th></tr>\n<tr>\n<th>《<a>Ice Cream Cake</a>》\n</th>\n<td>\n<ul><li>발매일: 2015년 3월 17일</li>\n<li>레이블: <a>KT 뮤직</a></li>\n<li>포맷: <a>CD</a>, <a>디지털 다운로드</a></li></ul>\n</td>\n<td>1</td>\n<td>76</td>\n<td>2</td>\n<td>25\n</td>\n<td>\n<ul><li>대한민국: 59,815<sup><a>[5]</a></sup></li></ul>\n</td></tr>\n<tr>\n<th>《<a>The Velvet</a>》\n</th>\n<td>\n<ul><li>발매일: 2016년 3월 17일</li>\n<li>레이블: <a>KT 뮤직</a></li>\n<li>포맷: <a>CD</a>, <a>디지털 다운로드</a></li></ul>\n</td>\n<td>1</td>\n<td>76</td>\n<td>2</td>\n<td>25\n</td>\n<td>\n<ul><li>대한민국: 50,215</li></ul>\n</td></tr>\n<tr>\n<th>《<a>Russian Roulette</a>》\n</th>\n<td>\n<ul><li>발매일: 2016년 9월 7일</li>\n<li>레이블: <a>KT 뮤직</a></li>\n<li>포맷: <a>CD</a>, <a>디지털 다운로드</a></li></ul>\n</td>\n<td>1</td>\n<td>76</td>\n<td>2</td>\n<td>25\n</td>\n<td>\n<ul><li>대한민국: 52,826</li></ul>\n</td></tr></tbody></table>
+- - 레드벨벳 노래 중 러시안 룰렛이 발매된 연도는?
+  - 2016

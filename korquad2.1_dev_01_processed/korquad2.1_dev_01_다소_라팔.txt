@@ -1,0 +1,5 @@
+categories:
+- 다소_라팔
+conversations:
+- - 다소 라팔의 출력은 몇 파운드일까?
+  - 17,000파운드

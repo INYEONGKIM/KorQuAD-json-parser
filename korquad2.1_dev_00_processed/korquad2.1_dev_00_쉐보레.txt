@@ -1,0 +1,5 @@
+categories:
+- 쉐보레
+conversations:
+- - 쉐보레 콜로라도, 쉐보레 실버라도는 종류가 무엇인가?
+  - <b>트럭</b>

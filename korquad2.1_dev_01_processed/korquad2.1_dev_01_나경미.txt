@@ -1,0 +1,5 @@
+categories:
+- 나경미
+conversations:
+- - 1998년 배우 나경미가 출연한  KBS2 주말연속극은 무엇인가?
+  - <a>종이학</a>

@@ -1,0 +1,5 @@
+categories:
+- VNG_(기업)
+conversations:
+- - VNG의 서비스는 무엇이 있는가?
+  - <ul><li>배너광고</li>\n<li>뉴스광고</li>\n<li>소셜메디어 서비스</li>\n<li>IMC 서비스 (Integrated Marketing Campaign)</li>\n<li>In-game branding 서비스</li>\n<li>123link 서비스: 광고 구매자와 판매자를 연결한 네트워크이다. 현재 123link가 40광고사들와 협력하고 있다. 특히, 2013년 9월 24일에 VNG는 세계 모바일 광고 네트워크인 Inmobi의 파트너사가 되었다.</li>\n<li>Google Adwords로 검색 서비스</li></ul>

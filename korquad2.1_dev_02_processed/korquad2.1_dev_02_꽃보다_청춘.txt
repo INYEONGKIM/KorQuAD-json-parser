@@ -1,0 +1,11 @@
+categories:
+- 꽃보다_청춘
+conversations:
+- - 2014년 페루편 꽃보다 청춘의 방송회차별 방송 내용과 방송 시청률은 어떠했나요?
+  - <table>\n<tbody><tr>\n<th rowspan="2">#\n</th>\n<th rowspan="2">여행 동행자\n</th>\n<th rowspan="2">여행지 및 여행 기간\n</th>\n<th rowspan="2">회차\n</th>\n<th rowspan="2">방송일\n</th>\n<th colspan="2"><a>AGB</a>시청률<sup><a>[1]</a></sup>\n</th></tr>\n<tr>\n<th>대한민국(전국)\n</th></tr>\n<tr>\n<th rowspan="6">1<br/><span>(6부작)</span>\n</th>\n<td rowspan="6">\n<ul><li><a>윤상</a></li>\n<li><a>유희열</a></li>\n<li><a>이적</a></li></ul>\n</td>\n<td rowspan="6"><span><a><img></a></span> <a>페루</a><br/>9박 10일<br/>(2014년 6월 25일 ~ 7월 4일)\n</td>\n<th>제1회\n</th>\n<td>8월 1일\n</td>\n<td>4.6%\n</td></tr>\n<tr>\n<th>제2회\n</th>\n<td>8월 8일\n</td>\n<td>5.5%\n</td></tr>\n<tr>\n<th>제3회\n</th>\n<td>8월 15일\n</td>\n<td><span><b>5.8%</b></span>\n</td></tr>\n<tr>\n<th>제4회\n</th>\n<td>8월 22일\n</td>\n<td>4.9%\n</td></tr>\n<tr>\n<th>제5회\n</th>\n<td>8월 29일\n</td>\n<td>4.8%\n</td></tr>\n<tr>\n<th>제6회<br/><span>(감독판)</span>\n</th>\n<td>9월 5일\n</td>\n<td><span><b>3.8%</b></span>\n</td></tr>\n</tbody></table>
+- - 꽃보다 청춘 라오스 편의 9월 19일자 방영분의 시청률은 얼마일까?
+  - <span><b>5.8%</b></span>
+- - 꽃보다 청춘 아이슬란드 편에서 출연진들은 얼마의 기간 동안 여행을 했는가?
+  - 6박 7일<br/>
+- - 프로그램 '꽃보다 청춘'을 방영하는 채널은 무엇인가?
+  - <a>tvN</a>

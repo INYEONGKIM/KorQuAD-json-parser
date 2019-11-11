@@ -1,0 +1,5 @@
+categories:
+- 더_문
+conversations:
+- - <더 문>에서 미술은 누가 담당했을까?
+  - 토니 노블

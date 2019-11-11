@@ -1,0 +1,9 @@
+categories:
+- J리그
+conversations:
+- - 일본 사커 리그는 몇 년도에 시작되었습니까?
+  - 1965년
+- - 한국과 일본이 동시 개최한 월드컵의 연도는 언제인가?
+  - 2002년
+- - 일본 야구리그 중 J3리그의 클럽 종류와 년도별 우승 횟수는 어떻게 되는가?
+  - <table>\n<tbody><tr>\n<th>클럽</th>\n<th>우승</th>\n<th>준우승</th>\n<th>우승 시즌</th>\n<th>준우승 시즌\n</th></tr>\n<tr>\n<td><a>츠바이겐 가나자와</a>\n</td>\n<td><div> 1</div>\n</td>\n<td><div> 0</div>\n</td>\n<td>2014\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>레노파 야마구치</a>\n</td>\n<td><div> 1</div>\n</td>\n<td><div> 0</div>\n</td>\n<td>2015\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>오이타 트리니타</a>\n</td>\n<td><div> 1</div>\n</td>\n<td><div> 0</div>\n</td>\n<td>2016\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>AC 나가노 파르세이루</a>\n</td>\n<td><div> 0</div>\n</td>\n<td><div> 1</div>\n</td>\n<td>\n</td>\n<td>2014\n</td></tr>\n<tr>\n<td><a>마치다 젤비아</a>\n</td>\n<td><div> 0</div>\n</td>\n<td><div> 1</div>\n</td>\n<td>\n</td>\n<td>2015\n</td></tr>\n<tr>\n<td><a>도치기 SC</a>\n</td>\n<td><div> 0</div>\n</td>\n<td><div> 2</div>\n</td>\n<td>\n</td>\n<td>2016, 2017\n</td></tr>\n<tr>\n<td><a>가고시마 유나이티드 FC</a>\n</td>\n<td><div> 0</div>\n</td>\n<td><div> 1</div>\n</td>\n<td>\n</td>\n<td>2018\n</td></tr>\n<tr>\n<td><a>FC 류큐</a>\n</td>\n<td><div> 1</div>\n</td>\n<td><div> 0</div>\n</td>\n<td>2018\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>블라우블리츠 아키타</a>\n</td>\n<td><div> 1</div>\n</td>\n<td><div> 0</div>\n</td>\n<td>2017\n</td>\n<td>\n</td></tr></tbody></table>

@@ -1,0 +1,5 @@
+categories:
+- 전략_핵무기
+conversations:
+- - ICBM은 이동식 기지 또는 어디에서 발사돼?
+  - 지상고정(silo)

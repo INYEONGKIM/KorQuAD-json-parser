@@ -1,0 +1,9 @@
+categories:
+- 주간_아이돌_어워즈
+conversations:
+- - 제 3회 주간 아이돌 어워즈에서 누가 상을 받았을까?
+  - <table>\n<tbody><tr>\n<th>부문</th>\n<th>수상자</th>\n<th>소속팀\n</th></tr>\n<tr>\n<td rowspan="2">신인 MC상</td>\n<td><a>윤보미</a></td>\n<td><a>에이핑크</a>\n</td></tr>\n<tr>\n<td><a>정일훈</a></td>\n<td><a>비투비</a>\n</td></tr>\n<tr>\n<td>우쭈쭈 귀요미 상</td>\n<td><a>지드래곤</a></td>\n<td><a>빅뱅</a>\n</td></tr>\n<tr>\n<td>너네 노래인데 왜 추지를 못하니 상</td>\n<td colspan="2"><a>인피니트</a>\n</td></tr>\n<tr>\n<td>도니코니 잡는 아이돌 상</td>\n<td><a>김성규</a></td>\n<td><a>인피니트</a>\n</td></tr>\n<tr>\n<td>지하 3층 신세계 캐릭터 상</td>\n<td><a>용준형</a></td>\n<td><a>비스트</a>\n</td></tr>\n<tr>\n<td>대상<sup><a>[2]</a></sup></td>\n<td colspan="2"><a>EXO</a>\n</td></tr></tbody></table>
+- - 제1회 주간 아이돌 어워즈에서 남자 검색어 1위 상을 수상한 사람은 누구인가?
+  - <td><a>윤두준</a></td>
+- - 제7회 주간 아이돌 어워즈에서 대상을 한 아이돌은?
+  - <td><a>인피니트</a></td>

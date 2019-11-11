@@ -1,0 +1,5 @@
+categories:
+- 스마트워치
+conversations:
+- - 삼성전자에서 처음으로 출시한 스마트워치 제품명은?
+  - SPH-WP10

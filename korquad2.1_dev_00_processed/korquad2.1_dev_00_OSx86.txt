@@ -1,0 +1,5 @@
+categories:
+- OSx86
+conversations:
+- - 애플이 맥 OS X 10.4.4 버전을 팔기 시작한 날짜는 언제일까?
+  - <a>2006년</a> <a>1월 10일</a>

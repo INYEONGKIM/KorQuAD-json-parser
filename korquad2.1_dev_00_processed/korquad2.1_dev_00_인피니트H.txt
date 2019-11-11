@@ -1,0 +1,7 @@
+categories:
+- 인피니트H
+conversations:
+- - 그룹 인피니트H의 앨범별 트랙은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>앨범 번호\n</th>\n<th>앨범 정보\n</th>\n<th>트랙 리스트\n</th></tr>\n<tr>\n<td><b>1</b>\n</td>\n<td>《<b><a>Fly High</a></b>》\n<ul><li>발매일: <a>2013년</a> <a>1월 11일</a></li></ul>\n</td>\n<td>\n<ol><li>Victorious Way</li>\n<li><b>Special Girl (Feat. <a>Bumkey</a>)</b></li>\n<li>니가 없을 때 (Feat. Zion.T)</li>\n<li>못해 (Feat. 개코 of <a>Dynamic Duo</a>)</li>\n<li>Fly High (Feat. <a>베이비 소울</a> of <a>러블리즈</a>)</li></ol>\n</td></tr>\n<tr>\n<td><b>2</b>\n</td>\n<td>《<b><a>Fly Again</a></b>》\n<ul><li>발매일: <a>2015년</a> <a>1월 26일</a></li></ul>\n</td>\n<td>\n<ol><li>Fly Again (Feat. DY IT)</li>\n<li><b>예뻐</b></li>\n<li>어디 안 가 (Feat. 양다일)</li>\n<li>부딪쳐 (Feat. <a>류수정</a> of <a>러블리즈</a>)</li>\n<li>바빠서 Sorry (Feat. 스윙스, 샴페인 of <a>샴페인</a>&amp;<a>캔들</a>)</li>\n<li>지킬 앤 하이드 (Feat. 태완)</li>\n<li>니가 미치지 않고서야 (Feat. 산체스 of <a>팬텀</a>)</li></ol>\n</td></tr></tbody></table>
+- - 인피니트H의 구성원 중 장동우의 생년월일은 언제인가?
+  - 1990년 11월 22일

@@ -1,0 +1,7 @@
+categories:
+- FK컵_2014
+conversations:
+- - FK컵 2014년의 득점 순위는 어떻게 될까?
+  - <table>\n<tbody><tr>\n<th>순위\n</th>\n<th>선수\n</th>\n<th>소속\n</th>\n<th>경기\n</th>\n<th>득점\n</th>\n<th>도움\n</th></tr>\n<tr>\n<td><b>1</b></td>\n<td><a>김호진</a></td>\n<td><a>용인 FS</a></td>\n<td>4</td>\n<td><b>6</b></td>\n<td>1\n</td></tr>\n<tr>\n<td>2</td>\n<td><a>이민용</a></td>\n<td><a>용인 FS</a></td>\n<td>4</td>\n<td><b>5</b></td>\n<td>5\n</td></tr>\n<tr>\n<td>3</td>\n<td>유상은</td>\n<td><a>드림허브 군산 FS</a></td>\n<td>4</td>\n<td><b>4</b></td>\n<td>1\n</td></tr>\n<tr>\n<td rowspan="2">4</td>\n<td>오현종</td>\n<td><a>FS 서울</a></td>\n<td>2</td>\n<td><b>3</b></td>\n<td>3\n</td></tr>\n<tr>\n<td>김철기</td>\n<td><a>용인 FS</a></td>\n<td>4</td>\n<td><b>3</b></td>\n<td>3\n</td></tr></tbody></table>
+- - FK컵 2014에서 제일 승점이 높은 팀은?
+  - <td><a>용인 FS</a></td>

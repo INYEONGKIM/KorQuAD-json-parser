@@ -1,0 +1,5 @@
+categories:
+- 정간왕
+conversations:
+- - 정간왕의 출생년도는 언제일까요?
+  - 1021년

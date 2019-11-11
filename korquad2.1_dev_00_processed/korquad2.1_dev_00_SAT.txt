@@ -1,0 +1,5 @@
+categories:
+- SAT
+conversations:
+- - sat 만점은 몇점이야?
+  - 각 800점 만점이며, 총 1600점 만점이다

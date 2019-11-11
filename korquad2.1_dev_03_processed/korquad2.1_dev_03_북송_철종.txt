@@ -1,0 +1,7 @@
+categories:
+- 북송_철종
+conversations:
+- - 북송의 신종 다음 대 왕은 누구야?
+  - 철종
+- - 북송의 7대 황제 철종의 후궁 관련자료는?
+  - <table>\n<tbody><tr>\n<th>봉호</th>\n<th>시호</th>\n<th>이름(성씨)</th>\n<th>별칭</th>\n<th>생몰년도</th>\n<th>비고\n</th></tr>\n<tr>\n<td>현비(賢妃)</td>\n<td>귀비(貴妃)</td>\n<td>모용씨(慕容氏)</td>\n<td></td>\n<td><a>1073년</a> ~ <a>1152년</a></td>\n<td>정강의 변 이후에 원우황후와 같이 남하함.\n</td></tr>\n<tr>\n<td>수용(修容)</td>\n<td>완의(婉儀)</td>\n<td>위씨(魏氏)</td>\n<td>안정군군(安定郡君)</td>\n<td>? ~ <a>1143년</a></td>\n<td>정강의 변 이후에 원우황후와 같이 남하함.\n</td></tr>\n<tr>\n<td>첩여(婕妤)</td>\n<td></td>\n<td>장씨(張氏)</td>\n<td>문안군군(文安郡君)</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<td>미인(美人)</td>\n<td>첩여(婕妤)</td>\n<td>호씨(胡氏)</td>\n<td></td>\n<td>? ~ <a>1110년</a></td>\n<td>\n</td></tr>\n<tr>\n<td>미인(美人)</td>\n<td></td>\n<td>한씨(韓氏)</td>\n<td>인수군군(仁壽郡君)</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<td>재인(才人)</td>\n<td>미인(美人)</td>\n<td>고씨(高氏)</td>\n<td>신안군군(信安郡君)</td>\n<td>? ~ <a>1112년</a></td>\n<td>\n</td></tr>\n<tr>\n<td>재인(才人)</td>\n<td></td>\n<td>유씨(劉氏)</td>\n<td>진안군군(晋安郡君)</td>\n<td></td>\n<td>\n</td></tr></tbody></table>

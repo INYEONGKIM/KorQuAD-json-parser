@@ -1,0 +1,5 @@
+categories:
+- 철권_6
+conversations:
+- - 1UP.com이 철권 6에 남긴 평론 점수는 무엇인가?
+  - B+<sup><a>

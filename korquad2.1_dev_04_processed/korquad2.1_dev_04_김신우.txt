@@ -1,0 +1,5 @@
+categories:
+- 김신우
+conversations:
+- - 가수 김신우는 어떤 곡으로 데뷔했나?
+  - 김신우-1994

@@ -1,0 +1,5 @@
+categories:
+- IFC몰_(서울)
+conversations:
+- - IFC몰의 시설 중 영풍문고는 몇 층에 있나?
+  - L2

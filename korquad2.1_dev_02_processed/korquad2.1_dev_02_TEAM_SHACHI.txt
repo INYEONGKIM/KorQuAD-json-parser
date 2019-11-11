@@ -1,0 +1,7 @@
+categories:
+- TEAM_SHACHI
+conversations:
+- - TEAM SHACHI의 앨범에는 어떤것들이 있을까?
+  - <table>\n<tbody><tr>\n<th>순서\n</th>\n<th>타이틀\n</th>\n<th>의미\n</th>\n<th>발매일\n</th>\n<th>최고순위\n</th></tr>\n<tr>\n<td>1\n</td>\n<td><span>ひまつぶし</span>\n</td>\n<td>심심풀이\n</td>\n<td><a>2014년</a> <a>8월 20일</a>\n</td>\n<td>3\n</td></tr>\n<tr>\n<td>2\n</td>\n<td><span>おわりとはじまり</span>\n</td>\n<td>끝과 시작\n</td>\n<td><a>2017년</a> <a>2월 22일</a>\n</td>\n<td>10\n</td></tr>\n</tbody></table>
+- - 타이틀 곡 TEAM SHACHI의 최고 순위는 몇 위인가?
+  - 5

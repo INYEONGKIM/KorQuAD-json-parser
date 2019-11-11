@@ -1,0 +1,7 @@
+categories:
+- 올림픽_핸드볼
+conversations:
+- - 핸드볼 하계 올림픽 세부종목은?
+  - <table>\n<tbody><tr>\n<th>종목\n</th>\n<th><a>36</a></th>\n<th><a>72</a></th>\n<th><a>76</a></th>\n<th><a>80</a></th>\n<th><a>84</a></th>\n<th><a>88</a></th>\n<th><a>92</a></th>\n<th><a>96</a></th>\n<th><a>00</a></th>\n<th><a>04</a></th>\n<th><a>08</a></th>\n<th><a>12</a></th>\n<th><a>16</a>\n</th>\n<th>계\n</th></tr>\n<tr>\n<th>남자\n</th>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td>13\n</td></tr>\n<tr>\n<th>여자\n</th>\n<td></td>\n<td>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td><a>•</a>\n</td>\n<td>11\n</td></tr>\n<tr>\n<th>계\n</th>\n<td>1</td>\n<td>1</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n<td>\n</td></tr></tbody></table>
+- - 올림픽 핸드볼에서 가장 많은 메달 합계를 기록한 국가는?
+  - <a>소련</a>

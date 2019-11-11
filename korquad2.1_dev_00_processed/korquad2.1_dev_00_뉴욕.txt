@@ -1,0 +1,11 @@
+categories:
+- 뉴욕
+conversations:
+- - 뉴욕의 사투리는 무엇이라고 불릴까?
+  - 브루클리니스", "뉴요키즈
+- - 1993년부터 2005년 사이 뉴욕에서 감소한 강력범죄 비율은 몇%야?
+  - 75%
+- - 뉴욕의 현재 시장은 누구일까?
+  - <a>빌 더블라지오</a>
+- - 뉴욕의 자매도시를 맺은 도시는 어디일까?
+  - <table>\n<tbody><tr>\n<th>도시\n</th>\n<th>맺은 연도\n</th></tr>\n<tr>\n<td><span><a><img></a></span> <a>일본</a> <a>도쿄도</a></td>\n<td>1960\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>중국</a> <a>베이징</a></td>\n<td>1980\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>이집트</a> <a>카이로</a></td>\n<td>1982\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>스페인</a> <a>마드리드</a></td>\n<td>1982\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>도미니카 공화국</a> <a>산토도밍고</a></td>\n<td>1983\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>헝가리</a> <a>부다페스트</a></td>\n<td>1992\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>이탈리아</a> <a>로마</a></td>\n<td>1992\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>이스라엘</a> <a>예루살렘</a></td>\n<td>1993\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>이스라엘</a> <a>텔아비브</a><sup><a>[247]</a></sup></td>\n<td>1996\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>영국</a> <a>런던</a></td>\n<td>2001\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>남아프리카 공화국</a> <a>요하네스버그</a></td>\n<td>2003\n</td></tr></tbody></table>

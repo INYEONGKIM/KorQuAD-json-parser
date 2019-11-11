@@ -1,0 +1,5 @@
+categories:
+- 구자형
+conversations:
+- - 성우 구자형이 내레이션을 맡은 무비매직은 어느 방송사의 프로그램일까?
+  - OCN

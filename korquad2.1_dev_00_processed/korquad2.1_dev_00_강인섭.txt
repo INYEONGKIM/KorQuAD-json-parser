@@ -1,0 +1,5 @@
+categories:
+- 강인섭
+conversations:
+- - 강인섭 제18대 총선 출마시 득표율은 얼마였나?
+  - 9.36%

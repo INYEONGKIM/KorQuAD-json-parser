@@ -1,0 +1,5 @@
+categories:
+- 오월천
+conversations:
+- - 오월천이 발매한 음반으로는 어떤 것들이 있을까요?
+  - <table>\n<tbody><tr>\n<th>분류\n</th>\n<th>음반명\n</th>\n<th>발매일\n</th></tr>\n<tr>\n<td>1집\n</td>\n<td><a>五月天第一張創作專輯</a>\n</td>\n<td>1999년 7월 7일\n</td></tr>\n<tr>\n<td>2집\n</td>\n<td><a>愛情萬歲</a>\n</td>\n<td>2000년 7월 7일\n</td></tr>\n<tr>\n<td>3집\n</td>\n<td><a>人生海海</a>\n</td>\n<td>2001년 7월 6일\n</td></tr>\n<tr>\n<td>4집\n</td>\n<td><a>時光機</a>\n</td>\n<td>2003년 11월 11일\n</td></tr>\n<tr>\n<td>5집\n</td>\n<td><a>神的孩子都在跳舞</a>\n</td>\n<td>2004년 11월 5일\n</td></tr>\n<tr>\n<td>6집\n</td>\n<td><a>為愛而生</a>\n</td>\n<td>2006년 12월 29일\n</td></tr>\n<tr>\n<td>7집\n</td>\n<td><a>後青春期的詩</a>\n</td>\n<td>2008년 10월 23일\n</td></tr>\n<tr>\n<td>8집\n</td>\n<td><a>第二人生</a>（明日版 Now Here／末日版 No Where）\n</td>\n<td>2011년 12월 16일\n</td></tr>\n<tr>\n<td>9집\n</td>\n<td>自傳\n</td>\n<td>2016년7월21일\n</td></tr></tbody></table>

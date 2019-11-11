@@ -1,0 +1,5 @@
+categories:
+- 필리시테인
+conversations:
+- - 성서의 배경이 되는 국가는 어디인가?
+  - 이스라엘

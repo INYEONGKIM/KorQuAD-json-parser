@@ -1,0 +1,5 @@
+categories:
+- 신포시
+conversations:
+- - 신포시의 평균 강수량이 가장 높은 달은 몇 월인가?
+  - 8월

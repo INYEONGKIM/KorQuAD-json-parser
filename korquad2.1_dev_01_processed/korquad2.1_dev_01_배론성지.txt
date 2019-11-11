@@ -1,0 +1,5 @@
+categories:
+- 배론성지
+conversations:
+- - 무슨 사건으로 인해 신학교가 폐쇄되었는가?
+  - 병인박

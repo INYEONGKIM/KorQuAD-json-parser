@@ -1,0 +1,5 @@
+categories:
+- 월드_헤비웨이트_챔피언십_(WWE)
+conversations:
+- - WWE는 WCW와 ECW를 언제 인수했을까?
+  - 2001년

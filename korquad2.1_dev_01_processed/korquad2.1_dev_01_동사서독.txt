@@ -1,0 +1,5 @@
+categories:
+- 동사서독
+conversations:
+- - 동사서독은 몇 월에 개봉되었는가?
+  - 9월

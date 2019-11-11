@@ -1,0 +1,5 @@
+categories:
+- 곱셈기
+conversations:
+- - 음의 부호 (-)는무엇을 의미하는가?
+  - 이진 보수

@@ -1,0 +1,5 @@
+categories:
+- 당_소종
+conversations:
+- - 당 소종은 누구에 의해 죽음을 맞이하였을까?
+  - 주전충

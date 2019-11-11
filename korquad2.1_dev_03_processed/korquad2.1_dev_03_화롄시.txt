@@ -1,0 +1,5 @@
+categories:
+- 화롄시
+conversations:
+- - 일평균 기온이 가장높은 달은?
+  - 7월

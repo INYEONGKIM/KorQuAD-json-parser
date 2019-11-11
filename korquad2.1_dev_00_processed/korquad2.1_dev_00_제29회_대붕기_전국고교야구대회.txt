@@ -1,0 +1,7 @@
+categories:
+- 제29회_대붕기_전국고교야구대회
+conversations:
+- - 제29회 대붕기 전국고교야구대회의 준결승전에서 성남고와 성남서고의 경기점수표는 어떻게 됐을까?
+  - <table>\n<tbody><tr>\n<td></td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>득점\n</td></tr>\n<tr>\n<td>성남서고</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td><b>0</b>\n</td></tr>\n<tr>\n<td><b>성남고</b></td>\n<td>0</td>\n<td>0</td>\n<td>2</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>X</td>\n<td><b>2</b>\n</td></tr></tbody></table>
+- - 제 29회 대붕기 전국고교야구대회에서 최다안타를 기록한 인물은 누구인가
+  - <td>송만수</td>

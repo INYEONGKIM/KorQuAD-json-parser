@@ -1,0 +1,5 @@
+categories:
+- 백무산
+conversations:
+- - 백무산이 태어난 해는 언제인가?
+  - 1955년

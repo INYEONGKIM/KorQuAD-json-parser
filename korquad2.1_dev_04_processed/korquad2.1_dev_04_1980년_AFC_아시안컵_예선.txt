@@ -1,0 +1,7 @@
+categories:
+- 1980년_AFC_아시안컵_예선
+conversations:
+- - 1980년 AFC 아시안컵 예선 1조의 팀별 출전경기 성적은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>경기\n</th>\n<th>승\n</th>\n<th>무\n</th>\n<th>패\n</th>\n<th>득\n</th>\n<th>실\n</th>\n<th>차\n</th>\n<th>승점\n</th></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>시리아</a></b>\n</td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n<td>0</td>\n<td>2</td>\n<td>0</td>\n<td>+2</td>\n<td><b>5</b>\n</td></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>아랍에미리트</a></b>\n</td>\n<td>3</td>\n<td>1</td>\n<td>2</td>\n<td>0</td>\n<td>2</td>\n<td>0</td>\n<td>+2</td>\n<td><b>4</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>레바논</a>\n</td>\n<td>3</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>2</td>\n<td>1</td>\n<td>+1</td>\n<td><b>3</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>바레인</a>\n</td>\n<td>3</td>\n<td>0</td>\n<td>0</td>\n<td>3</td>\n<td>0</td>\n<td>5</td>\n<td>-5</td>\n<td><b>0</b>\n</td></tr></tbody></table>
+- - 80년 아시안컵 예선에서 대한민국은 몇조에 속하였는가?
+  - 4조

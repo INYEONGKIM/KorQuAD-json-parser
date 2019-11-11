@@ -1,0 +1,5 @@
+categories:
+- 오기타_역
+conversations:
+- - 오기타역은 언제 무인화되었는가?
+  - <a>2003년</a> 4월 1일

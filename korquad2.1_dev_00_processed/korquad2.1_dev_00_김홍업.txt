@@ -1,0 +1,5 @@
+categories:
+- 김홍업
+conversations:
+- - 김홍업의 아버지의 직업은 무엇이었는가?
+  - 대통령

@@ -1,0 +1,5 @@
+categories:
+- NTSC
+conversations:
+- - 버뮤다는 NTSC를 무엇으로 전환하였나요?
+  - <a>DVB-T</a>

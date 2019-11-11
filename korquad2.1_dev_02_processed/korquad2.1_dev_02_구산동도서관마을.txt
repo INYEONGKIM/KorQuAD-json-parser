@@ -1,0 +1,5 @@
+categories:
+- 구산동도서관마을
+conversations:
+- - 구산동도서마을이 개관된 해는?
+  - 2015년

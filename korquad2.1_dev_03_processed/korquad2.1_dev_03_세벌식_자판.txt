@@ -1,0 +1,5 @@
+categories:
+- 세벌식_자판
+conversations:
+- - 세벌식 자판이 일으키지 않는 것은 무엇인가?
+  - 도깨비불

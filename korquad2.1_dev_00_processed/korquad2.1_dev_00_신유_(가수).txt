@@ -1,0 +1,7 @@
+categories:
+- 신유_(가수)
+conversations:
+- - 신유는 몇 년도에 태어났니?
+  - 1982년
+- - 트로트 가수 '신유'의 첫번째 라이브 앨범 이름은 무엇인가요?
+  - <td>신유(Seoul Shin Yu Live Concert)</td>

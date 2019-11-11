@@ -1,0 +1,7 @@
+categories:
+- 정일우
+conversations:
+- - 정일우가 참여한 방송 프로그램에는 무엇이 있울까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>채널</th>\n<th>출연작\n</th></tr>\n<tr>\n<th rowspan="4">2016년\n</th>\n<td><a>HNTV</a><br/>중국\n</td>\n<td>2016全球华人华侨春晚<br/>춘절특집 화인춘만\n</td></tr>\n<tr>\n<td><a>SBS</a>\n</td>\n<td><a>런닝맨</a><br/>FC 런닝맨 in 상하이\n</td></tr>\n<tr>\n<td><a>SBS</a>\n</td>\n<td>런닝맨<br/>두바이 자유여행 특집\n</td></tr>\n<tr>\n<td><a>iQiyi</a>\n</td>\n<td><a>星星来啦</a><br/><i>STAR SHOP</i>\n</td></tr>\n<tr>\n<th rowspan="3">2015년\n</th>\n<td><a>JSBC</a><br/>중국\n</td>\n<td><a>星厨驾到</a><br/><i>Star Chef</i>\n</td></tr>\n<tr>\n<td><a>SBS</a>\n</td>\n<td>런닝맨<br/>미션 월드와이드 특집\n</td></tr>\n<tr>\n<td><a>MBC</a>\n</td>\n<td>한중공동기획 신한류시대 찰리우드의 도전자들\n</td></tr>\n<tr>\n<th rowspan="2">2014년\n</th>\n<td><a>NHK</a><br/>일본\n</td>\n<td>テレビでハングル講座\n</td></tr>\n<tr>\n<td><a>MBC</a>\n</td>\n<td><a>무한도전</a><br/>브라질 월드컵<br/>응원단 특집\n</td></tr>\n<tr>\n<th rowspan="3">2012년\n</th>\n<td><a>HNTV</a><br/>중국\n</td>\n<td><a>天天向上</a><br/><i>Day Day Up</i>\n</td></tr>\n<tr>\n<td><a>三立都<br/>會台</a><br/>대만\n</td>\n<td><a>完全娛樂</a><br/><i>ShowBiz</i>\n</td></tr>\n<tr>\n<td><a>GTV</a><br/>대만\n</td>\n<td><a>娛樂百分百</a><br/><i>100% Entertainment</i>\n</td></tr>\n<tr>\n<th rowspan="2">2011년\n</th>\n<td><a>MTV</a>\n</td>\n<td>One More Time 정일우\n</td></tr>\n<tr>\n<td><a>JTBC</a>\n</td>\n<td>깜놀 드림 프로젝트<br/>정일우\n</td></tr>\n<tr>\n<th>2019\n</th>\n<td><a>SBS</a>\n</td>\n<td><a>런닝맨</a>\n</td></tr></tbody></table>
+- - 2016년 정일우는 어떤 홍보대사로 활동했을까?
+  - <a>K트래블버스</a> 홍보대사

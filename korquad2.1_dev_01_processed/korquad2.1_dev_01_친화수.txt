@@ -1,0 +1,5 @@
+categories:
+- 친화수
+conversations:
+- - 수학자 사빗 이븐 쿠라는 어느 나라 사람이야?
+  - <a>이탈리아</a>

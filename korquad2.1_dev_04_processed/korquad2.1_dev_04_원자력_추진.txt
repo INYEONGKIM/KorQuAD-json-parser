@@ -1,0 +1,5 @@
+categories:
+- 원자력_추진
+conversations:
+- - 1945년 12월에 원자력 자동차를 제작했다고 사기를 친 사람은 누구인가?
+  - John Wilson

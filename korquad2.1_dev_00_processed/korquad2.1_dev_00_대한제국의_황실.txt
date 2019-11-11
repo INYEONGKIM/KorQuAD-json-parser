@@ -1,0 +1,5 @@
+categories:
+- 대한제국의_황실
+conversations:
+- - 영친왕의 아버지는 누구야?
+  - 광무황제

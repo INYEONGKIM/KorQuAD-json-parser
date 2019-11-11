@@ -1,0 +1,5 @@
+categories:
+- 긴타이_교
+conversations:
+- - 긴타이 교는 몇 년도에 완공되었니?
+  - <a>1673년</a>

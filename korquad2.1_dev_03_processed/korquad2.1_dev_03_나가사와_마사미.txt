@@ -1,0 +1,7 @@
+categories:
+- 나가사와_마사미
+conversations:
+- - 일본배우 나가사와 마사미가 출연한 연극 및 뮤지컬 정보와 맡은 역할은 무엇인가?
+  - <table>\n<tbody><tr>\n<th>공연연도\n</th>\n<th>분류\n</th>\n<th>제목\n</th>\n<th>역할\n</th>\n<th>공연일정\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>2011년\n</td>\n<td>연극\n</td>\n<td>크레이지 허니\n</td>\n<td><b>주연</b>\n</td>\n<td>2011년 8월 5일 ~ 8월 28일\n</td>\n<td>도쿄 파르코 극장 (작가·연출: 모토야 유키코)\n</td></tr>\n<tr>\n<td>2013년\n</td>\n<td>연극\n</td>\n<td>Like Dorothy 라이크 도로시\n</td>\n<td><b>도로시</b>\n</td>\n<td>2013년 11월 8일 ~ 11월 24일\n</td>\n<td>도쿄 혼다 극장 (작가·연출: 쿠라모치 유타카)\n</td></tr>\n<tr>\n<td>2014년\n</td>\n<td>연극\n</td>\n<td>무라사키 시키부 일기\n</td>\n<td><b>무라사키 시키부</b>\n</td>\n<td>2014년 11월 1일 ~ 11월 30일, 12월 10일 ~ 12월 21일\n</td>\n<td>도쿄 파르코 극장 외 나고야, 후쿠오카, 오사카, 마츠모토, 히로시마 (작가·연출: <a>미타니 코키</a>)\n</td></tr>\n<tr>\n<td>2017년\n</td>\n<td>뮤지컬\n</td>\n<td>캬바레\n</td>\n<td><b>샐리 볼스</b>\n</td>\n<td>2017년 1월 ~ 3월\n</td>\n<td>일본판\n</td></tr>\n</tbody></table>
+- - 나가사와 마사미가 눈물이 주룩주룩에 출연한 해는 언제일까?
+  - 2006년

@@ -1,0 +1,5 @@
+categories:
+- 유수호
+conversations:
+- - 유수호가 태어난 년도는 언제야?
+  - 1931

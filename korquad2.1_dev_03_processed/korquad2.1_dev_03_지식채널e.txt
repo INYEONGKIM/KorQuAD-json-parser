@@ -1,0 +1,5 @@
+categories:
+- 지식채널e
+conversations:
+- - 지식채널e는 2008년 어떤 상을 수상했을까?
+  - 제20회 한국PD대상 TV 교양정보 부문 작품상

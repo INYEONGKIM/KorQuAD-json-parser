@@ -1,0 +1,5 @@
+categories:
+- 조화서
+conversations:
+- - 조화서는 몇세의 나이로 사망했을까?
+  - 52세

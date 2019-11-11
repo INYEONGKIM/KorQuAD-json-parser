@@ -1,0 +1,9 @@
+categories:
+- 스벤_크라머르
+conversations:
+- - 스벤 크라머르는 2004 세계 주니어 선수권 대회에서 몇위를 차지했을까?
+  - 2위
+- - 스벤 크라머르의 세계 신기록 추이는 어떨까?
+  - <table>\n<tbody><tr>\n<td><b>종목</b>\n</td>\n<td><b>기록</b>\n</td>\n<td><b>날짜</b>\n</td>\n<td><b>장소</b>\n</td></tr>\n<tr>\n<td>5000m\n</td>\n<td>6분 08초 78\n</td>\n<td>2005. 11. 19\n</td>\n<td><a>미국</a> <a>솔트레이크시티</a> (<a>유타 올림픽 오벌</a>)\n</td></tr>\n<tr>\n<td>10000m\n</td>\n<td>12분 51초 61\n</td>\n<td>2006. 03. 19\n</td>\n<td><a>캐나다</a> <a>캘거리</a> (<a>올림픽 오벌</a>)\n</td></tr>\n<tr>\n<td>10000m\n</td>\n<td>12분 49초 88\n</td>\n<td>2007. 02. 11\n</td>\n<td><a>네덜란드</a> <a>헤이렌베인</a> (<a>티알프</a>)\n</td></tr>\n<tr>\n<td>5000m\n</td>\n<td>6분 07초 48\n</td>\n<td>2007. 03. 03\n</td>\n<td><a>캐나다</a> <a>캘거리</a> (<a>올림픽 오벌</a>)\n</td></tr>\n<tr>\n<td>10000m\n</td>\n<td>12분 41초 69\n</td>\n<td>2007. 03. 10\n</td>\n<td rowspan="2"><a>미국</a> <a>솔트레이크시티</a> (<a>유타 올림픽 오벌</a>)\n</td></tr>\n<tr>\n<td>팀 추월\n</td>\n<td>3분 37초 80\n</td>\n<td>2007. 03. 11\n</td></tr>\n<tr>\n<td>5000m\n</td>\n<td>6분 03초 32\n</td>\n<td>2007. 11. 17\n</td>\n<td rowspan="2"><a>캐나다</a> <a>캘거리</a> (<a>올림픽 오벌</a>)\n</td></tr>\n<tr>\n<td>팀 추월\n</td>\n<td>3분 37초 17\n</td>\n<td>2013. 11. 09\n</td></tr>\n<tr>\n<td>팀 추월\n</td>\n<td>3분 35초 60\n</td>\n<td>2013. 11. 16\n</td>\n<td><a>미국</a> <a>솔트레이크시티</a> (<a>유타 올림픽 오벌</a>)\n</td></tr></tbody></table>
+- - 스벤 크라머르가 3000m에서 최고기록을 기록한 곳은 어디일까?
+  - <a>네덜란드</a> <a>헤이렌베인</a> (<a>티알프</a>)

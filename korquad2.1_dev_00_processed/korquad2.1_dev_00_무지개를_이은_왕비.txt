@@ -1,0 +1,5 @@
+categories:
+- 무지개를_이은_왕비
+conversations:
+- - 이은의 부인 이름은?
+  - 마사코

@@ -1,0 +1,5 @@
+categories:
+- 별들의전쟁
+conversations:
+- - 별들의 전쟁 F R I D A Y의 본명은 무엇인가?
+  - 강정훈

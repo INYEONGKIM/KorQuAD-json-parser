@@ -1,0 +1,11 @@
+categories:
+- 랜선라이프
+conversations:
+- - 2018년 방영한 종편 예능 랜선라이프의 회차별 방송 일자와 관련 크리에이터들은?
+  - <table>\n<tbody><tr>\n<th>방송 회차</th>\n<th>방송 일자</th>\n<th>크리에이터</th>\n<th>비고\n</th></tr>\n<tr>\n<th>1회\n</th>\n<td>7월 6일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>2회\n</th>\n<td>7월 13일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>3회\n</th>\n<td>7월 20일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>4회\n</th>\n<td>7월 27일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>5회\n</th>\n<td>8월 3일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>6회\n</th>\n<td>8월 10일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>7회\n</th>\n<td>8월 17일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>8회\n</th>\n<td>8월 24일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>9회\n</th>\n<td>8월 31일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>10회\n</th>\n<td>9월 7일</td>\n<td>SOF, 비글부부</td>\n<td>\n</td></tr>\n<tr>\n<th>11회\n</th>\n<td>9월 14일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>12회\n</th>\n<td>9월 21일</td>\n<td>고퇴경</td>\n<td>\n</td></tr>\n<tr>\n<th>13회\n</th>\n<td>9월 28일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>14회\n</th>\n<td>10월 5일</td>\n<td>데이브, MBRO</td>\n<td>\n</td></tr>\n<tr>\n<th>15회\n</th>\n<td>10월 12일</td>\n<td>감스트, 이수현(모찌피치)</td>\n<td>\n</td></tr>\n<tr>\n<th>16회\n</th>\n<td>10월 19일</td>\n<td>꾹TV</td>\n<td>\n</td></tr>\n<tr>\n<th>17회\n</th>\n<td>10월 26일</td>\n<td>심방골주부</td>\n<td>\n</td></tr>\n<tr>\n<th>18회\n</th>\n<td>11월 2일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>19회\n</th>\n<td>11월 9일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>20회\n</th>\n<td>11월 16일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>21회\n</th>\n<td>11월 30일</td>\n<td>유야, 김나름</td>\n<td>\n</td></tr>\n<tr>\n<th>22회\n</th>\n<td>12월 7일</td>\n<td>홍사운드</td>\n<td>\n</td></tr>\n<tr>\n<th>23회\n</th>\n<td>12월 14일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>24회\n</th>\n<td>12월 21일</td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<th>25회\n</th>\n<td>12월 28일</td>\n<td></td>\n<td>\n</td></tr></tbody></table>
+- - 랜선라이프의 방송 채널은 어디일까?
+  - <a>JTBC</a>
+- - 랜선라이프의 1회차 시청률은?
+  - 2.9%
+- - 랜선라이프가 2월중 최고 시청률을 기록한 회차는 몇 회인가?
+  - 30회

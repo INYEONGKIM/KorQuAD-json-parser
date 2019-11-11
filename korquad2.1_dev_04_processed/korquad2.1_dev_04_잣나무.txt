@@ -1,0 +1,5 @@
+categories:
+- 잣나무
+conversations:
+- - 잣나무가 있는 일본의 지역은 어디일까?
+  - 혼슈와 시코쿠

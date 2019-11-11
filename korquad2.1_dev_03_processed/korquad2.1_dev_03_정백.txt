@@ -1,0 +1,5 @@
+categories:
+- 정백
+conversations:
+- - 정백의 출생지는 어디야?
+  - 김화

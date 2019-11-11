@@ -1,0 +1,5 @@
+categories:
+- 알렉스_게레로
+conversations:
+- - 알렉스 게레로는 2014년에 몇번 타석에 들어섰는가?
+  - <td>13</td>

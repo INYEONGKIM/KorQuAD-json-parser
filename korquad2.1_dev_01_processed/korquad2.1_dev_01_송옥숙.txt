@@ -1,0 +1,5 @@
+categories:
+- 송옥숙
+conversations:
+- - 배우 송옥숙은 영화 에미에서 어떤 역을 맡았는가?
+  - 영희 역

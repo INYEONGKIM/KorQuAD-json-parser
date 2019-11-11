@@ -1,0 +1,5 @@
+categories:
+- Desoutter_Tools
+conversations:
+- - 1973년에 추가된  Desoutter Tools의 로고 스크립트는 누구의 복제된 서명이야?
+  - Louis Albert Desoutter

@@ -1,0 +1,5 @@
+categories:
+- 행신동
+conversations:
+- - 행신동에 속한 교육기관에는 무엇이 있을까?
+  - <ul><li><a>소만초등학교</a></li>\n<li><a>무원초등학교</a></li>\n<li><a>가람초등학교</a></li>\n<li><a>성신초등학교</a></li>\n<li><a>아람초등학교</a></li>\n<li><a>서정초등학교</a></li>\n<li><a>행신초등학교</a></li>\n<li><a>신능초등학교</a></li>\n<li><a>신능중학교</a></li>\n<li><a>서정중학교</a></li>\n<li><a>가람중학교</a></li>\n<li><a>무원중학교</a></li>\n<li><a>행신중학교</a></li>\n<li><a>행신고등학교</a></li>\n<li><a>무원고등학교</a></li>\n<li><a>백양고등학교</a></li></ul>

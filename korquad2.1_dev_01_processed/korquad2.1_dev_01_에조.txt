@@ -1,0 +1,5 @@
+categories:
+- 에조
+conversations:
+- - 가마쿠라 시대는 언제부터 언제까지인가?
+  - 13세기~14세기

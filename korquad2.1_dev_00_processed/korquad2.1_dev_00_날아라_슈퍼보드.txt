@@ -1,0 +1,9 @@
+categories:
+- 날아라_슈퍼보드
+conversations:
+- - 애니메이션 날아라 슈퍼보드 2기의 방영목록은 어떨까?
+  - <table>\n<tbody><tr>\n<th>회차\n</th>\n<th>방송 일자\n</th>\n<th>부제 (서브 타이틀)\n</th>\n<th>스태프\n</th>\n<th>비고 (시청률)\n</th></tr>\n<tr>\n<th>제3화\n</th>\n<td>1991/10/18</td>\n<td>그리운 쌍절곤</td>\n<td>김일남</td>\n<td>22.5%\n</td></tr>\n<tr>\n<th>제4화\n</th>\n<td>1991/10/25</td>\n<td>화과산의 추억</td>\n<td>김일남</td>\n<td><span><b>21.9%</b></span>\n</td></tr>\n<tr>\n<th>제5화\n</th>\n<td>1991/11/01</td>\n<td>나무귀신과 불벌레 (상)</td>\n<td>이건설</td>\n<td>25.0%\n</td></tr>\n<tr>\n<th>제6화\n</th>\n<td>1991/11/08</td>\n<td>나무귀신과 불벌레 (하)</td>\n<td>이건설</td>\n<td>26.9%\n</td></tr>\n<tr>\n<th>제7화\n</th>\n<td>1991/11/15</td>\n<td>철철대왕 (상)</td>\n<td>이우영</td>\n<td>24.7%\n</td></tr>\n<tr>\n<th>제8화\n</th>\n<td>1991/11/22</td>\n<td>철철대왕 (하)</td>\n<td>이우영</td>\n<td>25.5%\n</td></tr>\n<tr>\n<th>제9화\n</th>\n<td>1991/11/29</td>\n<td>미스터 손의 비밀</td>\n<td>김일남</td>\n<td>29.0%\n</td></tr>\n<tr>\n<th>제10화\n</th>\n<td>1991/12/06</td>\n<td>이상한 집</td>\n<td>김일남</td>\n<td>30.3%\n</td></tr>\n<tr>\n<th>제11화\n</th>\n<td>1991/12/13</td>\n<td>얼굴 셋 팔 여섯</td>\n<td>정수용</td>\n<td><span><b>30.7%</b></span>\n</td></tr>\n<tr>\n<th>제12화\n</th>\n<td>1991/12/20</td>\n<td>마귀들의 총반격<sup><a>[9]</a></sup></td>\n<td>이우영</td>\n<td>29.0%\n</td></tr>\n<tr>\n<th>제13화\n</th>\n<td>1991/12/27</td>\n<td><a>게임의 여왕</a><sup><a>[10]</a></sup></td>\n<td>이건설</td>\n<td><span><b>30.7%</b></span>\n</td></tr>\n<tr>\n<th>제14화\n</th>\n<td>1992/01/03</td>\n<td>땅속나라 에어탱크 (상)</td>\n<td>김일남</td>\n<td>28.0%\n</td></tr>\n<tr>\n<th>제15화\n</th>\n<td>1992/01/10</td>\n<td>땅속나라 에어탱크 (하)</td>\n<td>김일남</td>\n<td>29.5%\n</td></tr>\n</tbody></table>
+- - 2001년10월26일에 방영된 날아라 슈퍼보드 5기 제43화의 부제는 무엇일까?
+  - <td>새 친구 숭구리</td>
+- - 날아라 슈퍼보드 5기는 언제 방송을 시작하였는가?
+  - 2001년 10월 19일

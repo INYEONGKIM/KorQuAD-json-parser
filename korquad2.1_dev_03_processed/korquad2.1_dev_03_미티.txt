@@ -1,0 +1,5 @@
+categories:
+- 미티
+conversations:
+- - 야매토끼는 어떤 만화에 나오는 캐릭터인가요?
+  - <a>역전! 야매요리</a>

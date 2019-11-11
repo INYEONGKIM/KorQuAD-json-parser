@@ -1,0 +1,5 @@
+categories:
+- 맨발의_겐
+conversations:
+- - 맨발의 겐에서 고오지는 어느 군대에 자원했어?
+  - 해군

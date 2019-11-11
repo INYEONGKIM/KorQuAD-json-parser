@@ -1,0 +1,5 @@
+categories:
+- 이필모
+conversations:
+- - 이필모가 영화 아리랑에서 맡은 역할은 무엇인가?
+  - 윤현구 역

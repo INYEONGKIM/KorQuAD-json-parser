@@ -1,0 +1,5 @@
+categories:
+- 최정원_(1981년_4월)
+conversations:
+- - 최정원이 출연한 영화와 배역에는 어떤 것들이 있을까?
+  - <table>\n<tbody><tr>\n<th>연도</th>\n<th>제목</th>\n<th>배역</th>\n<th>비고\n</th></tr>\n<tr>\n<td>2007</td>\n<td><a>이장과 군수</a></td>\n<td>남옥</td>\n<td>\n</td></tr>\n<tr>\n<td>2007</td>\n<td><a>마이 파더</a></td>\n<td>공은주</td>\n<td>특별출연\n</td></tr>\n<tr>\n<td>2008</td>\n<td><a>대한이, 민국씨</a></td>\n<td>지은</td>\n<td>\n</td></tr>\n<tr>\n<td>2009</td>\n<td>시드니 인 러브</td>\n<td>여배우</td>\n<td>온라인 단편영화\n</td></tr>\n<tr>\n<td>2011</td>\n<td><a>퍼펙트 게임</a></td>\n<td>김서형</td>\n<td>\n</td></tr>\n<tr>\n<td>2013</td>\n<td><a>좋은 친구들</a></td>\n<td>나츠미</td>\n<td>\n</td></tr>\n<tr>\n<td>2018</td>\n<td><a>하나식당</a></td>\n<td>고하나</td>\n<td>\n</td></tr></tbody></table>

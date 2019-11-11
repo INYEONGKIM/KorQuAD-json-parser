@@ -1,0 +1,5 @@
+categories:
+- 쉬자치
+conversations:
+- - 쉬자치가 처음 센터로 무대를 선 참가곡의 제목은 무엇인가?
+  - 사랑하는 포춘 쿠키<br/><small>

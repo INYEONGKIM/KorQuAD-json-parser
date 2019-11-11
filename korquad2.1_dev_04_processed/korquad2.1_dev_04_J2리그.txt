@@ -1,0 +1,5 @@
+categories:
+- J2리그
+conversations:
+- - J2리그가 만들어진 해는 언제야
+  - 1999년

@@ -1,0 +1,17 @@
+categories:
+- 2014년_월드_시리즈
+conversations:
+- - 2014년 월드 시리즈 2차전에서 샌프란시스코 팀과 캔자스시티 팀간의 경기결과는 어땠는가?
+  - <table>\n<tbody><tr>\n<td><b>팀</b>\n</td>\n<td><b>1</b>\n</td>\n<td><b>2</b>\n</td>\n<td><b>3</b>\n</td>\n<td><b>4</b>\n</td>\n<td><b>5</b>\n</td>\n<td><b>6</b>\n</td>\n<td><b>7</b>\n</td>\n<td><b>8</b>\n</td>\n<td><b>9</b>\n</td>\n<td><b>R</b>\n</td>\n<td><b>H</b>\n</td>\n<td><b>E</b>\n</td>\n<td><b>B</b>\n</td></tr>\n<tr>\n<td>샌프란시스코\n</td>\n<th>1</th>\n<th>0</th>\n<th>0\n</th>\n<th>1</th>\n<th>0</th>\n<th>0\n</th>\n<th>0</th>\n<th>0</th>\n<th>0\n</th>\n<td><b>2</b>\n</td>\n<td><b>9</b></td>\n<td><b>0</b>\n</td>\n<td><b>{{{원정팀볼넷}}}</b>\n</td></tr>\n<tr>\n<td><b>캔자스시티</b>\n</td>\n<th>1</th>\n<th>1</th>\n<th>0\n</th>\n<th>0</th>\n<th>0</th>\n<th>5\n</th>\n<th>0</th>\n<th>0</th>\n<th>X\n</th>\n<td><b>7</b>\n</td>\n<td><b>10</b></td>\n<td><b>1</b>\n</td>\n<td><b>{{{홈팀볼넷}}}</b>\n</td></tr>\n<tr>\n<td colspan="25"><span><b>승리 투수</b></span> : <span><a>켈빈 에레라</a></span>  <span><b>패전 투수</b></span> : <span><a>제이크 피비</a>  <span><b>세이브</b></span> : <span>  <b>홀드</b> : {{{홀드투수}}}<br/><b>홈런</b> :<br/>  <b>SFG</b> – <a>그레고 블랑코</a> (1회 1점)  <b>KCR</b> – <a>오마 안판테</a> (6회 2점)\n</span></span></td></tr></tbody></table>
+- - 2014년 월드 시리즈 1차전 샌프란시스코 팀과 캔자스시티 팀의  경기결과 승리투수로 선정된 사람은?
+  - <span><a>매디슨 범가너</a></span> 
+- - 2014년 월드 시리즈의 3차전에서는 어떤 투수가 승리했을까?
+  - <span><a>제레미 거스리</a></span> 
+- - 2014년 월드시리즈 4차전 승리투수는 누구일까?
+  - <span><a>유스메이로 페티트</a></span> 
+- - 2014년 월드 시리즈 5차전 캔자스시티와 샌프란시스코의 경기 결과 승리투수로 선발된 사람은 누구일까요?
+  - <span><a>매디슨 범가너</a></span> 
+- - 2014년 월드 시리즈 샌프란시스코와 캔자스시티의 6차전 경기 결과 승리투수로 선발된 사람은?
+  - <span><a>요다노 벤추라</a></span> 
+- - 2014년 월드시리즈 7차전에서 캔자스시티가 2회에 득점한 점수는 몇점일까?
+  - <th>2</th>

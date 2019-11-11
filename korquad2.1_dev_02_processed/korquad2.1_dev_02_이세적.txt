@@ -1,0 +1,5 @@
+categories:
+- 이세적
+conversations:
+- - 이세적이 처음 농민봉기에 참가한 것은 몇살 때였어?
+  - 17세

@@ -1,0 +1,5 @@
+categories:
+- 홍현우
+conversations:
+- - 홍현우가 LG 트윈스 FA계약 기간인 4년동안에 기록한 타율은 어떻게 돼?
+  - 2할4리

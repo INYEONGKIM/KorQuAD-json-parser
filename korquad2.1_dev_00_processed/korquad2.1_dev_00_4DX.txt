@@ -1,0 +1,5 @@
+categories:
+- 4DX
+conversations:
+- - 미국의 세계적 엔터테인먼트 기업으로 CJ와 파트너를 맺고 미국 내에 처음으로 4DX를 들인 회사의 약자는?
+  - AEG

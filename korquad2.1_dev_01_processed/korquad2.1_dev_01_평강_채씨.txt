@@ -1,0 +1,5 @@
+categories:
+- 평강_채씨
+conversations:
+- - 평강 채씨의 시조는 누구인가?
+  - 채경연

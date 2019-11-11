@@ -1,0 +1,5 @@
+categories:
+- 적혈구
+conversations:
+- - 적혈구의 평균 두께는?
+  - 2.2μm

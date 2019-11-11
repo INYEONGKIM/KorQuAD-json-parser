@@ -1,0 +1,5 @@
+categories:
+- 김국광
+conversations:
+- - 김국광은 1441년 병과에 몇등으로 급제하였는가?
+  - 7등

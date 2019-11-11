@@ -1,0 +1,5 @@
+categories:
+- 박준오
+conversations:
+- - 박준오의 전 직업은 무엇이었을까?
+  - 프로게이머

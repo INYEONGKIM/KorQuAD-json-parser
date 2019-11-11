@@ -1,0 +1,5 @@
+categories:
+- 유일선
+conversations:
+- - 유일선이 일본에서 졸업한 학교는 어디인가?
+  - <a>도쿄 물리학교</a>

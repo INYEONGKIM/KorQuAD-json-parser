@@ -1,0 +1,5 @@
+categories:
+- DDH-981_최영
+conversations:
+- - 최영함을 만든 기업은 어디일까?
+  - <a>현대중공업</a>

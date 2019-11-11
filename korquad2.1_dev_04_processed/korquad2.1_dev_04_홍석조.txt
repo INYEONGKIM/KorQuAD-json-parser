@@ -1,0 +1,5 @@
+categories:
+- 홍석조
+conversations:
+- - 홍석조는 어디 대학교 출신일까?
+  - <a>서울대학교</a>

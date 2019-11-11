@@ -1,0 +1,5 @@
+categories:
+- 서정학
+conversations:
+- - 서정학의 일본 활동명은 무엇이었는가?
+  - SEO

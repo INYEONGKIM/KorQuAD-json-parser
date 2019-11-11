@@ -1,0 +1,5 @@
+categories:
+- 금_해릉양왕
+conversations:
+- - 금 해릉양왕은 몇 년도에 황제가 되니?
+  - <a>1149년</a>

@@ -1,0 +1,5 @@
+categories:
+- 이관술
+conversations:
+- - 이관술의 여동생이 다니던 학교가 어디야?
+  - 동덕여고보

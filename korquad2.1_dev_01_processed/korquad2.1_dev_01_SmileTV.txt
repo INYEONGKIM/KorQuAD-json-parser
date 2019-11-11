@@ -1,0 +1,5 @@
+categories:
+- SmileTV
+conversations:
+- - Smaile TV의 주요 프로그램은 무엇이 있는가?
+  - <ul><li><a>TV 동물농장</a></li>\n<li><a>관찰카메라 24시간</a></li>\n<li><a>위기탈출 넘버원</a></li>\n<li><a>뿌리깊은 나무</a></li>\n<li><a>다큐멘터리 3일</a></li>\n<li><a>걸어서 세계속으로</a></li>\n<li><a>베어그릴스의 생존 미션</a></li>\n<li><a>도전! 퍼즐의 벽</a></li>\n<li><a>엑스 팩터</a> 시즌12, 13</li>\n<li><a>오드 커플</a> 시리즈</li>\n<li><a>1000가지 위기의 순간</a></li>\n<li><a>디펜더스 : 유쾌한 변호사들</a></li>\n<li><a>셀레브리티 어프렌티스</a> 시즌6, 7</li></ul>

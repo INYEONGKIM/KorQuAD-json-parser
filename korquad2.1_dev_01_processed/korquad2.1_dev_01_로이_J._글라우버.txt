@@ -1,0 +1,5 @@
+categories:
+- 로이_J._글라우버
+conversations:
+- - 글라우버가 태어난 연도는 언제인가?
+  - 1925년

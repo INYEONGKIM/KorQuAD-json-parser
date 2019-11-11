@@ -1,0 +1,5 @@
+categories:
+- 안길강
+conversations:
+- - 안길강은 2009년 MBC연기대상에서 어떤 작품으로 수상하였는가?
+  - <a>선덕여왕</a>

@@ -1,0 +1,5 @@
+categories:
+- 역대_스타리그_목록
+conversations:
+- - 프로게이머 이윤열이 스타리그에서 우승한 횟수는?
+  - <td rowspan="4">3</td>

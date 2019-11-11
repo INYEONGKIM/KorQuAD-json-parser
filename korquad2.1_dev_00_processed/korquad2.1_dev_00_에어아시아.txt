@@ -1,0 +1,5 @@
+categories:
+- 에어아시아
+conversations:
+- - 에어아시아를 매입한 사람은 누구야?
+  - <a>토니 페르난데스</a>

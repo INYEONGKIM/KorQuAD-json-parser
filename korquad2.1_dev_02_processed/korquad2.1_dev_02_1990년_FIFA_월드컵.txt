@@ -1,0 +1,14 @@
+categories:
+- 1990년_FIFA_월드컵
+conversations:
+- - 1990년 피파 월드컵 지역 예선 결과는?
+  - <table>\n<tbody><tr>\n<th>지역\n</th>\n<th>예선\n</th>\n<th>국가/팀\n</th></tr>\n<tr>\n<td><a>유럽 (UEFA)</a>\n</td>\n<td>32개 팀 중 13개 팀 (13장)\n</td>\n<td><span><a><img></a></span> <a>루마니아</a>, <span><a><img></a></span> <a>스웨덴</a>, <b><span><a><img></a></span> <a>잉글랜드</a></b>, <span><a><img></a></span> <a>소련</a>, <span><a><img></a></span> <a>오스트리아</a>, <span><a><img></a></span> <a>네덜란드</a>, <b><span><a><img></a></span> <a>서독</a></b>, <b><span><a><img></a></span> <a>이탈리아</a></b> (개최국), <span><a><img></a></span> <a>스코틀랜드</a>, <span><a><img></a></span> <a>유고슬라비아</a>, <span><a><img></a></span> <a>스페인</a>, <span><a><img></a></span> <a>아일랜드</a>, <b><span><a><img></a></span> <a>벨기에</a></b>, <span><a><img></a></span> <a>체코슬로바키아</a>\n</td></tr>\n<tr>\n<td><a>남미 (CONMEBOL)</a>\n</td>\n<td>9개 팀 중 4개 팀 (3.5장)\n</td>\n<td><b><span><a><img></a></span> <a>브라질</a></b>, <span><a><img></a></span> <a>콜롬비아</a>, <b><span><a><img></a></span> <a>아르헨티나</a></b> (<a>1986년 FIFA 월드컵</a> 우승 팀), <span><a><img></a></span> <a>우루과이</a>\n</td></tr>\n<tr>\n<td><a>북중미&amp;카리브 (CONCACAF)</a>\n</td>\n<td>16개 팀 중 2개 팀 (2장)\n</td>\n<td><span><a><img></a></span> <a>미국</a>, <span><a><img></a></span> <a>코스타리카</a>\n</td></tr>\n<tr>\n<td><a>아시아 (AFC)</a>\n</td>\n<td>26개 팀 중 2개 팀 (2장)\n</td>\n<td><span><a><img></a></span> <a>대한민국</a>, <span><a><img></a></span> <a>아랍에미리트</a>\n</td></tr>\n<tr>\n<td><a>아프리카 (CAF)</a>\n</td>\n<td>26개 팀 중 2개 팀 (2장)\n</td>\n<td><span><a><img></a></span> <a>이집트</a>, <span><a><img></a></span> <a>카메룬</a>\n</td></tr>\n<tr>\n<td><a>오세아니아 (OFC)</a>\n</td>\n<td>5개 팀 중 0개 팀 (0.5장)\n</td>\n<td><i>모두 예선 탈락</i>\n</td></tr></tbody></table>
+- - 올림피코 경기장의 수용인원은 몇 명일까요?
+  - <b>84,800명</b>
+- - 1990년 FIFA 월드컵의 조별 리그 A조에서 가장 승점이 높은 팀은 어디일까?
+
+  - <a>이탈리아</a>
+- - 1990년 FIFA 월드컵에서 서독팀의 골득실은 몇점인가?
+  - +7
+- - 1990년 FIFA 월드컵 F조였던 네덜란드가 얻은 총 승점은 얼마인가?
+  - <td><b>3</b></td>

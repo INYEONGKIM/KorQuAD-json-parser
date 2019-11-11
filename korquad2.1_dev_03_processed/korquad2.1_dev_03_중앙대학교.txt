@@ -1,0 +1,5 @@
+categories:
+- 중앙대학교
+conversations:
+- - 중앙대학교 인문계열 학과는 무엇있는가?
+  - <ul><li>국어국문학과\n<ul><li>국어학전공</li>\n<li>한국어교육학전공</li>\n<li>고전문학전공</li>\n<li>현대문학전공</li></ul></li>\n<li>영어영문학과\n<ul><li>영어학전공</li>\n<li>영문학전공</li>\n<li>영어스토리텔링전공</li></ul></li>\n<li>일어일문학과\n<ul><li>일본어학전공</li>\n<li>일본문학전공</li>\n<li>일본문화전공</li></ul></li>\n<li>유럽문화학과\n<ul><li>독일어문학전공\n<ul><li>독문학전공</li>\n<li>문화비평전공</li></ul></li>\n<li>프랑스학전공\n<ul><li>프랑스언어전공</li>\n<li>프랑스문학전공</li></ul></li></ul></li>\n<li>역사학과\n<ul><li>한국사전공</li>\n<li>동양사전공</li>\n<li>서양사전공</li></ul></li>\n<li>철학과\n<ul><li>서양철학전공</li>\n<li>동양철학전공</li>\n<li>예술철학전공</li></ul></li></ul>

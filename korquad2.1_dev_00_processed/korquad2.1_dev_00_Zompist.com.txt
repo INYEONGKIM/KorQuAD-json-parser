@@ -1,0 +1,5 @@
+categories:
+- Zompist.com
+conversations:
+- - Zompist.com의 매뉴얼이 팬들에 의해 번역된 후 도서로 출간된 년도는 언제야?
+  - 2010

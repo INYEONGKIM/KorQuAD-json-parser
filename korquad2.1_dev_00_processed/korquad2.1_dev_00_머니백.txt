@@ -1,0 +1,5 @@
+categories:
+- 머니백
+conversations:
+- - 머니백에서 김민재 역을 맡은 사람은 누구인가?
+  - <a>김무열</a>

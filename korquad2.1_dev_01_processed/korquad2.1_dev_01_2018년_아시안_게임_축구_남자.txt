@@ -1,0 +1,13 @@
+categories:
+- 2018년_아시안_게임_축구_남자
+conversations:
+- - 2018년 아시안 게임 남자 축구 조 추첨에서 포트별 국가들은?
+  - <table>\n<tbody><tr>\n<th>1포트\n</th>\n<th>2포트\n</th>\n<th>3포트\n</th>\n<th>4포트\n</th>\n<th>5포트 (추가 배정)\n</th></tr>\n<tr>\n<td><div><ol><li><span><a><img></a></span> <a>인도네시아</a> <small>(개최국)</small></li><li><span><a><img></a></span> <a>대한민국</a></li><li><span><a><img></a></span> <a>조선민주주의인민공화국</a></li><li><s><span><a><img></a></span> <a>이라크</a></s> <small>(기권)</small></li><li><span><a><img></a></span> <a>태국</a></li><li><span><a><img></a></span> <a>일본</a></li></ol></div>\n</td>\n<td><div><ol><li><span><a><img></a></span> <a>사우디아라비아</a></li><li><span><a><img></a></span> <a>우즈베키스탄</a></li><li><span><a><img></a></span> <a>홍콩</a></li><li><span><a><img></a></span> <a>베트남</a></li><li><span><a><img></a></span> <a>중국</a></li><li><span><a><img></a></span> <a>키르기스스탄</a></li></ol></div>\n</td>\n<td><div><ol><li><span><a><img></a></span> <a>말레이시아</a></li><li><span><a><img></a></span> <a>방글라데시</a></li><li><span><a><img></a></span> <a>이란</a></li><li><span><a><img></a></span> <a>파키스탄</a></li><li><span><a><img></a></span> <a>라오스</a></li><li><span><a><img></a></span> <a>동티모르</a></li></ol></div>\n</td>\n<td><div><ol><li><span><a><img></a></span> <a>네팔</a></li><li><span><a><img></a></span> <a>카타르</a></li><li><span><a><img></a></span> <a>바레인</a></li><li><span><a><img></a></span> <a>시리아</a></li><li><span><a><img></a></span> <a>중화 타이베이</a></li><li><span><a><img></a></span> <a>미얀마</a></li></ol></div>\n</td>\n<td><div><ol><li><span><a><img></a></span> <a>아랍에미리트</a></li><li><span><a><img></a></span> <a>팔레스타인</a></li></ol></div>\n</td></tr></tbody></table>
+- - 2018년 아시안게임 남자축구 조별리그 B조에서 3위를 한 국가의 승점은?
+  - <td><b>2</b></td>
+- - 2018년 아시안 게임 축구 남자의 조별 리그 D조에서 가장 승점이 낮은 팀은 어디일까?
+  - <a>네팔</a>
+- - 가장 많은 골을 넣었던 국가는 어디일까?
+  - <a>조선민주주의인민공화국</a>
+- - 2018년 아시안게임 남자축구 최종1위 국가는 어디일까?
+  - <a>대한민국</a>

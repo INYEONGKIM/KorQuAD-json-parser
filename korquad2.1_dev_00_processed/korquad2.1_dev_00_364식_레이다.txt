@@ -1,0 +1,5 @@
+categories:
+- 364식_레이다
+conversations:
+- - 364실 레이다의 무게는?
+  - 520kg

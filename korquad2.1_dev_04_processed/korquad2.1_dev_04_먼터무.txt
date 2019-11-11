@@ -1,0 +1,5 @@
+categories:
+- 먼터무
+conversations:
+- - 먼터무가 몽골의 침략을 피해 함께 남하한 사람은?
+  - 구룬 아하

@@ -1,0 +1,5 @@
+categories:
+- MK_택시
+conversations:
+- - MK 석유 주식회사가 속한 그룹은 어디야?
+  - MK그룹

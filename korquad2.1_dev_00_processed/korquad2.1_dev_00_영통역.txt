@@ -1,0 +1,5 @@
+categories:
+- 영통역
+conversations:
+- - 영통역 분당선의 2013년 일평균 승차수는?
+  - 4,080

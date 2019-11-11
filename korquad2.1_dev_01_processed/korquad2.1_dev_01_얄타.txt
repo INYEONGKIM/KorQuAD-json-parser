@@ -1,0 +1,5 @@
+categories:
+- 얄타
+conversations:
+- - 얄타의 1월 평균 강수량은?
+  - 76

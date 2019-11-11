@@ -1,0 +1,9 @@
+categories:
+- iKON의_음반_외_활동_목록
+conversations:
+- - 아이콘 멤버 바비가 혼자서 출연한 뮤직비디오는 어떤걸까?
+  - <table>\n<tbody><tr>\n<th>년도\n</th>\n<th>뮤직 비디오\n</th>\n<th>앨범\n</th>\n<th>출연\n</th>\n<th>언어\n</th>\n<th>공식 비디오\n</th>\n<th>참고\n</th></tr>\n<tr>\n<td rowspan="1">2016\n</td>\n<td>"꽐라(HOLUP!)"\n</td>\n<td rowspan="1"><i>BOBBY - The MOBB</i>\n</td>\n<td>BOBBY\n</td>\n<td><a>한국어</a>\n</td>\n<td><a>유투브</a>\n</td>\n<td>다지털 싱글\n</td></tr>\n<tr>\n<td rowspan="2">2017\n</td>\n<td>"RUNAWAY"\n</td>\n<td rowspan="2"><i>LOVE AND FALL</i>\n</td>\n<td>BOBBY\n</td>\n<td><a>한국어</a>\n</td>\n<td><a>유투브</a>\n</td>\n<td rowspan="2">첫 번째 정규 음반\n</td></tr>\n<tr>\n<td>"사랑해(I LOVE YOU)"\n</td>\n<td>BOBBY\n</td>\n<td><a>한국어</a>\n</td>\n<td><a>유투브</a>\n</td></tr>\n</tbody></table>
+- - 그룹 iKON이 2017년 광고했던 립밤은 어느 회사의 제품이었나?
+  - <a>니베아</a>
+- - 2016년 iKON의 음원 중 '빨리 전화해'를 피처링 해준 가수는 누구인가?
+  - KUSH

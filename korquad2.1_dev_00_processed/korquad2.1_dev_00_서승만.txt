@@ -1,0 +1,5 @@
+categories:
+- 서승만
+conversations:
+- - 서승만은 채널A에서 무슨 방송에 출연했을까?
+  - <a>맛탐한국</a>

@@ -1,0 +1,5 @@
+categories:
+- 곽규석
+conversations:
+- - 곽규석이 연극배우로 첫 데뷔한 해는 언제일까요?
+  - <a>1948년</a>

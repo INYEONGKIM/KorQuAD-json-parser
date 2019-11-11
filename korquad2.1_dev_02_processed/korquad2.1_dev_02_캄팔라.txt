@@ -1,0 +1,7 @@
+categories:
+- 캄팔라
+conversations:
+- - 우간다의 수도 캄팔라의 연도별 인구는 어떨까?
+  - <table>\n<caption><b>캄팔라 시 인구 경향</b>\n</caption>\n<tbody><tr>\n<th>연도</th>\n<th>인구</th>\n<th>성장률\n</th></tr>\n<tr>\n<td>2002</td>\n<td>1,208,544</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2003</td>\n<td>1,327,349</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2004</td>\n<td>1,391,062</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2005</td>\n<td>1,457,833</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2006</td>\n<td>1,527,809</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2007</td>\n<td>1,601,144</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2008</td>\n<td>1,677,999</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2009</td>\n<td>1,758,543</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2010</td>\n<td>1,842,953</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2011</td>\n<td>1,931,415</td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>2012</td>\n<td>2,024,123</td>\n<td>4.8%\n</td></tr>\n</tbody></table>
+- - 캄팔라의 2월 평균 강우량은 몇 인치 일까?
+  - 2.48

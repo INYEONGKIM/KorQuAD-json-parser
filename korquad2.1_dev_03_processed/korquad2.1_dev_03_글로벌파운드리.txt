@@ -1,0 +1,5 @@
+categories:
+- 글로벌파운드리
+conversations:
+- - 글로벌파운드리 노드별 공정 기술 현황은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>노드 이름</th>\n<th>ITRS 노드 (nm)</th>\n<th>도입일</th>\n<th>웨이퍼 크기 (mm)</th>\n<th>리소그래피 (파장)</th>\n<th>게이트 피치 (nm)</th>\n<th>메탈 1 피치 (nm)</th>\n<th>SRAM 비트 밀도 (µm²)\n</th></tr>\n<tr>\n<td>28HPP<sup><a>[2]</a></sup></td>\n<td>28</td>\n<td>-</td>\n<td>300 SOI</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td>22FDX</td>\n<td>22</td>\n<td>?</td>\n<td>300 FD-SOI</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td>14LPP</td>\n<td>14</td>\n<td>2016</td>\n<td>300 Bulk</td>\n<td>Immersion UV</td>\n<td>78</td>\n<td>64</td>\n<td>0.09\n</td></tr>\n<tr>\n<td>12LP</td>\n<td>14</td>\n<td>2018</td>\n<td>300 Bulk</td>\n<td>Immersion UV</td>\n<td>-</td>\n<td>-</td>\n<td>-\n</td></tr>\n<tr>\n<td>12FDX</td>\n<td>14</td>\n<td>2018</td>\n<td>300 FD-SOI</td>\n<td>Immersion UV</td>\n<td>-</td>\n<td>-</td>\n<td>-\n</td></tr></tbody></table>

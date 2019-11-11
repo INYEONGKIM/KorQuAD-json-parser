@@ -1,0 +1,5 @@
+categories:
+- cp_(유닉스)
+conversations:
+- - cp 명령어는 prog.bak 파일이 있으면 그걸 무엇의 복사본으로 대체하는가?
+  - prog.c 파일

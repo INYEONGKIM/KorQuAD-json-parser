@@ -1,0 +1,5 @@
+categories:
+- 안보현
+conversations:
+- - 안보현이 남은기 역으로 출연한 tvN 드라마 제목은?
+  - <a>그녀의 사생활</a>

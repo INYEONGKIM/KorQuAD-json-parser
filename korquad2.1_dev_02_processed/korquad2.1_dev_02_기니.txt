@@ -1,0 +1,5 @@
+categories:
+- 기니
+conversations:
+- - 기니 대통령 란사나 콩테는 총 몇 번 대통령에 당선되었을까?
+  - 3선

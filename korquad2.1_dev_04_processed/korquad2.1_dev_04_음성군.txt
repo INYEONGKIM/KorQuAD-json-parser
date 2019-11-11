@@ -1,0 +1,7 @@
+categories:
+- 음성군
+conversations:
+- - 음성군 관할의 행정구역은 어떤 곳이 있을까?
+  - <table>\n<tbody><tr>\n<th>읍면동</th>\n<th>한자</th>\n<th>면적</th>\n<th>세대</th>\n<th>인구</th>\n<th>행정지도\n</th></tr>\n<tr>\n<td><b><a>음성읍</a></b></td>\n<td>陰城邑</td>\n<td>86.42</td>\n<td>8,148</td>\n<td>18,411</td>\n<td rowspan="10"><a><img></a>\n</td></tr>\n<tr>\n<td><b><a>금왕읍</a></b></td>\n<td>金旺邑</td>\n<td>71.34</td>\n<td>9,707</td>\n<td>21,549\n</td></tr>\n<tr>\n<td><b><a>소이면</a></b></td>\n<td>蘇伊面</td>\n<td>48.9</td>\n<td>1,557</td>\n<td>3,113\n</td></tr>\n<tr>\n<td><b><a>원남면</a></b></td>\n<td>遠南面</td>\n<td>64.77</td>\n<td>1,609</td>\n<td>3,080\n</td></tr>\n<tr>\n<td><b><a>맹동면</a></b></td>\n<td>孟洞面</td>\n<td>34.69</td>\n<td>3,155</td>\n<td>9,123\n</td></tr>\n<tr>\n<td><b><a>대소면</a></b></td>\n<td>大所面</td>\n<td>38.17</td>\n<td>7,187</td>\n<td>16,648\n</td></tr>\n<tr>\n<td><b><a>삼성면</a></b></td>\n<td>三成面</td>\n<td>50.59</td>\n<td>3,989</td>\n<td>8,093\n</td></tr>\n<tr>\n<td><b><a>생극면</a></b></td>\n<td>笙極面</td>\n<td>56.04</td>\n<td>2,306</td>\n<td>4,780\n</td></tr>\n<tr>\n<td><b><a>감곡면</a></b></td>\n<td>甘谷面</td>\n<td>69.48</td>\n<td>5,092</td>\n<td>10,946\n</td></tr>\n<tr>\n<td><b>음성군</b></td>\n<td>陰城郡</td>\n<td>520.40</td>\n<td>43,686</td>\n<td>96,777\n</td></tr>\n</tbody></table>
+- - 현재 군내면 용산리는 과거 음성군의 어느 면이었나?
+  - 동도면

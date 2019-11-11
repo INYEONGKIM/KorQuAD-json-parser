@@ -1,0 +1,5 @@
+categories:
+- 페퍼민트
+conversations:
+- - 페퍼민트에서 특유의 향을 내는 성분은 뭐야?
+  - <a>멘톨</a>

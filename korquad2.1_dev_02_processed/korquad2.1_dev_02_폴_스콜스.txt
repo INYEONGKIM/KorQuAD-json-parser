@@ -1,0 +1,5 @@
+categories:
+- 폴_스콜스
+conversations:
+- - 폴 스콜스는 공로상을 언제 받았나?
+  - 2012

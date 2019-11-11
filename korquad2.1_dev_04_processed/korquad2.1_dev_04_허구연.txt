@@ -1,0 +1,5 @@
+categories:
+- 허구연
+conversations:
+- - 허구연이 야구 선수 생활을 시작한 해는 몇년도야?
+  - 1959년

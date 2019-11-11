@@ -1,0 +1,5 @@
+categories:
+- 누르술탄
+conversations:
+- - 누르술탄의 연평균강우수 일수는?
+  - 106

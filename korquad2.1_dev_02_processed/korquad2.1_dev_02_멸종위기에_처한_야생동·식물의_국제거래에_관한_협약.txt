@@ -1,0 +1,9 @@
+categories:
+- 멸종위기에_처한_야생동·식물의_국제거래에_관한_협약
+conversations:
+- - 멸종위기에 처한 동물들의 종류
+  - <a>고릴라</a> (<i>Gorilla gorilla</i>), <a>침팬지</a> 무리(<i>Pan spp.</i>), <a>호랑이</a> (<i>Panthera tigris</i> 아종들), 아시아 <a>사자</a> (<i>Panthera leo persica</i>), 표범 (<i>Panthera pardus</i>), <a>재규어</a> (<i>Panthera onca</i>), <a>아시아 코끼리</a> (<i>Elephas maximus</i>), <a>아프리카 코끼리</a>일부 (<i>Loxodonta africana</i>), 듀공과 해우(海牛,manatee), 코뿔소 무리(남아프리카의 일부 아종 제외)등의 동물이 포함되어 있다
+- - 보호종이 등재되기 위해 얼마 이상의 동의가 필요할까?
+  - 2/3
+- - CITIES 가 변화하고 있다는 것을 알 수 있는 연구에는 무엇이 있을까?(연도 제외, 연구 목록만)
+  - Hutton과 Dickinson의 나일강 악어, 아프리카 코끼리, 남아프리카의 흰코뿔소의 경우에서의 연구

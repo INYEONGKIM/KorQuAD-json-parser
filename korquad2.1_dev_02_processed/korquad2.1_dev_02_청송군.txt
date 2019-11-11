@@ -1,0 +1,7 @@
+categories:
+- 청송군
+conversations:
+- - 동서울에서 청송을 들러 주왕상까지 운행하는 버스의 시간표가 어떻게 되나요?
+  - 동서울 출발 → 청송 도착 : 오전 6시 30분, 8시 40분, 10시 20분, 12시, 오후 15시 10분, 16시 40분 / 청송 출발→ 동서울 도착 : 오전 8시 20분, 10시 30분, 오후 13시, 14시 08분, 15시 40분, 17시 05분
+- - 청송군은 행정 구역별로 인구, 세대가 얼마나 있을까?
+  - <table>\n<tbody><tr>\n<th>읍면</th>\n<th>한자</th>\n<th>면적</th>\n<th>세대</th>\n<th>인구</th>\n<th>행정지도\n</th></tr>\n<tr>\n<td><b><a>청송읍</a></b></td>\n<td>靑松邑</td>\n<td>82.42</td>\n<td>2,491</td>\n<td>5,518</td>\n<td rowspan="9"><a><img></a>\n</td></tr>\n<tr>\n<td><b><a>주왕산면</a></b></td>\n<td>周王山面</td>\n<td>132.99</td>\n<td>1,021</td>\n<td>1,975\n</td></tr>\n<tr>\n<td><b><a>부남면</a></b></td>\n<td>府南面</td>\n<td>122.50</td>\n<td>1,321</td>\n<td>2,559\n</td></tr>\n<tr>\n<td><b><a>현동면</a></b></td>\n<td>縣東面</td>\n<td>78.72</td>\n<td>1,042</td>\n<td>2,188\n</td></tr>\n<tr>\n<td><b><a>현서면</a></b></td>\n<td>縣西面</td>\n<td>112.58</td>\n<td>1,312</td>\n<td>2,670\n</td></tr>\n<tr>\n<td><b><a>안덕면</a></b></td>\n<td>安德面</td>\n<td>107.82</td>\n<td>1,446</td>\n<td>2,744\n</td></tr>\n<tr>\n<td><b><a>파천면</a></b></td>\n<td>巴川面</td>\n<td>99.52</td>\n<td>978</td>\n<td>1,882\n</td></tr>\n<tr>\n<td><b><a>진보면</a></b></td>\n<td>眞寶面</td>\n<td>109.47</td>\n<td>3,274</td>\n<td>6,687\n</td></tr>\n<tr>\n<th>청송군</th>\n<th>靑松郡</th>\n<th>846.05</th>\n<th>13,510</th>\n<th>26,225\n</th></tr></tbody></table>

@@ -1,0 +1,9 @@
+categories:
+- AnyLogic
+conversations:
+- - 애니로지스틱스는 어떤 기능을 가진 소프트웨어인가?
+  - <p>anyLogistix는 AnyLogic 엔진, 지리정보시스템(GIS), 그리고 새로운  산업 지향의 사용자 그래픽 인터페이스 (GUI)를 기반으로 하고 있다. 이는 또한 공급망 디자인과 최적화에 특화된 알고리즘과 기술들을 포함하고 있다. anyLogistix는 완전히 AnyLogic과  통합 가능하며, 예를 들어 AnyLogic이 anyLogistix 안에서 물류 창고, 생산지, 공급자, 재고, 대외구매, 및 운송 정책과 같은 대상의 최적화를 위해 사용될 수 있다.<sup><a>[40]</a></sup> 더 나아가, anyLogistix는 최적화 문제를 다루기 위해  IBM ILOG <a>CPLEX</a> Optimization Studio를 사용하고 있다.<sup><a>[41]</a></sup>\n</p>
+- - AnyLogic은 무엇을 기반으로 실행되는가?
+  - Java
+- - AnyLogic에서 CAD드로잉을 어떤 형태의 파일로 불러오는가?
+  - DXF 파일

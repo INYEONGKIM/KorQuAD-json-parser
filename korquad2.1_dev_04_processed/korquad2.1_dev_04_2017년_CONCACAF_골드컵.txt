@@ -1,0 +1,13 @@
+categories:
+- 2017년_CONCACAF_골드컵
+conversations:
+- - 2017년 CONCACAF 골드컵 카리브 제도 플레이오프 경기에 참가한 팀들의 팀별 예선 경기 결과는 어떠했나요?
+  - <table>\n<tbody><tr>\n<th>팀 1\n</th>\n<th>결과\n</th>\n<th>팀 2\n</th>\n<th>1차전\n</th>\n<th>2차전\n</th></tr>\n<tr>\n<td><a>아이티</a> <span><a><img></a></span>\n</td>\n<td>3-4\n</td>\n<td><b><span><a><img></a></span> <a>니카라과</a></b>\n</td>\n<td>3-1\n</td>\n<td>0-3\n</td></tr></tbody></table>
+- - 2017년 CONCACAF 골드컵 개최도시 덴버의 경기장 이름은?
+  - <td><a>스포츠 어서리티 필드 앳 마일하이</a></td>
+- - 2017년 골드컵에서 A조에 시드배정받은 나라는 어디일까?
+  - <a>온두라스</a>
+- - 2017년 CONCACAF 골드컵 조별예선 A조에서 가장 높은 승점을 받은 국가의 이름은 무엇입니까?
+  - <a>코스타리카</a>
+- - 2017년 CONCACAF 골드컵에서 1위를 차지한 팀은 어디일까?
+  - <a>미국</a>

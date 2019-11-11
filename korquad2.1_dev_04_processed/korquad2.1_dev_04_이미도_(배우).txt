@@ -1,0 +1,5 @@
+categories:
+- 이미도_(배우)
+conversations:
+- - 배우 이미도씨의 데뷔작은?
+  - <td><a>오작교 형제들</a></td>

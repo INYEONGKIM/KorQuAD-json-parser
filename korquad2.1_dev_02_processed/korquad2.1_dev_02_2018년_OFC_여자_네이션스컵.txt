@@ -1,0 +1,7 @@
+categories:
+- 2018년_OFC_여자_네이션스컵
+conversations:
+- - 2018년 OFC 여자 네이션스컵 조별 예선 A조의 결과는?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>승점\n</th>\n<th>경기\n</th>\n<th>승\n</th>\n<th>무\n</th>\n<th>패\n</th>\n<th>득\n</th>\n<th>실\n</th>\n<th>차\n</th></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>파푸아뉴기니</a></b>\n</td>\n<td><b>9</b></td>\n<td>3</td>\n<td>3</td>\n<td>0</td>\n<td>0</td>\n<td>14</td>\n<td>3</td>\n<td>+11\n</td></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>누벨칼레도니</a></b>\n</td>\n<td><b>6</b></td>\n<td>3</td>\n<td>2</td>\n<td>0</td>\n<td>1</td>\n<td>8</td>\n<td>8</td>\n<td>0\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>타히티</a>\n</td>\n<td><b>1</b></td>\n<td>3</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>8</td>\n<td>12</td>\n<td>-4\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>사모아</a>\n</td>\n<td><b>1</b></td>\n<td>3</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>5</td>\n<td>12</td>\n<td>-7\n</td></tr></tbody></table>
+- - 2018년 OFC 여자 네이션스컵의 조별 예선 B조에서 가장 승점이 높은 팀은 어디일까?
+  - <a>뉴질랜드</a>

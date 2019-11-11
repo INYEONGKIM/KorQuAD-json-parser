@@ -1,0 +1,5 @@
+categories:
+- 페르시아어
+conversations:
+- - 페르시아어 중 모음을 혀의 위치에 따라 어떻게 구분할까?
+  - <table>\n<tbody><tr>\n<th> </th>\n<th><a>전설</a></th>\n<th><a>후설</a>\n</th></tr>\n<tr>\n<td><a>고</a></td>\n<td>i:</td>\n<td>u:\n</td></tr>\n<tr>\n<td><a>중</a></td>\n<td>ɛ</td>\n<td>o\n</td></tr>\n<tr>\n<td><a>저</a></td>\n<td>æ</td>\n<td>ɑ:\n</td></tr></tbody></table>

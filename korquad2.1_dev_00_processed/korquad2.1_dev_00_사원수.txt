@@ -1,0 +1,5 @@
+categories:
+- 사원수
+conversations:
+- - 국제 사원수 학회는 몇 년도에 설립되었을까?
+  - 1899년

@@ -1,0 +1,5 @@
+categories:
+- 삵
+conversations:
+- - 삵이 뱀을 사냥하는 방법은 무얼까?
+  - 집어던져 기절시킨다

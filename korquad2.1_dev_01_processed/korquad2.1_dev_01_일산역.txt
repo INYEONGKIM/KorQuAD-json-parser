@@ -1,0 +1,5 @@
+categories:
+- 일산역
+conversations:
+- - 일산역에서 인접한 역에는 어떤 역들이 있을까?
+  - <table>\n<tbody><tr>\n<th colspan="3"><a>경의본선</a>\n</th></tr>\n<tr>\n<td>K327 <a>탄현</a><br/><span><a>문산</a> 방면</span>\n</td>\n<td><span>■</span> <a>수도권 전철 경의·중앙선</a><br/>용산선 급행 <span>문산 급행</span>\n</td>\n<td>K324 <a>백마</a><br/><span><a>지평</a> 방면</span>\n</td></tr>\n<tr>\n<td>K329 <a>운정</a><br/><span><a>문산</a> 방면</span>\n</td>\n<td><span>■</span> <a>수도권 전철 경의·중앙선</a><br/>경의선 급행 <span>서울 급행</span>\n</td>\n<td>K324 <a>백마</a><br/><span><a>서울</a> 방면</span>\n</td></tr>\n<tr>\n<td>K327 <a>탄현</a><br/><span><a>문산</a> 방면<br/><a>문산</a> 방면</span>\n</td>\n<td><span>■</span> <a>수도권 전철 경의·중앙선</a><br/>중앙선 급행 <span>·</span> 경의·중앙선 완행\n</td>\n<td>K325 <a>풍산</a><br/><span><a>용문</a> 방면<br/><a>서울</a> 방면</span>\n</td></tr>\n</tbody></table>

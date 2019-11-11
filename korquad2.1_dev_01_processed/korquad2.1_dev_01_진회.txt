@@ -1,0 +1,5 @@
+categories:
+- 진회
+conversations:
+- - 진회가 과거시험에 합격한 해는 몇 년일까?
+  - <a>1115년</a>

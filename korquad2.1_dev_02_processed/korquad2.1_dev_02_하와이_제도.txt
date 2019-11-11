@@ -1,0 +1,5 @@
+categories:
+- 하와이_제도
+conversations:
+- - 하와이 제도의 주요 섬 이름은 무엇인가?
+  - <ul><li><a>하와이 섬</a></li>\n<li><a>마우이 섬</a></li>\n<li><a>카호올라웨 섬</a> (무인도)</li>\n<li><a>라나이 섬</a></li>\n<li><a>몰로카이 섬</a></li>\n<li><a>오아후 섬</a></li>\n<li><a>카우아이 섬</a></li>\n<li><a>니하우 섬</a></li></ul>

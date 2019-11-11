@@ -1,0 +1,7 @@
+categories:
+- 남부순환로
+conversations:
+- - 2014년 자동차 전용도로에서 빠지게 된 구간의 길이는?
+  - 3.2 km
+- - 남부순환료를 통행하는 차량 구분별 통행요금은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>구분\n</th>\n<th>통행료\n</th></tr>\n<tr>\n<th>2륜, 3륜차\n</th>\n<td>50원\n</td></tr>\n<tr>\n<th>승용차, 버스, 화물차\n</th>\n<td>100원\n</td></tr>\n<tr>\n<th>특수차 (10t 이상 화물차 포함)\n</th>\n<td>200원\n</td></tr></tbody></table>

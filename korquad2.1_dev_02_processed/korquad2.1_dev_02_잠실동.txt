@@ -1,0 +1,5 @@
+categories:
+- 잠실동
+conversations:
+- - 잠실이 서울에 편입된 연도가 언제인가요?
+  - <a>1949년</a>

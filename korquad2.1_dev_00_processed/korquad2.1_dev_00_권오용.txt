@@ -1,0 +1,5 @@
+categories:
+- 권오용
+conversations:
+- - 권오용이 영국에 CBI로 파견된 해는 언제인가?
+  - 1986년

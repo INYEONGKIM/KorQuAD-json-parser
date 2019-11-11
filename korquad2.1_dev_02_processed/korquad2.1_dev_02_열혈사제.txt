@@ -1,0 +1,5 @@
+categories:
+- 열혈사제
+conversations:
+- - 이기영이 맡은 역할의 직업은?
+  - 국정원장

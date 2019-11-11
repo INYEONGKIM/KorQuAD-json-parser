@@ -1,0 +1,5 @@
+categories:
+- 람캄행
+conversations:
+- - 람캄행이 통치했던 왕국의 이름은?
+  - 수코타이

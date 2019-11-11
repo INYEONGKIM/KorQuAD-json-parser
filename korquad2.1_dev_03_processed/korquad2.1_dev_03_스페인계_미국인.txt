@@ -1,0 +1,5 @@
+categories:
+- 스페인계_미국인
+conversations:
+- - 전 세계의 평균 나이는?
+  - 31세

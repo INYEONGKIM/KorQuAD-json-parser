@@ -1,0 +1,5 @@
+categories:
+- 사향소
+conversations:
+- - 어른 사향소의 평균 무게는 몇 Kg인가?
+  - 285kg

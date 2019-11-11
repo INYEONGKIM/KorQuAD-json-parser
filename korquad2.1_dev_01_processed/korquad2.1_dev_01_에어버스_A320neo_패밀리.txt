@@ -1,0 +1,5 @@
+categories:
+- 에어버스_A320neo_패밀리
+conversations:
+- - 에어버스 A319neo 모델의 동체길이는 몇 m인가?
+  - 33.84 m<sup><a>

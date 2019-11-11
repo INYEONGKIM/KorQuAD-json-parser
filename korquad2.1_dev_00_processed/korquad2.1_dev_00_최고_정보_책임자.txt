@@ -1,0 +1,5 @@
+categories:
+- 최고_정보_책임자
+conversations:
+- - CIO의 역할이 지식까지 확장될 때, 뭐라고 지칭하는가?
+  - <a>최고지식책임자</a>(CKO)

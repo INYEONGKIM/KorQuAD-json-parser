@@ -1,0 +1,5 @@
+categories:
+- 파이널_판타지_XIII-2
+conversations:
+- - 게이트를 닫기 위해 필요한 아이템은 무엇인가?
+  - <b>리버스 록</b>

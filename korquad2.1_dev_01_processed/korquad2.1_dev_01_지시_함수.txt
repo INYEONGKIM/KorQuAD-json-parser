@@ -1,0 +1,5 @@
+categories:
+- 지시_함수
+conversations:
+- - 1934년 쿠르드 괴델이 표현 함수를 설명한 논문명은?
+  - On Undecidable Propositions of Formal Mathematical Systems

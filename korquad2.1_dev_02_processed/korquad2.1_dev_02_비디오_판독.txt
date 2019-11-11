@@ -1,0 +1,5 @@
+categories:
+- 비디오_판독
+conversations:
+- - 비디오 판독을 사용할 수 있는 기본 횟수는?
+  - 세트 당 1회

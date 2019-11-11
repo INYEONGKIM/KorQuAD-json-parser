@@ -1,0 +1,5 @@
+categories:
+- 간염
+conversations:
+- - 아사페티다라는 독은 어디에 있는가?
+  - 버섯

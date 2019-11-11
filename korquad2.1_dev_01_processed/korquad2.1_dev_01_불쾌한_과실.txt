@@ -1,0 +1,7 @@
+categories:
+- 불쾌한_과실
+conversations:
+- - 2016년에 방영된 TV 아사히 금요 나이트 드라마였던 불쾌한 과실의 이전과 이후에는 어떤 드라마들이 방영됐는가?
+  - <table>\n<caption></caption>\n<tbody><tr>\n<th colspan="3"><span><a>TV 아사히</a></span> <span><a>금요 나이트 드라마</a></span></th>\n</tr>\n<tr>\n<th>이전 작품</th>\n<th>작품명</th>\n<th>다음 작품</th>\n</tr>\n<tr>\n<td><div><a>스미카 스미레</a><br/>(2016.2.5 ~ 2016.3.25)</div>\n</td>\n<td><div><b>불쾌한 과실</b><br/>(2016.4.29 ~ 2016.6.10)</div>\n</td>\n<td><div><a>그·라·메!~총리의 요리사~</a><br/>(2016.7.22 ~ 2016.9.9)</div>\n</td>\n</tr>\n</tbody></table>
+- - 불쾌한 과실의 시청률을 조사한 기관은 어디일까?
+  - 토 지구</a>·<a>비디오 리서치</a>사 조

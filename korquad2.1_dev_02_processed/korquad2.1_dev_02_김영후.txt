@@ -1,0 +1,5 @@
+categories:
+- 김영후
+conversations:
+- - 김영후가 졸업한 대학교는 어디야?
+  - <a>숭실대학교</a>

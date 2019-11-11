@@ -1,0 +1,5 @@
+categories:
+- 도티
+conversations:
+- - bj도티가 처음으로 출연한 공중파 tv 프로그램은?
+  - 문제적 남자

@@ -1,0 +1,7 @@
+categories:
+- KBS울산방송국
+conversations:
+- - KBS 울산방송국의 제1라디오 방송 송출 시설망은 어떻게 되는가?
+  - <table>\n<tbody><tr>\n<th colspan="5">KBS울산 제1라디오\n</th></tr>\n<tr>\n<th>송신소</th>\n<th>주파수</th>\n<th>출력</th>\n<th>호출부호</th>\n<th>송신소 위치\n</th></tr>\n<tr>\n<th>울산 송신소\n</th>\n<td>AM 1449kHz</td>\n<td>10kW</td>\n<td>HLQB</td>\n<td>울산 남구 여천동 1224\n</td></tr>\n<tr>\n<th>무룡산 송신소\n</th>\n<td>FM 90.7MHz</td>\n<td>1kW</td>\n<td>HLQB-SFM</td>\n<td>울산 북구 화봉동 산1-3\n</td></tr>\n<tr>\n<th colspan="5">KBS울산 음악FM\n</th></tr>\n<tr>\n<th>송신소</th>\n<th>주파수</th>\n<th>출력</th>\n<th>호출부호</th>\n<th>송신소 위치\n</th></tr>\n<tr>\n<th>무룡산 송신소\n</th>\n<td>FM 101.9MHz</td>\n<td>3kW</td>\n<td>HLQB-FM</td>\n<td>울산 북구 화봉동 산1-3\n</td></tr></tbody></table>
+- - KBS울산방송국의 KBS 제 1라디오 8시 뉴스 방송시간은 언제일까요?
+  - 월요일 ~ 금요일 5분

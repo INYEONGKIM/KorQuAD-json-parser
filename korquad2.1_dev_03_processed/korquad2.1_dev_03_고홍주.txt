@@ -1,0 +1,5 @@
+categories:
+- 고홍주
+conversations:
+- - 고홍주는 미국 어느 주에서 태어났습니까?
+  - <a>매사추세츠주</a>

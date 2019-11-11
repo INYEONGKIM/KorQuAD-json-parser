@@ -1,0 +1,5 @@
+categories:
+- 오메가_(기업)
+conversations:
+- - 오메가는 몇 년도에 설립됐니?
+  - <a>1848년</a>

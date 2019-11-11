@@ -1,0 +1,5 @@
+categories:
+- 공무도하가
+conversations:
+- - 고금주를 쓴 인물은 누구일까?
+  - 최표

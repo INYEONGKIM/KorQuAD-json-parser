@@ -1,0 +1,5 @@
+categories:
+- 평온을_비는_기도
+conversations:
+- - 금주협회에서 기도문에 특별히 관심을 가진 사람은 누구야?
+  - 빌 W (Bill W, 정식이름은 William Griffith Wilson)

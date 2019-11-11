@@ -1,0 +1,5 @@
+categories:
+- 선종
+conversations:
+- - 중국 당나라가 건국된 년도는 언제야?
+  - 618

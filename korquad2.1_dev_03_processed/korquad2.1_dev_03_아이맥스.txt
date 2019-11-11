@@ -1,0 +1,5 @@
+categories:
+- 아이맥스
+conversations:
+- - 아이맥스는 몇 년도에 처음 공개되었을까?
+  - 1970년

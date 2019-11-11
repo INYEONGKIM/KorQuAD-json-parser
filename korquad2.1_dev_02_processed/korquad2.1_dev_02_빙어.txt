@@ -1,0 +1,5 @@
+categories:
+- 빙어
+conversations:
+- - 빙어의 알은 며칠이 지나면 부화할까?
+  - 25-30일

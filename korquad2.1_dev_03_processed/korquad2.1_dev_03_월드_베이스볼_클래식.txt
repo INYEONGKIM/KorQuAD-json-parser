@@ -1,0 +1,7 @@
+categories:
+- 월드_베이스볼_클래식
+conversations:
+- - 월드 베이스볼 클래식은 몇 연도에 처음으로 열렸어?
+  - <a>2006년</a>
+- - 월드 베이스볼 클래식에서 각 국가들은 어떤 성적을 거두었을까?
+  - <table>\n<tbody><tr>\n<td><b>순위</b>\n</td>\n<td><b>나라</b>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><b>합계</b>\n</td></tr>\n<tr>\n<td>1\n</td>\n<td><span><a><img></a></span> <a>일본</a>\n</td>\n<td>2</td>\n<td>0</td>\n<td>2</td>\n<td>4\n</td></tr>\n<tr>\n<td>2\n</td>\n<td><span><a><img></a></span> <a>미국</a>\n</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1\n</td></tr>\n<tr>\n<td>2\n</td>\n<td><span><a><img></a></span> <a>도미니카 공화국</a>\n</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1\n</td></tr>\n<tr>\n<td>4\n</td>\n<td><span><a><img></a></span> <a>푸에르토리코</a>\n</td>\n<td>0</td>\n<td>2</td>\n<td>0</td>\n<td>2\n</td></tr>\n<tr>\n<td>5\n</td>\n<td><span><a><img></a></span> <a>대한민국</a>\n</td>\n<td>0</td>\n<td>1</td>\n<td>1</td>\n<td>2\n</td></tr>\n<tr>\n<td>6\n</td>\n<td><span><a><img></a></span> <a>쿠바</a>\n</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>1\n</td></tr>\n<tr>\n<td>7\n</td>\n<td><span><a><img></a></span> <a>베네수엘라</a>\n</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>1\n</td></tr></tbody></table>

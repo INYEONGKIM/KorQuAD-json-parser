@@ -1,0 +1,5 @@
+categories:
+- 사리역
+conversations:
+- - 사리역은 몇 년에 폐역되었나요?
+  - <a>1996년</a>

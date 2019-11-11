@@ -1,0 +1,5 @@
+categories:
+- DFL-리가포칼
+conversations:
+- - DFL-리가포칼 리그에서 1997년 준우승한 팀은 어디인가?
+  - <td>VfB 슈투트가르트</td>

@@ -1,0 +1,5 @@
+categories:
+- 기요미야_고타로
+conversations:
+- - 기요미야 고타로가 2018년 동안 닛폰햄에서 기록한 수비성적은 어떠한가? 
+  - <table>\n<tbody><tr>\n<th rowspan="2">연도</th>\n<th rowspan="2">소속</th>\n<th colspan="6"><a>1루</a></th>\n<th colspan="6"><a>외야</a>\n</th></tr>\n<tr>\n<th>경<br/><br/>기</th>\n<th>척<br/><br/>살</th>\n<th>보<br/><br/>살</th>\n<th>실<br/><br/>책</th>\n<th>병<br/><br/>살</th>\n<th>수<br/>비<br/>율</th>\n<th>경<br/><br/>기</th>\n<th>척<br/><br/>살</th>\n<th>보<br/><br/>살</th>\n<th>실<br/><br/>책</th>\n<th>병<br/><br/>살</th>\n<th>수<br/>비<br/>율\n</th></tr>\n<tr>\n<td>2018\n</td>\n<td rowspan="1">닛폰햄\n</td>\n<td>9</td>\n<td>72</td>\n<td>4</td>\n<td>0</td>\n<td>3</td>\n<td>1.000</td>\n<td>12</td>\n<td>11</td>\n<td>1</td>\n<td>0</td>\n<td>1</td>\n<td>1.000\n</td></tr>\n<tr>\n<th colspan="2">통산\n</th>\n<td>9</td>\n<td>72</td>\n<td>4</td>\n<td>0</td>\n<td>3</td>\n<td>1.000</td>\n<td>12</td>\n<td>11</td>\n<td>1</td>\n<td>0</td>\n<td>1</td>\n<td>1.000\n</td></tr></tbody></table>

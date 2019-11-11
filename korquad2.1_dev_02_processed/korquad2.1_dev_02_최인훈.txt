@@ -1,0 +1,5 @@
+categories:
+- 최인훈
+conversations:
+- - 소설가 최인훈이 타계했던 병원의 이름은?
+  - 명지병원

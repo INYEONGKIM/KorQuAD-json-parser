@@ -1,0 +1,5 @@
+categories:
+- 시조
+conversations:
+- - 시조가 발생한 시기는 언제인가?
+  - <a>고려</a> 중반

@@ -1,0 +1,7 @@
+categories:
+- 행오버_(영화_시리즈)
+conversations:
+- - 코미디 영화 행오버의 시리즈 별 박스 오피스 성적은 어떨까?
+  - <table>\n<tbody><tr>\n<th rowspan="2"><b>영화</b>\n</th>\n<th rowspan="2"><b>북미 개봉 날짜</b>\n</th>\n<th colspan="4"><b>박스 오피스 성적</b>\n</th>\n<th colspan="2"><b>박스 오피스 랭킹</b>\n</th>\n<th rowspan="2"><b>제작비</b>\n</th>\n<th rowspan="2"><b>참조</b>\n</th></tr>\n<tr>\n<th>주말 오프닝\n</th>\n<th><b>북미</b>\n</th>\n<th><b>기타 국가</b>\n</th>\n<th><b>월드와이드</b>\n</th>\n<th><b>역대 <br/>북미</b>\n</th>\n<th><b>역대 <br/>월드와이드</b>\n</th></tr>\n<tr>\n<td><i>행오버</i>\n</td>\n<td>2009년 6월 5일\n</td>\n<td>$44,979,319\n</td>\n<td>$277,322,503\n</td>\n<td>$190,161,409\n</td>\n<td>$467,483,912\n</td>\n<td>#81\n</td>\n<td>#181\n</td>\n<td>$35 million\n</td>\n<td><sup><a>[2]</a></sup>\n</td></tr>\n<tr>\n<td><i>행오버 2</i>\n</td>\n<td>2011년 5월 26일\n</td>\n<td>$85,946,294\n</td>\n<td>$254,464,305\n</td>\n<td>$332,300,000\n</td>\n<td>$586,764,305\n</td>\n<td>#98\n</td>\n<td>#120\n</td>\n<td>$80 million\n</td>\n<td><sup><a>[3]</a></sup>\n</td></tr>\n<tr>\n<td><i>행오버 3</i>\n</td>\n<td>2013년 5월 23일\n</td>\n<td>$41,671,198\n</td>\n<td>$112,200,072\n</td>\n<td>$249,800,000\n</td>\n<td>$362,000,072\n</td>\n<td>#529\n</td>\n<td>#279\n</td>\n<td>$103 million\n</td>\n<td><sup><a>[4]</a></sup>\n</td></tr>\n<tr>\n<th>총계\n</th>\n<th>\n</th>\n<th>\n</th>\n<th>$643,986,880\n</th>\n<th>$772,261,409\n</th>\n<th>$1,416,248,289\n</th>\n<th colspan="2">\n</th>\n<th>$218 million\n</th>\n<th>\n</th></tr></tbody></table>
+- - 행오버 영화 시리즈에 출연한 배우 켄 정이 연기한 캐릭터의 이름은 무엇입니까?
+  - 레슬리 초우

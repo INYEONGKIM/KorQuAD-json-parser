@@ -1,0 +1,7 @@
+categories:
+- 마르코_판_바스턴
+conversations:
+- - 마르코 판 바스턴이 네덜란드 축구 국가대표팀으로 출전했을 때 어떤 성과를 이루었는가?
+  - <table>\n<tbody><tr>\n<th>연도</th>\n<th>출장</th>\n<th>득점\n</th></tr>\n<tr>\n<td><a>1983</a></td>\n<td>3</td>\n<td>2\n</td></tr>\n<tr>\n<td><a>1984</a></td>\n<td>3</td>\n<td>0\n</td></tr>\n<tr>\n<td><a>1985</a></td>\n<td>4</td>\n<td>1\n</td></tr>\n<tr>\n<td><a>1986</a></td>\n<td>4</td>\n<td>2\n</td></tr>\n<tr>\n<td><a>1987</a></td>\n<td>4</td>\n<td>1\n</td></tr>\n<tr>\n<td><a>1988</a></td>\n<td>9</td>\n<td>5\n</td></tr>\n<tr>\n<td><a>1989</a></td>\n<td>5</td>\n<td>2\n</td></tr>\n<tr>\n<td><a>1990</a></td>\n<td>11</td>\n<td>8\n</td></tr>\n<tr>\n<td><a>1991</a></td>\n<td>5</td>\n<td>2\n</td></tr>\n<tr>\n<td><a>1992</a></td>\n<td>10</td>\n<td>1\n</td></tr>\n<tr>\n<th>통산</th>\n<th>58</th>\n<th>24\n</th></tr></tbody></table>
+- - 마르코 판 바스턴이 네달란드 팀 감독이였을 때 네달란드 팀의 승률은 어떻게 될까?
+  - 67.31%

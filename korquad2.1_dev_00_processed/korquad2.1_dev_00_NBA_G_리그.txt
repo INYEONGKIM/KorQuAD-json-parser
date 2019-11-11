@@ -1,0 +1,7 @@
+categories:
+- NBA_G_리그
+conversations:
+- - 미국의 프로 농구 연맹 마이너 리그 'NBA G 리그'의 신생구단은 무엇이 있을까?
+  - <table>\n<tbody><tr>\n<th>구단명</th>\n<th>연고지</th>\n<th>경기장</th>\n<th>수용인원</th>\n<th>창설</th>\n<th>가맹</th>\n<th>NBA 제휴\n</th></tr>\n<tr>\n<td><span><a><img></a></span> <a>칼리지파크 스카이호크스</a></td>\n<td><a>조지아주</a> <a>칼리지파크</a></td>\n<td><a>게이트웨이 센터</a></td>\n<td>3,500명</td>\n<td>2017년</td>\n<td>2019년</td>\n<td><span><a><img></a></span> <a>애틀랜타 호크스</a>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>이리 베이호크스</a></td>\n<td><a>펜실베이니아주</a> <a>이리</a></td>\n<td><a>이리 인슈런스 아레나</a></td>\n<td>6,750명</td>\n<td colspan="2">2019년</td>\n<td rowspan="2"><span><a><img></a></span> <a>뉴올리언스 펠리컨스</a>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>버밍햄 NBA G 리그 팀</a></td>\n<td><a>앨라배마주</a> <a>버밍햄</a></td>\n<td><a>레거시 아레나</a></td>\n<td>17,654명</td>\n<td>2019년</td>\n<td>2022년\n</td></tr></tbody></table>
+- - NBA G 리그 팀중 연고지가 메인주 포틀랜드인 곳의 구단명은?
+  - <a>메인 레드 클로스</a>

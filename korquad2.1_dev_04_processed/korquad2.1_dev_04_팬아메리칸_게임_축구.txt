@@ -1,0 +1,7 @@
+categories:
+- 팬아메리칸_게임_축구
+conversations:
+- - 팬아메리칸 게임 축구 대회에서 여자부의 메달순위는 어땠을까?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>금\n</th>\n<th>은\n</th>\n<th>동\n</th></tr>\n<tr>\n<td><span><a><img></a></span> <a>브라질</a>\n</td>\n<td>3 (2003, 2007*, 2015)\n</td>\n<td>1 (2011)\n</td>\n<td>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>캐나다</a>\n</td>\n<td>1 (2011)\n</td>\n<td>1 (2003)\n</td>\n<td>1 (2007)\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>미국</a>\n</td>\n<td>1 (1999)\n</td>\n<td>1 (2007)\n</td>\n<td>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>멕시코</a>\n</td>\n<td>\n</td>\n<td>1 (1999)\n</td>\n<td>3 (2003, 2011*, 2015)\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>콜롬비아</a>\n</td>\n<td>\n</td>\n<td>1 (2015)\n</td>\n<td>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>코스타리카</a>\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>1 (1999)\n</td></tr></tbody></table>
+- - 팬아메리칸 게임 축구에서 아르헨티나는 금메달을 몇개 받았는가
+  - 6

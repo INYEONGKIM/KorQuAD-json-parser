@@ -1,0 +1,5 @@
+categories:
+- FM_골든디스크
+conversations:
+- - 이대희의 골든디스크는 어느 방송국에서 방송하는가?
+  - <td><a>대구문화방송</a></td>

@@ -1,0 +1,5 @@
+categories:
+- 공과대학
+conversations:
+- - 한림대학교 공대의 위치는?
+  - <a>강원도</a> <a>춘천시</a>

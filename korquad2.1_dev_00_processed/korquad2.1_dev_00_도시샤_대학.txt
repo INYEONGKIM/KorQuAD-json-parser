@@ -1,0 +1,5 @@
+categories:
+- 도시샤_대학
+conversations:
+- - 도시샤 대학의 설립자는 누구입니까?
+  - <a>니지마 조</a>

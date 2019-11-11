@@ -1,0 +1,7 @@
+categories:
+- 대한민국의_감사원장
+conversations:
+- - 대한민국 제2공화국 시기에 감찰위원회의 역대 위원장으로 어떤 사람이 있는가?
+  - <table>\n<tbody><tr>\n<th>정부\n</th>\n<th>대수\n</th>\n<th>이름\n</th>\n<th>임기\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td rowspan="3">제2공화국\n</td>\n<td>초대\n</td>\n<td><a>민영수</a>(閔泳壽)\n</td>\n<td>1961년 3월 28일 ~ 1961년 5월 15일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2대\n</td>\n<td><a>최재명</a>(崔載明)\n</td>\n<td>1961년 5월 23일 ~ 1961년 7월 10일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>3대\n</td>\n<td><a>채명신</a>(蔡命新)\n</td>\n<td>1961년 7월 11일 ~ 1963년 3월 19일\n</td>\n<td>\n</td></tr></tbody></table>
+- - 대한민국의 초대 심계원장은 누구인가요?
+  - <a>명제세</a>

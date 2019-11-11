@@ -1,0 +1,5 @@
+categories:
+- 영인면
+conversations:
+- - 영인면의 신봉4리가 신설된 날짜는?
+  - 2010년 1월 5일

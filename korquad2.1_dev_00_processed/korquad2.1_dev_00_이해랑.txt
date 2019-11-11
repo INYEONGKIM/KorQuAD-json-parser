@@ -1,0 +1,5 @@
+categories:
+- 이해랑
+conversations:
+- - 이해랑은 일본의 어느 대학교 출신입니까?
+  - <a>니혼 대학교</a>

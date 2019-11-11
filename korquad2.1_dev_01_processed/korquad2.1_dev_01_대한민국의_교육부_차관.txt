@@ -1,0 +1,9 @@
+categories:
+- 대한민국의_교육부_차관
+conversations:
+- - 지금까지 대한민국의 교육부 차관을 맡은 사람들은 누구인가요?
+  - <table>\n<tbody><tr>\n<th>정부\n</th>\n<th>대수\n</th>\n<th>이름\n</th>\n<th>임기\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>노태우 정부\n</td>\n<td>36대\n</td>\n<td><a>조규향</a>(曺圭香)\n</td>\n<td>1990년 12월 27일 ~ 1993년 3월 3일\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="3">김영삼 정부\n</td>\n<td>37대\n</td>\n<td><a>이천수</a>(李千洙)\n</td>\n<td>1993년 3월 4일 ~ 1995년 12월 25일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>38대\n</td>\n<td><a>이영탁</a>(李永鐸)\n</td>\n<td>1995년 12월 26 ~ 1997년 8월 7일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>39대\n</td>\n<td><a>이용원</a>(李勇源)\n</td>\n<td>1997년 8월 8일 ~ 1998년 3월 8일\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">김대중 정부\n</td>\n<td>40대\n</td>\n<td><a>조선제</a>(趙宣濟)\n</td>\n<td>1998년 3월 8일 ~ 1999년 5월 25일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>41대\n</td>\n<td><a>이원우</a>(李元雨)\n</td>\n<td>1999년 5월 25일 ~ 2001년 1월 27일\n</td>\n<td>\n</td></tr></tbody></table>
+- - 박종구의 교육과학기술부 제2차관 임기는 언제일까?
+  - 2008년 2월 29일 ~ 2009년 1월 20일
+- - 대한민국의 교육인적자원부 초대 차관의 이름은 무엇인가?
+  - <a>김상권</a>(金相權)

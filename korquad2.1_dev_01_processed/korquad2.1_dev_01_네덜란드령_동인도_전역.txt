@@ -1,0 +1,5 @@
+categories:
+- 네덜란드령_동인도_전역
+conversations:
+- - ARCADIA 회담이 개최된 것은 몇년도야?
+  - 1941

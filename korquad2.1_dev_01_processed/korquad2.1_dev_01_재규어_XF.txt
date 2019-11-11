@@ -1,0 +1,5 @@
+categories:
+- 재규어_XF
+conversations:
+- - XF-RS의 최고 속력은?
+  - 300km/h

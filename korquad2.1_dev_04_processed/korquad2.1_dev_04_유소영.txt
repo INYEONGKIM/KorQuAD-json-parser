@@ -1,0 +1,5 @@
+categories:
+- 유소영
+conversations:
+- - 유소영이 '드림하이 2'에서 맡은 배역의 이름은?
+  - 박순동

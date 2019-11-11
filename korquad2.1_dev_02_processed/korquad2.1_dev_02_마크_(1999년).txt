@@ -1,0 +1,7 @@
+categories:
+- 마크_(1999년)
+conversations:
+- - 마크의 연도별 광고활동 목록은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>연도</th>\n<th>품목</th>\n<th>기업명</th>\n<th>비고\n</th></tr>\n<tr>\n<td>2016</td>\n<td>생활플랫폼</td>\n<td><a>SK텔레콤</a></td>\n<td>\n</td></tr>\n<tr>\n<td>2016\n</td>\n<td>코카콜라\n</td>\n<td>코카콜라\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2016</td>\n<td>디자인 유나이티드</td>\n<td>신세계인터내셔날</td>\n<td>\n</td></tr>\n<tr>\n<td>2016</td>\n<td>슈퍼콤마비</td>\n<td><a>코오롱인더스트리</a></td>\n<td>\n</td></tr>\n<tr>\n<td>2016</td>\n<td>아이비클럽</td>\n<td>대원</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">2017</td>\n<td>Masita Crispy Seaweed</td>\n<td>Masita</td>\n<td>\n</td></tr>\n<tr>\n<td>롯데 면세점</td>\n<td>롯데</td>\n<td>\n</td></tr>\n<tr>\n<td>2018\n</td>\n<td>NBA 2018 S/S\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n</tbody></table>
+- - 마크가 2015년 디즈니 채널에 출연한 예능의 이름은?
+  - <a>미키마우스 클럽</a>

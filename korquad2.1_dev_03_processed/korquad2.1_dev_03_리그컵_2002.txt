@@ -1,0 +1,7 @@
+categories:
+- 리그컵_2002
+conversations:
+- - 리그컵 2002 A 조 조별리그의 결과는?
+  - <table>\n<tbody><tr>\n<th>순위</th>\n<th>팀</th>\n<th>경기수</th>\n<th>승</th>\n<th>무</th>\n<th>패</th>\n<th>득</th>\n<th>실</th>\n<th>차</th>\n<th>승점\n</th></tr>\n<tr>\n<td>1</td>\n<td><a>수원 삼성 블루윙즈</a></td>\n<td>8</td>\n<td>4</td>\n<td>3</td>\n<td>1</td>\n<td>13</td>\n<td>12</td>\n<td>+1</td>\n<td><b>11</b>\n</td></tr>\n<tr>\n<td>2</td>\n<td><a>성남 일화 천마</a></td>\n<td>8</td>\n<td>3</td>\n<td>4</td>\n<td>1</td>\n<td>17</td>\n<td>10</td>\n<td>+7</td>\n<td><b>10</b>\n</td></tr>\n<tr>\n<td>3</td>\n<td><a>부천 SK</a></td>\n<td>8</td>\n<td>3</td>\n<td>2</td>\n<td>3</td>\n<td>13</td>\n<td>15</td>\n<td>-2</td>\n<td><b>10</b>\n</td></tr>\n<tr>\n<td>4</td>\n<td><a>전북 현대 모터스</a></td>\n<td>8</td>\n<td>3</td>\n<td>1</td>\n<td>4</td>\n<td>10</td>\n<td>12</td>\n<td>-2</td>\n<td><b>10</b>\n</td></tr>\n<tr>\n<td>5</td>\n<td><a>포항 스틸러스</a></td>\n<td>8</td>\n<td>2</td>\n<td>2</td>\n<td>4</td>\n<td>7</td>\n<td>11</td>\n<td>-4</td>\n<td><b>6</b>\n</td></tr></tbody></table>
+- - 리그컵 2002년 조별리그에서 수원 삼성 블루윙즈가 포함된 조는 무슨 조입니까?
+  - A조

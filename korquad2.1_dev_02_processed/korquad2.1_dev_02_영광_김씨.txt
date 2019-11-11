@@ -1,0 +1,5 @@
+categories:
+- 영광_김씨
+conversations:
+- - 영광 김씨중 호조참판을 지낸 김중보의 분파는?
+  - 용강

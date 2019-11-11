@@ -1,0 +1,11 @@
+categories:
+- 애덤_윌크
+conversations:
+- - 애덤 윌크는 한국에서 어느 팀의 선수였지?
+  - <a>NC 다이노스</a>
+- - 애덤 윌크가 첫번째 투수 용병으로 영입된 해는 언제일까?
+  - <a>2012년</a>
+- - 애덤 윌크는 한국 프로야구 시절 어떤 기록을 냈을까?
+  - <table>\n<tbody><tr>\n<th>년도</th>\n<th>소속팀</th>\n<th>평균자책점</th>\n<th>경기수</th>\n<th>완투</th>\n<th>완봉</th>\n<th>승</th>\n<th>패</th>\n<th>세</th>\n<th>홀</th>\n<th>승률</th>\n<th>이닝</th>\n<th>피안타</th>\n<th>피홈런</th>\n<th>4사구</th>\n<th>탈삼진</th>\n<th>실점</th>\n<th>자책</th>\n<th>비고\n</th></tr>\n<tr>\n<td>2013</td>\n<td rowspan="1"><a>NC</a></td>\n<td>4.12</td>\n<td>17</td>\n<td>0</td>\n<td>0</td>\n<td>4</td>\n<td>8</td>\n<td>0</td>\n<td>0</td>\n<td>0.333</td>\n<td>91 2/3</td>\n<td>93</td>\n<td>12</td>\n<td>28</td>\n<td>70</td>\n<td>48</td>\n<td>42</td>\n<td>\n</td></tr>\n<tr>\n<td><b>통산</b></td>\n<td><b>1시즌</b></td>\n<td>4.12</td>\n<td>17</td>\n<td>0</td>\n<td>0</td>\n<td>4</td>\n<td>8</td>\n<td>0</td>\n<td>0</td>\n<td>0.333</td>\n<td>91 2/3</td>\n<td>93</td>\n<td>12</td>\n<td>28</td>\n<td>70</td>\n<td>48</td>\n<td>42</td>\n<td>\n</td></tr>\n</tbody></table>
+- - 애덤 윌크의 통산 탈삼진 기록은?
+  - <td>17</td>

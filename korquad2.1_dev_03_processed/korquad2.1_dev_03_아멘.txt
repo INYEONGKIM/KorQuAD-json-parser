@@ -1,0 +1,5 @@
+categories:
+- 아멘
+conversations:
+- - 아멘은 처음 어느 종교에서 들어왔어?
+  - 유대교

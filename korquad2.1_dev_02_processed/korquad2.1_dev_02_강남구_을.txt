@@ -1,0 +1,5 @@
+categories:
+- 강남구_을
+conversations:
+- - 1988년 이후 당선된 강남구의 국회의원들은 누구인가?
+  - <table>\n<tbody><tr>\n<th colspan="2">선거</th>\n<th>의원\n</th>\n<th>정당</th>\n<th>비고\n</th></tr>\n<tr>\n<td>\n</td>\n<td><a>1988</a>\n</td>\n<td><a>이태섭</a>\n</td>\n<td><a>민주정의당</a>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>\n</td>\n<td><a>1992</a>\n</td>\n<td rowspan="2"><a>홍사덕</a>\n</td>\n<td><a>민주당</a>\n</td>\n<td rowspan="2">\n</td></tr>\n<tr>\n<td>\n</td>\n<td><a>1996</a>\n</td>\n<td><a>무소속</a>\n</td></tr>\n<tr>\n<td>\n</td>\n<td><a>2000</a>\n</td>\n<td><a>오세훈</a>\n</td>\n<td><a>한나라당</a>\n</td>\n<td>민선 4·5기 서울시장(2006~2011)\n</td></tr>\n<tr>\n<td rowspan="2">\n</td>\n<td><a>2004</a>\n</td>\n<td rowspan="2"><a>공성진</a>\n</td>\n<td rowspan="2"><a>한나라당</a>\n</td>\n<td rowspan="2">\n</td></tr>\n<tr>\n<td><a>2008</a>\n</td></tr>\n<tr>\n<td>\n</td>\n<td><a>2012</a>\n</td>\n<td><a>김종훈</a>\n</td>\n<td><a>새누리당</a>\n</td>\n<td>\n</td></tr>\n<tr>\n<td>\n</td>\n<td><a>2016</a>\n</td>\n<td><a>전현희</a>\n</td>\n<td><a>더불어민주당</a>\n</td>\n<td>제18대 비례대표 국회의원\n</td></tr></tbody></table>

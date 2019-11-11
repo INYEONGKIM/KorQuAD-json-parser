@@ -1,0 +1,7 @@
+categories:
+- KBS안동방송국
+conversations:
+- - KBS 안동방송국의 안동송신소는 언제 설립됐을까?
+  - 1975.11.25
+- - KBS안동방송국은 어떤 방송 송출 시설망을 가지고 있을까?
+  - <table>\n<tbody><tr>\n<th colspan="8">KBS안동 제1라디오\n</th></tr>\n<tr>\n<th>송신소</th>\n<th>주파수</th>\n<th>출력</th>\n<th>호출부호</th>\n<th>송신소 위치</th>\n<th>와우 라디오\n</th></tr>\n<tr>\n<th>안동 송신소\n</th>\n<td>AM 963kHz</td>\n<td>10kW</td>\n<td>HLCR</td>\n<td>경북 안동시 수상동 621-4</td>\n<td>없음\n</td></tr>\n<tr>\n<th>일월산 송신소\n</th>\n<td>FM 90.5MHz</td>\n<td>1kW</td>\n<td>HLCR-SFM</td>\n<td>경북 영양군 청기면 당리 산118</td>\n<td>포항 송신\n</td></tr>\n<tr>\n<th>강남 중계소\n</th>\n<td>FM 104.5MHz</td>\n<td>100W</td>\n<td>-</td>\n<td>경상북도 안동시 정하동 258-1</td>\n<td>대구 송신\n</td></tr>\n<tr>\n<th>영주 중계소\n</th>\n<td>FM 104.3MHz</td>\n<td>100W</td>\n<td></td>\n<td>경북 영주시 영주동</td>\n<td>포항 송신\n</td></tr>\n<tr>\n<th>청송 중계소\n</th>\n<td>FM 92.5MHz</td>\n<td>50W</td>\n<td>-</td>\n<td>경북 청송군 청송읍 덕리 산30-1</td>\n<td>대구 송신\n</td></tr>\n<tr>\n<th colspan="6">KBS안동 음악FM\n</th></tr>\n<tr>\n<th>송신소</th>\n<th>주파수</th>\n<th>출력</th>\n<th>호출부호</th>\n<th>송신소 위치</th>\n<th>와우 라디오\n</th></tr>\n<tr>\n<th><b>학가산</b> 송신소\n</th>\n<td>FM 88.1MHz</td>\n<td>3kW</td>\n<td>HLCR-FM</td>\n<td>경북 안동시 북후면 신전리 산69</td>\n<td>충주 송신\n</td></tr></tbody></table>

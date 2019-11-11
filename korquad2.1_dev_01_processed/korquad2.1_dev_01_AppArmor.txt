@@ -1,0 +1,7 @@
+categories:
+- AppArmor
+conversations:
+- - Smack_이 도입된 년도는 언제일까?
+  - 2007년에
+- - «AppArmor»은 무엇으로 구현됐어?
+  - <a>리눅스 보안 모듈</a>(LSM) 커널 인터페이스

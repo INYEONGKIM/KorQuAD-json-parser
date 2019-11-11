@@ -1,0 +1,5 @@
+categories:
+- 소유권
+conversations:
+- - 헌법 제23조에서 보장하는 국민의 권리는?
+  - 재산권

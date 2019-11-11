@@ -1,0 +1,5 @@
+categories:
+- 호매실고등학교
+conversations:
+- - 호매실고등학교의 초대 교장은 누구인가?
+  - 장영하

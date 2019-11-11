@@ -1,0 +1,5 @@
+categories:
+- 양순직
+conversations:
+- - 그는 1992년에 몇대 국회의원을 지냈습니까?
+  - 14대

@@ -1,0 +1,5 @@
+categories:
+- 차한성
+conversations:
+- - 차한성의 김재규 군사재판 당시 계급은?
+  - 대위

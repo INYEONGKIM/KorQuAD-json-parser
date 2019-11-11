@@ -1,0 +1,5 @@
+categories:
+- 대간
+conversations:
+- - 대간을 다르게 부르는 이름은?
+  - <b>언관</b>

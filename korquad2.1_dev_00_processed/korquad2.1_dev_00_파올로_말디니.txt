@@ -1,0 +1,9 @@
+categories:
+- 파올로_말디니
+conversations:
+- - 말디니가 AC밀란 소속으로 세리에 A리그를 우승한 시즌은?
+  - 1987-88, 1991-92, 1992-93, 1993-94, <a>1995-96</a>, <a>1998-99</a>, <a>2003-04</a>
+- - 1993년부터 1999년까지 파올로 말디니는 국가대표팀의 소속으로 어떤 경기들을 뛰었을까?
+  - <table>\n<tbody><tr>\n<th>순서\n</th>\n<th>날짜\n</th>\n<th>경기 장소\n</th>\n<th>상대 국가\n</th>\n<th>경기 결과\n</th>\n<th>경기 형식\n</th></tr>\n<tr>\n<td>1.</td>\n<td><a>1993년</a> <a>1월 20일</a></td>\n<td>이탈리아, 피렌체</td>\n<td><span><a><img></a></span> <a>멕시코</a></td>\n<td>2–0</td>\n<td>친선경기\n</td></tr>\n<tr>\n<td>2.</td>\n<td><a>1993년</a> <a>3월 24일</a></td>\n<td>이탈리아, 팔레르모</td>\n<td><span><a><img></a></span> <a>몰타</a></td>\n<td>6–1</td>\n<td><a>1994년 FIFA 월드컵</a> 예선\n</td></tr>\n<tr>\n<td>3.</td>\n<td><a>1995년</a> <a>11월 11일</a></td>\n<td>이탈리아, 바리</td>\n<td><span><a><img></a></span> <a>우크라이나</a></td>\n<td>3–1</td>\n<td><a>UEFA 유로 1996</a> 예선\n</td></tr>\n<tr>\n<td>4.</td>\n<td><a>1997년</a> <a>3월 29일</a></td>\n<td>이탈리아, 트리에스테</td>\n<td><span><a><img></a></span> <a>몰도바</a></td>\n<td>3–0</td>\n<td><a>1998년 FIFA 월드컵</a> 예선\n</td></tr>\n<tr>\n<td>5.</td>\n<td><a>1997년</a> <a>4월 30일</a></td>\n<td>이탈리아, 나폴리</td>\n<td><span><a><img></a></span> <a>폴란드</a></td>\n<td>3–0</td>\n<td><a>1998년 FIFA 월드컵</a> 예선\n</td></tr>\n<tr>\n<td>6.</td>\n<td><a>1998년</a> <a>4월 22일</a></td>\n<td>이탈리아, 파르마</td>\n<td><span><a><img></a></span> <a>파라과이</a></td>\n<td>3–1</td>\n<td>친선경기\n</td></tr>\n<tr>\n<td>7.</td>\n<td><a>1999년</a> <a>6월 5일</a></td>\n<td>이탈리아, 볼로냐</td>\n<td><span><a><img></a></span> <a>웨일스</a></td>\n<td>4–0</td>\n<td><a>UEFA 유로 2000</a> 예선\n</td></tr>\n</tbody></table>
+- - 파올로 말디니는 1997년 경기에서 몇점을 득점하였습니까?
+  - 2

@@ -1,0 +1,5 @@
+categories:
+- 수열의_극한
+conversations:
+- - 뉴턴은 무한 급수 해석을 언제 작성했나요?
+  - 1669년

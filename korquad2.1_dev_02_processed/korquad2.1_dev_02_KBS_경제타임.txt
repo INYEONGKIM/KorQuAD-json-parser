@@ -1,0 +1,5 @@
+categories:
+- KBS_경제타임
+conversations:
+- - 경제뉴스 프로그램 'KBS 경제타임'의 역대 진행자는 누가 있을까?
+  - <table>\n<tbody><tr>\n<th>역대</th>\n<th>진행자</th>\n<th>진행 기간</th>\n<th>비고\n</th></tr>\n<tr>\n<th>1대\n</th>\n<td><a>조수빈</a> 아나운서</td>\n<td><a>2017년</a> <a>4월 3일</a> ~ 2017년 <a>8월 24일</a></td>\n<td><sup><a>[1]</a></sup>\n</td></tr>\n<tr>\n<th>2대\n</th>\n<td><a>신윤주</a> 아나운서</td>\n<td><a>2018년</a> <a>2월 26일</a> ~ 2018년 <a>12월 31일</a></td>\n<td><sup><a>[2]</a></sup>\n</td></tr>\n<tr>\n<th>3대\n</th>\n<td>임승창 경제부 기자</td>\n<td><a>2019년</a> <a>1월 2일</a> ~ <b>현재</b></td>\n<td>\n</td></tr></tbody></table>

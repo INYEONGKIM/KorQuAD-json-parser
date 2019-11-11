@@ -1,0 +1,5 @@
+categories:
+- 쎄시봉_(영화)
+conversations:
+- - 쎄시봉의 뮤즈는?
+  - 민자영

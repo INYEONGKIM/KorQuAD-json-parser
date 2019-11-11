@@ -1,0 +1,5 @@
+categories:
+- 후스
+conversations:
+- - 후스먼은 몇 년도에 태어났니?
+  - 1891년

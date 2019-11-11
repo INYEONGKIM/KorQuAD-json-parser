@@ -1,0 +1,5 @@
+categories:
+- 이봉주
+conversations:
+- - 이봉주의 출신 학과는?
+  - 무역학과

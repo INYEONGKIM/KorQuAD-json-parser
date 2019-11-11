@@ -1,0 +1,5 @@
+categories:
+- 일죽면
+conversations:
+- - 일죽면의 리 단위 지역 중 이름이 가장 짧은 지역은?
+  - <a>가리</a>

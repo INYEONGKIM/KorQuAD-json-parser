@@ -1,0 +1,5 @@
+categories:
+- 로봇이_아니야
+conversations:
+- - 예리엘의 아버지 이름은 무엇인가?
+  - 예성태

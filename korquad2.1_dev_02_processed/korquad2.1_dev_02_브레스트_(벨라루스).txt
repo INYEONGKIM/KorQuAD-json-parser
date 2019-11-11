@@ -1,0 +1,5 @@
+categories:
+- 브레스트_(벨라루스)
+conversations:
+- - 벨라루스의 연평균 강수량은 몇 mm인가?
+  - 591

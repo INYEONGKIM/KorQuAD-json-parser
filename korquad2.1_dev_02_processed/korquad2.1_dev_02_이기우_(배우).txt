@@ -1,0 +1,7 @@
+categories:
+- 이기우_(배우)
+conversations:
+- - 배우 이기우의 수상 후보로 선정되었거나 수상한 이력으로는 어떤 것들이 있을까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>시상식\n</th>\n<th>부문\n</th>\n<th>작품\n</th>\n<th>결과\n</th></tr>\n<tr>\n<td>2005\n</td>\n<td><a>KBS 연기대상</a>\n</td>\n<td>남자 신인상\n</td>\n<td><a>이 죽일놈의 사랑</a>\n</td>\n<td>후보\n</td></tr>\n<tr>\n<td>2008\n</td>\n<td>제1회 대한민국 주얼리 어워드\n</td>\n<td>에메랄드상\n</td>\n<td><small>빈칸</small>\n</td>\n<td>수상\n</td></tr>\n<tr>\n<td>2013\n</td>\n<td>제8회 아시아모델시상식\n</td>\n<td>모델스타상\n</td>\n<td><small>빈칸</small>\n</td>\n<td>수상\n</td></tr>\n<tr>\n<td>2016\n</td>\n<td>제9회 <a>코리아드라마어워즈</a>\n</td>\n<td>핫스타상\n</td>\n<td><small>빈칸</small>\n</td>\n<td>수상\n</td></tr>\n<tr>\n<td>2017\n</td>\n<td>제10회 <a>코리아 드라마 어워즈</a>\n</td>\n<td>남자 우수연기상\n</td>\n<td><a>품위있는 그녀</a>\n</td>\n<td>후보\n</td></tr>\n</tbody></table>
+- - 이기우가 클래식에서 맡았던 배역의 이름은 무엇인가요?
+  - 윤태수

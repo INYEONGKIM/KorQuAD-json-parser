@@ -1,0 +1,5 @@
+categories:
+- 2018년_FIFA_월드컵_오세아니아_지역_3차_예선
+conversations:
+- - 2018년 FIFA 월드컵 오세아니아 지역 3차 예선에서 1포트에 베정된 팀은?
+  - <a>누벨칼레도니</a></li>\n<li><span><a><img></a></span> <a>솔로몬 제도</a></li>

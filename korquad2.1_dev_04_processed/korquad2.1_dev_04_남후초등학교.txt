@@ -1,0 +1,5 @@
+categories:
+- 남후초등학교
+conversations:
+- - 남후초등학교의 개교기념일은?
+  - 10월 19일

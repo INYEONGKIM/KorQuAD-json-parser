@@ -1,0 +1,5 @@
+categories:
+- 슬로_모션_(노래)
+conversations:
+- - EP포맷으로 발표한 노래의 년도는?
+  - 1982년

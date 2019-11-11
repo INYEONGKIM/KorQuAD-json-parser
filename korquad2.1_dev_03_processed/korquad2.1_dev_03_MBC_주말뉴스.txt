@@ -1,0 +1,5 @@
+categories:
+- MBC_주말뉴스
+conversations:
+- - MBC 주말 뉴스는 언제부터 방영되었나?
+  - <a>1969년</a> <a>8월 8일</a>

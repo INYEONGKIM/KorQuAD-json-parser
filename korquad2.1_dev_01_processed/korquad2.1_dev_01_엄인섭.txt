@@ -1,0 +1,5 @@
+categories:
+- 엄인섭
+conversations:
+- - 엄인섭은 몇 년도에 안중근과 의형제가 되었니?
+  - <a>1907년</a>

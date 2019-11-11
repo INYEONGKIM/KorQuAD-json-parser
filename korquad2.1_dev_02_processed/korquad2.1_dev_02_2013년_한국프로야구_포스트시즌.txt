@@ -1,0 +1,15 @@
+categories:
+- 2013년_한국프로야구_포스트시즌
+conversations:
+- - 2013년 한국야구 포스트시즌 2차전을 중계한 MBC의 해설은 누구인가?
+  - :허구
+- - 2013년 10월 8일 서울 목동 야구장에서 진행된 한국 프로야구 포스트시즌 준 플레이오프 1차전 경기결과는 어땠는가?
+  - <table>\n<tbody><tr>\n<td><b>팀</b>\n</td>\n<td><b>1</b>\n</td>\n<td><b>2</b>\n</td>\n<td><b>3</b>\n</td>\n<td><b>4</b>\n</td>\n<td><b>5</b>\n</td>\n<td><b>6</b>\n</td>\n<td><b>7</b>\n</td>\n<td><b>8</b>\n</td>\n<td><b>9</b>\n</td>\n<td><b>R</b>\n</td>\n<td><b>H</b>\n</td>\n<td><b>E</b>\n</td>\n<td><b>B</b>\n</td></tr>\n<tr>\n<td><a>두산 베어스</a>\n</td>\n<th>0</th>\n<th>2</th>\n<th>0\n</th>\n<th>0</th>\n<th>0</th>\n<th>0\n</th>\n<th>0</th>\n<th>0</th>\n<th>1\n</th>\n<td><b>3</b>\n</td>\n<td><b>9</b></td>\n<td><b>1</b>\n</td>\n<td><b>1</b>\n</td></tr>\n<tr>\n<td><a>넥센 히어로즈</a> ◄\n</td>\n<th>2</th>\n<th>0</th>\n<th>0\n</th>\n<th>0</th>\n<th>0</th>\n<th>1\n</th>\n<th>0</th>\n<th>0</th>\n<th>1\n</th>\n<td><b>4</b>\n</td>\n<td><b>8</b></td>\n<td><b>0</b>\n</td>\n<td><b>7</b>\n</td></tr>\n<tr>\n<td colspan="25"><span><b>승리 투수</b></span> : <span><a>손승락</a></span>  <span><b>패전 투수</b></span> : <span><a>윤명준</a>  <span><b>세이브</b></span> : <span>  <b>홀드</b> : <a>강윤구</a>, <a>한현희</a><br/><b>홈런</b> :<br/>  <b>넥센</b> – <a>박병호</a>(<a>더스틴 니퍼트</a> 상대로 1회 1점)\n</span></span></td></tr></tbody></table>
+- - 2013년 10월 11일 서울 잠실 야구장에서 벌어진 야구경기에서 두산 베어스의 상대팀은 어디였는가?
+  - <a>넥센 히어로즈</a>
+- - 2013년 한국프로야구 포스트시즌 준 플레이오프 1차전  두산 베어스 팀과 넥센 히어로즈팀의 경기에 온 관중수는 몇 명인가?
+  - <td>7,716명</td>
+- - 두산 베어스와 LG 트윈스의 2013년 한국프로야구 포스트시즌 2차전 경기에서 승리투수는 누구였나요?
+  - <span><a>레다메스 리즈</a></span> 
+- - 2013년 한국프로야구 포스트시즌 플레이오프 4차전에서 LG트윈스와 두산 베어스의 경기결과 승리투수로 선발된 사람은 누구일까요?
+  - <span><a>유희관</a></span> 

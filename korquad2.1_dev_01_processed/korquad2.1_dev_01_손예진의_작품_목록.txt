@@ -1,0 +1,9 @@
+categories:
+- 손예진의_작품_목록
+conversations:
+- - 손예진이 연기한 드라마는 뭐가 있을까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>방송사\n</th>\n<th>제목\n</th>\n<th>역할\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td rowspan="2">2001\n</td>\n<td rowspan="2"><a>MBC</a>\n</td>\n<td>《<a>맛있는 청혼</a>》\n</td>\n<td>장희애\n</td>\n<td>\n</td></tr>\n<tr>\n<td>《<a>선희 진희</a>》\n</td>\n<td>심선희\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2002\n</td>\n<td rowspan="2"><a>SBS</a>\n</td>\n<td rowspan="2">《<a>대망</a>》\n</td>\n<td rowspan="2">최동희\n</td>\n<td rowspan="2">\n</td></tr>\n<tr>\n<td rowspan="2">2003\n</td></tr>\n<tr>\n<td><a>KBS2</a>\n</td>\n<td>《<a>여름향기</a>》\n</td>\n<td>심혜원\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2006\n</td>\n<td><a>SBS</a>\n</td>\n<td>《<a>연애시대</a>》\n</td>\n<td>유은호\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2008\n</td>\n<td rowspan="2"><a>MBC</a>\n</td>\n<td>《<a>스포트라이트</a>》\n</td>\n<td>서우진\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2010\n</td>\n<td>《<a>개인의 취향</a>》\n</td>\n<td>박개인\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2011\n</td>\n<td><a>SBS</a>\n</td>\n<td>《<a>시크릿 가든</a>》\n</td>\n<td>본인 (톱스타 손예진)\n</td>\n<td>20화, 특별출연<sup><a>[2]</a></sup>\n</td></tr>\n<tr>\n<td>2013\n</td>\n<td><a>KBS2</a>\n</td>\n<td>《<a>상어</a>》\n</td>\n<td>조해우\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2018\n</td>\n<td><a>JTBC</a>\n</td>\n<td>《<a>밥 잘 사주는 예쁜 누나</a>》\n</td>\n<td>윤진아\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2019\n</td>\n<td><a>tvN</a>\n</td>\n<td>《<a>사랑의 불시착</a>》\n</td>\n<td>윤세리\n</td>\n<td>\n</td></tr></tbody></table>
+- - 손예진 배우가 2013년에 출연한 라디오 프로그램은 무엇인가?
+  - <a>두시탈출 컬투쇼</a>
+- - 손예진이 무릎팍도사에 출연한 회는 몇 회인가요?
+  - 64회

@@ -1,0 +1,5 @@
+categories:
+- 리얼_탈출_게임
+conversations:
+- - 리얼 탈출게임의 주최자는 누구야?
+  - 카토 타카오

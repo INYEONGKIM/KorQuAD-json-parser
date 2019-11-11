@@ -1,0 +1,5 @@
+categories:
+- 뱅상_보수
+conversations:
+- - 뱅상 보수가 처음으로 축구 선수 생활을 한 팀의 이름은?
+  - <a>마라나타 FC</a>

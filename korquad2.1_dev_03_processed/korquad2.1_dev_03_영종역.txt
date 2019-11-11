@@ -1,0 +1,5 @@
+categories:
+- 영종역
+conversations:
+- - 영종역의 승강장은 어디에 위치하고 있는가?
+  - 지상 1층

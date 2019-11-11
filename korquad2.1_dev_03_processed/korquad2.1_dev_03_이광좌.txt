@@ -1,0 +1,5 @@
+categories:
+- 이광좌
+conversations:
+- - 이광자의 시호는 무엇일까?
+  - 문충(文忠)

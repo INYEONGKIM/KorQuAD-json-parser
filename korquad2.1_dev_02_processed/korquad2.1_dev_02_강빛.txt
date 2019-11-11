@@ -1,0 +1,5 @@
+categories:
+- 강빛
+conversations:
+- - 강빛이 천국의 아이들에서 맡은 역할은 무엇인가?
+  - 박준구

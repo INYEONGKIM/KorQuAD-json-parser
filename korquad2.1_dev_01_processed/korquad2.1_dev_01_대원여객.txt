@@ -1,0 +1,5 @@
+categories:
+- 대원여객
+conversations:
+- - 대원여객에서운행하는 370번 버스는 몇명이 탈수 있을까?
+  - <td>35</td>

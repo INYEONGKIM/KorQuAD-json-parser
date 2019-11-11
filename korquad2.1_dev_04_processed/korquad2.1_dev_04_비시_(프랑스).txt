@@ -1,0 +1,5 @@
+categories:
+- 비시_(프랑스)
+conversations:
+- - 비시의 4월 평균 상대 습도는?
+  - 70

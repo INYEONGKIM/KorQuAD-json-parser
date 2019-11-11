@@ -1,0 +1,5 @@
+categories:
+- 제41회_봉황대기_전국고교야구대회
+conversations:
+- - 제41회 봉황대기 전국고교야구대회에서 개인상은 누가 어떤 상을 받았을까?
+  - <table>\n<tbody><tr>\n<th>부문</th>\n<th>수상자</th>\n<th>소속고교</th>\n<th>포지션</th>\n<th>비고\n</th></tr>\n<tr>\n<td>최우수선수상</td>\n<td><a>조현명</a></td>\n<td>군산상고</td>\n<td>투수</td>\n<td>-\n</td></tr>\n<tr>\n<td>우수투수상</td>\n<td><a>이윤후</a>, <a>조현명</a></td>\n<td>군산상고</td>\n<td>투수</td>\n<td>-\n</td></tr>\n<tr>\n<td>감투상</td>\n<td><a>류재인</a></td>\n<td>마산고</td>\n<td>투수</td>\n<td>-\n</td></tr>\n<tr>\n<td>수훈상</td>\n<td><a>김기운</a></td>\n<td>군산상고</td>\n<td>3루수</td>\n<td>-\n</td></tr>\n<tr>\n<td>타격상</td>\n<td><a>박재석</a></td>\n<td>마산고</td>\n<td>좌익수</td>\n<td>14타수 8안타(0.571)\n</td></tr>\n<tr>\n<td>최다타점</td>\n<td><a>김기운</a></td>\n<td>군산상고</td>\n<td>3루수</td>\n<td>9타점\n</td></tr>\n<tr>\n<td>최타안타</td>\n<td><a>김재호</a></td>\n<td>군산상고</td>\n<td>유격수</td>\n<td>9안타\n</td></tr>\n<tr>\n<td>최다홈런</td>\n<td><a>한지수</a></td>\n<td>중앙고</td>\n<td>3루수</td>\n<td>1홈런\n</td></tr>\n<tr>\n<td>최다도루</td>\n<td><a>이도윤</a></td>\n<td>북일고</td>\n<td>우익수</td>\n<td>5도루\n</td></tr>\n<tr>\n<td>감독상</td>\n<td>석수철<br/>이효근</td>\n<td>군산상고<br/>마산고</td>\n<td>-</td>\n<td>-\n</td></tr>\n</tbody></table>

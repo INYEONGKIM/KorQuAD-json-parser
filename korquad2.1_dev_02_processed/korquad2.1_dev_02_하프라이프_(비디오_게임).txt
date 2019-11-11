@@ -1,0 +1,9 @@
+categories:
+- 하프라이프_(비디오_게임)
+conversations:
+- - 하프라이프에서 사용되는 무기는 무엇이 있을까?
+  - <p>하프라이프 에서는 다양한 무기를 사용할 수 있는데, 가장 먼저 기본적으로 쇠지레(Crowbar)가 주어진다. 쇠지레는 주로 초반에 근접전이나 장애물을 부술 때 사용된다. 이외에도 <a>글록 17</a> 권총, <a>357 매그넘</a>, <a>SPAS-12</a> 산탄총, 유탄 발사기가 장착된 <a>헤클러&amp;코흐 MP5</a> 기관단총, <a>석궁</a>, <a>로켓 추진형 유탄</a>(RPG), 실험 무기인 타우 캐논, 글루온 발사기, 하이브 핸드, <a>수류탄</a>, 원격 폭탄, 레이저 감지형 함정 지뢰(Tripmine), 외계 생물 스나크를 사용할 수 있다.\n</p><p>하프라이프 HD 팩(Half-Life High Definition Pack)을 설치하면, 모델 안의 많은 수의 폴리곤으로 인해 무기의 외양이 업데이트되는데, 게임플레이에는 별다른 차이가 없다. <a>SPAS-12</a>의 경우 접철식 개머리판이 부착된 형태로 바뀌고 글록 17과 MP5는 각각 <a>베레타</a> 92FS와 <a>M4A1</a>로 교체된다.\n</p>
+- - 하프라이프의 챕터명은 무엇일까?
+  - <p>하프라이프는 19개의 챕터로 나뉘며, 당시대의 게임들과는 비교되게, 각 레벨의 목적을 달성하면 컷신과 함께 다음 레벨로 매끄럽지 않게 연결되는 것이 아닌, 마치 책을 넘기듯 자연스럽게 챕터들이 연결 되며 모든 것이 주인공의 눈을 통하여 보여지는 것이 특징이다. 이는 <a>확장</a><a>팩들</a>에도 적용되었으나, 유일하게 <a>하프라이프: 디케이</a> 에서는 레벨로 나뉜다. 다음은 각 챕터 명과 공식 한글번역 챕터명이다. 유저 제작 모드인 <a>블랙 메사 (비디오 게임)</a>에서는 한글 챕터명을 임의로 바꾸었으나 이 문서에서는 다루지 않는다.\n</p>\n<ol><li>블랙 메사 접근 중 (Black Mesa Inbound)</li>\n<li>이상 물질 (Anomalous Materials)</li>\n<li><a>예측하지 못한 결과</a> (Unforeseen Consequences)</li>\n<li>사무실 시설 (Office Complex)</li>\n<li>"적 출현" (We've Got Hostiles)</li>\n<li>블래스트 핏 (Blast Pit)</li>\n<li>파워 업 (Power Up)</li>\n<li>레일 위에서 (On A Rail)</li>\n<li>불안 (Apprehension)</li>\n<li>잔여물 처리 (Residue Processing)</li>\n<li>의심스러운 윤리 (Questionable Ethics)</li>\n<li>표면 장력 (Surface Tension)</li>\n<li>"프리맨은 잊어버려!" (Forget About Freeman!)</li>\n<li>람다 코어 (Lambda Core)</li>\n<li><a>젠</a> (Xen)</li>\n<li>고나크의 레어 (Gonarch's Lair)</li>\n<li>침입자 (Interloper)</li>\n<li>공허 (Nihilanth)</li>\n<li>최후의 게임 (End Game)</li></ol>
+- - 게임 하프라이프에서 게임 이용자가 수행하는 두가지는 무엇일까?
+  - 전투와 퍼즐 해결

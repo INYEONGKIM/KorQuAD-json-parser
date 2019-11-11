@@ -1,0 +1,5 @@
+categories:
+- 프링글스_MSL_Season_2
+conversations:
+- - 프링글스 MSL Season2의 16강 1경기에서 마재윤의 상대 선수는 누구일까?
+  - <a>박정길</a>

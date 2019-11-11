@@ -1,0 +1,5 @@
+categories:
+- 분성_배씨
+conversations:
+- - 분성 배씨의 시조는 누구일까?
+  - 배헌

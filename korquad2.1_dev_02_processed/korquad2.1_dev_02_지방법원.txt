@@ -1,0 +1,5 @@
+categories:
+- 지방법원
+conversations:
+- - 일본의 합의제는 몇 명의 재판관이 있어야 할까?
+  - 3인

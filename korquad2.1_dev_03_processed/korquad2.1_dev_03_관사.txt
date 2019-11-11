@@ -1,0 +1,5 @@
+categories:
+- 관사
+conversations:
+- - 카나 어에서 지시사의 위치는?
+  - 명사 뒤

@@ -1,0 +1,5 @@
+categories:
+- 도쿠가와_마사코
+conversations:
+- - 도쿠가와 마사코가 태어난 해는 언제야
+  - <a>1607년</a>

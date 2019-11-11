@@ -1,0 +1,5 @@
+categories:
+- 희재
+conversations:
+- - P-Type 겨냥 의혹을 받고있는 Rama의 곡 제목은 무엇인가요?
+  - Destroy Freestyle

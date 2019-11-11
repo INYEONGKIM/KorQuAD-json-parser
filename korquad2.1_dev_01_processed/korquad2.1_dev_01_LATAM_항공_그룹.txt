@@ -1,0 +1,5 @@
+categories:
+- LATAM_항공_그룹
+conversations:
+- - LATM 항공 그룹이 2013년에 탈퇴한 곳은 어디야?
+  - <a>스타 얼라이언스</a>

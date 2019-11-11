@@ -1,0 +1,5 @@
+categories:
+- 권정혁
+conversations:
+- - 권정혁이 2015시즌을 앞두고 이적한 곳은 어디인가?
+  - <a>광주 FC</a>

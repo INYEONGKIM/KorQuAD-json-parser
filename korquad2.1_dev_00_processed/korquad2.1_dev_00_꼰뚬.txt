@@ -1,0 +1,5 @@
+categories:
+- 꼰뚬
+conversations:
+- - 꼰뚬의 5월 평균 강수일수는 몇일입니까?
+  - 18.5

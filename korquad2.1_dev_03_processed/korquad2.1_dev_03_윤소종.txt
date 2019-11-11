@@ -1,0 +1,5 @@
+categories:
+- 윤소종
+conversations:
+- - 윤소종은 1365년 어떤 직위를 하사받았는가?
+  - 춘추수찬

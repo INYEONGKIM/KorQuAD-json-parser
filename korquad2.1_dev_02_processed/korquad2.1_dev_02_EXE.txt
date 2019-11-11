@@ -1,0 +1,5 @@
+categories:
+- EXE
+conversations:
+- - MZ 코드의 또 다른 명칭은 무엇인가?
+  - DOS stub

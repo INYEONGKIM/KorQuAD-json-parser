@@ -1,0 +1,5 @@
+categories:
+- 청춘불패의_에피소드_목록
+conversations:
+- - 예능 청춘불패가 방송되지 않았던 이유는 어떤 프로그램들 때문이었을까?
+  - <table>\n<tbody><tr>\n<th>결방일</th>\n<th>대체 프로그램\n</th></tr>\n<tr>\n<td colspan="2">청춘불패 1\n</td></tr>\n<tr>\n<td>2010년 4월 2일</td>\n<td>특선 영화 어거스트 러쉬\n</td></tr>\n<tr>\n<td>2010년 4월 16일</td>\n<td>특선 영화 너는 내 운명\n</td></tr>\n<tr>\n<td>2010년 9월 3일</td>\n<td>한국방송대상 수상작 TV 영화 추노\n</td></tr>\n<tr>\n<td>2010년 11월 12일</td>\n<td>광저우 아시안 게임 개막식 중계방송\n</td></tr>\n<tr>\n<td colspan="2">청춘불패 2\n</td></tr>\n<tr>\n<td>2011년 12월 24일</td>\n<td>2011 KBS 연예대상\n</td></tr>\n<tr>\n<td>2011년 12월 31일</td>\n<td>2011 KBS 연기대상\n</td></tr>\n<tr>\n<td>2012년 1월 21일</td>\n<td>설특선영화 위험한 상견례\n</td></tr>\n<tr>\n<td>2012년 2월 18일</td>\n<td>공사창립 특집 뮤직뱅크 파리 공연\n</td></tr>\n<tr>\n<td>2012년 7월 14일</td>\n<td>런던올림픽 축구 국가대표팀 평가전 대한민국 대 뉴질랜드 중계방송\n</td></tr>\n<tr>\n<td>2012년 8월 4일</td>\n<td>[2012 런던올림픽 여기는 런던] 탁구 남 단체 1R (한국:북한) 중계방송\n</td></tr>\n<tr>\n<td>2012년 10월 6일</td>\n<td>LG휘센 세계리듬체조 올스타 갈라쇼 2012 중계방송\n</td></tr>\n<tr>\n<td>2012년 10월 20일</td>\n<td>2012 프로야구 플레이오프 4차전 중계방송\n</td></tr>\n</tbody></table>

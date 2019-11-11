@@ -1,0 +1,5 @@
+categories:
+- 기동전사_건담_SEED
+conversations:
+- - 기동전사 건담 SEED의 주인공 이름이 뭐야?
+  - <a>키라</a>

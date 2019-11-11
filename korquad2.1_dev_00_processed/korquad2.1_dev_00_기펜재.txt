@@ -1,0 +1,5 @@
+categories:
+- 기펜재
+conversations:
+- - 기펜재의 이름을 지은 사람은 누구일까?
+  - <a>로버트 기펜</a>

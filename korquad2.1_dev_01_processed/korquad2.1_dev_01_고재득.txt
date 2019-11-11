@@ -1,0 +1,5 @@
+categories:
+- 고재득
+conversations:
+- - 제 5 지방 선거에서 고재득은 몇 표를 받았나요?
+  - <td>68,128표</td>

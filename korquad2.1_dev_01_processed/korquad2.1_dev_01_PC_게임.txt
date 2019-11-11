@@ -1,0 +1,5 @@
+categories:
+- PC_게임
+conversations:
+- - 텍스트 모험 게임 중 첫 게임의 이름이 뭐야?
+  - 어드벤처

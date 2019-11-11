@@ -1,0 +1,5 @@
+categories:
+- 애틀랜타_호크스
+conversations:
+- - 애틀랜타 호크스 영구 결번의 주인공들은 누구였을까?
+  - <table>\n<tbody><tr>\n<th>번호</th>\n<th>이름</th>\n<th>포지션</th>\n<th>활동 기간</th>\n<th>비고\n</th></tr>\n<tr>\n<td colspan="5"><span><b>애틀랜타 호크스</b></span>\n</td></tr>\n<tr>\n<td>9</td>\n<td>밥 페티트</td>\n<td>포워드</td>\n<td>1954년~1965년</td>\n<td><small>빈칸</small>\n</td></tr>\n<tr>\n<td>21</td>\n<td>도미니크 윌킨스</td>\n<td>포워드</td>\n<td>1983년~1994년</td>\n<td><small>빈칸</small>\n</td></tr>\n<tr>\n<td>23</td>\n<td>루 허드슨</td>\n<td>포워드</td>\n<td>1966년~1977년</td>\n<td><small>빈칸</small>\n</td></tr>\n<tr>\n<td>55</td>\n<td>디켐베 무톰보</td>\n<td>센터</td>\n<td>1996년~2001년</td>\n<td><small>빈칸</small>\n</td></tr>\n<tr>\n<td>59</td>\n<td>카심 리드</td>\n<td><small>빈칸</small></td>\n<td>2010년~2018년</td>\n<td>전 애틀랜타 시장\n</td></tr>\n<tr>\n<td><small>빈칸</small></td>\n<td>테드 터너</td>\n<td><small>빈칸</small></td>\n<td>1977년~2001년</td>\n<td>전 구단주\n</td></tr></tbody></table>

@@ -1,0 +1,7 @@
+categories:
+- 초전도_현상
+conversations:
+- - 초전도 현상은 어떻게 분류할 수 있는가?
+  - <ul><li>설명하는 이론을 기준:\n<ul><li><b>통상 초전도체</b>(通常-, <span><a>영어</a>: </span><span>conventional superconductor</span>, <a>BCS 이론</a>에서 설명이 되는 경우)</li>\n<li><b>이상 초전도체</b>(異常-, <span><a>영어</a>: </span><span>unconventional superconductor</span>, BCS 이론으로 설명이 안되는 경우)</li></ul></li>\n<li>임계 온도를 기준:\n<ul><li><b><a>고온 초전도체</a></b> (임계 온도가 액체 질소의 비등점 77 K보다 높은 경우)</li>\n<li><b><a>저온 초전도체</a></b> (임계 온도가 그보다 낮은 경우)</li></ul></li>\n<li>물질을 기준:\n<ul><li><a>단원자</a> (<a>수은</a>, <a>납</a> 등)</li>\n<li><a>합금</a> (<a>나이오븀</a>-<a>타이타늄</a>, <a>저마늄</a>-<a>나이오븀</a>)</li>\n<li><a>세라믹</a> (<a>YBCO</a>, <a>이붕화 마그네슘</a>)</li>\n<li><a>유기 초전도체</a> (<a>풀러렌</a>, <a>탄소 나노튜브</a> - 탄소 나노 튜브는 탄소만으로 이루어져 있기 때문에 단원자 계열에 넣어야 할 수도 있다.)</li></ul></li></ul>
+- - 전자는 어떤 것을 중심으로 에너지 값을 가지게 되는가?
+  - 페르미 에너지

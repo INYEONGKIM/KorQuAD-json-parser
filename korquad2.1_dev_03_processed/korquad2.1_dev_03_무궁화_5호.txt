@@ -1,0 +1,5 @@
+categories:
+- 무궁화_5호
+conversations:
+- - 무궁화 5호의 교신거리는 몇km인가?
+  - 6,000 km

@@ -1,0 +1,5 @@
+categories:
+- 달샤벳
+conversations:
+- - 달샤벳 정규 1집의 구성은 어떻습니까? 
+  - <table>\n<tbody><tr>\n<th>앨범\n</th>\n<th>앨범 정보\n</th>\n<th>트랙 리스트\n</th></tr>\n<tr>\n<th>1\n</th>\n<td><i><a>BANG BANG</a></i>\n<ul><li>발매일 : <a>2012년</a> <a>6월 6일</a></li></ul>\n</td>\n<td>\n<ul><li><small>01. ENTER Dal★shabet (Intro)</small></li>\n<li><small>02. 다가와 봐 (Feat. <a>낯선</a>)</small></li>\n<li><small><b>03. Mr. BangBang</b></small></li>\n<li><small>04. Girls Girls Girls (With. 메이커슬)</small></li>\n<li><small>05. Disco Time</small></li>\n<li><small>06. Love Shake</small></li>\n<li><small>07. 니가 없이 난...</small></li>\n<li><small>08. <a>Hit U</a> (Feat. Bigtone)</small></li>\n<li><small>09. <a>Supa Dupa Diva</a></small></li>\n<li><small>10. <a>핑크 로켓 (Pink Rocket)</a></small></li>\n<li><small>11. Many Boys</small></li>\n<li><small>12. <a>블링블링 (Bling Bling)</a></small></li>\n<li><small>13. Mirror</small></li>\n<li><small>14. Mr. BangBang (Inst.)</small></li></ul>\n</td></tr>\n</tbody></table>

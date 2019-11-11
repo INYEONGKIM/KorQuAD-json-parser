@@ -1,0 +1,9 @@
+categories:
+- AltGr_키
+conversations:
+- - 영국에서 AltGr를 이용하는 이유는?
+  - 특수 문자
+- - 원본 문서에서 보존이 된 해는 언제인가?
+  - 관 된 사
+- - Caps Lock키를 켜지 않은 상태에서 Shift키를 누르고 A/a를 입력했을 때 결과는?
+  - <td>A</td>

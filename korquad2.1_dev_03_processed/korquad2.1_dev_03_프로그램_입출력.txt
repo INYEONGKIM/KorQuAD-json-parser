@@ -1,0 +1,5 @@
+categories:
+- 프로그램_입출력
+conversations:
+- - 프로그램 입출력에 대해 PIO 모드별 호환되는 장치의 타이밍은 어떠할까?
+  - <table>\n<tbody><tr>\n<td>PIO 모드</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>6\n</td></tr>\n<tr>\n<td>GL819 타이밍\n</td>\n<td>399 <a>ns</a>\n</td>\n<td>249 <a>ns</a>\n</td>\n<td>183 <a>ns</a>\n</td>\n<td>133 <a>ns</a>\n</td>\n<td>83 <a>ns</a>\n</td></tr>\n<tr>\n<td>ATA 및 CF 규격 타이밍\n</td>\n<td>383 <a>ns</a>\n</td>\n<td>240 <a>ns</a>\n</td>\n<td>180 <a>ns</a>\n</td>\n<td>120 <a>ns</a>\n</td>\n<td>80 <a>ns</a>\n</td></tr></tbody></table>

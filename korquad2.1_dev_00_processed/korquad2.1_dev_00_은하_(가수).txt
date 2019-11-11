@@ -1,0 +1,7 @@
+categories:
+- 은하_(가수)
+conversations:
+- - 가수 은하의 음반 콜라보레이션 활동은?
+  - <table>\n<tbody><tr>\n<th>앨범 정보\n</th>\n<th>가수\n</th>\n<th>수록곡\n</th></tr>\n<tr>\n<td><b>Fall, in girl vol.1</b>\n<ul><li>발매일: 2016년 10월 12일</li></ul>\n</td>\n<td>은하<br/><a>황치열</a>\n</td>\n<td>\n<ul><li><b>반딧불이 (Firefly)</b> (Feat. <a>릴보이</a>)</li></ul>\n</td></tr>\n<tr>\n<td><b>왼손 오른손</b>\n<ul><li>발매일: 2017년 10월 26일</li></ul>\n</td>\n<td><a>천지</a><br/>은하\n</td>\n<td>\n<ul><li><b>왼손 오른손</b></li></ul>\n</td></tr>\n<tr>\n<td><b>THE LOVE OF SPRING</b>\n<ul><li>발매일: 2019년 4월 11일</li></ul>\n</td>\n<td>은하\n<p><a>라비</a>\n</p>\n</td>\n<td>\n<ul><li><b>BLOSSOM</b></li></ul>\n</td></tr></tbody></table>
+- - 가수 은하가 참여한 음반 활동 중 육룡이 나르샤 OST Part.7의 발매 연월일은 언제인가?
+  - 2016년 3월 7일

@@ -1,0 +1,5 @@
+categories:
+- 박래군
+conversations:
+- - 박래군이 나온 대학교는 어디인가?
+  - <a>연세대학교</a>

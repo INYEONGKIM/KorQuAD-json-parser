@@ -1,0 +1,7 @@
+categories:
+- Kt_위즈_연도별_선수_명단
+conversations:
+- - 한국의 프로야구팀 Kt 위즈의 연도별로 어떤 투수들이 있었나요?
+  - <table>\n<tbody><tr>\n<td><b>2015년</b>\n</td>\n<td><b>2016년</b>\n</td>\n<td><b>2017년</b>\n</td>\n<td><b>2018년</b>\n</td>\n<td><b>2019년</b>\n</td>\n<td><b>2020년</b>\n</td></tr>\n<tr>\n<td><a>고영표</a>\n</td>\n<td><a>고영표</a>\n</td>\n<td><a>고영표</a>\n</td>\n<td><a>고영표</a>\n</td></tr>\n<tr>\n<td><a>김재윤</a>\n</td>\n<td><a>김재윤</a>\n</td>\n<td><a>김재윤</a>\n</td>\n<td><a>김재윤</a>\n</td></tr>\n<tr>\n<td><a>심재민</a>\n</td>\n<td><a>심재민</a>\n</td>\n<td><a>심재민</a>\n</td>\n<td><a>심재민</a>\n</td></tr>\n<tr>\n<td><a>엄상백</a>\n</td>\n<td><a>엄상백</a>\n</td>\n<td><a>엄상백</a>\n</td>\n<td><a>엄상백</a>\n</td></tr>\n<tr>\n<td><a>옥스프링</a>\n</td>\n<td><a>피노</a>\n</td>\n<td><a>피어밴드</a>\n</td>\n<td><a>피어밴드</a>\n</td></tr>\n<tr>\n<td><a>장시환</a>\n</td>\n<td><a>장시환</a>\n</td>\n<td><a>배제성</a>\n</td>\n<td><a>배제성</a>\n</td></tr>\n<tr>\n<td><a>저마노</a>\n</td>\n<td><a>밴와트</a>\n</td>\n<td><a>로치</a>\n</td>\n<td><a>니퍼트</a>\n</td></tr>\n<tr>\n<td><a>정대현</a>\n</td>\n<td><a>정대현</a>\n</td>\n<td><a>류희운</a>\n</td>\n<td><a>류희운</a>\n</td></tr>\n<tr>\n<td><a>주권</a>\n</td>\n<td><a>주권</a>\n</td>\n<td><a>정성곤</a>\n</td>\n<td><a>정성곤</a>\n</td></tr>\n<tr>\n<td><a>조무근</a>\n</td>\n<td><a>조무근</a>\n</td>\n<td><a>강장산</a>\n</td>\n<td><a>강장산</a>\n</td></tr>\n<tr>\n<td><a>홍성용</a>\n</td>\n<td><a>홍성용</a>\n</td>\n<td><a>홍성용</a>\n</td>\n<td><a>홍성용</a>\n</td></tr></tbody></table>
+- - 2016년도에 Kt 위즈팀의 포수중에 가장 많이 출전한 선수는 누구인가?
+  - <a>이해창</a>

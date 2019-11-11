@@ -1,0 +1,9 @@
+categories:
+- K리그_연고지
+conversations:
+- - 1996년에 K리그 연고지에는 어떤 도시들이 있어?
+  - 안양, 부천, 천안, 수원
+- - 1988년 금호그룹 회장의 이름은 무엇일까?
+  - <a>박성용</a>
+- - 1991시즌의 리그 참가 구단별 연고지는?
+  - <table>\n<tbody><tr>\n<th>구단\n</th>\n<th>연고지\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>일화 천마\n</td>\n<td><div> 서울\n</div></td>\n<td>서울 도시 연고로 리그 참가(1989)\n</td></tr>\n<tr>\n<td>포항제철 아톰즈\n</td>\n<td><div> 포항\n</div></td>\n<td>대구+경북 ▶  포항(1990 / 1988)\n</td></tr>\n<tr>\n<td>대우 로얄즈\n</td>\n<td><div> 부산\n</div></td>\n<td>부산+경남 ▶  부산(1990 / 1989)\n</td></tr>\n<tr>\n<td>현대 호랑이\n</td>\n<td><div> 울산\n</div></td>\n<td>강원 ▶  울산(1990)\n</td></tr>\n<tr>\n<td>럭키금성 황소\n</td>\n<td><div> 충청\n</div></td>\n<td>충청 ▶  서울(1990)\n</td></tr>\n<tr>\n<td>유공 코끼리\n</td>\n<td><div> 서울\n</div></td>\n<td>인천+경기▶ 서울(1991)\n</td></tr></tbody></table>

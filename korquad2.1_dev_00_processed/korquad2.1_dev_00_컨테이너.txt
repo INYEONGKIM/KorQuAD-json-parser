@@ -1,0 +1,5 @@
+categories:
+- 컨테이너
+conversations:
+- - 컨테이너 종류에 따른 "공" 컨테이너와 "적" 컨테이너의 규격별 무게는?
+  - <table>\n<tbody><tr>\n<th>종류</th>\n<th>규격별</th>\n<th>“공” 컨테이너</th>\n<th>“적” 컨테이너\n</th></tr>\n<tr>\n<td rowspan="2">철제컨테이너(Standard)</td>\n<td>20′</td>\n<td>2.08 ~ 2.25</td>\n<td>20.32\n</td></tr>\n<tr>\n<td>40′</td>\n<td>3.88 ~ 4.05</td>\n<td>30.48\n</td></tr>\n<tr>\n<td rowspan="2">철제컨테이너(Hard Top)</td>\n<td>20′</td>\n<td>2.50 ~ 2.70</td>\n<td>20.32\n</td></tr>\n<tr>\n<td>40′</td>\n<td>3.90 ~ 4.10</td>\n<td>30.48\n</td></tr>\n<tr>\n<td rowspan="2">알미늄 컨테이너</td>\n<td>20′</td>\n<td>2.08</td>\n<td>20.32\n</td></tr>\n<tr>\n<td>40′</td>\n<td>2.91 ~ 3.09</td>\n<td>30.48\n</td></tr></tbody></table>

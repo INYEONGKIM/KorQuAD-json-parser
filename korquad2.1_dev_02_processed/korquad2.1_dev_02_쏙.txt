@@ -1,0 +1,5 @@
+categories:
+- 쏙
+conversations:
+- - 쏙의 굴 중 깊은 것은 몇 m를 넘어가는가?
+  - 2 m

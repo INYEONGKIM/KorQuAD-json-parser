@@ -1,0 +1,5 @@
+categories:
+- 요코하마_중화가
+conversations:
+- - 간토에서 큰 지진이 일어났던 년도는?
+  - <a>1923년</a>

@@ -1,0 +1,13 @@
+categories:
+- 2009년_FIFA_U-17_월드컵
+conversations:
+- - 2009년 FIFA U-17 월드컵의 본선 경기에 진출한 팀은 어떤 팀들인가?
+  - <table>\n<tbody><tr>\n<th>연맹\n</th>\n<th>예선\n</th>\n<th>본선 진출 팀\n</th></tr>\n<tr>\n<td><a>AFC (아시아)</a>\n</td>\n<td><a>2008년 AFC U-16 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>이란</a><br/><span><a><img></a></span> <a>대한민국</a><br/><span><a><img></a></span> <a>일본</a><br/><span><a><img></a></span> <a>아랍에미리트</a>\n</td></tr>\n<tr>\n<td><a>CAF (아프리카)</a>\n</td>\n<td><a>2009년 아프리카 U-17 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>알제리</a>^<br/><span><a><img></a></span> <a>부르키나파소</a><br/><span><a><img></a></span> <a>감비아</a><br/><span><a><img></a></span> <a>말라위</a>^\n</td></tr>\n<tr>\n<td><a>CONCACAF (북중미&amp;카리브)</a>\n</td>\n<td><a>2009년 CONCACAF U-17 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>코스타리카</a><br/><span><a><img></a></span> <a>온두라스</a><br/><span><a><img></a></span> <a>멕시코</a><br/><span><a><img></a></span> <a>미국</a>\n</td></tr>\n<tr>\n<td><a>CONMEBOL (남아메리카)</a>\n</td>\n<td><a>2009년 남아메리카 U-17 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>아르헨티나</a><br/><span><a><img></a></span> <a>브라질</a><br/><span><a><img></a></span> <a>콜롬비아</a><br/><span><a><img></a></span> <a>우루과이</a>\n</td></tr>\n<tr>\n<td><a>OFC (오세아니아)</a>\n</td>\n<td><a>2009년 OFC U-17 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>뉴질랜드</a>\n</td></tr>\n<tr>\n<td><a>UEFA (유럽)</a>\n</td>\n<td><a>2009년 UEFA U-17 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>독일</a><br/><span><a><img></a></span> <a>이탈리아</a><br/><span><a><img></a></span> <a>네덜란드</a><br/><span><a><img></a></span> <a>스페인</a><br/><span><a><img></a></span> <a>스위스</a>^<br/><span><a><img></a></span> <a>터키</a>\n</td></tr>\n<tr>\n<td colspan="2"><b>개최국</b>\n</td>\n<td><span><a><img></a></span> <a>나이지리아</a>\n</td></tr></tbody></table>
+- - 2009년 FIFA U-17 월드컵에서 아디다스 골든 볼을 수상한 선수는 누구일까?
+  - <a>사니 이매뉴얼</a>
+- - 2009년 FIFA U-17월드컵 A조 경기에서 4등을 한팀은 어디일까?
+  - <a>온두라스</a>
+- - 2009년 FIFA U-17 월드컵 B조 리그에서 가장 높은 승점을 기록한 팀은?
+  - <a>스위스</a>
+- - 2009년 FIFA U-17 월드컵의 조별 리그에서 대한민국은 몇 번 졌나요?
+  - <td>1</td>

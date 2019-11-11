@@ -1,0 +1,5 @@
+categories:
+- 빙수
+conversations:
+- - 빙수는 어느나라에서 시작된 음식일까?
+  - <a>중국</a>

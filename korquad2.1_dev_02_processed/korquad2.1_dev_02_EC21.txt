@@ -1,0 +1,5 @@
+categories:
+- EC21
+conversations:
+- - EC21는 어떻게 변천했을까?
+  - <ul><li>2012년 글로벌 뉴미디어마케팅 브랜드 <a>MOZZ</a> 런칭</li>\n<li>2010년 UN<a>세계식량계획</a>(World Food Programme)과 기업파트너 협약 체결</li>\n<li>2008년 <a>유럽연합</a>(EU) 집행위원회 주관 EU Gateway Programme 한국 사무국 운영개시</li>\n<li>2004년 제8회 한국 e-비즈니스 대상 산업자원부 장관상 수상</li>\n<li>2003년 산업자원부 e-무역상사 선정</li>\n<li>2002년 제3회 eTrade상 수상</li>\n<li>2001년 외국인 투자기업 등록</li>\n<li>2000년 (美) MeetWorldTrade社와 사업제휴 및 투자유치</li>\n<li>2000년 <a>한국무역협회</a>로부터 분사</li>\n<li>1997년 <a>한국무역협회</a> 전자거래알선 서비스 EC21 오픈</li></ul>

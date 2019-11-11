@@ -1,0 +1,5 @@
+categories:
+- 팔레트_(컴퓨팅)
+conversations:
+- - 컬러 팔레트가 컴퓨팅에서 쓰이는 의미는 무엇이 있는가?
+  - <ul><li>발생/관리가 가능한 총 색들의 수\n<ul><li>풀 팔레트(full palette): 이를테면 <a>하이컬러</a> 디스플레이는 16비트 RGB 팔레트를 소유한다고 할 수 있다.</li></ul></li>\n<li>동시에 표시 가능하면서도, 제한되어 선별된 색들\n<ul><li>완전한 화면:\n<ul><li>고정 팔레트(fixed palette) 선별</li>\n<li>선정/선택된 색</li>\n<li>기본 팔레트(default palette)/시스템 팔레트(system palette)</li></ul></li></ul></li>\n<li>개별 그림:\n<ul><li>색상표(color table) 또는 컬러 맵(color map)</li>\n<li>이미지 팔레트(image palette) 또는 이미지 색(image color)</li></ul></li>\n<li>동시 색을 보유하는데 사용되는 기반 하드웨어\n<ul><li>하드웨어 팔레트 또는 <a>CLUT</a>(Color Look-Up Table)</li></ul></li></ul>

@@ -1,0 +1,5 @@
+categories:
+- 5000m_달리기
+conversations:
+- - IAAF 이전의 5000m 달리기 남자 경기에서 Alfred Shrubb가 달성한 경기 결과는 몇 초인가?
+  - 14분 59초 0

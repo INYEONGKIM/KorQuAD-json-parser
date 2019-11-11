@@ -1,0 +1,5 @@
+categories:
+- 진화운수
+conversations:
+- - 진화운수의운행 노선 중 광화문 까지 가는 운행 노선은?
+  - <td><b>402번</b></td>

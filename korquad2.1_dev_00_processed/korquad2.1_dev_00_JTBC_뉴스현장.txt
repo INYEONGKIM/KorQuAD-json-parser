@@ -1,0 +1,7 @@
+categories:
+- JTBC_뉴스현장
+conversations:
+- - JTBC 뉴스현장의 역대 평일 진행자로 누가 있는가?
+  - <table>\n<tbody><tr>\n<th>기수</th>\n<th colspan="3">진행자</th>\n<th>진행 기간\n</th></tr>\n<tr>\n<th>1기\n</th>\n<td colspan="3"><a>성문규</a>,<a>이지은</a></td>\n<td><a>2014년</a> <a>6월 16일</a> ~ <a>2014년</a> <a>9월 19일</a>\n</td></tr>\n<tr>\n<th>2기\n</th>\n<td colspan="3"><a>박성준</a>,<a>송민교</a></td>\n<td><a>2014년</a> <a>9월 22일</a> ~ <a>2015년</a> <a>1월 2일</a>\n</td></tr>\n<tr>\n<th>3기\n</th>\n<td colspan="3"><a>박성태</a>,<a>송민교</a></td>\n<td><a>2015년</a> <a>1월 5일</a> ~ <a>2015년</a> <a>7월 10일</a>\n</td></tr>\n<tr>\n<th>4기\n</th>\n<td colspan="3"><a>박성준</a>,<a>송민교</a></td>\n<td><a>2015년</a> <a>7월 13일</a> ~ <a>2015년</a> <a>12월 31일</a>\n</td></tr>\n<tr>\n<th>5기\n</th>\n<td colspan="3"><a>김종혁</a>,<a>송민교</a></td>\n<td><a>2016년</a> <a>1월 4일</a> ~ <a>2016년</a> <a>4월 1일</a>\n</td></tr>\n<tr>\n<th>6기\n</th>\n<td colspan="3"><a>김종혁</a></td>\n<td><a>2016년</a> <a>4월 4일</a> ~ <a>2018년</a> <a>9월 28일</a>\n</td></tr>\n<tr>\n<th>7기\n</th>\n<td colspan="3"><a>성문규</a></td>\n<td><a>2018년</a> <a>10월 1일</a> ~ <a>2019년</a> <a>4월 12일</a>\n</td></tr></tbody></table>
+- - JTBC 뉴스현장이 2015년 2월 2일부터 같은 해 7월 10일까지 평일 75분간 방송된 시간대는 언제인가?
+  - 오후 2:25 ~ 3:40

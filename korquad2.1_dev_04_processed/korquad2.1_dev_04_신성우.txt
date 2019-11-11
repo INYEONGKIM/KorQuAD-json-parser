@@ -1,0 +1,9 @@
+categories:
+- 신성우
+conversations:
+- - 신성우가 일본으로 가서 활동을 시작하게 된 년도는 언제일까?
+  - 2006년
+- - 배우 신성우가 출연한 연도별 뮤지컬 작품 현황은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>연도</th>\n<th>제목</th>\n<th>역할</th>\n<th>장소\n</th></tr>\n<tr>\n<td>1998</td>\n<td>드라큘라 초연</td>\n<td>드라큘라</td>\n<td>예술의 전당 오페라 하우스\n</td></tr>\n<tr>\n<td>1999</td>\n<td>Rock 햄릿</td>\n<td>햄릿</td>\n<td>호암 아트홀\n</td></tr>\n<tr>\n<td>2000</td>\n<td>드라큘라 재연</td>\n<td>드라큘라</td>\n<td>국립극장 대극장\n</td></tr>\n<tr>\n<td>2006</td>\n<td>드라큘라 삼연</td>\n<td>드라큘라</td>\n<td>한전 아트센타\n</td></tr>\n<tr>\n<td>2009</td>\n<td>삼총사</td>\n<td>아토스</td>\n<td>충무 아트홀\n</td></tr>\n<tr>\n<td>2011~2014</td>\n<td>삼총사 재연,삼연</td>\n<td>아토스</td>\n<td>세종문화회관 대극장,충무아트홀\n</td></tr>\n<tr>\n<td>2011~2013</td>\n<td>잭 더 리퍼</td>\n<td>잭</td>\n<td>성남아트센타,국립극장,디큐브아트센타\n</td></tr>\n<tr>\n<td>2012</td>\n<td>롹 오브 에이지</td>\n<td>스테이시 잭스</td>\n<td>우리금융아트홀\n</td></tr>\n<tr>\n<td>2012</td>\n<td>모차르트 오페라 락</td>\n<td>레오폴드 모차르트</td>\n<td>계명아트센타,성남아트센타\n</td></tr>\n<tr>\n<td>2015</td>\n<td>체스</td>\n<td>프레디 트럼퍼</td>\n<td>세종문화회관대극장\n</td></tr>\n<tr>\n<td>2015~2016</td>\n<td>바람과 함께 사라지다</td>\n<td>레트 버틀러</td>\n<td>샤롯데시어터\n</td></tr>\n<tr>\n<td>2016</td>\n<td>하루</td>\n<td>크로노스</td>\n<td>도쿄 메이지좌\n</td></tr>\n<tr>\n<td>2018</td>\n<td>삼총사10주년 기념공연</td>\n<td>아토스</td>\n<td>한전아트센타\n</td></tr>\n<tr>\n<td>2018</td>\n<td>바람과 함께 사라지다</td>\n<td>레트 버틀러</td>\n<td>샤롯데씨어터\n</td></tr>\n<tr>\n<td>2019</td>\n<td>잭더리퍼10주년 기념공연</td>\n<td>연출 및 잭 역</td>\n<td>우리금융아트홀\n</td></tr>\n<tr>\n<td>2019</td>\n<td>메피스토</td>\n<td>파우스트,메피스토(1인2역)</td>\n<td>광림bbch홀\n</td></tr></tbody></table>
+- - 배우 신성우는 1994년에 서시라는 노래로 몇번 1위했어?
+  - 2회

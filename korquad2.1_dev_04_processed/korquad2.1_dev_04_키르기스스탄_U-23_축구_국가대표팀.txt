@@ -1,0 +1,7 @@
+categories:
+- 키르기스스탄_U-23_축구_국가대표팀
+conversations:
+- - 키르기스스탄 U-23 축구 국가대표팀은 아시안 게임에서 어떤 성적을 거둬왔을까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>결과\n</th>\n<th>경기\n</th>\n<th>승\n</th>\n<th>무\n</th>\n<th>패\n</th>\n<th>득점\n</th>\n<th>실점\n</th></tr>\n<tr>\n<td colspan="9">모든 연령의 선수 참가에서 23세 이하로 변경<sup><a>[2]</a></sup>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>2002년</a></td>\n<td colspan="7"><i>불참</i>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>2006년</a></td>\n<td>조별예선</td>\n<td>3</td>\n<td>1</td>\n<td>0</td>\n<td>2</td>\n<td>3</td>\n<td>5\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>2010년</a></td>\n<td>조별예선</td>\n<td>3</td>\n<td>0</td>\n<td>0</td>\n<td>3</td>\n<td>2</td>\n<td>7\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>2014년</a></td>\n<td>16강</td>\n<td>3</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>1</td>\n<td>4\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>2018년</a></td>\n<td>?</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>\n</td></tr>\n<tr>\n<td><b>합계</b></td>\n<td>3/4</td>\n<td>9</td>\n<td>1</td>\n<td>1</td>\n<td>7</td>\n<td>6</td>\n<td>16\n</td></tr></tbody></table>
+- - 키르기스스탄 U-23 축구 국가대표팀은 2014년  AFC U-23 선수권 대회에서 어떤 결과를 기록했는가?
+  - <i>예선 탈락</i>

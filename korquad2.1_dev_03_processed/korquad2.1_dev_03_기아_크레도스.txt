@@ -1,0 +1,7 @@
+categories:
+- 기아_크레도스
+conversations:
+- - 기아 크레도스 2의 모델별 차량 정보는 어떻게 될까?
+  - <table>\n<tbody><tr>\n<th>구분\n</th>\n<th>1.8ℓ DOHC\n</th>\n<th>2.0ℓ SOHC\n</th>\n<th>2.0ℓ DOHC\n</th>\n<th>V6 2.0ℓ DOHC\n</th></tr>\n<tr>\n<th>엔진 형식\n</th>\n<td>T8D\n</td>\n<td>FE\n</td>\n<td>FE DOHC\n</td>\n<td>KZ\n</td></tr>\n<tr>\n<th>연료\n</th>\n<td>가솔린\n</td>\n<td>가솔린\n</td>\n<td>가솔린\n</td>\n<td>가솔린\n</td></tr>\n<tr>\n<th>배기량(cc)\n</th>\n<td>1,793\n</td>\n<td>1,998\n</td>\n<td>1,998\n</td>\n<td>1,996\n</td></tr>\n<tr>\n<th>최고출력(ps/rpm)\n</th>\n<td>130/6,000\n</td>\n<td>110/5,200\n</td>\n<td>146/6,000\n</td>\n<td>150/6,500\n</td></tr>\n<tr>\n<th>최대토크(kg*m/rpm)\n</th>\n<td>17.0/4,000\n</td>\n<td>17.4/2,500\n</td>\n<td>19.0/4,000\n</td>\n<td>19.2/4,500\n</td></tr>\n<tr>\n<th>연비(km/l)\n</th>\n<td>12.8(수동)/<br/>11.0(자동)\n</td>\n<td>12.5(수동)/<br/>11.2(자동)\n</td>\n<td>12.6(수동)/<br/>10.5(자동)\n</td>\n<td>9.4(자동)\n</td></tr>\n</tbody></table>
+- - 파크타운의 2.0l DOHC의 연료는 무엇일까?
+  - 가솔린

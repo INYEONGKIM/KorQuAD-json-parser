@@ -1,0 +1,5 @@
+categories:
+- 이광우_(야구인)
+conversations:
+- - 이광우의 통산 타격은 어떨까?
+  - <table>\n<tbody><tr>\n<th>년도</th>\n<th>팀</th>\n<th>타율</th>\n<th>경기수</th>\n<th>타수</th>\n<th>안타</th>\n<th>2루타</th>\n<th>3루타</th>\n<th>홈런</th>\n<th>타점</th>\n<th>득점</th>\n<th>도루</th>\n<th>도루실패</th>\n<th>4사구</th>\n<th>삼진</th>\n<th>병살타</th>\n<th>희생타</th>\n<th>장타율\n</th></tr>\n<tr>\n<td>1992</td>\n<td><a>OB</a></td>\n<td>0.00</td>\n<td>1</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0.00\n</td></tr>\n<tr>\n<td>2000</td>\n<td><a>두산</a></td>\n<td>1.00</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>1.00\n</td></tr>\n<tr>\n<td><b>통산</b></td>\n<td><b>2시즌</b></td>\n<td><b>0.50</b></td>\n<td>2</td>\n<td>2</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>0</td>\n<td>0.50\n</td></tr></tbody></table>

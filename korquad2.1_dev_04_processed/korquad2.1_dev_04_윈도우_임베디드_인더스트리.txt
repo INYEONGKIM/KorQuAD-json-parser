@@ -1,0 +1,5 @@
+categories:
+- 윈도우_임베디드_인더스트리
+conversations:
+- - 380MB의 HDD를 가진 윈도우 OS는 무엇일까?
+  - Windows Embedded for Point of Service<sup><a>

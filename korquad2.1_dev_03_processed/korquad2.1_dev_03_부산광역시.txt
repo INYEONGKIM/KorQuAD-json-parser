@@ -1,0 +1,15 @@
+categories:
+- 부산광역시
+conversations:
+- - 2011년에 통계청의 발표에 의하면 부산시민의 GNI는 얼마야?
+  - 14,844,000원
+- - 인조 21년은 서기 몇 년일까?
+  - <a>1643년</a>
+- - 부산광역시로 불리게 된 것은 언제부터일까?
+  - 1995년 1월 1
+- - 부산광역시의 구군별 넓이와 세대수 및 인구수 정보는?
+  - <table>\n<tbody><tr>\n<th>자치구·군</th>\n<th>한자</th>\n<th>세대</th>\n<th>인구 (명)</th>\n<th>면적 (km<sup>2</sup>)\n</th></tr>\n<tr>\n<td><b><a>중구</a></b></td>\n<td>中區</td>\n<td>23,515</td>\n<td>49,101</td>\n<td>2.82\n</td></tr>\n<tr>\n<td><b><a>서구</a></b></td>\n<td>西區</td>\n<td>53,360</td>\n<td>118,949</td>\n<td>13.88\n</td></tr>\n<tr>\n<td><b><a>동구</a></b></td>\n<td>東區</td>\n<td>43,738</td>\n<td>95,599</td>\n<td>9.78\n</td></tr>\n<tr>\n<td><b><a>영도구</a></b></td>\n<td>影島區</td>\n<td>56,537</td>\n<td>133,086</td>\n<td>14.13\n</td></tr>\n<tr>\n<td><b><a>부산진구</a></b></td>\n<td>釜山鎭區</td>\n<td>165,557</td>\n<td>389,134</td>\n<td>29.69\n</td></tr>\n<tr>\n<td><b><a>동래구</a></b></td>\n<td>東萊區</td>\n<td>106,768</td>\n<td>275,389</td>\n<td>16.63\n</td></tr>\n<tr>\n<td><b><a>남구</a></b></td>\n<td>南區</td>\n<td>114,720</td>\n<td>290,163</td>\n<td>26.62\n</td></tr>\n<tr>\n<td><b><a>북구</a></b></td>\n<td>北區</td>\n<td>116,062</td>\n<td>307,504</td>\n<td>39.44\n</td></tr>\n<tr>\n<td><b><a>강서구</a></b></td>\n<td>江西區</td>\n<td>34,489</td>\n<td>89,056</td>\n<td>179.14\n</td></tr>\n<tr>\n<td><b><a>해운대구</a></b></td>\n<td>海雲臺區</td>\n<td>162,981</td>\n<td>428,054</td>\n<td>51.46\n</td></tr>\n<tr>\n<td><b><a>사하구</a></b></td>\n<td>沙下區</td>\n<td>134,922</td>\n<td>346,753</td>\n<td>40.95\n</td></tr>\n<tr>\n<td><b><a>금정구</a></b></td>\n<td>金井區</td>\n<td>100,817</td>\n<td>251,749</td>\n<td>65.18\n</td></tr>\n<tr>\n<td><b><a>연제구</a></b></td>\n<td>蓮堤區</td>\n<td>83,256</td>\n<td>208,698</td>\n<td>12.08\n</td></tr>\n<tr>\n<td><b><a>수영구</a></b></td>\n<td>水營區</td>\n<td>75,146</td>\n<td>180,894</td>\n<td>10.20\n</td></tr>\n<tr>\n<td><b><a>사상구</a></b></td>\n<td>沙上區</td>\n<td>96,870</td>\n<td>246,313</td>\n<td>36.06\n</td></tr>\n<tr>\n<td><b><a>기장군</a></b></td>\n<td>機張郡</td>\n<td>57,863</td>\n<td>150,213</td>\n<td>218.06\n</td></tr>\n<tr>\n<th>부산광역시</th>\n<th>釜山廣域市</th>\n<th>1,430,441</th>\n<th>3,527,491</th>\n<th>769.82\n</th></tr></tbody></table>
+- - 부산의 k리그2에서 활동하는 부산 아이파크팀은 몇년도에 창단되었을까?
+  - <td><a>1983년</a></td>
+- - 1월 부산의 평균 최고 기온은 섭씨 몇도입니까?
+  - 7.8

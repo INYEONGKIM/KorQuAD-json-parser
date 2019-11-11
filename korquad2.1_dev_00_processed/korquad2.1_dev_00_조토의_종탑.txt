@@ -1,0 +1,5 @@
+categories:
+- 조토의_종탑
+conversations:
+- - 조토의 종탑은 언제 완성되었을까?
+  - 1395년

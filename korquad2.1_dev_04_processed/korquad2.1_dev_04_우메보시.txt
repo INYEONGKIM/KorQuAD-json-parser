@@ -1,0 +1,5 @@
+categories:
+- 우메보시
+conversations:
+- - 우메보시가 붉은 색을 띄게 된 것은 언제부터일까?
+  - 에도 시대

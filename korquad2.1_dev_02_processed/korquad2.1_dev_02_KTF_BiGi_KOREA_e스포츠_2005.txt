@@ -1,0 +1,5 @@
+categories:
+- KTF_BiGi_KOREA_e스포츠_2005
+conversations:
+- - KTF BiGi KOREA e스포츠 2005에서 스타크래프트의 우승 상금은 얼마인가요?
+  - <b>40,000,000원</b>

@@ -1,0 +1,7 @@
+categories:
+- 신칸센_E2계_전동차
+conversations:
+- - 신칸센 E2계 전동차는 어떤 객차 구성을 가지고 있을까?
+  - <table>\n<tbody><tr>\n<th>호차\n</th>\n<th>1\n</th>\n<th>2\n</th>\n<th>3\n</th>\n<th>4\n</th>\n<th>5\n</th>\n<th>6\n</th>\n<th>7\n</th>\n<th>8\n</th>\n<th>9\n</th>\n<th>10\n</th></tr>\n<tr>\n<th>명칭\n</th>\n<td>T1c\n</td>\n<td>M2\n</td>\n<td>M1\n</td>\n<td>M2\n</td>\n<td>M1k\n</td>\n<td>M2\n</td>\n<td>M1\n</td>\n<td>M2\n</td>\n<td>M1s\n</td>\n<td>T2c\n</td></tr>\n<tr>\n<th>번호\n</th>\n<td>E223\n</td>\n<td>E226-100\n</td>\n<td>E225\n</td>\n<td>E226-200\n</td>\n<td>E225-400\n</td>\n<td>E226-300\n</td>\n<td>E225-100\n</td>\n<td>E226-400\n</td>\n<td>E215\n</td>\n<td>E224-100\n</td></tr>\n<tr>\n<th>좌석\n</th>\n<td>55\n</td>\n<td>100\n</td>\n<td>85\n</td>\n<td>100\n</td>\n<td>75\n</td>\n<td>100\n</td>\n<td>85\n</td>\n<td>100\n</td>\n<td>51\n</td>\n<td>64\n</td></tr></tbody></table>
+- - 신칸센 E2계 전동차의 8호차에는 총 몇 개의 좌석이 있는가?
+  - 64

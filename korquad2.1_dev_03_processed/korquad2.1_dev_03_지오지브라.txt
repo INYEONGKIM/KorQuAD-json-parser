@@ -1,0 +1,5 @@
+categories:
+- 지오지브라
+conversations:
+- - 지오지브라는 어떻게 탄생하게되었어?
+  - <p>지오지브라는 2002년 오스트리아 잘츠부르크의 마르쿠스 호헨바터에 의해 개발되었다. 그는 자신의 석사논문 주제로 DGS(Dynamic Geometry Software)와 CAS(Computer Algebra System)가 결합된 기능을 갖는 소프트웨어를 구현하였다. 2002년 그가 인터넷을 통하여 지오지브라를 공개하자, 오스트리아와 독일의 수학 교사들은 지오지브라를 수학지도에 활용하기 시작하였다. 같은 해 지오지브라는 EASA(European Academic Software Award)를 수상하였고, 이후 지오지브라의 개발은 Austria Academy of Science의 지원 하에 마르쿠스 호헨바터의 박사 논문 프로젝트로 진행되었다. 2006년 이후로 지오지브라의 개발은 미국의 플로리다 아틀란틱 대학에서 계속되었고, 그 곳에서 마르쿠스 호헨바터 박사는 미국 과학 재단(NSF; National Science Foundation)의 지원 하에 교사 연수 프로그램을 진행하였다. 현재는 오스트리아의 요하네스 케플러 대학에서 지오지브라의 개발과 커뮤니티를 지원하고 있다<sup><a>[2]</a></sup>.\n</p>

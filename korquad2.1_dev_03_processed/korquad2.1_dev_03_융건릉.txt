@@ -1,0 +1,5 @@
+categories:
+- 융건릉
+conversations:
+- - 건릉은 누구의 무덤이야?
+  - <a>정조</a>와 <a>효의왕후</a>

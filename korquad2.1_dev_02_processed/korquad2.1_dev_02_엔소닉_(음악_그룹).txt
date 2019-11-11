@@ -1,0 +1,7 @@
+categories:
+- 엔소닉_(음악_그룹)
+conversations:
+- - 엔소닉의 멤버들은 어떤 사람일까?
+  - <table>\n<tbody><tr>\n<th>이름\n</th>\n<th>소개\n</th></tr>\n<tr>\n<td><b>은호</b>\n</td>\n<td>\n<ul><li>본명 : 김인석</li>\n<li>생년월일 : 1989년 5월 30일<span>(<span>1989-05-30</span>)</span> (30세)</li>\n<li>출생지 : <span><a><img></a></span> <a>대한민국</a></li>\n<li>포지션 : 서브보컬<sup><a>[4]</a></sup></li>\n<li>활동기간 : <a>2011년</a> <a>10월</a> ~ <a>2012년</a></li></ul>\n</td></tr>\n<tr>\n<td><b>종욱</b>\n</td>\n<td>\n<ul><li>본명 : 박종욱</li>\n<li>생년월일 : 1990년 2월 26일<span>(<span>1990-02-26</span>)</span> (29세)</li>\n<li>출생지 : <span><a><img></a></span> <a>대한민국</a></li>\n<li>포지션 : 서브보컬<sup><a>[4]</a></sup></li>\n<li>활동기간 : <a>2011년</a> <a>10월</a> ~ <a>2012년</a></li></ul>\n</td></tr>\n<tr>\n<td><b>연준</b>\n</td>\n<td>\n<ul><li>본명 : 김동현</li>\n<li>생년월일 : 1993년 4월 12일<span>(<span>1993-04-12</span>)</span> (26세)</li>\n<li>출생지 : <span><a><img></a></span> <a>대한민국</a></li>\n<li>포지션 : 리드래퍼<sup><a>[7]</a></sup></li>\n<li>활동기간 : <a>2012년</a></li></ul>\n</td></tr></tbody></table>
+- - 그룹 엔소닉의 노래 중에서 놓지 않을게 노래가 수록 되어 있는 앨범 정보는?
+  - 《<b>We are SuperBoys</b>》\n<ul><li>발매일: <a>2011년</a> <a>10월 6일</a></li></ul>

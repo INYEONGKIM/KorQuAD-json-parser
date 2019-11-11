@@ -1,0 +1,5 @@
+categories:
+- 블리치
+conversations:
+- - 블리치에 나오는 주인공의 이름은?
+  - <a>쿠로사키 이치고</a>

@@ -1,0 +1,5 @@
+categories:
+- 가욕관
+conversations:
+- - 가욕관의 둘레는 몇 m 인가요?
+  - 733m

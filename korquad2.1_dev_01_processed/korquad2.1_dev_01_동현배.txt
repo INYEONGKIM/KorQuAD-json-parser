@@ -1,0 +1,7 @@
+categories:
+- 동현배
+conversations:
+- - 동현배가 출연한 드라마는 뭐가 있을까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>제목\n</th>\n<th>역할\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td rowspan="3">2019\n</td>\n<td><a>사회인</a>\n</td>\n<td>대성\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>그래서 나는 안티팬과 결혼했다</a>\n</td>\n<td>한재원\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>트랩</a>\n</td>\n<td>서 기자\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">2018\n</td>\n<td><a>황후의 품격</a>\n</td>\n<td>형사\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>팩 투더 퓨쳐</a>\n</td>\n<td>연하남\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2017\n</td>\n<td><a>최고의 한방</a>\n</td>\n<td>MC드릴\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2016\n</td>\n<td><a>청춘시대</a>\n</td>\n<td>주방보조\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2015\n</td>\n<td><a>KBS 드라마 스페셜</a> - 노량진역에는 기차가 서지않는다\n</td>\n<td>영훈\n</td>\n<td>\n</td></tr>\n<tr>\n<td>2013\n</td>\n<td><a>낯선 사람</a>\n</td>\n<td>\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">2012\n</td>\n<td><a>닥치고 꽃미남 밴드</a>\n</td>\n<td>샤크파 두목\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>홀리랜드</a>\n</td>\n<td>오민수\n</td>\n<td>\n</td></tr>\n</tbody></table>
+- - 동현배가 출연한 비정규직 특수요원에서 맡은 역할은?
+  - 재용

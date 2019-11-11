@@ -1,0 +1,5 @@
+categories:
+- 람슈타인
+conversations:
+- - 람슈타인의 첫 영국 공연은 무엇인가?
+  - 3월 27일 람슈타인은 런던 MTV 프로그램 Hanging Out 의 무대에 오른다

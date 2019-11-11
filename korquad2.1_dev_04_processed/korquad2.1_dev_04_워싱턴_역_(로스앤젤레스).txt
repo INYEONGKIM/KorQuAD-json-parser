@@ -1,0 +1,5 @@
+categories:
+- 워싱턴_역_(로스앤젤레스)
+conversations:
+- - 워싱턴 역에서 갈아탈 수 있는 다른 교통수단은?
+  - <table>\n<tbody><tr>\n<td><a><img></a> <a>메트로</a><br/><small><small>Metro Bus</small></small>\n</td>\n<td>일반 메트로버스: <span><b>10</b></span>, <span><b>15</b></span>, <span><b>204</b></span> <br/> 급행 메트로버스: <span><b>754</b></span>\n</td></tr>\n<tr>\n<td><a><img></a> LADOT\n</td>\n<td>일반: <br/> - <br/> DASH:<br/> -\n</td></tr>\n<tr>\n<td>푸트힐<br/><small><small>Foothill Transit</small></small>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>빅블루버스<br/><small><small>Big Blue Bus</small></small>\n</td>\n<td>-\n</td></tr>\n<tr>\n<td>기타:\n</td>\n<td>-\n</td></tr>\n</tbody></table>

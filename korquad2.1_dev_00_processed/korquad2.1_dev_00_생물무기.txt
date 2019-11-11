@@ -1,0 +1,5 @@
+categories:
+- 생물무기
+conversations:
+- - M33 집속탄은 M114 탄을 몇개나 탑재하고 있을까?
+  - 108개

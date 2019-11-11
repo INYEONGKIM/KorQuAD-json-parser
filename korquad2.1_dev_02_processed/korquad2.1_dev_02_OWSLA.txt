@@ -1,0 +1,5 @@
+categories:
+- OWSLA
+conversations:
+- - OWSLA의 이전 소속 가수는 누가 있을까?
+  - <ul><li><a>Alvin Risk</a></li>\n<li>Bart B More</li>\n<li><a>Birdy Nam Nam</a></li>\n<li>Blood Diamonds</li>\n<li><a>Crookers</a></li>\n<li><a>Destructo</a></li>\n<li><a>Dillon Francis</a></li>\n<li><a>Monsta</a></li>\n<li>Nick Thayer</li>\n<li><a>Porter Robinson</a></li>\n<li><a>Rusko</a></li>\n<li><a>Skream</a></li>\n<li><a>Sub Focus</a></li>\n<li>TC</li>\n<li>Teddy Killerz</li>\n<li><a>Zedd</a></li></ul>

@@ -1,0 +1,5 @@
+categories:
+- 육진법
+conversations:
+- - 양손으로 최대 몇번의 육진법을 셀 수 있을까?
+  - 육진법 55

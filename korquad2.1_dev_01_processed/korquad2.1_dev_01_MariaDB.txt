@@ -1,0 +1,7 @@
+categories:
+- MariaDB
+conversations:
+- - MariaDB는 어떤 엔진들에 대응이 가능합니까? 
+  - <p>MariaDB는 원칙적으로 MySQL과 거의 동일한 <a>데이터베이스 엔진</a>(스토리지 엔진)에 대응하고 있다. 해당 데이터베이스 엔진은 다음과 같다.\n</p>\n<ul><li><a>Aria</a> - <a>MyISAM</a> 파생 엔진 대체용 (이전 명칭은 Maria)</li>\n<li><a>XtraDB</a> - <a>오라클</a> <a>InnoDB</a>를 대체하기 위해 만든 <a>InnoDB</a> 파생 <a>포크</a></li>\n<li><a>FederatedX</a> - <a>MySQL Federated</a> 파생 엔진, 트랜잭션 제공</li>\n<li><a>OQGRAPH</a> - 버전 5.2 이상에서 지원</li>\n<li><a>SphinxSE</a> - 버전 5.2 이상에서 지원, Full-Text Searching이 필요할 때 사용할 수 있는 스토리지 엔진</li>\n<li><a>IBMDB21</a> - 오라클은 이것을 MySQL 5.1.55에서 제거했지만, 마리아DB에서는 5.5까지 유지</li>\n<li><a>Cassandra</a> - 10.0에서 포함. 기타 비 sql 저장 엔진을 끌어들이려는 시도</li>\n<li><a>PBXT</a> - 트랜잭션 제공, 5.5부터는 더 이상 유지보수를 제공하지 않음. 기본 스토리지 엔진에서 제외</li>\n<li><a>TokuDB</a> - MariaDB에서 Load해야지 쓸 수 있습니다. 장점은 다른 엔진보다 압축률이 높습니다.</li></ul>
+- - MariaDB의 이름은 어디에서 가져왔을까?
+  - 몬티 와이드니어스의 딸 이름에서 따왔다.

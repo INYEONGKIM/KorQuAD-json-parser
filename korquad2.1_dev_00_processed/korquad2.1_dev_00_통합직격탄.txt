@@ -1,0 +1,7 @@
+categories:
+- 통합직격탄
+conversations:
+- - JDAM 키트가 인도된 년도는?
+  - 1997년
+- - JDAM을 운용할 수 있는 플랫폼 중 A로 시작하는 플랫폼은?
+  - <li><a>A-10</a></li>

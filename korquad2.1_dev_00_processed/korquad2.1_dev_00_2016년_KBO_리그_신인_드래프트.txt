@@ -1,0 +1,5 @@
+categories:
+- 2016년_KBO_리그_신인_드래프트
+conversations:
+- - 2016년 KBO 리그 신인 드래프트에서 NC 다이노스와 kt 위즈의 1차 지명에서 어떤 선수들이 지명되었을까?
+  - <table>\n<tbody><tr>\n<th>구단</th>\n<th>출신교</th>\n<th>포지션</th>\n<th>성명</th>\n<th>비고\n</th></tr>\n<tr>\n<td><a>kt 위즈</a></td>\n<td><a>경북고등학교</a></td>\n<td><a>투수</a></td>\n<td><a>박세진</a></td>\n<td>계약금 2억3천만원<sup><a>[3]</a></sup>\n</td></tr>\n<tr>\n<td><a>NC 다이노스</a></td>\n<td><a>경기고등학교</a></td>\n<td><a>투수</a>/<a>내야수</a><sup><a>[4]</a></sup></td>\n<td><a>박준영</a></td>\n<td>계약금 2억원\n</td></tr></tbody></table>

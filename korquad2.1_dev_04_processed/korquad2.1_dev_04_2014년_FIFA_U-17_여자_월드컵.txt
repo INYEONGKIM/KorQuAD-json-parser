@@ -1,0 +1,13 @@
+categories:
+- 2014년_FIFA_U-17_여자_월드컵
+conversations:
+- - 2014년 FIFA에서 개최한 만 17세이하 여자 월드컵의 본선 진출팀들은 어디인가요?
+  - <table>\n<tbody><tr>\n<th>연맹\n</th>\n<th>예선\n</th>\n<th>본선 진출 팀\n</th></tr>\n<tr>\n<td><a>AFC (아시아)</a>\n</td>\n<td><a>2013년 AFC U-16 여자 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>중국</a> <br/> <span><a><img></a></span> <a>일본</a> <br/> <span><a><img></a></span> <a>조선민주주의인민공화국</a>\n</td></tr>\n<tr>\n<td><a>CAF (아프리카)</a>\n</td>\n<td><a>2013년 아프리카 U-17 여자 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>가나</a> <br/> <span><a><img></a></span> <a>나이지리아</a> <br/> <span><a><img></a></span> <a>잠비아</a>^\n</td></tr>\n<tr>\n<td><a>CONCACAF (북중미&amp;카리브)</a>\n</td>\n<td><a>2013년 CONCACAF U-17 여자 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>캐나다</a> <br/> <span><a><img></a></span> <a>멕시코</a>\n</td></tr>\n<tr>\n<td><a>CONMEBOL (남아메리카)</a>\n</td>\n<td><a>2013년 남아메리카 U-17 여자 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>콜롬비아</a> <br/> <span><a><img></a></span> <a>파라과이</a> <br/> <span><a><img></a></span> <a>베네수엘라</a>\n</td></tr>\n<tr>\n<td><a>OFC (오세아니아)</a>\n</td>\n<td>예선 없음 (OFC에서 지명함)\n</td>\n<td><span><a><img></a></span> <a>뉴질랜드</a>\n</td></tr>\n<tr>\n<td><a>UEFA (유럽)</a>\n</td>\n<td><a>2014년 UEFA U-17 여자 축구 선수권 대회</a>\n</td>\n<td><span><a><img></a></span> <a>독일</a> <br/> <span><a><img></a></span> <a>이탈리아</a>^ <br/> <span><a><img></a></span> <a>스페인</a>\n</td></tr>\n<tr>\n<td colspan="2"><b>개최국</b>\n</td>\n<td><span><a><img></a></span> <a>코스타리카</a>\n</td></tr></tbody></table>
+- - 2014년 FIFA U-17 여자 월드컵의 개최 도시 및 경기장 중 알라후엘라의 수용 인원은 몇 명인가?
+  - <b>16,625명</b>
+- - 2014년 피파 u-17 여자월드컵에서 A 조 조별 예선 결과 베네수엘라의 경기 수는 몇 경기를 뛰었는가?
+  - <td>3</td>
+- - 2014년 FIFA U-17 여자월드컵 조별 예선에서 가나는 몇 승을 거두었는가?
+  - <td>2</td>
+- - 2014 FIFA U-17 여자월드컵 D조 예선에서 가장 많은 승점을 기록한 팀은 어느 팀인가?
+  - <a>나이지리아</a>

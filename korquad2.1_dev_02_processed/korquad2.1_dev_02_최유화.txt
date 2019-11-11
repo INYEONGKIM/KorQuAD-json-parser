@@ -1,0 +1,5 @@
+categories:
+- 최유화
+conversations:
+- - 최유화가 2018년에 출연한 슈츠에서의 역할은?
+  - 제이

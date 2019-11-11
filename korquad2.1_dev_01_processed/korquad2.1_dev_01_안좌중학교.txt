@@ -1,0 +1,5 @@
+categories:
+- 안좌중학교
+conversations:
+- - 안좌중학교 제33대 교장의 이름은 무엇인가?
+  - 김태성

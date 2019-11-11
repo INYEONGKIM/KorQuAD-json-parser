@@ -1,0 +1,32 @@
+categories:
+- 워너_브라더스
+conversations:
+- - 위너 커뮤니케이션스와 타임사가 합병한 것은 몇 년도의 일일까?
+  - <a>1989년</a>
+- - 워너브라더스의 1991년 작품목록중 한국에 수입된 작품에는 어떤작품들이있을까?
+  - <table>\n<tbody><tr>\n<th>국가</th>\n<th>제목</th>\n<th>개봉일</th>\n<th>종류</th>\n<th>담당</th>\n<th>배급</th>\n<th>제공</th>\n<th>공동제공</th>\n<th>제작\n</th></tr>\n<tr>\n<td>미국</td>\n<td>《<b><a>딕 트레이시</a></b>》</td>\n<td>1991.1.19</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="4"><sup><a>Buena Vista International</a></sup>\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<a>후계자</a>》</td>\n<td>1991.2.9</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="2">워너 브라더스</td>\n<td><small>빈칸</small></td>\n<td>Malpaso Productions\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<a>좋은 친구들</a>》</td>\n<td>1991.2.14</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="2">워너 브라더스</td>\n<td><small>빈칸</small></td>\n<td>Irwin Winkler Production\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<a>멤피스 벨</a>》</td>\n<td>1991.4.5</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="2">워너 브라더스</td>\n<td><small>빈칸</small></td>\n<td>Enigma Productions\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<a>의혹</a>》</td>\n<td>1991.5.18</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="2">워너 브라더스</td>\n<td><small>빈칸</small></td>\n<td>Mirage Enterprises\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<b><a>아빠 셋 엄마 하나</a></b>》</td>\n<td>1991.6.15</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="4"><sup><a>Buena Vista International</a></sup>\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<b><a>결혼하는 남자</a></b>》</td>\n<td>1991.6.20</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="4"><sup><a>Buena Vista International</a></sup>\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<b><a>환타지아</a></b>》</td>\n<td>1991.6.22</td>\n<td>애니메이션</td>\n<td>수입, 배급</td>\n<td colspan="4"><sup><a>Buena Vista International</a></sup>\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<a>의적 로빈후드</a>》</td>\n<td rowspan="2">1991.7.20</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="2">워너 브라더스,James G. Robinson</td>\n<td><small>빈칸</small></td>\n<td>Morgan Creek Productions\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<b><a>늑대개</a></b>》</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="4"><sup><a>Buena Vista International</a></sup>\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<a>그렘린 2: 뉴욕 대소동</a>》</td>\n<td>1991.8.24</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="2">워너 브라더스</td>\n<td><small>빈칸</small></td>\n<td><a>앰블린 엔터테인먼트</a>,Michael Finnell\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<b><a>녹색카드</a></b>》</td>\n<td>1991.9.14</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="4"><sup><a>Buena Vista International</a></sup>\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<b><a>엑소시스트 3</a></b>》</td>\n<td>1991.10.26</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="4"><sup><a>Buena Vista International</a></sup>\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<a>헐리우드 박사</a>》</td>\n<td>1991.11.30</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="2">워너 브라더스</td>\n<td><small>빈칸</small></td>\n<td><small>빈칸</small>\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<b><a>인어공주</a></b>》</td>\n<td>1991.12.21</td>\n<td>애니메이션</td>\n<td>수입, 배급</td>\n<td colspan="4"><sup><a>Buena Vista International</a></sup>\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<a>F학점 첩보원</a>》</td>\n<td>1991.12.23</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td colspan="2">워너 브라더스</td>\n<td><small>빈칸</small></td>\n<td>Craig Zadan\n</td></tr>\n<tr>\n<td>미국</td>\n<td>《<a>마지막 보이스카웃</a>》</td>\n<td>1991.12.24</td>\n<td>실사</td>\n<td>수입, 배급</td>\n<td>워너 브라더스</td>\n<td>Geffen Pictures</td>\n<td><small>빈칸</small></td>\n<td><a>실버 픽처스</a>\n</td></tr>\n</tbody></table>
+- - '워너 브라더스'가 수입과 배급을 맡은 1990년 7월 7일에 개봉한 영화는 무엇인가요?
+  - <a>배트맨</a><sup><a>DC</a></sup>
+- - 인간 로켓티어의 개봉일은 언제인가?
+  - <td>1992.1.1</td>
+- - 실사 감독판으로 만든 영화는 무엇일까?
+  - <td>《<a>서기2019 블레이드 러너</a>》</td>
+- - 워너브라더스 코리아의 첫 작품 개봉일은 
+언제였을까? 
+  - <td>1996.1.27</td>
+- - 위너 브라더스와 애딕티드 러브를 공동제공한 곳은 어디인가?
+  - <td><a>미라맥스</a></td>
+- - 타임 머신은 언제 개봉했을까?
+  - <td>2002.3.29</td>
+- - 위너 브라더스 코리아의 2004년 개봉 작품중   애니메이션의 제목은 무엇인가?
+  - <a>폴라 익스프레스</a>
+- - 2007년 워너 브라더스가 제작한 애니메이션 영화의 이름은?
+  - <a>베오울프</a>
+- - 타이탄의 분노는 언제 개봉했을까?
+  - <td>2012.3.29</td>
+- - 2013년 6월에 개봉한 위너 브라더스의 영화는 무엇인가?
+  - <a>맨 오브 스틸</a><sup><a>DC</a></sup>
+- - 아메리칸 스나이퍼의 개봉날짜는 언제인가
+  - <td>2015.1.14</td>
+- - 워너 브라더스에서  2018.3.8일날 개봉한 영화의 제목은?
+  - <a>툼 레이더</a>

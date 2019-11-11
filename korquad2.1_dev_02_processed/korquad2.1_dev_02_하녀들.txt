@@ -1,0 +1,5 @@
+categories:
+- 하녀들
+conversations:
+- - 하녀들의 제20회 시청률은 AGB 시청률을 기준으로 몇 퍼센트였을까?
+  - <span><b>4.725%</b></span>

@@ -1,0 +1,5 @@
+categories:
+- 롤스로이스_자동차
+conversations:
+- - 롤스로이스 역사의 시작은?
+  - 전구용 필라멘트를 만드는 회사를 운영하던 프레드릭 헨리 로이스(Frederick Henry Royce)가 조용하고 매끄럽게 달리는 자동차를 만든 것으로 출발

@@ -1,0 +1,7 @@
+categories:
+- 프리덤_라이터스_다이어리
+conversations:
+- - 프리덤 라이터스 다이어리는 언제 쓴 수필일까?
+  - 1999년
+- - Heerman이 2008년 영어교사로 있던 학교는 어디야?
+  - Perry Meridian고등학교

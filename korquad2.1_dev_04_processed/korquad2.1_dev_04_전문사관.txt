@@ -1,0 +1,5 @@
+categories:
+- 전문사관
+conversations:
+- - 간호사관의 전역 시 계급은 무엇인가? 
+  - <a>중위</a>

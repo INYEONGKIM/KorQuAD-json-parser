@@ -1,0 +1,5 @@
+categories:
+- 여행
+conversations:
+- - 콜럼버스가 10주간의 여정을 떠난 해는 언제야?
+  - 1492년

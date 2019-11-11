@@ -1,0 +1,9 @@
+categories:
+- 시로바코
+conversations:
+- - 애니메이션 «시로바코»는 어디서 제작했을까?
+  - P.A. 웍스
+- - 시로바코는 2014년, 일본의 어떤 인터넷 라디오 스테이션으로 배포되었을까?
+  - 온센
+- - 시로바코와 관련된 DVD의 출시일과 정보는 어떨까?
+  - <table>\n<tbody><tr>\n<th rowspan="2">권</th>\n<th rowspan="2">출시일</th>\n<th rowspan="2">수록 내용</th>\n<th colspan="2">규격 품번</th>\n<th rowspan="2">비고\n</th></tr>\n<tr>\n<th>BD 초회 출시판</th>\n<th>DVD 초회 출시판\n</th></tr>\n<tr>\n<td>1</td>\n<td>2014년 12월 24일</td>\n<td>제1화 ~ 제3화</td>\n<td>1000540245</td>\n<td>1000541319</td>\n<td>\n</td></tr>\n<tr>\n<td>2</td>\n<td>2015년 1월 28일</td>\n<td>제4화 ~ 제6화</td>\n<td>1000540246</td>\n<td>1000541330</td>\n<td>\n</td></tr>\n<tr>\n<td>3</td>\n<td>2015년 2월 25일</td>\n<td>제7화 ~ 제9화</td>\n<td>1000540247</td>\n<td>1000541331</td>\n<td>“엑소더스!” 제1화 수록<sup><a>[9]</a></sup>\n</td></tr>\n<tr>\n<td>4</td>\n<td>2015년 3월 25일</td>\n<td>제10화 ~ 제12화</td>\n<td>1000540248</td>\n<td>1000541332</td>\n<td>\n</td></tr>\n<tr>\n<td>5</td>\n<td>2015년 4월 22일</td>\n<td>제13화 ~ 제15화</td>\n<td>1000540249</td>\n<td>1000541333</td>\n<td>\n</td></tr>\n<tr>\n<td>6</td>\n<td>2015년 5월 27일</td>\n<td>제16화 ~ 제18화</td>\n<td>1000540250</td>\n<td>1000541334</td>\n<td>\n</td></tr>\n<tr>\n<td>7</td>\n<td>2015년 7월 29일</td>\n<td>제19화 ~ 제21화</td>\n<td>1000540251</td>\n<td>1000541335</td>\n<td>“제3 비행소녀대” 제1화 수록<sup><a>[9]</a></sup>\n</td></tr>\n<tr>\n<td>8</td>\n<td>2015년 8월 26일</td>\n<td>제22화 ~ 제24화</td>\n<td>1000540252</td>\n<td>1000541336</td>\n<td>\n</td></tr></tbody></table>

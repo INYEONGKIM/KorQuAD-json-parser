@@ -1,0 +1,5 @@
+categories:
+- 김삼선
+conversations:
+- - 철도 건설 7개년 계획이 수립된 연도는 언제인가?
+  - 1965년

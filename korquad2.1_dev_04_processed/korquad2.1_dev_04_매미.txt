@@ -1,0 +1,5 @@
+categories:
+- 매미
+conversations:
+- - 한국산 매미는 어떤 매미가 있어?
+  - <p>한국의 매미는 13종이다.<sup><a>[1]</a></sup> 최근의 한국산 매미 목록에서<a>깽깽매미</a>는 제외되었고,<a>고려풀매미</a>와 <a>풀매미</a> 두 종은 같은 종으로 논문이 나왔다.\n</p>\n<ul><li>매미아과 (Cicadinae)\n<ul><li><a>참매미</a> <i>Hyalessa fuscata</i> (Distant, 1905)</li>\n<li><a>유지매미</a> <i>Graptopsaltria nigrofuscata</i> (Motschulsky, 1866)</li>\n<li><a>애매미</a> <i>Meimuna opalifera</i> (Walker,1850)</li>\n<li><a>쓰름매미</a> <i>Meimuna mongolica</i> (Distant, 1881)</li>\n<li><a>말매미</a> <i>Cryptotympana atrata</i> (Fabricius, 1775)</li>\n<li><a>털매미</a> <i>Platypleura kaempferi</i> (Fabricius, 1794)</li>\n<li><a>늦털매미</a> <i>Suisha coreana</i> (Matsumura,1927)</li>\n<li><a>소요산매미</a> <i>Leptosemia takanonis</i> (Matsumura, 1917)</li>\n<li><a>참깽깽매미</a> <i>Lyristes intermedius</i> (Mori, 1931)</li></ul></li>\n<li>좀매미아과 (Cicadettinae)\n<ul><li><a>풀매미</a> <i>Tettigeta isshikii</i> (Kato, 1926)</li>\n<li><a>호좀매미</a> <i>Kosemia yezoensis</i> (Matsumura, 1898)</li>\n<li><a>세모배매미</a> <i>Cicadetta abscondita</i> (Lee, 2008)</li>\n<li><a>두눈박이좀매미</a> <i>Kosemia admirabilis</i> (Kato, 1927) - <a>북한</a> 서식종</li></ul></li></ul>

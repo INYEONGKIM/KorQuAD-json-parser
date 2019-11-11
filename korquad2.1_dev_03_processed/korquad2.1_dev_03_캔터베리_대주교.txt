@@ -1,0 +1,15 @@
+categories:
+- 캔터베리_대주교
+conversations:
+- - 10세기의 캔터베리 대주교에는 누가 있었을까?
+  - <table>\n<tbody><tr>\n<th>재임 기간\n</th>\n<th>주교명\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td><small><a>914년</a> - <br/><a>923년</a></small>\n</td>\n<td><b>애셀름</b><br/><small>Athelm</small>\n</td>\n<td><small></small>\n</td></tr>\n<tr>\n<td><small><a>923년</a> - <br/><a>941년</a></small>\n</td>\n<td><b>울프헬름</b><br/><small>Wulfhelm</small>\n</td>\n<td><small></small>\n</td></tr>\n<tr>\n<td><small><a>942년</a> - <br/><a>958년</a></small>\n</td>\n<td><b>오도</b><br/><small>Odo</small>\n</td>\n<td><small></small>\n</td></tr>\n<tr>\n<td><small><a>959년</a> - <br/><a>959년</a></small>\n</td>\n<td><b>앨프사이지</b><br/><small>Alfsige</small>\n</td>\n<td><small></small>\n</td></tr>\n<tr>\n<td><small><a>959년</a> - <br/><a>959년</a></small>\n</td>\n<td><b>비어셀름</b><br/><small>Birthelm</small>\n</td>\n<td><small></small>\n</td></tr>\n<tr>\n<td><small><a>960년</a> - <br/><a>988년</a></small>\n</td>\n<td><b>던스탄</b><br/><small>Dunstan</small>\n</td>\n<td><small></small>\n</td></tr>\n<tr>\n<td><small><a>988년</a> - <br/><a>989년</a></small>\n</td>\n<td><b>애셀가르</b><br/><small>Athelgar</small>\n</td>\n<td><small></small>\n</td></tr>\n<tr>\n<td><small><a>990년</a> - <br/><a>994년</a></small>\n</td>\n<td><b>시게릭</b><br/><small>Sigeric</small>\n</td>\n<td><small></small>\n</td></tr>\n<tr>\n<td><small><a>995년</a> - <br/><a>1005년</a></small>\n</td>\n<td><b>앨프릭</b><br/><small>Aelfric</small>\n</td>\n<td><small></small>\n</td></tr></tbody></table>
+- - 헨리 치첼 주교는 몇년도에 대주교 직에서 내려왔나요?
+  - <a>1443년</a></small>
+- - 유스토는 캔터베리 대주교 재임 기간이 언제일까?
+  - <small><a>624년</a> - <br/><a>627년</a></small>
+- - 1633년 캔터베리 대주교로 임명된 사람의 이름은 영어로 무엇일까?
+  - illiam Laud
+- - 존 섬너의 재임 기간은?
+  - <small><a>1848년</a> <a>2월 22일</a> - <br/><a>1862년</a> <a>9월 6일</a></small>
+- - 2002년~2013년 재임한 캔터베리 대주교의 이름은 무엇일까요?
+  - <b><a>로완 윌리엄스</a></b><br/><small>R

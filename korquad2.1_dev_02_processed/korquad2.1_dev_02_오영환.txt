@@ -1,0 +1,5 @@
+categories:
+- 오영환
+conversations:
+- - 오영환은 어느 해에 출생하였을까?
+  - 1988년

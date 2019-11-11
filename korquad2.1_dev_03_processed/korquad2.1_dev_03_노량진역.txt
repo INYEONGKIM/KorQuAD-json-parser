@@ -1,0 +1,7 @@
+categories:
+- 노량진역
+conversations:
+- - 노량진 역의 승강장은 지상 몇 층에 있을까?
+  - 1층
+- - 노량진역과 인접한 역에 대한 정보는 무엇인가?
+  - <table>\n<tbody><tr>\n<th colspan="3"><a>경부선</a>\n</th></tr>\n<tr>\n<td>135 <a>용산</a><br/><span><a>용산</a> 방면<br/><a>소요산</a> 방면<br/><a>광운대</a> 방면</span>\n</td>\n<td><span>■</span> <a>수도권 전철 1호선</a><br/>경부선 <span>A급행</span> <span>·</span> 경인선 <span>급행</span><br/>경원선 <span>급행</span> <span>·</span> 경인선 완행<br/>경부선 완행\n</td>\n<td>137 <a>대방</a><br/><span><a>천안</a> <span>·</span> <a>동인천</a> 방면<br/><a>인천</a> 방면<br/><a>서동탄</a> <span>·</span> <a>신창</a> 방면</span>\n</td></tr>\n<tr>\n<td>135 <a>용산</a><br/><span><a>용산</a> 방면</span>\n</td>\n<td><span>■</span> <a>수도권 전철 1호선</a><br/>경인선 <span>특급</span>\n</td>\n<td>140 <a>신도림</a><br/><span><a>동인천</a> 방면</span>\n</td></tr>\n<tr>\n<th colspan="3"><a>서울 지하철 9호선</a>\n</th></tr>\n<tr>\n<td>915 <a>여의도</a><br/><span><a>김포공항</a> 방면</span>\n</td>\n<td><span>■</span> <a>서울 지하철 9호선</a><br/><span>급행</span>\n</td>\n<td>920 <a>동작</a><br/><span><a>중앙보훈병원</a> 방면</span>\n</td></tr>\n<tr>\n<td>916 <a>샛강</a><br/><span><a>개화</a> 방면</span>\n</td>\n<td><span>■</span> <a>서울 지하철 9호선</a><br/>일반\n</td>\n<td>918 <a>노들</a><br/><span><a>중앙보훈병원</a> 방면</span>\n</td></tr>\n</tbody></table>

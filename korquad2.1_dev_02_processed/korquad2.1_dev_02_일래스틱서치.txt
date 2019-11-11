@@ -1,0 +1,7 @@
+categories:
+- 일래스틱서치
+conversations:
+- - 일래스틱의 사용처 목록은 어떻게 되는가?
+  - <ul><li><a>어도비 시스템즈</a><sup><a>[72]</a></sup></li>\n<li><a>Amadeus IT Group</a></li>\n<li><a>athenahealth</a></li>\n<li><a>AXS</a></li>\n<li><a>Center for Open Science</a><sup><a>[73]</a></sup></li>\n<li><a>CERN</a><sup><a>[74]</a></sup></li>\n<li><a>엣시</a><sup><a>[75]</a></sup></li>\n<li><a>EVS</a></li>\n<li><a>페이스북</a><sup><a>[76]</a></sup></li>\n<li><a>FDA</a><sup><a>[77]</a></sup></li>\n<li><a>포스퀘어</a><sup><a>[78]</a></sup></li>\n<li><a>깃허브</a><sup><a>[79]</a></sup></li>\n<li><a>Lichess</a><sup><a>[80]</a></sup></li>\n<li><a>모질라</a><sup><a>[81]</a></sup></li>\n<li><a>넷플릭스</a><sup><a>[82]</a></sup></li>\n<li><a>Pixabay</a><sup><a>[83]</a></sup></li>\n<li><a>Quizlet</a><sup><a>[84]</a></sup></li>\n<li><a>쿼라</a><sup><a>[85]</a></sup></li>\n<li><a>Reverb</a><sup><a>[86]</a></sup></li>\n<li><a>Slurm Workload Manager</a></li>\n<li><a>Sophos</a></li>\n<li><a>사운드클라우드</a><sup><a>[87]</a></sup></li>\n<li><a>스택 익스체인지</a><sup><a>[88]</a></sup></li>\n<li><a>스텀블어폰</a><sup><a>[89]</a></sup></li>\n<li><a>팀 파운데이션 서버</a><sup><a>[90]</a></sup></li>\n<li><a>위키미디어 재단</a><sup><a>[91]</a></sup></li>\n<li><a>Zalando SE</a><sup><a>[92]</a></sup></li></ul>
+- - 일래스틱서치에서 인덱스가 서버 상 문제로 소실되었을 때 복원할 수 있도록 하는 장치는 뭐야?
+  - 게이트웨이

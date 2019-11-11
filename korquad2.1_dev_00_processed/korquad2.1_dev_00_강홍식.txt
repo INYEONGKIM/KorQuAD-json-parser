@@ -1,0 +1,5 @@
+categories:
+- 강홍식
+conversations:
+- - 강홍식의 조선 영화계 배우 데뷔작은 무엇이었습니까?
+  - 장한몽

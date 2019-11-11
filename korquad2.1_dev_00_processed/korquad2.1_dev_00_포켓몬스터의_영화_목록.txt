@@ -1,0 +1,9 @@
+categories:
+- 포켓몬스터의_영화_목록
+conversations:
+- - 포켓몬스터 시리즈 6기에서 9기에 이르는 나라별 제목 및 출시일은 어떻게 되는가?
+  - <table>\n<tbody><tr>\n<th rowspan="3">일련 번호\n</th>\n<th colspan="3">제목\n</th>\n<th colspan="4">출시일\n</th>\n<th rowspan="3">참고\n</th></tr>\n<tr>\n<th colspan="7">포켓몬스터 AG\n</th></tr>\n<tr>\n<th>한국어\n</th>\n<th>일본어\n</th>\n<th>영어\n</th>\n<th>일본\n</th>\n<th>대한민국\n</th>\n<th>조선민주주의인민공화국\n</th>\n<th>미국\n</th></tr>\n<tr>\n<td>6기\n</td>\n<td><a>아름다운 소원의 별 지라치</a>(호연편)\n</td>\n<td>劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ\n</td>\n<td>Pokémon: Jirachi - Wish Maker\n</td>\n<td>2003년 7월 19일\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>2004년 6월 1일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>7기\n</td>\n<td><a>열공의 방문자 테오키스</a>(호연편)\n</td>\n<td>劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス\n</td>\n<td>Pokémon: Destiny Deoxys\n</td>\n<td>2004년 7월 17일\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>2005년 1월 22일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>8기\n</td>\n<td><a>뮤와 파동의 용사 루카리오</a>(호연~신오편)\n</td>\n<td>劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ\n</td>\n<td>Pokémon: Lucario and the Mystery of Mew\n</td>\n<td>2005년 7월 16일\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>2006년 9월 19일\n</td>\n<td>\n</td></tr>\n<tr>\n<td>9기\n</td>\n<td><a>포켓몬 레인저와 바다의 왕자 마나피</a>(호연~신오편)\n</td>\n<td>劇場版ポケットモンスター アドバンスジェネレーション ポケモンレンジャーと蒼海の王子 マナフィ\n</td>\n<td>Pokémon Ranger and the Temple of the Sea\n</td>\n<td>2006년 7월 15일\n</td>\n<td>\n</td>\n<td>\n</td>\n<td>2007년 3월 23일\n</td>\n<td>\n</td></tr>\n</tbody></table>
+- - 포켓몬스터의 1기 영화 뮤츠의 역습(관동편)을 대한민국에서 출시하게 된 날짜는 언제인가요?
+  - 2000년 12월 23일
+- - 포켓몬스터 영화 16기는 미국에서 몇년 몇월 며칠에 출시되었는가?
+  - 2013년 10월 19일

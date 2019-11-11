@@ -1,0 +1,5 @@
+categories:
+- 스트롭_에지
+conversations:
+- - 등장인물 중 가장 무거운 사람은 누구야?
+  - 테라다 유타

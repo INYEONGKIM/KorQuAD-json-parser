@@ -1,0 +1,9 @@
+categories:
+- 공기
+conversations:
+- - 액체 공기는 어떤 색을 띠고 있어?
+  - 옅은 푸른빛
+- - 공기를 이루고 있는 성분들에는 어떤 것들이 있으며, 그것들이 공기에서 차지하는 비율은 어느정도 인가요?
+  - <table>\n<caption>표1: 건조공기의 주요성분\n</caption>\n<tbody><tr>\n<th>성분</th>\n<th>화학식</th>\n<th>체적비<br/>/%</th>\n<th>중량비<br/>/%\n</th></tr>\n<tr>\n<td><a>질소</a></td>\n<td>N<sub>2</sub></td>\n<td>78.084</td>\n<td>75.51\n</td></tr>\n<tr>\n<td><a>산소</a></td>\n<td>O<sub>2</sub></td>\n<td>20.946</td>\n<td>23.01\n</td></tr>\n<tr>\n<td><a>아르곤</a></td>\n<td>Ar</td>\n<td><span>0</span>0.934</td>\n<td><span>0</span>1.286\n</td></tr>\n<tr>\n<td><a>이산화탄소</a></td>\n<td>CO<sub>2</sub></td>\n<td><span>0</span>0.036</td>\n<td><span>0</span>0.040*\n</td></tr></tbody></table>\n<table>\n<caption>표2: 공기의 미량 성분\n</caption>\n<tbody><tr>\n<th>성분</th>\n<th>화학식</th>\n<th>체적비<br/>/<a>ppm</a>\n</th></tr>\n<tr>\n<td><a>네온</a></td>\n<td>Ne</td>\n<td>18.18\n</td></tr>\n<tr>\n<td><a>헬륨</a></td>\n<td>He</td>\n<td>5.24\n</td></tr>\n<tr>\n<td><a>메탄</a></td>\n<td>CH<sub>4</sub></td>\n<td>1.60*\n</td></tr>\n<tr>\n<td><a>크리프톤</a></td>\n<td>Kr</td>\n<td>1.14\n</td></tr>\n<tr>\n<td><a>수소</a></td>\n<td>H<sub>2</sub></td>\n<td>0.50\n</td></tr>\n<tr>\n<td><a>일산화이질소</a></td>\n<td>N<sub>2</sub>O</td>\n<td>0.3*\n</td></tr>\n<tr>\n<td><a>일산화탄소</a></td>\n<td>CO</td>\n<td>0.1*\n</td></tr>\n<tr>\n<td><a>크세논</a></td>\n<td>Xe</td>\n<td>0.087\n</td></tr>\n<tr>\n<td><a>오존</a></td>\n<td>O<sub>3</sub></td>\n<td>0.03*\n</td></tr>\n<tr>\n<td><a>이산화질소</a></td>\n<td>NO<sub>2</sub></td>\n<td>0.02*\n</td></tr>\n<tr>\n<td><a>암모니아</a></td>\n<td>NH<sub>3</sub></td>\n<td>0.01*\n</td></tr>\n<tr>\n<td><a>이산화 유황</a></td>\n<td>SO<sub>2</sub></td>\n<td>0.002\n</td></tr></tbody></table>
+- - 섭씨 0도에 1기압인 환경에서 공기의 밀도는 어떠한가?
+  - 1.293 kg/m<sup>3</sup>

@@ -1,0 +1,5 @@
+categories:
+- 병인양요
+conversations:
+- - 고종 3년은 몇년도였는가?
+  - <a>1866년</a>

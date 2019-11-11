@@ -1,0 +1,5 @@
+categories:
+- 남자친구_(드라마)
+conversations:
+- - 드라마 남자친구의 AGB 전국 기준으로 평균 시청률은 얼마나 될까?
+  - <span><b>8.475%</b></span>

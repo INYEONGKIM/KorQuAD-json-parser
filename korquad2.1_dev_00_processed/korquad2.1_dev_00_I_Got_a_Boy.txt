@@ -1,0 +1,7 @@
+categories:
+- I_Got_a_Boy
+conversations:
+- - 소녀시대가 선공개를 한 해는 언제일까?
+  - 2012
+- - 걸그룹 소녀시대의 'I Got a Boy'의 국가별 발매 일정은 어땠을까?
+  - <table>\n<tbody><tr>\n<th>국가\n</th>\n<th>포맷\n</th>\n<th>일정\n</th>\n<th>레이블\n</th>\n<th>에디션\n</th></tr>\n<tr>\n<td>세계\n</td>\n<td>디지털 다운로드\n</td>\n<td>2013년 1월 1일\n</td>\n<td><a>SM 엔터테인먼트</a>\n</td>\n<td>일반반\n</td></tr>\n<tr>\n<td><a>한국</a><sup><a>[31]</a></sup><sup><a>[32]</a></sup>\n</td>\n<td rowspan="5">CD\n</td>\n<td>2013년 1월 2일\n</td>\n<td>KMP홀딩스\n</td>\n<td rowspan="4">일반반\n</td></tr>\n<tr>\n<td><a>홍콩</a><sup><a>[33]</a></sup>\n</td>\n<td>2013년 1월 14일\n</td>\n<td><a>유니버설 뮤직</a>\n</td></tr>\n<tr>\n<td><a>필리핀</a>\n</td>\n<td>2013년 1월 19일\n</td>\n<td><a>MCA 뮤직</a>\n</td></tr>\n<tr>\n<td><a>타이완</a><sup><a>[34]</a></sup>\n</td>\n<td>2013년 2월 1일\n</td>\n<td><a>유니버설 뮤직</a>\n</td></tr>\n<tr>\n<td><a>일본</a><sup><a>[35]</a></sup>\n</td>\n<td>2013년 2월 6일\n</td>\n<td><a>나유타웨이브</a>\n</td>\n<td>Regular Edition (Group cover only)\n</td></tr></tbody></table>

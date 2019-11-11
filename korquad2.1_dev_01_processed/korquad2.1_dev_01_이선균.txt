@@ -1,0 +1,5 @@
+categories:
+- 이선균
+conversations:
+- - 이선균이 찍은 CF중 내레이션을 한 광고는 무엇인가?
+  - <a>오리온</a> 스윙칩

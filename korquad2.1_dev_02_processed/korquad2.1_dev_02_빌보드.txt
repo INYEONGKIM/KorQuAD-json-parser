@@ -1,0 +1,5 @@
+categories:
+- 빌보드
+conversations:
+- - 빌보드지의 창간 일은 언제인가?
+  - 1894년 11월 1일

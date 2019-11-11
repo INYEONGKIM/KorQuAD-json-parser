@@ -1,0 +1,5 @@
+categories:
+- 상진운수
+conversations:
+- - 261번의 배차간격은 몇 분인가?
+  - <td>5~9</td>

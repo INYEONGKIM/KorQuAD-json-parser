@@ -1,0 +1,5 @@
+categories:
+- 이오아니나
+conversations:
+- - 이오아니나의 1월 평균강수일수는 몇일인가?
+  - 13.3

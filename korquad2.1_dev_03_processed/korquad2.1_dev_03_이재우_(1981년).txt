@@ -1,0 +1,5 @@
+categories:
+- 이재우_(1981년)
+conversations:
+- - 탤런트 이재우가 2011년 SBS에 나온 드라마의 제목은?
+  - <td><a>싸인</a></td>

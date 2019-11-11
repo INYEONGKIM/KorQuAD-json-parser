@@ -1,0 +1,5 @@
+categories:
+- 분당고등학교
+conversations:
+- - 분당고등학교의 9대 교장선생님은 누구인가?
+  - 곽상훈

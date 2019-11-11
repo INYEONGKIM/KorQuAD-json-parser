@@ -1,0 +1,5 @@
+categories:
+- 중서성
+conversations:
+- - 고려 시대의 감찰 및 사법 기관의 이름은 무엇일까?
+  - 어사대

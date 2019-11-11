@@ -1,0 +1,11 @@
+categories:
+- FIVB_세계_여자_배구_선수권_대회
+conversations:
+- - 현재 세계 배구 선수권 대회는 몇년 주기로 열리는가?
+  - 4년
+- - FIVB 세계 여자 배구 선수권 대회에서 미국이 처음 우승한 연도는 언제일까?
+  - 2014년
+- - 세계 여자 배구 선수권 대회에서 어느 나라가 금메달을 많이 땄나요?
+  - <table>\n<tbody><tr>\n<th>순위\n</th>\n<th>국가\n</th>\n<th>금메달\n</th>\n<th>은메달\n</th>\n<th>동메달\n</th>\n<th>합계\n</th></tr>\n<tr>\n<td>1</td>\n<td><span><a><img></a></span> <a>러시아</a></td>\n<td>7</td>\n<td>2</td>\n<td>4</td>\n<td>13\n</td></tr>\n<tr>\n<td>2</td>\n<td><span><a><img></a></span> <a>일본</a></td>\n<td>3</td>\n<td>3</td>\n<td>1</td>\n<td>7\n</td></tr>\n<tr>\n<td>3</td>\n<td><span><a><img></a></span> <a>쿠바</a></td>\n<td>3</td>\n<td>1</td>\n<td>0</td>\n<td>4\n</td></tr>\n<tr>\n<td>4</td>\n<td><span><a><img></a></span> <a>중국</a></td>\n<td>2</td>\n<td>3</td>\n<td>0</td>\n<td>5\n</td></tr>\n<tr>\n<td>5</td>\n<td><span><a><img></a></span> <a>미국</a></td>\n<td>1</td>\n<td>2</td>\n<td>2</td>\n<td>5\n</td></tr>\n<tr>\n<td>6</td>\n<td><span><a><img></a></span> <a>이탈리아</a></td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>1\n</td></tr>\n<tr>\n<td>7</td>\n<td><span><a><img></a></span> <a>브라질</a></td>\n<td>0</td>\n<td>3</td>\n<td>1</td>\n<td>4\n</td></tr>\n<tr>\n<td>8</td>\n<td><span><a><img></a></span> <a>폴란드</a></td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>3\n</td></tr>\n<tr>\n<td>9</td>\n<td><span><a><img></a></span> <a>페루</a></td>\n<td>0</td>\n<td>1</td>\n<td>1</td>\n<td>2\n</td></tr>\n<tr>\n<td>10</td>\n<td><span><a><img></a></span> <a>루마니아</a></td>\n<td>0</td>\n<td>1</td>\n<td>0</td>\n<td>1\n</td></tr>\n<tr>\n<td rowspan="2">11</td>\n<td><span><a><img></a></span> <a>대한민국</a></td>\n<td>0</td>\n<td>0</td>\n<td>2</td>\n<td>2\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>체코</a></td>\n<td>0</td>\n<td>0</td>\n<td>2</td>\n<td>2\n</td></tr>\n<tr>\n<td rowspan="2">13</td>\n<td><span><a><img></a></span> <a>조선민주주의인민공화국</a></td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>1\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>세르비아</a></td>\n<td>0</td>\n<td>0</td>\n<td>1</td>\n<td>1\n</td></tr>\n<tr>\n<th colspan="2">합계</th>\n<th>17</th>\n<th>17</th>\n<th>17</th>\n<th>51\n</th></tr></tbody></table>
+- - FIVB 세계 여자 배구 선수권대회 1위 국가인 러시아의 우승 횟수는?
+  - 7회

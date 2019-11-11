@@ -1,0 +1,11 @@
+categories:
+- 핫셀블라드
+conversations:
+- - 핫셀블라드 카메라의 제품 연혁을 살펴보면 어떻습니까?
+  - <ul><li>HK7 (1941–1945)</li>\n<li>SKa4 (1941–1945)</li>\n<li>1600F (1948–1953)</li>\n<li>1000F (1953–1957)</li>\n<li>V-System 500 (1957–present)</li>\n<li>V-System 2000 and 200 (1977–2004)</li>\n<li>V-System Superwide (1954–2006)</li>\n<li>V-System Flexbody (1995–2003)</li>\n<li>XPan (1998–2006) (<a>후지필름</a>이 디자인)</li>\n<li>H-System (2002–현재)<sup><a>[4]</a></sup></li>\n<li>Lunar (<a>2012년</a> 9월 공개)<sup><a>[5]</a></sup></li>\n<li>stellar((<a>2013년</a> 7월 공개)<sup><a>[6]</a></sup></li></ul>
+- - 핫셀블라드가 첫 민간용 카메라를 내놓은 해는 언제일까?
+  - <a>1948년</a>
+- - 503CW가 단종된 해는 언제야?
+  - <a>2013년</a>
+- - 핫셀블라드의 H4D 라인은 어떤 제품들로 구성되어 있을까?
+  - <table>\n<tbody><tr>\n<th>모델\n</th>\n<th>센서\n</th>\n<th>ISO 범위\n</th>\n<th>ISO 범위<br/> (자체 소프트웨어 이용시)\n</th>\n<th>캡처 스피드\n</th>\n<th>HC 렌즈 팩터\n</th>\n<th>장착 렌즈 화각\n</th>\n<th>디스플레이\n</th>\n<th>용량\n</th>\n<th>가격<sup><a>[15]</a></sup>\n</th></tr>\n<tr>\n<td>H4D-50\n</td>\n<td>36.8mm × 49.1mm, 5,000만 화소, 16 bit <br/>\n</td>\n<td>50–400\n</td>\n<td>50–800\n</td>\n<td>1.1 초\n</td>\n<td>1.0\n</td>\n<td>28mm\n</td>\n<td>3인치\n</td>\n<td><a>CF</a>\n</td>\n<td>€19,995\n</td></tr>\n<tr>\n<td>H4D-60\n</td>\n<td>40.2mm × 53.7mm, 6,000만 화소 16 bit <br/>\n</td>\n<td>50–400\n</td>\n<td>50–800\n</td>\n<td>1.1 초\n</td>\n<td>1.0\n</td>\n<td>28mm\n</td>\n<td>3인치"\n</td>\n<td><a>CF</a>\n</td>\n<td>€28,995\n</td></tr>\n<tr>\n<td>H4D-200MS\n</td>\n<td>36.7mm × 49.1mm, 5,000만 화소, 16 bit <br/>2억 화소 멀티 샷 모드<br/>\n</td>\n<td>50–400\n</td>\n<td>50–800\n</td>\n<td>1.1 초\n</td>\n<td>1.0\n</td>\n<td>28 mm\n</td>\n<td>3인치\n</td>\n<td><a>CF</a>\n</td>\n<td>US $43,995\n</td></tr></tbody></table>

@@ -1,0 +1,7 @@
+categories:
+- 2001년_FIFA_컨페더레이션스컵
+conversations:
+- - 2001년 FIFA 컨페더레이션스컵은 어느 경기장들에서 치뤄졌을까?
+  - <table>\n<tbody><tr>\n<th colspan="3"><span><a><img></a></span> <a>대한민국</a>\n</th></tr>\n<tr>\n<th><a>울산</a>\n</th>\n<th><a>수원</a>\n</th>\n<th><a>대구</a>\n</th></tr>\n<tr>\n<td><a>울산문수축구경기장</a>\n</td>\n<td><a>수원월드컵경기장</a>\n</td>\n<td><a>대구월드컵경기장</a>\n</td></tr>\n<tr>\n<td>수용 인원: <b>44,466명</b>\n</td>\n<td>수용 인원: <b>43,288명</b>\n</td>\n<td>수용 인원: <b>66,422명</b>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td></tr>\n<tr>\n<th colspan="3"><span><a><img></a></span> <a>일본</a>\n</th></tr>\n<tr>\n<th><a>요코하마</a>\n</th>\n<th><a>가시마</a>\n</th>\n<th><a>니가타</a>\n</th></tr>\n<tr>\n<td><a>요코하마 국제종합경기장</a>\n</td>\n<td><a>가시마 스타디움</a>\n</td>\n<td><a>니가타 스타디움 빅 스완</a>\n</td></tr>\n<tr>\n<td>수용 인원: <b>73,237명</b>\n</td>\n<td>수용 인원: <b>40,728명</b>\n</td>\n<td>수용 인원: <b>42,300명</b>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td></tr></tbody></table>
+- - 2001년 FIFA 컨페더레이션스컵 참가팀 중 출전 횟수가 4번째인 국가대표팀은?
+  - <a>멕시코</a>

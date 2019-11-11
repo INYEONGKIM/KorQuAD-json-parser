@@ -1,0 +1,5 @@
+categories:
+- 사현진
+conversations:
+- - 배우 사현진은 영화 애자에서 어떤 역을 맡았는가?
+  - 현진 역

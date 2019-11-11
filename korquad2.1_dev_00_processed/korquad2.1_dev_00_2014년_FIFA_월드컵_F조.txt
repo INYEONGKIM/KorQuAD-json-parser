@@ -1,0 +1,11 @@
+categories:
+- 2014년_FIFA_월드컵_F조
+conversations:
+- - 2014년 월드컵 F조 나이지리아와 아르헨티나의 경기에서 2골을 넣은 나이지리아의 선수는 누구인가?
+  - <a>아메드 무사</a>
+- - 이란은 참가한 FIFA 본선 결과는 어떠하였나요?
+  - 모두 조별 리그에 탈락하게 되었다
+- - FIFA월드컵 데뷔전에서 시작한지 3분만에 자책골을 기록한 나라는 어디야?
+  - 보스니아 헤르체고비나
+- - 2014년 FIFA 월드컵 F조 경기 결과는 어땠습니까?
+  - <table>\n<tbody><tr>\n<th><div>팀<span><a><span>v</span></a> <span>•</span> <a><span>d</span></a> <span>•</span> <a><span>e</span></a> <span>•</span> <a><span>h</span></a></span></div>\n</th>\n<th><abbr>경기</abbr>\n</th>\n<th><abbr>승</abbr>\n</th>\n<th><abbr>무</abbr>\n</th>\n<th><abbr>패</abbr>\n</th>\n<th><abbr>득</abbr>\n</th>\n<th><abbr>실</abbr>\n</th>\n<th><abbr>차</abbr>\n</th>\n<th><abbr>점</abbr>\n</th></tr>\n<tr>\n<td><span><a><img></a></span> <a>아르헨티나</a>\n</td>\n<td>3</td>\n<td>3</td>\n<td>0</td>\n<td>0</td>\n<td>6</td>\n<td>3</td>\n<td>+3</td>\n<td><b>9</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>나이지리아</a>\n</td>\n<td>3</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>3</td>\n<td>3</td>\n<td>0</td>\n<td><b>4</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>보스니아 헤르체고비나</a>\n</td>\n<td>3</td>\n<td>1</td>\n<td>0</td>\n<td>2</td>\n<td>4</td>\n<td>4</td>\n<td>0</td>\n<td><b>3</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>이란</a>\n</td>\n<td>3</td>\n<td>0</td>\n<td>1</td>\n<td>2</td>\n<td>1</td>\n<td>4</td>\n<td>−3</td>\n<td><b>1</b>\n</td></tr></tbody></table>

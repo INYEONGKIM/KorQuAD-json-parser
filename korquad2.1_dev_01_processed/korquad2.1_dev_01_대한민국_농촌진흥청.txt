@@ -1,0 +1,5 @@
+categories:
+- 대한민국_농촌진흥청
+conversations:
+- - 대한민국 농촌진흥청의 세입과 세출 재정 규모는 어떻게 될까?
+  - <table>\n<tbody><tr>\n<th>구분</th>\n<th>2019년 예산</th>\n<th>작년 대비 증감\n</th></tr>\n<tr>\n<td>일반회계</td>\n<td>94억 5100만 원</td>\n<td>-\n</td></tr>\n<tr>\n<td>국가균형발전특별회계</td>\n<td>12억 원</td>\n<td>-\n</td></tr>\n<tr>\n<td>농어촌구조개선 특별회계</td>\n<td>17조 1800만 원</td>\n<td>-3.16%\n</td></tr>\n<tr>\n<td>혁신도시건설특별회계</td>\n<td>66억 2600만 원</td>\n<td>-42.36%\n</td></tr>\n<tr>\n<td colspan="3">\n</td></tr>\n<tr>\n<td>합계</td>\n<td>189억 9500만 원</td>\n<td>-20.59%\n</td></tr></tbody></table>\n<p>\n</p>\n</td>\n<td>\n<table>\n<tbody><tr>\n<th colspan="2">구분</th>\n<th>2019년 예산</th>\n<th>작년 대비 증감\n</th></tr>\n<tr>\n<td>일반회계</td>\n<td>농업·농촌</td>\n<td>8013억 2400만 원</td>\n<td>+0.52%\n</td></tr>\n<tr>\n<td>국가균형발전특별회계</td>\n<td>농업·농촌</td>\n<td>1060억 5600만 원</td>\n<td>+6.63%\n</td></tr>\n<tr>\n<td>농어촌구조개선 특별회계</td>\n<td>농업·농촌</td>\n<td>330억 7800만 원</td>\n<td>-20.35%\n</td></tr>\n<tr>\n<td colspan="4">\n</td></tr>\n<tr>\n<td colspan="2">합계</td>\n<td>9404억 5800만 원</td>\n<td>+0.25%\n</td></tr></tbody></table>

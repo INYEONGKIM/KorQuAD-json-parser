@@ -1,0 +1,5 @@
+categories:
+- 컷_패스트볼
+conversations:
+- - 커터는 어떤 볼을 유도하기에 좋을까?
+  - 내야 땅볼

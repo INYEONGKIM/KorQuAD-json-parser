@@ -1,0 +1,5 @@
+categories:
+- 왕징면
+conversations:
+- - 왕징면 임강리의 특징에는 어떤 것이 있을까요?
+  - <a>장단군</a> 강상면에서 편입<sup><a>

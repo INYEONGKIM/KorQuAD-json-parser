@@ -1,0 +1,17 @@
+categories:
+- 시흥시의_시내버스
+conversations:
+- - 시흥시의 시내버스 종류별 버스 요금은 어떠한가요?
+  - <table>\n<caption>경기도의 시내버스 요금표 (2017년 5월 27일 기준)<sup><a>[2]</a></sup><sup><a>[3]</a></sup>\n</caption>\n<tbody><tr>\n<th>종류\n</th>\n<th>나이\n</th>\n<th>현금 (원)\n</th>\n<th>카드 (원)\n</th>\n<th>조조요금 (원)\n</th></tr>\n<tr>\n<th rowspan="3">도시형\n</th>\n<td><b>어른</b> <b>(만 19세 이상)</b>\n</td>\n<td>1,300\n</td>\n<td>1,250\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b>청소년</b> <b>(만 13세 ~ 18세)</b>\n</td>\n<td>900\n</td>\n<td>870\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b>어린이</b> <b>(만 7세 ~ 12세)</b>\n</td>\n<td>700\n</td>\n<td>630\n</td>\n<td>\n</td></tr>\n<tr>\n<th rowspan="3">일반좌석\n</th>\n<td><b>어른</b> <b>(만 19세 이상)</b>\n</td>\n<td>2,100\n</td>\n<td>2,050\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b>청소년</b> <b>(만 13세 ~ 18세)</b>\n</td>\n<td>1,600\n</td>\n<td>1,520\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b>어린이</b> <b>(만 7세 ~ 12세)</b>\n</td>\n<td>1,400\n</td>\n<td>1,370\n</td>\n<td>\n</td></tr>\n<tr>\n<th rowspan="3">직행좌석<br/>(간선급행)\n</th>\n<td><b>어른</b> <b>(만 19세 이상)</b>\n</td>\n<td>2,500\n</td>\n<td>2,400\n</td>\n<td>2,000\n</td></tr>\n<tr>\n<td><b>청소년</b> <b>(만 13세 ~ 18세)</b>\n</td>\n<td>1,800\n</td>\n<td>1,680\n</td>\n<td>1,400\n</td></tr>\n<tr>\n<td><b>어린이</b> <b>(만 7세 ~ 12세)</b>\n</td>\n<td>1,700\n</td>\n<td>1,680\n</td>\n<td>1,400\n</td></tr>\n<tr>\n<th rowspan="3">경기순환\n</th>\n<td><b>어른</b> <b>(만 19세 이상)</b>\n</td>\n<td>2,700\n</td>\n<td>2,600\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b>청소년</b> <b>(만 13세 ~ 18세)</b>\n</td>\n<td>1,900\n</td>\n<td>1,820\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b>어린이</b> <b>(만 7세 ~ 12세)</b>\n</td>\n<td>1,900\n</td>\n<td>1,820\n</td>\n<td>\n</td></tr>\n<tr>\n<th rowspan="3">광역급행\n</th>\n<td><b>어른</b> <b>(만 19세 이상)</b>\n</td>\n<td>2,500\n</td>\n<td>2,400\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b>청소년</b> <b>(만 13세 ~ 18세)</b>\n</td>\n<td>2,500\n</td>\n<td>1,900\n</td>\n<td>\n</td></tr>\n<tr>\n<td><b>어린이</b> <b>(만 7세 ~ 12세)</b>\n</td>\n<td>1,700\n</td>\n<td>1,650\n</td>\n<td>\n</td></tr></tbody></table>
+- - 시흥시의 시내버스 12번의 운행업체는 어디인가?
+  - <a>시흥교통</a>
+- - 시흥시에서 은행동과 시흥대야역을 오가는 3 마을버스의 배차간격은 몇분인가?
+  - 8
+- - 시흥시 시내버스들은 어느 지역의 면허를 가지고 있나요?
+  - <a>광명시</a>
+- - 시흥시의 시내버스 중 8106 간선급행의 배차 간격은 몇 분일까?
+  - 15~20
+- - 시흥시내 버스 중, 23-2 노선의 운행업체는?
+  - <a>소신여객</a>
+- - 9300번 인천광역 버스를 운행하는 회사의 이름은 무엇일까?
+  - <a>선진여객</a>

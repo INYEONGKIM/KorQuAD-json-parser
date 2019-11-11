@@ -1,0 +1,5 @@
+categories:
+- 가데나_공군기지
+conversations:
+- - 가데나 공군기지의 BASR OPS에서 사용하는 주파수는 몇 Mhz일까?
+  - <td>266.000</td>

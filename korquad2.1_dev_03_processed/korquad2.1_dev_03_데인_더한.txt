@@ -1,0 +1,5 @@
+categories:
+- 데인_더한
+conversations:
+- - 데인 더한이 출연한 텔레비전 드라마에는 무엇이 있을까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>제목\n</th>\n<th>원제\n</th>\n<th>배역\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>2008\n</td>\n<td><a>성범죄수사대: SVU</a>\n</td>\n<td><i>Law &amp; Order: Special Victims Unit</i>\n</td>\n<td>빈센트 벡위드\n</td>\n<td>"Lunacy" 에피소드 출연\n</td></tr>\n<tr>\n<td>2010\n</td>\n<td><a>인 트리트먼트</a>\n</td>\n<td><i>In Treatment</i>\n</td>\n<td>제시 더마토\n</td>\n<td>7회분 출연\n</td></tr>\n<tr>\n<td>2011\n</td>\n<td><a>트루 블러드</a>\n</td>\n<td><i>True Blood</i>\n</td>\n<td>팀보\n</td>\n<td>3회분 출연\n</td></tr>\n</tbody></table>

@@ -1,0 +1,5 @@
+categories:
+- 농성역
+conversations:
+- - 2017년 농성역의 승차량은 몇명일까?
+  - 2715

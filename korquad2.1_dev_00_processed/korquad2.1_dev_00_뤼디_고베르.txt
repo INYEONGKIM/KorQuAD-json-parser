@@ -1,0 +1,5 @@
+categories:
+- 뤼디_고베르
+conversations:
+- - 뤼디 고베르가 2013-14시즌에 출장한 경기수는?
+  - <td>45</td>

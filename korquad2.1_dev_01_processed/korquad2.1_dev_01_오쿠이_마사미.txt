@@ -1,0 +1,9 @@
+categories:
+- 오쿠이_마사미
+conversations:
+- - 오쿠이 마사미가 2004년 직접 설립하고 대표를 역임한 레코드 레이블의 이름은 무엇인가?
+  - evolution
+- - 1995년 5월부터 2009년 8월까지 오쿠이 마사미가 참여한 작품에는 어떤것들이 있을까?
+  - <table>\n<tbody><tr>\n<th>발매일</th>\n<th>타이틀</th>\n<th>규격</th>\n<th><a>규격번호</a></th>\n<th>발매 레이블</th>\n<th>참고\n</th></tr>\n<tr>\n<td>1995년 5월 24일</td>\n<td><a>Get along</a></td>\n<td rowspan="4">8cmCD</td>\n<td>KIDA-107</td>\n<td rowspan="2">스타 차일드</td>\n<td><a>하야시바라 메구미</a>와 함께 한 듀엣곡\n</td></tr>\n<tr>\n<td>1995년 11월 3일</td>\n<td><a>MASK</a></td>\n<td>KIDA-119</td>\n<td>마츠무라 카스미와 함께 한 듀엣 곡\n</td></tr>\n<tr>\n<td>1996년 4월 17일</td>\n<td><a>또 내일</a></td>\n<td>TYDY-2065</td>\n<td>U-Max</td>\n<td><a>발 돋움을 해봐 Follow You</a>의 커플링 곡, MASAMI명의\n</td></tr>\n<tr>\n<td>1996년 4월 24일</td>\n<td><a>방해는 하지 않는다</a></td>\n<td>KIDA-128</td>\n<td>스타 차일드</td>\n<td><a>Give a reason</a>의 커플링 곡\n</td></tr>\n<tr>\n<td>2009년 5월 27일</td>\n<td><a>My resolution ~그 시계의 아래에~</a></td>\n<td rowspan="2">12cmCD</td>\n<td>KCS-1002</td>\n<td>AkihabaLoveRecord</td>\n<td>Summer of Love feat.오쿠이 마사미 명의\n</td></tr>\n<tr>\n<td>2009년 8월 21일</td>\n<td><a>미라클 어퍼 WL</a></td>\n<td>EVCS-1004</td>\n<td>evolution</td>\n<td><a>May'n</a>을 Feature한 곡.\n</td></tr></tbody></table>
+- - 오쿠이 마사미의 14번째 정규앨범의 타이틀 제목은?
+  - <td><a>Akasha</a></td>

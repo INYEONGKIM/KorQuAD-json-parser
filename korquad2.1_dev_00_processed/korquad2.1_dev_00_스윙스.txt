@@ -1,0 +1,5 @@
+categories:
+- 스윙스
+conversations:
+- - 스윙스가 발매한 믹스테잎들의 앨범명과 발매시기는?
+  - <table>\n<caption>\n</caption>\n<tbody><tr>\n<th>번호\n</th>\n<th>앨범 타이틀\n</th>\n<th>발매일\n</th></tr>\n<tr>\n<th>1\n</th>\n<td>Punchline King\n</td>\n<td>2007.10.12\n</td></tr>\n<tr>\n<th>2\n</th>\n<td>#1 Mixtape\n</td>\n<td>2008.08.02\n</td></tr>\n<tr>\n<th>3\n</th>\n<td>Punchline King 2\n</td>\n<td>2009.11.27\n</td></tr>\n<tr>\n<th>4\n</th>\n<td>Punchline King 3\n</td>\n<td>2012.08.22\n</td></tr>\n<tr>\n<th>5\n</th>\n<td>#1 Mixtape Vol.II\n</td>\n<td>2013.02.27\n</td></tr>\n<tr>\n<th>6\n</th>\n<td>Levitate\n</td>\n<td>2015.12.03\n</td></tr>\n<tr>\n<th>7\n</th>\n<td>Levitate 3\n</td>\n<td>2016.05.02\n</td></tr></tbody></table>

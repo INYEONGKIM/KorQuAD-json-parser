@@ -1,0 +1,5 @@
+categories:
+- 부안_내소사_동종
+conversations:
+- - 부안 내소사에 있는 동종은 높이가 몇 cm일까?
+  - 103cm

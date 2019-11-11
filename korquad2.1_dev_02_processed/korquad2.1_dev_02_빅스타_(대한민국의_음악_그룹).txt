@@ -1,0 +1,7 @@
+categories:
+- 빅스타_(대한민국의_음악_그룹)
+conversations:
+- - 보이그룹 빅스타가 데뷔부터 현재까지 발매한 곡들은 뭐야?
+  - <table>\n<tbody><tr>\n<th>번호\n</th>\n<th>앨범 정보\n</th>\n<th>트랙 리스트\n</th></tr>\n<tr>\n<td>1\n</td>\n<td>《<b><a>BLOSSOM</a></b>》\n<ul><li>발매일: <a>2012년</a> <a>10월 4일</a></li></ul>\n</td>\n<td>\n<ol><li>Shut Up</li>\n<li><b>생각나</b></li>\n<li>눈감아</li>\n<li>내일은뭐하지</li>\n<li>새로운사람</li></ol>\n</td></tr>\n<tr>\n<td>2\n</td>\n<td>《<b><a>Hang Out</a></b>》\n<ul><li>발매일: <a>2013년</a> <a>8월 8일</a></li></ul>\n</td>\n<td>\n<ol><li>Be Brave</li>\n<li>날리리</li>\n<li><b>일단 달려</b></li>\n<li>흔들어</li>\n<li>독 같은 여자</li></ol>\n</td></tr>\n<tr>\n<td>3\n</td>\n<td>《<b><a>SHINE A MOONLIGHT</a></b>》\n<ul><li>발매일: 2015년 9월 4일</li></ul>\n</td>\n<td>\n<ol><li><b>달빛소나타</b></li>\n<li>BIRTHDAY</li>\n<li>줄래 안줄래</li>\n<li>왜이래</li>\n<li>OUTRO</li></ol>\n</td></tr></tbody></table>
+- - 빅스타 멤버 필독의 본명은 무엇인가?
+  - 오광석

@@ -1,0 +1,5 @@
+categories:
+- 와썹
+conversations:
+- - 와썹의 싱글 앨범 발매일과 각 앨범에 수록된 곡은 무엇이 있나요?
+  - <table>\n<tbody><tr>\n<th>앨범 번호\n</th>\n<th>앨범 정보\n</th>\n<th>트랙 리스트\n</th></tr>\n<tr>\n<td><b>1</b>\n</td>\n<td>《<b>Wa$$up</b>》\n<ul><li>발매일: <a>2013년</a> <a>8월 8일</a></li></ul>\n</td>\n<td>\n<ol><li>BANG BANG (NADA Solo)</li>\n<li><b>Wa$$up</b></li>\n<li>BANG BANG (Inst.)</li></ol>\n</td></tr>\n<tr>\n<td><b>2</b>\n</td>\n<td>《<b>Hotter Than A Summer</b>》\n<ul><li>발매일: <a>2013년</a> <a>9월 5일</a></li></ul>\n</td>\n<td>\n<ol><li><b>Hotter Than A Summer</b></li>\n<li>Hotter Than A Summer (Inst.)</li></ol>\n</td></tr>\n<tr>\n<td><b>3</b>\n</td>\n<td>《<b>라팜팜파</b>》\n<ul><li>발매일: <a>2013년</a> <a>12월 17일</a></li></ul>\n</td>\n<td>\n<ol><li><b>라팜팜파</b></li>\n<li>Jingle Bell</li></ol>\n</td></tr>\n<tr>\n<td><b>4</b>\n</td>\n<td>《<b>Fire 2014</b>》\n<ul><li>발매일: <a>2014년</a> <a>5월 29일</a></li></ul>\n</td>\n<td>\n<ol><li><b>Fire (Feat. 엠타이슨)</b></li></ol>\n</td></tr>\n<tr>\n<td><b>5</b>\n</td>\n<td>《<b>Dominant Woman</b>》\n<ul><li>발매일: <a>2017년</a> <a>3월 30일</a></li></ul>\n</td>\n<td>\n<ol><li><b>Dominant Woman</b></li>\n<li>Dominant Woman (Inst.)</li></ol>\n</td></tr>\n</tbody></table>

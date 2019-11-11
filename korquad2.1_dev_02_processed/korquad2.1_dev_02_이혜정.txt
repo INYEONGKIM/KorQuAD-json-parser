@@ -1,0 +1,5 @@
+categories:
+- 이혜정
+conversations:
+- - 이혜정이 TV에 처음으로 출연한 해는 몇년인가?
+  - 1993년

@@ -1,0 +1,5 @@
+categories:
+- 민규호
+conversations:
+- - 민규호가 죽은 뒤 내려진 시호는 무엇인가?
+  - 충헌(忠獻)

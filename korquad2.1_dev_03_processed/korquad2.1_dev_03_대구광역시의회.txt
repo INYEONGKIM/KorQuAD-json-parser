@@ -1,0 +1,9 @@
+categories:
+- 대구광역시의회
+conversations:
+- - 대구광역시의회의 특별위원회 산하 예산관련 위원회는 어디인가?
+  - <li>예산결산특별위원회</li>
+- - 제 2대 대구광역시 의회의 정당별 득표결과와 그로 인한 정당별 비례대표 당선인 수는 어떻게 되나요?
+  - <table>\n<tbody><tr>\n<th>정당\n</th>\n<th>득표수\n</th>\n<th>득표율\n</th>\n<th>당선인\n</th></tr>\n<tr>\n<td><a>민주자유당</a>\n</td>\n<td>317,976</td>\n<td><img><img> 31.2%\n</td>\n<td>2\n</td></tr>\n<tr>\n<td><a>민주당</a>\n</td>\n<td>75,042</td>\n<td><img><img><img> 7.4%\n</td>\n<td>1\n</td></tr>\n<tr>\n<td><a>자유민주연합</a>\n</td>\n<td>113,055</td>\n<td><img><img> 11.1%\n</td>\n<td>1\n</td></tr>\n<tr>\n<td>무소속\n</td>\n<td>513,266</td>\n<td><img> 50.4%\n</td>\n<td>\n</td></tr>\n<tr>\n<td>총합\n</td>\n<td>1,019,339</td>\n<td><img><img><img><img><img><img><img><img>\n</td>\n<td>4\n</td></tr></tbody></table>
+- - 5대 대구광역시의회 득표수 총합은 어떻게 되었을까?
+  - <td>902,868</td>

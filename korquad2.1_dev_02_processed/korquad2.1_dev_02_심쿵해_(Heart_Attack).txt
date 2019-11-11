@@ -1,0 +1,5 @@
+categories:
+- 심쿵해_(Heart_Attack)
+conversations:
+- - <심쿵해>는 대한민국에서 어떤 포맷으로 발매되었는가?
+  - <a>디지털 다운로드</a>

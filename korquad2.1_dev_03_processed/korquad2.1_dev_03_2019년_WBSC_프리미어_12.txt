@@ -1,0 +1,13 @@
+categories:
+- 2019년_WBSC_프리미어_12
+conversations:
+- - 2019년 WBSC 프리미어 12는 어느 도시의 어떤 경기장에서 열리는가?
+  - <table>\n<tbody><tr>\n<th>A조 – <span><a><img></a></span> <a>과달라하라</a>\n</th>\n<th>B조 – <span><a><img></a></span> <a>타이중</a>\n</th>\n<th>B조 - <span><a><img></a></span> <a>타오위안</a>\n</th></tr>\n<tr>\n<td><a>에스타디오 차로 데 할리스코</a>\n</td>\n<td><a>타이중 저우지 야구장</a>\n</td>\n<td><a>타오위안 국제야구장</a>\n</td></tr>\n<tr>\n<td>수용인원: <b>16,000</b>\n</td>\n<td>수용인원: <b>20,000</b>\n</td>\n<td>수용인원: <b>20,000</b>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td></tr>\n<tr>\n<th>C조 – <span><a><img></a></span> <a>서울</a>\n</th>\n<th>슈퍼라운드 – <span><a><img></a></span> <a>지바</a>\n</th>\n<th>슈퍼라운드 및 결선 토너먼트 – <span><a><img></a></span> <a>도쿄</a>\n</th></tr>\n<tr>\n<td><a>고척스카이돔</a>\n</td>\n<td><a>지바 마린 스타디움</a>\n</td>\n<td><a>도쿄 돔</a>\n</td></tr>\n<tr>\n<td>수용인원: <b>17,000</b>\n</td>\n<td>수용인원: <b>30,000</b>\n</td>\n<td>수용인원: <b>46,000</b>\n</td></tr>\n<tr>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td>\n<td><a><img></a>\n</td></tr></tbody></table>
+- - 2019년 WBSC 프리미어 12 선발투수는 누구인가?
+  - </a></span> ?</td>
+- - «2019년 WSBC 프리미어 12»의 11월 2일 12:00 조별리그 A조 경기에서 원정 팀은 어느나라일까?
+  - <a>네덜란드</a>
+- - 2019 WBSC 프리미어 12 조별 리그 중 B조의 베네수엘라와 일본이 경기를 치루는 시각은 몇 시입니까?
+  - 18:00
+- - 2019년 WBSC 프리미어 12의 C조 첫 경기가 펼쳐졌던 날짜는?
+  - 11월 6일

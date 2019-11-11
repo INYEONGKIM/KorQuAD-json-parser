@@ -1,0 +1,5 @@
+categories:
+- 남덕우
+conversations:
+- - 남덕우의 사망당시 나이가 어떻게 되나요?
+  - 90세

@@ -1,0 +1,5 @@
+categories:
+- 한여름의_추억
+conversations:
+- - 한여름의 추억의 방영 년도는?
+  - 2017

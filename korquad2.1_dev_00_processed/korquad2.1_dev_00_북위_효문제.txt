@@ -1,0 +1,5 @@
+categories:
+- 북위_효문제
+conversations:
+- - 북위 효문제의 양력 생일은 언제일까?
+  - 10월 13일

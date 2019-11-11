@@ -1,0 +1,5 @@
+categories:
+- 금_나와라,_뚝딱!
+conversations:
+- - 금나와라 뚝딱의 제1회 방송일은?
+  - <td>4월 6일</td>

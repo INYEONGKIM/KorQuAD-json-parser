@@ -1,0 +1,5 @@
+categories:
+- 이타노_토모미
+conversations:
+- - 이타노 토모미의 2011년 전달 한정 음반에는 어떤것들이 있을까?
+  - <table>\n<tbody><tr>\n<th>순서</th>\n<th>발매일</th>\n<th>타이틀</th>\n<th>의미</th>\n<th>비고\n</th></tr>\n<tr>\n<th>1\n</th>\n<td>2011년 5월 11일</td>\n<td><b>Wanna be now</b></td>\n<td></td>\n<td>작사: 아키모토 야스시 / 작곡·편곡: 시게나가 료스케\n</td></tr>\n<tr>\n<th>2\n</th>\n<td>2011년 6월 1일</td>\n<td><b>愛にピアス</b></td>\n<td>사랑의 피어스</td>\n<td>작사: 아키모토 야스시 / 작곡·편곡: 쿠로스 카츠히코\n</td></tr>\n</tbody></table>

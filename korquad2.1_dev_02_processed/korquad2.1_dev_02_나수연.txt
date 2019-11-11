@@ -1,0 +1,5 @@
+categories:
+- 나수연
+conversations:
+- - 나수연은 몇 년도에 무과에 급제했을까?
+  - <a>1890년</a>

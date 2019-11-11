@@ -1,0 +1,5 @@
+categories:
+- 강진성
+conversations:
+- - NC 강진성 선수는 2018년에 삼진을 몇 개 기록했을까?
+  - <td>17</td>

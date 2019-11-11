@@ -1,0 +1,5 @@
+categories:
+- 사역마
+conversations:
+- - 사역마를 사용하는 사람을 뭐라고하는가?
+  - 방법자

@@ -1,0 +1,9 @@
+categories:
+- 충북영동국악와인열차
+conversations:
+- - 충북영동국악와인열차는 어느 해에 새마을호와 무궁화호 일부분을 개조시켜 운행을 시작하였을까?
+  - <a>2006년</a>
+- - 충북영동국악와인열차의 2006년부터 2016년까지 운행된 차량들의 차량번호는 무엇인가요?
+  - <table>\n<tbody><tr>\n<th>차호</th>\n<th>도입 시기</th>\n<th>개조 시기</th>\n<th>운행 중단 시기</th>\n<th>비고\n</th></tr>\n<tr>\n<td>11167 호</td>\n<td></td>\n<td><a>2009년</a></td>\n<td><a>2017년</a></td>\n<td>1호차(와인)\n</td></tr>\n<tr>\n<td>41 호</td>\n<td></td>\n<td><a>2006년</a></td>\n<td><a>2017년</a></td>\n<td>2호차(인삼)\n</td></tr>\n<tr>\n<td>11171 호</td>\n<td></td>\n<td><a>2009년</a></td>\n<td><a>2017년</a></td>\n<td>3호차(와인)\n</td></tr>\n<tr>\n<td>45 호</td>\n<td></td>\n<td><a>2006년</a></td>\n<td><a>2017년</a></td>\n<td>4호차(인삼)\n</td></tr>\n<tr>\n<td>10044 호</td>\n<td></td>\n<td><a>2011년</a></td>\n<td><a>2017년</a></td>\n<td>5호차(시네마)\n</td></tr>\n<tr>\n<td>10046 호</td>\n<td></td>\n<td><a>2011년</a></td>\n<td><a>2017년</a></td>\n<td>6호차(시네마)\n</td></tr>\n<tr>\n<td>10047 호</td>\n<td></td>\n<td><a>2011년</a></td>\n<td><a>2017년</a></td>\n<td>7호차(시네마)\n</td></tr></tbody></table>
+- - 2000년도에 들여온 열차번호는 몇번일까?
+  - <td><b>7480 호</b></td>

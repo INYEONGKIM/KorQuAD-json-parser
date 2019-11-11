@@ -1,0 +1,5 @@
+categories:
+- 황선미
+conversations:
+- - 황선미의 작품 중 영화로 만들어진 작품은?
+  - <a>마당을 나온 암탉</a>

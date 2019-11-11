@@ -1,0 +1,5 @@
+categories:
+- 항공기_목록
+conversations:
+- - 일류신의 항공기 중 모델명의 숫자가 가장 큰 모델은 무엇일까?
+  - <li><a>IL-114</a></li>

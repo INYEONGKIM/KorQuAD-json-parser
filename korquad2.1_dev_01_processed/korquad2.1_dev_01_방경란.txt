@@ -1,0 +1,5 @@
+categories:
+- 방경란
+conversations:
+- - 박경란이 미스코리아 인천 선이 된 것은 언제인가?
+  - 2013년

@@ -1,0 +1,5 @@
+categories:
+- 케빈_(1988년)
+conversations:
+- - 케빈의 예능 출연작에는 어떤것들이 있을까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>방송사\n</th>\n<th>제목\n</th>\n<th>회차\n</th>\n<th>방영일\n</th></tr>\n<tr>\n<td rowspan="2">2009년\n</td>\n<td rowspan="2">Mnet\n</td>\n<td><a>오피스 리얼리티 - 제국의 아이들</a>\n</td>\n<td>12부작\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>제국의 아이들 리턴즈</a>\n</td>\n<td>6부작\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">2011년\n</td>\n<td>MBC every1\n</td>\n<td><a>주간 아이돌</a>\n</td>\n<td>6회\n</td>\n<td>8월 27일\n</td></tr>\n<tr>\n<td>SBS\n</td>\n<td><a>도전 1000곡</a>\n</td>\n<td>162회\n</td>\n<td>9월 4일\n</td></tr>\n<tr>\n<td rowspan="6">2012년\n</td>\n<td>ArirangTV\n</td>\n<td>스타데이트 위드 제아 인 브라질\n</td>\n<td>3부작\n</td>\n<td>\n</td></tr>\n<tr>\n<td>Mnet\n</td>\n<td><a>유세윤의 Art Video</a>\n</td>\n<td>5회\n</td>\n<td>7월 3일\n</td></tr>\n<tr>\n<td>Mnet\n</td>\n<td>비틀즈 코드 시즌2\n</td>\n<td>25회\n</td>\n<td>8월 27일\n</td></tr>\n<tr>\n<td>MBC\n</td>\n<td><a>우리 결혼했어요</a>\n</td>\n<td>133회\n</td>\n<td>9월 1일\n</td></tr>\n<tr>\n<td>MBC every1\n</td>\n<td>주간 아이돌\n</td>\n<td>65회\n</td>\n<td>10월 17일\n</td></tr></tbody></table>

@@ -1,0 +1,5 @@
+categories:
+- 카지우라_유키
+conversations:
+- - 카지우라 유키는 어떤 뮤지컬들에 참여했을까?
+  - <ul><li>1998년 <a>サクラ大戦 -花咲く乙女-</a></li>\n<li>1998년 Fine</li>\n<li>1998년 FUNK-a-STEP</li>\n<li>1999년 FUNK-a-STEP II</li>\n<li>1999년 クリスマスジュリエッ</li>\n<li>2000년 ハイスクールＲＥＶＯＬＵＴＩＯＮ</li>\n<li>2000년 クリスマスジュリエット</li>\n<li>2001년 流れ星のララバイ</li>\n<li>2002년 Love's Labour's Lost/SET</li>\n<li>2006년 ANGEL GATE～春の予感～</li></ul>

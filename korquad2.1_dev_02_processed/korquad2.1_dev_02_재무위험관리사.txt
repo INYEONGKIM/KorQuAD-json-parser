@@ -1,0 +1,5 @@
+categories:
+- 재무위험관리사
+conversations:
+- - 미국공인 시험인 FRM는 한국에서 몇년동안 실시되고 있을까?
+  - 20년

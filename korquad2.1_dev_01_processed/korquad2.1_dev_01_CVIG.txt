@@ -1,0 +1,5 @@
+categories:
+- CVIG
+conversations:
+- - 북한 CVIG를 다룬 6자회담은 몇번 진행됬어?
+  - 6차

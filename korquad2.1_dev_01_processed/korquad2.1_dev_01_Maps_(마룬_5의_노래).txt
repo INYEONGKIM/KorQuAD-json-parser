@@ -1,0 +1,9 @@
+categories:
+- Maps_(마룬_5의_노래)
+conversations:
+- - 마룬 5의 Maps는 2014년 주요 차트들에서 어떤 성적을 거두었을까?
+  - <table>\n<tbody><tr>\n<th>차트 (2014년)\n</th>\n<th>최고<br/>순위\n</th></tr>\n<tr>\n<th>캐나다 (<a>캐나디안 핫 100</a>)<sup><a>[6]</a></sup>\n</th>\n<td>23\n</td></tr>\n<tr>\n<th>Japan (Japan Hot 100)<sup><a>[50]</a></sup>\n</th>\n<td>81\n</td></tr>\n<tr>\n<th>미국 <a>빌보드 핫 100</a><sup><a>[43]</a></sup>\n</th>\n<td>29\n</td></tr>\n<tr>\n<th>미국 <a>어덜트 컨템포러리</a> (<a>빌보드</a>)<sup><a>[44]</a></sup>\n</th>\n<td>18\n</td></tr>\n<tr>\n<th>미국 <a>어덜트 탑 40</a> (<a>빌보드</a>)<sup><a>[45]</a></sup>\n</th>\n<td>8\n</td></tr>\n<tr>\n<th>미국 <a>팝 송</a> (<a>빌보드</a>)<sup><a>[46]</a></sup>\n</th>\n<td>22\n</td></tr>\n</tbody></table>
+- - 가수 '마룬5'가 실버 인증을 받은 국가는 어디인가요?
+  - 영국 (<a>BPI</a>)<sup><a>
+- - 마룬 5의 노래 Maps가 2014년 캐나디안 핫 100에서 기록한 최고 순위는?
+  - 1

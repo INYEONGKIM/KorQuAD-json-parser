@@ -1,0 +1,5 @@
+categories:
+- MIT_허가서
+conversations:
+- - 자교 학생들을 위해 미국 메사추세츠 공과대학에서 개발한 허가서는 무엇인가요?
+  - MIT 허가서

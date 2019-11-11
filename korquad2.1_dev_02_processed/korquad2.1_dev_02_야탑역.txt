@@ -1,0 +1,5 @@
+categories:
+- 야탑역
+conversations:
+- - 2017년 야탑역에서 승차한 승객의 수는?
+  - 28,058

@@ -1,0 +1,5 @@
+categories:
+- 조지_월리스
+conversations:
+- - 부인이  사망한 해는 언제야?
+  - <a>1968년</a>

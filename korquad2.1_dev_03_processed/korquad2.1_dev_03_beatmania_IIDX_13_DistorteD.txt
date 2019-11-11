@@ -1,0 +1,5 @@
+categories:
+- beatmania_IIDX_13_DistorteD
+conversations:
+- - 비트매니아 IIDX 13 DistorteD게임에서 원모어 스테이즈에 들어가려면 첫번째 단계에서 어떤 성적을 얻어야해?
+  - 랭크 B 이상

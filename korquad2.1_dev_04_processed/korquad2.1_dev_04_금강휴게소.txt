@@ -1,0 +1,5 @@
+categories:
+- 금강휴게소
+conversations:
+- - 금강휴게소 내의 햄버거 판매 브랜드 이름은?
+  - <a>롯데리아</a>

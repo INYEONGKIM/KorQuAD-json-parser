@@ -1,0 +1,5 @@
+categories:
+- 송승환
+conversations:
+- - 송승환은 서울관광대상을 언제 수상했을까?
+  - 2008년

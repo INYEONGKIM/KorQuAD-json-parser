@@ -1,0 +1,5 @@
+categories:
+- 앙네타_펠트스코그
+conversations:
+- - 앙네타 펠트스코그의 영어 앨범은 어떤 것들이 있어?
+  - <ul><li>《Wrap Your Arms Around Me》 (1983)</li>\n<li>《Eyes of a Woman》 (1985)</li>\n<li>《I Stand Alone》 (1987)</li>\n<li>《My Colouring Book》 (2004)</li>\n<li>《A》 (2013)</li></ul>

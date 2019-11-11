@@ -1,0 +1,9 @@
+categories:
+- KBS_제2FM
+conversations:
+- - 서울FM 시절에 멘트한 내용은 무엇인가?
+  - 여러분의 서울FM방송입니다 HLCD-FM OO제공시보 OO시를 알려드립니다. (10초 상업광고)
+- - 2010년 전까지 KBS제 2FM의 송신장소는 어디였어?
+  - 서울 <a>남산</a> 송신소
+- - KBS제 2 FM 방송 송출 송신소별 송출 시설망 현황은 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>송신소</th>\n<th>주파수</th>\n<th>출력</th>\n<th>호출부호</th>\n<th>송신소 위치</th>\n<th>비고\n</th></tr>\n<tr>\n<th>관악산 송신소\n</th>\n<td>FM 89.1㎒</td>\n<td>10㎾</td>\n<td rowspan="3">HLKC-FM</td>\n<td>경기 안양시 동안구 비산동 산3-1</td>\n<td>\n</td></tr>\n<tr>\n<th>성남 중계소\n</th>\n<td>FM 97.7㎒</td>\n<td>20W</td>\n<td>경기 성남시 중원구 은행2동 산2-2 검단산</td>\n<td>\n</td></tr>\n<tr>\n<th>진촌 중계소\n</th>\n<td>FM 90.9㎒</td>\n<td>100W</td>\n<td>인천 옹진군 백령면 북포리 산138-3</td>\n<td>\n</td></tr>\n</tbody></table>

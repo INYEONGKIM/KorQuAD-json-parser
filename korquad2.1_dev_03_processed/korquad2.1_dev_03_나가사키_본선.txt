@@ -1,0 +1,7 @@
+categories:
+- 나가사키_본선
+conversations:
+- - 일본 규슈 여객 철도인 나가사키 본선에서 비전철화 구간에는 어떤 역들이 있을까?
+  - <table>\n<tbody><tr>\n<th>역 이름\n</th>\n<th>일본어 이름\n</th>\n<th>영업<br/>거리<br/>(km)\n</th>\n<th>접속 노선\n</th>\n<th colspan="2">소재지\n</th></tr>\n<tr>\n<td>기키쓰\n</td>\n<td><span>喜々津</span>\n</td>\n<td>0.0\n</td>\n<td><a>이사하야 방면</a>\n</td>\n<td rowspan="9">나가사키 현\n</td>\n<td rowspan="3">이사하야 시\n</td></tr>\n<tr>\n<td><a>히가시소노</a>\n</td>\n<td><span>東園</span>\n</td>\n<td>3.5\n</td>\n<td rowspan="7">\n</td></tr>\n<tr>\n<td><a>오쿠사</a>\n</td>\n<td><span>大草</span>\n</td>\n<td>7.2\n</td></tr>\n<tr>\n<td><a>혼카와치</a>\n</td>\n<td><span>本川内</span>\n</td>\n<td>12.3\n</td>\n<td rowspan="4"><a>니시소노기 군</a><br/><a>나가요 정</a>\n</td></tr>\n<tr>\n<td><a>나가요</a>\n</td>\n<td><span>長与</span>\n</td>\n<td>15.4\n</td></tr>\n<tr>\n<td><a>고다</a>\n</td>\n<td><span>高田</span>\n</td>\n<td>16.4\n</td></tr>\n<tr>\n<td><a>미치노오</a>\n</td>\n<td><span>道ノ尾</span>\n</td>\n<td>18.9\n</td></tr>\n<tr>\n<td><a>니시우라카미</a>\n</td>\n<td><span>西浦上</span>\n</td>\n<td>20.6\n</td>\n<td rowspan="2">나가사키 시\n</td></tr>\n<tr>\n<td>우라카미\n</td>\n<td><span>浦上</span>\n</td>\n<td>23.5\n</td>\n<td><a>나가사키 방면</a>\n</td></tr></tbody></table>
+- - 나가사키 본선 중, 접속 노선이 가라쓰 선인 역 이름은?
+  - <a>구보타</a>

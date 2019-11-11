@@ -1,0 +1,5 @@
+categories:
+- 신성철
+conversations:
+- - 신성철의 고향은 어디일까?
+  - <a>대전</a>

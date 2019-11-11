@@ -1,0 +1,5 @@
+categories:
+- 애슬론_64_X2
+conversations:
+- - 애슬론 64 X2에서 맨체스터 코드의 동작속도는 몇 MHz인가?
+  - 2000 - 2400

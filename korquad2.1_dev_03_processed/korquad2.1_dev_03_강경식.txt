@@ -1,0 +1,5 @@
+categories:
+- 강경식
+conversations:
+- - 강경식이 태어난 곳은 팔도 중 어디인가?
+  - <a>경상북도</a>

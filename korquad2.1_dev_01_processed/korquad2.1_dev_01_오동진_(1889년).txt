@@ -1,0 +1,5 @@
+categories:
+- 오동진_(1889년)
+conversations:
+- - 광제청년단이 결성된 해는 언제야
+  - 1919

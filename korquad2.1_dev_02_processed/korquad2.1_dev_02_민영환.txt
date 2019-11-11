@@ -1,0 +1,5 @@
+categories:
+- 민영환
+conversations:
+- - 민영환이 태어난 연도는 언제인가?
+  - <a>1861년</a>

@@ -1,0 +1,5 @@
+categories:
+- 제임스_랜디
+conversations:
+- - 카를로스라는 정령은 몇 살인가?
+  - 2000살

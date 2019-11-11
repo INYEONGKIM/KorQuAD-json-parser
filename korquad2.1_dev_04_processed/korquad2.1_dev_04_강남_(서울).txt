@@ -1,0 +1,5 @@
+categories:
+- 강남_(서울)
+conversations:
+- - 강남이 정식 지명을 얻은 해가 언제야?
+  - <a>1975년</a>

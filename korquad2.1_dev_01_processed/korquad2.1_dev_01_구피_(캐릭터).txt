@@ -1,0 +1,5 @@
+categories:
+- 구피_(캐릭터)
+conversations:
+- - 구피 아들의 이름이 뭐야?
+  - 맥스

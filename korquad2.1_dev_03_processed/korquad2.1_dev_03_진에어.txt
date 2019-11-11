@@ -1,0 +1,5 @@
+categories:
+- 진에어
+conversations:
+- - 진에어와 관련하여 진에어의 소속 회사는 어디인가?
+  - <a>한진그룹</a>

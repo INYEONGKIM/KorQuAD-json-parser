@@ -1,0 +1,5 @@
+categories:
+- 새뮤얼_P._헌팅턴
+conversations:
+- - 새뮤얼 P. 헌팅턴은 몇 세에 박사학위를 땄을까?
+  - 23세

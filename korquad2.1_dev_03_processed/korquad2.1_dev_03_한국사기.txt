@@ -1,0 +1,7 @@
+categories:
+- 한국사기
+conversations:
+- - 주보돈 교수는 어느 학교의 교수인가?
+  - <a>경북대학교</a>
+- - 한국사기 전 회차의 시청률은 어떻게 되는가?
+  - <table>\n<tbody><tr>\n<th>회차</th>\n<th>방송 일자</th>\n<th>전국 시청률(증감치)\n</th></tr>\n<tr>\n<td>프롤로그</td>\n<td><a>2017년</a> <a>1월 1일</a></td>\n<td>5.1%\n</td></tr>\n<tr>\n<td>1회</td>\n<td><a>2017년</a> <a>1월 8일</a></td>\n<td>4.6%\n</td></tr>\n<tr>\n<td>2회</td>\n<td><a>2017년</a> <a>1월 15일</a></td>\n<td>3.7%\n</td></tr>\n<tr>\n<td>3회</td>\n<td><a>2017년</a> <a>1월 29일</a></td>\n<td>5.2%\n</td></tr>\n<tr>\n<td>4회</td>\n<td><a>2017년</a> <a>2월 5일</a></td>\n<td>4.8%\n</td></tr>\n<tr>\n<td>5회</td>\n<td><a>2017년</a> <a>2월 12일</a></td>\n<td>4.2%\n</td></tr>\n<tr>\n<td>6회</td>\n<td><a>2017년</a> <a>2월 19일</a></td>\n<td>5.2%\n</td></tr>\n<tr>\n<td>7회</td>\n<td><a>2017년</a> <a>2월 26일</a></td>\n<td>4.5%\n</td></tr>\n<tr>\n<td>8회</td>\n<td><a>2017년</a> <a>3월 5일</a></td>\n<td>5.1%\n</td></tr>\n<tr>\n<td>9회</td>\n<td><a>2017년</a> <a>3월 12일</a></td>\n<td>4.2%\n</td></tr>\n<tr>\n<td>10회</td>\n<td><a>2017년</a> <a>3월 19일</a></td>\n<td>4.9%\n<p>\n</p>\n</td></tr></tbody></table>

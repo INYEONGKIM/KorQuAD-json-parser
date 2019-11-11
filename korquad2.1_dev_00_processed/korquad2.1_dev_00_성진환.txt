@@ -1,0 +1,5 @@
+categories:
+- 성진환
+conversations:
+- - 2008년에 Accustic+Best 라는 앨범을 발표한 가수는 누구인가?
+  - <a>박기영</a>

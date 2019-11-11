@@ -1,0 +1,7 @@
+categories:
+- 2000년_하계_올림픽_축구_여자
+conversations:
+- - 2000년 하계 올림픽 축구 여자 조별 리그에서 F조의 경기결과는 어땠는가?
+  - <table>\n<tbody><tr>\n<th>팀\n</th>\n<th>경기\n</th>\n<th>승\n</th>\n<th>무\n</th>\n<th>패\n</th>\n<th>득\n</th>\n<th>실\n</th>\n<th>차\n</th>\n<th>승점\n</th></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>미국</a></b>\n</td>\n<td>3</td>\n<td>2</td>\n<td>1</td>\n<td>0</td>\n<td>6</td>\n<td>2</td>\n<td>+4</td>\n<td><b>7</b>\n</td></tr>\n<tr>\n<td><b><span><a><img></a></span> <a>노르웨이</a></b>\n</td>\n<td>3</td>\n<td>2</td>\n<td>0</td>\n<td>1</td>\n<td>5</td>\n<td>4</td>\n<td>+1</td>\n<td><b>6</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>중국</a>\n</td>\n<td>3</td>\n<td>1</td>\n<td>1</td>\n<td>1</td>\n<td>5</td>\n<td>4</td>\n<td>+1</td>\n<td><b>4</b>\n</td></tr>\n<tr>\n<td><span><a><img></a></span> <a>나이지리아</a>\n</td>\n<td>3</td>\n<td>0</td>\n<td>0</td>\n<td>3</td>\n<td>3</td>\n<td>9</td>\n<td>-6</td>\n<td><b>0</b>\n</td></tr></tbody></table>
+- - 2000년 하계 올림픽 여자 축구 조별리그 E조 독일의 총 득점은 어떻게 되나요?
+  - <td>6</td>

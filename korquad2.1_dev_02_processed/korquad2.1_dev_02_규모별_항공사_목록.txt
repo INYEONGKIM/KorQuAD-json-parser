@@ -1,0 +1,15 @@
+categories:
+- 규모별_항공사_목록
+conversations:
+- - 세계 정기 국제선의 항공사별 2006년 승객 수송 규모는 어떠한가요?
+  - <table>\n<tbody><tr>\n<th>순위</th>\n<th>항공사</th>\n<th>2006년\n</th></tr>\n<tr>\n<th>1\n</th>\n<td><a>라이언에어</a>\n</td>\n<td>40,532,000 <i>불분명*</i>\n</td></tr>\n<tr>\n<th>2\n</th>\n<td><a>루프트한자</a>\n</td>\n<td>38,236,000\n</td></tr>\n<tr>\n<th>3\n</th>\n<td><a>에어프랑스</a>\n</td>\n<td>30,417,000\n</td></tr>\n<tr>\n<th>4\n</th>\n<td><a>영국항공</a>\n</td>\n<td>29,498,000\n</td></tr>\n<tr>\n<th>5\n</th>\n<td><a>콴타스 항공</a>\n</td>\n<td>24,950,000\n</td></tr>\n<tr>\n<th>6\n</th>\n<td><a>케이엘엠</a>\n</td>\n<td>22,322,000\n</td></tr>\n<tr>\n<th>7\n</th>\n<td><a>이지젯</a>\n</td>\n<td>21,917,000\n</td></tr>\n<tr>\n<th>8\n</th>\n<td><a>아메리칸 항공</a>\n</td>\n<td>21,228,000\n</td></tr>\n<tr>\n<th>9\n</th>\n<td><a>싱가포르 항공</a>\n</td>\n<td>18,022,000\n</td></tr>\n<tr>\n<th>10\n</th>\n<td><a>에미레이트 항공</a>\n</td>\n<td>17,948,000\n</td></tr>\n</tbody></table>
+- - 2005년 남아메리카에서 승객 운송 수가 가장 많았던 항공사는 어디일까?
+  - <a>TAM</a> (TAM Linhas Aéreas)
+- - 항공사 골의 취항지 개수의 총합은?
+  - 76
+- - 2007년 10월 기준으로 페덱스 항공사는 항공기를 몇대 보유하고 있는가?
+  - 669<sup><a>
+- - 전 세계에서 패신저-킬로미터의 거리가 가장 긴 항공사는 어디인가?
+  - <td><a>아메리칸 항공</a></td>
+- - 총 정기 화물의 수송량이 가장 적은 항공사는 어느 곳인가?
+  - <td><a>에바 항공</a></td>

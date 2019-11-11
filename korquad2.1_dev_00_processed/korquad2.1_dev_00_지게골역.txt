@@ -1,0 +1,5 @@
+categories:
+- 지게골역
+conversations:
+- - 2015년 지게골역의 총 승차인원은 몇명인가?
+  - 3517

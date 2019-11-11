@@ -1,0 +1,5 @@
+categories:
+- 이소트레티노인
+conversations:
+- - FDA가 이소트레티노인을 신약으로 승인한 해는?
+  - 1982년

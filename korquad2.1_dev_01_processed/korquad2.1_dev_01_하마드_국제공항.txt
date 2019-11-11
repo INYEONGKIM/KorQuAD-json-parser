@@ -1,0 +1,5 @@
+categories:
+- 하마드_국제공항
+conversations:
+- - 이란항공의 도착지는?
+  - 테헤란

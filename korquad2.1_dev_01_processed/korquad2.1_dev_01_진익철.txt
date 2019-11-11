@@ -1,0 +1,5 @@
+categories:
+- 진익철
+conversations:
+- - 제 5회 지방선거에서 진익철은 어떤 정당 소속이였을까?
+  - <td><a>한나라당</a></td>

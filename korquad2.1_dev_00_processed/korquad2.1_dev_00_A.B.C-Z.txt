@@ -1,0 +1,9 @@
+categories:
+- A.B.C-Z
+conversations:
+- - 일본의 5인조 남성 아이돌 그룹 'A.B.C-Z'의 역대 뮤직 비디오 작품에는 무엇이 있을까?
+  - <table>\n<tbody><tr>\n<th>#\n</th>\n<th>발매일\n</th>\n<th>타이틀\n</th>\n<th>최고 순위\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td>1</td>\n<td><a>2012년</a> <a>2월 1일</a></td>\n<td>Za ABC~5stars~</td>\n<td>1위</td>\n<td>쟈니즈 첫 DVD 데뷔\n</td></tr>\n<tr>\n<td>2</td>\n<td>2012년 <a>9월 12일</a></td>\n<td><span>ずっと</span>LOVE<br/><small>계속 LOVE</small></td>\n<td>1위</td>\n<td>\n</td></tr>\n<tr>\n<td>3</td>\n<td><a>2013년</a> <a>3월 6일</a></td>\n<td>Twinkle Twinkle A.B.C-Z</td>\n<td>2위</td>\n<td>\n</td></tr>\n<tr>\n<td>4</td>\n<td>2013년 <a>7월 10일</a></td>\n<td>Walking on Clouds</td>\n<td>1위</td>\n<td>\n</td></tr>\n<tr>\n<td>5</td>\n<td>2013년 <a>11월 20일</a></td>\n<td>Never My Love</td>\n<td>1위</td>\n<td>초대 쟈니즈 커버곡\n</td></tr>\n<tr>\n<td>6</td>\n<td><a>2014년</a> <a>7월 9일</a></td>\n<td>Legend Story</td>\n<td>1위</td>\n<td>\n</td></tr>\n<tr>\n<td>7</td>\n<td><a>2015년</a> <a>1월 7일</a></td>\n<td>SPACE TRAVELERS</td>\n<td>1위</td>\n<td>\n</td></tr>\n<tr>\n<td>8</td>\n<td><a>2016년</a> <a>3월 16일</a></td>\n<td><span>花言葉</span><br/><small>꽃말</small></td>\n<td>2위</td>\n<td>\n</td></tr></tbody></table>
+- - A.B.C-Z에서 노랑을 담당하고 있는 멤버는 누구일까?
+  - <td><a>츠카다 료이치</a><br/><small>(<span>塚田僚一</span>)</small>\n</td>
+- - 2015년 10월에 개최된 A.B.C-Z의 콘서트 공연명은 무엇일까?
+  - <td>A.B.C-Z Early summer concert</td>

@@ -1,0 +1,7 @@
+categories:
+- 어서옵SHOW의_에피소드_목록
+conversations:
+- - 어서옵SHOW의 3,4회에는 어떤 사람들이 출연했을까?
+  - <table>\n<tbody><tr>\n<th>호스트</th>\n<th>재능 기부자</th>\n<th>재능 상품</th>\n<th>현장 구매단</th>\n<th>우승자\n</th></tr>\n<tr>\n<td>이서진\n</td>\n<td><a>서장훈</a>\n</td>\n<td>서장훈의 일일주부\n</td>\n<td rowspan="3"><a>김새롬</a>, <a>전효성</a>, <a>유재환</a>, <a>소미</a>\n</td>\n<td><b>우승</b>\n</td></tr>\n<tr>\n<td>김종국\n</td>\n<td><a>하석진</a>\n</td>\n<td>하석진의 개인과외\n</td>\n<td>\n</td></tr>\n<tr>\n<td>노홍철\n</td>\n<td>스티브J&amp;요니P\n</td>\n<td>스티브, 요니의 옷 리폼\n</td>\n<td>\n</td></tr></tbody></table>
+- - 어서옵SHOW 9-10회의 에피소드 목록 중 김종민, 솔지가 재능 기부자로 출연한 회차의 게스트는 누구인가?
+  - <a>김소혜</a>

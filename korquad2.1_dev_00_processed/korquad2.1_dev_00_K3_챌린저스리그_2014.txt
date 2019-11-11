@@ -1,0 +1,9 @@
+categories:
+- K3_챌린저스리그_2014
+conversations:
+- - K3 챌린저스 리그 2014 시즌에 참가한 팀 중 A조의 대한 정보는 어떨까?
+  - <table>\n<tbody><tr>\n<th>클럽</th>\n<th>연고지</th>\n<th>홈구장\n</th></tr>\n<tr>\n<td><a>경주 시민축구단</a></td>\n<td><a>경주</a></td>\n<td><a>경주시민운동장</a>\n</td></tr>\n<tr>\n<td><a>고양 시민축구단</a></td>\n<td><a>고양</a></td>\n<td><a>고양어울림누리 별무리구장</a>\n</td></tr>\n<tr>\n<td><a>서울 FC 마르티스</a></td>\n<td><a>서울</a> <a>강북</a></td>\n<td><a>강북구민운동장</a>\n</td></tr>\n<tr>\n<td><a>서울 유나이티드</a></td>\n<td><a>서울</a> <a>노원</a></td>\n<td><a>마들스타디움</a>\n</td></tr>\n<tr>\n<td><a>이천 시민축구단</a></td>\n<td><a>이천</a></td>\n<td><a>이천종합운동장</a>\n</td></tr>\n<tr>\n<td><a>전남 영광 FC</a></td>\n<td><a>영광</a></td>\n<td><a>영광스포티움</a>\n</td></tr>\n<tr>\n<td><a>중랑 코러스 무스탕</a></td>\n<td><a>서울</a> <a>중랑</a></td>\n<td><a>중랑구립잔디운동장</a>\n</td></tr>\n<tr>\n<td><a>충북 청주 FC</a></td>\n<td><a>청주</a></td>\n<td><a>청주종합운동장</a>\n</td></tr>\n<tr>\n<td><a>포천 시민축구단</a></td>\n<td><a>포천</a></td>\n<td><a>포천종합운동장</a>\n</td></tr>\n</tbody></table>
+- - K3 챌린저스리그 2014 시즌 참가팀 중 고양이 연고지인 팀의 명칭은?
+  - <small><div><a>고양 시민축구단</a></div></small>\n<small><div><a>김포 시민축구단</a></div></small>\n<small><div><a>서울 마르티스</a></div></small>\n<small><div><a>서울 유나이티드</a></div></small>\n<small><div><a>양주 시민축구단</a></div></small>\n<small><div><a>FC 의정부</a></div></small>\n<small><div><a>이천 시민축구단</a></div></small>\n<small><div><a>중랑 코러스 무스탕</a></div></small>\n<small><div><a>파주 시민축구단</a></div></small>\n<small><div><a>포천 시민축구단</a></div></small>\n<small><div><a>화성 FC</a></div></small>\n</div>\n</div>
+- - K3 챌린저스리그 2014 A조 정규리그에서 가장 높은 승점을 기록한 팀은?
+  - <a>포천 시민</a>

@@ -1,0 +1,5 @@
+categories:
+- 임광기
+conversations:
+- - 임광기는 몇년도에 언론계에 입문했니요?
+  - 1987년

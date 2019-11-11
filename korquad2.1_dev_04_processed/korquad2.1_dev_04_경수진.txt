@@ -1,0 +1,7 @@
+categories:
+- 경수진
+conversations:
+- - 배우 경수진의 데뷔이후 영화 출연작품에는 무엇이 있을까?
+  - <table>\n<tbody><tr>\n<th>연도\n</th>\n<th>제목\n</th>\n<th>역할\n</th>\n<th>비고\n</th></tr>\n<tr>\n<td rowspan="2">2013\n</td>\n<td><a>남자사용설명서</a>\n</td>\n<td>김미라\n</td>\n<td>\n</td></tr>\n<tr>\n<td><a>홀리</a>\n</td>\n<td>캐시\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="1">2014\n</td>\n<td><a>소녀괴담</a>\n</td>\n<td>반전녀\n</td>\n<td>특별출연\n</td></tr>\n<tr>\n<td rowspan="1">2016\n</td>\n<td><a>무서운 이야기 3: 화성에서 온 소녀</a>\n</td>\n<td>수진\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="1">2017\n</td>\n<td><a>임금님의 사건수첩</a>\n</td>\n<td>선화\n</td>\n<td>\n</td></tr>\n<tr>\n<td rowspan="2">2018\n</td>\n<td><a>사라진 밤</a>\n</td>\n<td>지영\n</td>\n<td>특별출연\n</td></tr>\n<tr>\n<td><a>출국</a>\n</td>\n<td>어른 혜원\n</td>\n<td>특별출연\n</td></tr>\n</tbody></table>
+- - 2013년 KBS 연기대상에서 경수진은 어떤 상을 받았을까?
+  - 여자 신인연기상

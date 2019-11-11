@@ -1,0 +1,7 @@
+categories:
+- 로제타_스톤
+conversations:
+- - 다이나믹 이머션에서 다음 대단원으로 넘어갈지 여부를 판단하는 단계는 무엇인가?
+  - 마일스톤
+- - 로제타 스톤 프로그램에선 어떤 언어들을 학습할까?
+  - <table>\n<tbody><tr>\n<th>Language\n</th>\n<th>Organization\n</th>\n<th>Version\n</th>\n<th>Level 1\n</th>\n<th>Level 2\n</th>\n<th>Level 3\n</th>\n<th>Level 4\n</th>\n<th>Level 5\n</th>\n<th>Audio Companion\n</th></tr>\n<tr>\n<td><a>치티마차어</a>\n</td>\n<td><a>Chitimacha Tribe of Louisiana</a>\n</td>\n<td>v2\n</td>\n<td>예\n</td>\n<td>예\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td></tr>\n<tr>\n<td><a>이눅티투트어</a>\n</td>\n<td>Torngasok Cultural Centre\n</td>\n<td>v2\n</td>\n<td>예\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td></tr>\n<tr>\n<td><a>이누피아크어</a>\n</td>\n<td>NANA Corporation\n</td>\n<td>v2\n</td>\n<td>예\n</td>\n<td>예\n</td>\n<td>예\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td></tr>\n<tr>\n<td><a>나바호어</a>\n</td>\n<td>Navajo Language Renaissance\n</td>\n<td>v2\n</td>\n<td>예\n</td>\n<td>예\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td></tr>\n<tr>\n<td><a>모호크어</a>\n</td>\n<td>Kanien’kehá:ka Onkwawén:na Raotitióhkwa\n</td>\n<td>v2\n</td>\n<td>예\n</td>\n<td>예\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td>\n<td>아니오\n</td></tr></tbody></table>

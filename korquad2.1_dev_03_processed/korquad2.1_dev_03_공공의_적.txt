@@ -1,0 +1,5 @@
+categories:
+- 공공의_적
+conversations:
+- - 공공의 적에서 이안수 역을 맡은 배우의 이름은?
+  - <a>이문식</a>

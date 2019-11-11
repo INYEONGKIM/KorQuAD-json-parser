@@ -1,0 +1,13 @@
+categories:
+- 맨체스터
+conversations:
+- - 1990년대 초반에 맨체스터 메트로폴리탄 대학교에 합병된 남부 지역 대학교의 이름은?
+  - 크루어 &amp; 알사저 대학
+- - 맨체스터 공항은 맨체스터 도심에서 몇 km의 거리일까?
+  - 16km
+- - 맨체스터의 상징물은 무엇인가?
+  - <a>일벌</a>
+- - 맨체스터의 인구 구성 비율은 어떻게 될까?
+  - <table>\n<tbody><tr>\n<th colspan="4"><b>맨체스터 비교</b><sup><a>[7]</a></sup><sup><a>[8]</a></sup>\n</th></tr>\n<tr>\n<td><b><a>2001 영국 인구조사</a></b></td>\n<td><b>맨체스터</b></td>\n<td><b><a>맨체스터 광역</a></b></td>\n<td><b>잉글랜드</b>\n</td></tr>\n<tr>\n<td>전인구</td>\n<td>398,819</td>\n<td>2,547,700</td>\n<td>49,138,831\n</td></tr>\n<tr>\n<td>외국출생</td>\n<td>15.0%</td>\n<td>7.2%</td>\n<td>9.2%\n</td></tr>\n<tr>\n<td>백인</td>\n<td>81.0%</td>\n<td>91.0%</td>\n<td>91.0%\n</td></tr>\n<tr>\n<td>아시아계</td>\n<td>9.1%</td>\n<td>5.7%</td>\n<td>4.6%\n</td></tr>\n<tr>\n<td>흑인</td>\n<td>4.5%</td>\n<td>1.2%</td>\n<td>2.3%\n</td></tr>\n<tr>\n<td>75세 이상</td>\n<td>6.4%</td>\n<td>7.0%</td>\n<td>7.5%\n</td></tr>\n<tr>\n<td>기독교</td>\n<td>62.4%</td>\n<td>74%</td>\n<td>71.8%\n</td></tr>\n<tr>\n<td>이슬람</td>\n<td>9.1%</td>\n<td>5.0%</td>\n<td>3.1%\n</td></tr></tbody></table>
+- - 영국에 있는 멘체스터는 5월에 평균 상대습도가 어느정도인가?
+  - 82

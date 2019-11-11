@@ -1,0 +1,5 @@
+categories:
+- 주세붕
+conversations:
+- - 문인 주세붕이 지은 대한민국 최초의 서원은?
+  - <a>백운동 서원</a>

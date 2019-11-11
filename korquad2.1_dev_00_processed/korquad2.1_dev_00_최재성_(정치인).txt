@@ -1,0 +1,5 @@
+categories:
+- 최재성_(정치인)
+conversations:
+- - 최재성의 출신학과는?
+  - 불교학과

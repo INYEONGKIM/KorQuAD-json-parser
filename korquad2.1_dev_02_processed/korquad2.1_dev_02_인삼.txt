@@ -1,0 +1,7 @@
+categories:
+- 인삼
+conversations:
+- - 인삼은 무슨 과 식물인가?
+  - 두릅나무과
+- - 인삼의 학명은 무엇인가?
+  - <b>Panax ginseng C.A. Meyer</b>

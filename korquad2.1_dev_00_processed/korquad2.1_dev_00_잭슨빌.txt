@@ -1,0 +1,5 @@
+categories:
+- 잭슨빌
+conversations:
+- - 잭슨빌의 2월 평균 상대 습도는 어떠한가?
+  - 72.2

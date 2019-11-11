@@ -1,0 +1,5 @@
+categories:
+- 카노_모델
+conversations:
+- - 카노 모델의 세가지 요소는 어떤내용들을 포함하고 있는가 ?
+  - <ol><li>매력적 품질요소(Attractive Quality Element):충족되는 경우 만족을 주지만 충족이 안 되더라도 크게 불만족없는 품질요소를 말한다. 고객이 미처 기대하지 못했던 것 혹은 기대를 초과하는 만족을 주는 품질요소가 될 수 있다. 이는 단순한 만족에서 고객감동(Customer Delight)의 수준을 달성할 수 있게 한다. 한편 이러한 요소의 존재는 고객들은 모르거나 기대하지 않았기 때문에, 충족이 되지 않더라도 불만을 느끼지 않는다.</li>\n<li>일차원적 품질요소(One-Dimensional Quality Element):충족이 되면 만족하고 충족되지 않으면 고객들의 불만을 일으키는 품질요소이다. 가장 일반적인 품질인식요소이다.</li>\n<li>당위적 품질요소(Must-Be Quality Element): 반드시 있어야만 만족하는 품질요소이다.</li>\n<li>무차별 품질요소(Indifferent Quality Element): 만족하는 것과 만족하지 못하는 것 사이에 품질의 차이가 느껴지지 않는 요소이다.</li>\n<li>역 품질요소(Reverse Quality Element): 충족되면 불만족을 일으키고 충족되지 못하면 만족되는 거꾸된 요소이다.</li></ol>

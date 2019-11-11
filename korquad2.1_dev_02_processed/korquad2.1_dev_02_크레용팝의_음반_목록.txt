@@ -1,0 +1,9 @@
+categories:
+- 크레용팝의_음반_목록
+conversations:
+- - 크레용팝 1집앨범의 제목은?
+  - <i><a>Evolution Pop Vol. 1</a></i>
+- - 크레용팝이 발매한  트로트의 연인 OST Part.1의 발매날짜는 언제일까요?
+  - 2014년 6월 20일
+- - 크래용팝의 데뷔 음반은 무엇인가요?
+  - <a>레이시오스</a> 《<b>Lusty Initialization!</b>》\n<ul><li>발매일 : 2013년 9월 17일</li></ul>

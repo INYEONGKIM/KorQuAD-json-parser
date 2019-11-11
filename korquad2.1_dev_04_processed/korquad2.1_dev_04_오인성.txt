@@ -1,0 +1,5 @@
+categories:
+- 오인성
+conversations:
+- - 오인성이 출연한 맛있는 아시아의 방송사는?
+  - MBC

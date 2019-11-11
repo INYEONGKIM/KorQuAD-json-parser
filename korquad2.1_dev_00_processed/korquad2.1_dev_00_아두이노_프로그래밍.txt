@@ -1,0 +1,5 @@
+categories:
+- 아두이노_프로그래밍
+conversations:
+- - 아두이노 프로그래밍은 출력핌 0에서 7까지 무엇에 연결되어 있을까?
+  - PORTD

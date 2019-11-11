@@ -1,0 +1,5 @@
+categories:
+- 오수봉
+conversations:
+- - 6대 지방 선거 도의원에서 오수봉의 득표율은?
+  - 33

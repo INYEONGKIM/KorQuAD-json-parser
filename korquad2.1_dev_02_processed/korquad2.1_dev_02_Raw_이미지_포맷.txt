@@ -1,0 +1,5 @@
+categories:
+- Raw_이미지_포맷
+conversations:
+- - 카메라의 파일 중 JPEG파일보다 정보용량이 2~6배 더 큰 파일의 이름은?
+  - raw

@@ -1,0 +1,9 @@
+categories:
+- 중국고속철도_CRH2
+conversations:
+- - 중국이 고속철도 CRH2를 개발하려고 들인 비용은 얼마인가?
+  - 15억 <a>위안</a>
+- - CRH2B 열차의 2111부터 2120까지의 객차 구성은 어떠한가?
+  - <table>\n<tbody><tr>\n<th>호차\n</th>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n<td>11</td>\n<td>12</td>\n<td>13</td>\n<td>14</td>\n<td>15</td>\n<td>16\n</td></tr>\n<tr>\n<th>유형\n</th>\n<td colspan="3">ZY\n</td>\n<td colspan="4">ZE\n</td>\n<td colspan="1">CA\n</td>\n<td colspan="8">ZE\n</td></tr>\n<tr>\n<th>차량 구성\n</th>\n<td colspan="1">TC\n</td>\n<td colspan="2">M\n</td>\n<td colspan="1">TP\n</td>\n<td colspan="1">T\n</td>\n<td colspan="2">M\n</td>\n<td colspan="2">T\n</td>\n<td colspan="2">M\n</td>\n<td colspan="1">T\n</td>\n<td colspan="1">TP\n</td>\n<td colspan="2">M\n</td>\n<td colspan="1">TC\n</td></tr>\n<tr>\n<th>차량 장치\n</th>\n<td colspan="4">1호기\n</td>\n<td colspan="4">2호기\n</td>\n<td colspan="4">3호기\n</td>\n<td colspan="4">4호기\n</td></tr>\n<tr>\n<th>좌석\n</th>\n<td>36\n</td>\n<td>68\n</td>\n<td>51\n</td>\n<td>100\n</td>\n<td>85\n</td>\n<td>100\n</td>\n<td>85\n</td>\n<td>\n</td>\n<td>85\n</td>\n<td>100\n</td>\n<td>85\n</td>\n<td>100\n</td>\n<td>85\n</td>\n<td>100\n</td>\n<td>85\n</td>\n<td>65\n</td></tr></tbody></table>
+- - 중국고속철도 CRH2에서 가장 많은 차량이 소속된 곳은 어디일까?
+  - <td colspan="6"><span><b>CRH2J</b></span>\n</td>

@@ -1,0 +1,7 @@
+categories:
+- V-리그_2015-16
+conversations:
+- - 2015-16시즌부터 여자부에서만 변경된 외국인 선수 선발 방법인 제도의 이름은 무엇일까?
+  - 공개 트라이아웃
+- - 15-16시즌 V리그 여자부의 참가팀별 연고지와 홈구장은 어디입니까? 
+  - <table>\n<tbody><tr>\n<th>팀명</th>\n<th>연고지</th>\n<th>홈경기장\n</th></tr>\n<tr>\n<td><a>경북 김천 하이패스</a></td>\n<td><a>김천</a></td>\n<td><a>김천실내체육관</a>\n</td></tr>\n<tr>\n<td><a>대전 KGC인삼공사</a></td>\n<td><a>대전</a></td>\n<td><a>충무체육관</a>\n</td></tr>\n<tr>\n<td><a>수원 현대건설 힐스테이트</a></td>\n<td><a>수원</a></td>\n<td><a>수원실내체육관</a>\n</td></tr>\n<tr>\n<td><a>인천 흥국생명 핑크스파이더스</a></td>\n<td><a>인천</a></td>\n<td><a>계양체육관</a>\n</td></tr>\n<tr>\n<td><a>GS칼텍스 서울 KIXX</a></td>\n<td><a>서울</a></td>\n<td><a>장충 체육관</a>\n</td></tr>\n<tr>\n<td><a>화성 IBK 기업은행 알토스</a></td>\n<td><a>화성</a></td>\n<td><a>화성실내체육관</a>\n</td></tr>\n</tbody></table>

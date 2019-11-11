@@ -1,0 +1,9 @@
+categories:
+- 장기강화
+conversations:
+- - '역행적 시그널링이란 무엇입니까?
+  - 역행성 시그널링
+- - 장기증강의 세 단계 중 밝혀진 내용이 가장 적은 단계는 어느 단계야?
+  - 단기강화
+- - 장기강화의 3가지 특성은 무엇일까?
+  - 입력의존성(Input specificity), 연합성(Associativity), 공동성(Cooperativity)

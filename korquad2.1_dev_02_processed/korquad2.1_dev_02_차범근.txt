@@ -1,0 +1,5 @@
+categories:
+- 차범근
+conversations:
+- - 차범근이 분데스리가에서 기록한 골은 통산 몇골이야?
+  - 98골

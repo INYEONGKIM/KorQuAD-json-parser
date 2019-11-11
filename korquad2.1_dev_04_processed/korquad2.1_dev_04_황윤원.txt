@@ -1,0 +1,5 @@
+categories:
+- 황윤원
+conversations:
+- - 2000년에 쓰인 황윤원의 저서는 무엇인가?
+  - 행정학원론

@@ -1,0 +1,5 @@
+categories:
+- 안양군
+conversations:
+- - 안양군의 아버지는 누구야? 
+  - 성종

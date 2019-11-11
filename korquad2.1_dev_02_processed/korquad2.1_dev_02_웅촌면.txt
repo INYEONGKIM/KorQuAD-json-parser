@@ -1,0 +1,5 @@
+categories:
+- 웅촌면
+conversations:
+- - 웅촌면 곡천동의 개편 후 이름은 무엇인가?
+  - 곡천리(曲泉里)

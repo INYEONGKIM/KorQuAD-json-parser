@@ -1,0 +1,5 @@
+categories:
+- 아이부인
+conversations:
+- - 아이부인의 가족관계는 어떻게 되는가?
+  - <ul><li>어머니 : ?\n<ul><li>남편 : <a>근구수왕</a>\n<ul><li>아들 : <a>침류왕</a>\n<ul><li>손자 : <a>아신왕</a></li></ul></li>\n<li>아들 : <a>진사왕</a></li></ul></li></ul></li>\n<li>시아버지 : <a>근초고왕</a></li>\n<li>시어머니 : 왕비 진씨</li></ul>

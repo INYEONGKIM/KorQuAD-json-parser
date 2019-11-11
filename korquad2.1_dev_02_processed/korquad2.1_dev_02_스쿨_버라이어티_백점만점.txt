@@ -1,0 +1,5 @@
+categories:
+- 스쿨_버라이어티_백점만점
+conversations:
+- - 스쿨 버라이어티 백점만점의 본방송 채널은 어디인가요?
+  - <a>KBS 2TV</a><br/>(본

@@ -1,0 +1,5 @@
+categories:
+- 불교방송
+conversations:
+- - 춘천불교방송의 호출부호는 무엇인가?
+  - <td rowspan="4">HLQM-FM</td>
